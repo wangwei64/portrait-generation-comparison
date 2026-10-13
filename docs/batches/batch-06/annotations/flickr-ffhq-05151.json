@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-05151",
+  "prompt": "A vertical graduation photograph of a young man with dark hair wearing a royal blue square mortarboard and matching gown. Orange honor cords hang over the gown, with a white shirt and pale tie visible at the neck. He looks toward the camera with a faint smile, his face partly shaded beneath the cap. Frame him from head to waist, with a large sunlit crowd and other graduates softly blurred behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-355-360.jpg",
+  "reviewed_source_sha256": "c330c5cfc488783f4e90554bcbb4300d60a1adbb530933f747c362ff1cde6bab",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

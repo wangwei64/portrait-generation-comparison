@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-18509",
+  "prompt": "A vertical waist-up portrait of a smiling young woman with very long blonde curls, leaning beside a red brick wall. She wears a bright pink short-sleeved blouse with a central pleat, a layered white pearl necklace and a black waistband. She faces the camera with her teeth visible. Soft outdoor light evenly illuminates her face and hair; a dark vertical window frame occupies the right background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-115-120.jpg",
+  "reviewed_source_sha256": "015ff087a7c02dc641b602da7a9192d4df300fa95f20cc9e83a65c4fb98f219e",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

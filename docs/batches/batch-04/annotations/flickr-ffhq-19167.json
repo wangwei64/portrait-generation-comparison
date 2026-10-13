@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-19167",
+  "prompt": "A vertical candid photograph of an older woman seated beside a large vehicle window. She has short light brown hair, thin oval glasses and hoop earrings, and wears a black jacket over a purple knitted sweater. Her eyes are closed and her face relaxed. Frame her head and upper torso at the right, with dark blue window frames and a bright view of grass, a pale roadside and dense evergreen trees outside.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-283-288.jpg",
+  "reviewed_source_sha256": "98d3679013d73db5c07723374c2324940018e78313326f8078e9556da2a8cdc5",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

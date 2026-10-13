@@ -1,0 +1,37 @@
+{
+  "index": 299,
+  "image_id": "flickr-ffhq-56124",
+  "prompt": "A horizontal night portrait of a boy with short dark hair, smiling gently at the camera with teeth visible. He wears a dark shirt with a red collar. Frame his head and shoulders close to the lens, slightly left of center. Behind him is a parking lot with illuminated storefronts, a white vehicle and four very tall narrow smokestacks lit red-orange against a black sky, with the foreground face more softly illuminated.",
+  "prompt_sha256": "c1d3ba6c7ce37150577d1d16762bc151be0c83d392e9f4aea933ed7439a1c25f",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "night",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/81/811d3200bdfa895d7057b131a2f9cbbbd83c9dd882a903099e6ddbf86930d039.png",
+  "original_sha256": "811d3200bdfa895d7057b131a2f9cbbbd83c9dd882a903099e6ddbf86930d039",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/46/46b1df14ee5748e354dba59a0b4c4a9eb9b14acff4a59f680d583cfb738361fc.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941315058618784,
+  "png_path": "generated/flickr-ffhq-56124.png",
+  "preview_path": "previews/flickr-ffhq-56124.jpg",
+  "png_sha256": "edeec084c505e57418f92b5b88b747f02318bc99252112dc062b673d1f605f9c",
+  "preview_sha256": "478b3ccf92d3243fd435593f52fe1451f989b86de82c0440739fe70e9ba97012",
+  "png_bytes": 1494498,
+  "preview_bytes": 243789,
+  "pixel_std": 48.989306261775965,
+  "created_at": "2026-10-08T08:52:21.697529+00:00"
+}

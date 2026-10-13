@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s49-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with short dark hair stands facing the camera in the middle of a narrow brick-paved passage between tall buildings. He wears a black hooded jacket over a dark shirt, dark jeans and brown lace-up shoes with pale soles. His arms hang down at his sides and his feet are close together. His full body appears relatively small near the center of a wide horizontal composition. Low clipped shrubs and young trees line both sides of the path. A pale solid wall rises on the left, rows of office windows extend along the right, and tall facades close the distant end.",
+  "prompt_sha256": "92579214b94ff6e8637bc0811f7130f3039f70d708805d0b2971217c7fbc6af5",
+  "seed": 42,
+  "token_count": 126,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.32958246767521,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07764196395874,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 96,
+  "pixel_std": 64.83342527605224,
+  "generated_at": "2026-10-07T09:14:45.463748+00:00",
+  "image_path": "zimage/generated/piq23-s49-q75.png",
+  "sha256": "dff25271859cb3f8f506a6a83b2fab5dde456e594fd5dd112a76d2c52e0a8021",
+  "bytes": 1229349
+}

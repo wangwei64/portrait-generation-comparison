@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-54607",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal portrait of an older woman laughing warmly, with her eyes nearly closed and her teeth visible. Her short straight dark hair is heavily streaked with gray, with a loose fringe across her forehead. She wears small gold hoop earrings, a dark ribbed high collar and a pale gray-green jacket. Frame her head and shoulders slightly left of center against a softly blurred pale weathered wall, using gentle natural light that shows deep smile lines.",
+  "prompt_sha256": "a9b6b17c49b695825fe6cf0a1c45cf3c64fe8411223509f677388f69afbefc24",
+  "seed": 42,
+  "token_count": 96,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.196943063288927,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854201793670654,
+  "peak_reserved_gib": 26.26953125,
+  "nvidia_smi_peak_gib": 26.7783203125,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 54.229186676735786,
+  "generated_at": "2026-10-07T11:05:47.212143+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-54607.png",
+  "sha256": "f9cfe33749bb28398f5248fd22befbaea5357de5b82eeb566b65383bc09b4259",
+  "bytes": 862180
+}

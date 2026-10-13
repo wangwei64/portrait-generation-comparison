@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-44331",
+  "candidate_index": 359,
+  "ffhq_id": 44331,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-44331.jpg",
+  "source_sha256": "02419890632a3cc716460aa6e36ad41decffdb8d1a178ca7648087957a98c4a5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1600,
+    1067
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/andymilford/3754145073/",
+    "photo_title": "OCSL",
+    "author": "milfodd",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-07-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/andymilford/3754145073/",
+  "public_size_key": "h",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "f8fb736515c50b55ed131d9872e52f71",
+  "current_decoded_pixel_md5": "49b86b1182ddee792d51364aa3d26bb3",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.05285281263816617,
+  "fetched_at": 1791367566.3106868,
+  "visual_review": "pending"
+}

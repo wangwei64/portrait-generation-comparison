@@ -1,0 +1,37 @@
+{
+  "index": 173,
+  "image_id": "flickr-ffhq-13321",
+  "prompt": "A horizontal outdoor photograph of a stocky man with short dark hair and light facial stubble, looking down with a relaxed smile. He wears a shiny charcoal quilted puffer jacket, partly open over a dark shirt. Frame him from the head to the lower torso in bright sunshine. Behind him, softly blurred red and white stadium seating rises above parked vehicles and equipment, with a partially visible person near the left edge.",
+  "prompt_sha256": "043bcf3fce39945917f9c5c9cd37342b2a9214edbd4664d8fef12faa61ef2287",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    800
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/48/484a241fea2e5d22aabd2d05f3e5a68d1434087f599bcb8b9778acdfe47e1712.png",
+  "original_sha256": "484a241fea2e5d22aabd2d05f3e5a68d1434087f599bcb8b9778acdfe47e1712",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7e/7e4438a978455c75abb470eeb83e0ed79c23793689dbef1835f1ffebaffcdd53.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9408540166914463,
+  "png_path": "generated/flickr-ffhq-13321.png",
+  "preview_path": "previews/flickr-ffhq-13321.jpg",
+  "png_sha256": "d81bf964c257662996aec8aaec40d8e45c7c5bd001c493c104c79eb547a0cb60",
+  "preview_sha256": "94aef61540d078b8ee20c95e88dd72e472a400578e3cbd2d7cd29a584e64c62c",
+  "png_bytes": 1651225,
+  "preview_bytes": 292749,
+  "pixel_std": 85.73570460377164,
+  "created_at": "2026-10-08T08:49:31.453847+00:00"
+}

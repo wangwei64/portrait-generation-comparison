@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-24073",
+  "candidate_index": 354,
+  "ffhq_id": 24073,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-24073.jpg",
+  "source_sha256": "a7fc3e92134aa8520339ba226ce084bca87f76b90ea247d4f2edda912b60d241",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/vikasiamoto/3000360139/",
+    "photo_title": "IMG_1954",
+    "author": "Vikas Reddy",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-11-03",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/vikasiamoto/3000360139/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a98f163f5c42fc7678589e7fc39596a8",
+  "current_decoded_pixel_md5": "d1427787fcb242f240e6626401b65f9d",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.10955837524767566,
+  "fetched_at": 1791367550.4045587,
+  "visual_review": "pending"
+}

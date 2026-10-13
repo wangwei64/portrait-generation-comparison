@@ -1,0 +1,37 @@
+{
+  "index": 94,
+  "image_id": "flickr-ffhq-42137",
+  "prompt": "A horizontal portrait of a smiling woman with short tightly curled dark hair and thick black rectangular glasses. She wears dark red lipstick and a beige knitted cardigan over a dark top. Bright sunlight illuminates her face and teeth, casting distinct shadows along her cheek and neck. Frame her head and shoulders against a large black-and-white mural of people with clothing folds and small red accents, slightly out of focus.",
+  "prompt_sha256": "fe606aceb677af2ede666da422fc0a2cf737a7e8d424c3805836b6f25dec1ee0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c8/c8f660b01133963151c19ae2e52c416e4b4c87da0e492cce9922d14365506825.png",
+  "original_sha256": "c8f660b01133963151c19ae2e52c416e4b4c87da0e492cce9922d14365506825",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ee/eefd20e4bc8e4e56e5b1cf23836b48d565befd66489a758ed860534d8825dfb9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404458627104759,
+  "png_path": "generated/flickr-ffhq-42137.png",
+  "preview_path": "previews/flickr-ffhq-42137.jpg",
+  "png_sha256": "331cea1c849bcc12b59ba3cd4dd2ccea5a878a1464a382914bb6e7c61710ffd2",
+  "preview_sha256": "ef78f182a30890691d24af4f2f2091c70a32c861dd524d6919724befae68c5cc",
+  "png_bytes": 1590271,
+  "preview_bytes": 288203,
+  "pixel_std": 79.60266272178606,
+  "created_at": "2026-10-08T08:47:44.922417+00:00"
+}

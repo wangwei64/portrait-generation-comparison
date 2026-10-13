@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-51714",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal photograph of a young child with very short tightly curled black hair, seated against a dark earthen bank threaded with pale dry grass roots. The child wears a worn brown short-sleeved top over a muted rust-colored shirt, with knees drawn up and one hand resting near them. Looking off to the right with parted lips, the child is lit by soft daylight. Keep the soil and vegetation visible around the upper body.",
+  "prompt_sha256": "6b82685d75c92c31c838e83c93fadd30af4201d22b346c29f4b0e19bb8ec5474",
+  "seed": 42,
+  "token_count": 108,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.318650860339403,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59761190414429,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 46.977190469993154,
+  "generated_at": "2026-10-07T10:47:33.686669+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-51714.png",
+  "sha256": "598c84e5d3510307319f8ab048ad6b85862146b84a4bf8ac99f7ed13190938c6",
+  "bytes": 1590780
+}

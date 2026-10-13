@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-29505",
+  "prompt": "A vertical close travel portrait of a girl with long brown hair, including two thin front braids tied with bright yellow and green bands. She turns her face toward the camera with a slight closed-mouth smile. Her head fills the lower left of the frame. Behind her stretches a mostly empty paved street with a white lane marking, colorful facades, palm trees, decorative lamps and a distant pointed blue roof in bright daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-289-294.jpg",
+  "reviewed_source_sha256": "dbeb5fdd723ca7a804ad63f944402230e9d9003c07e345bebcdf26fb5470c6eb",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

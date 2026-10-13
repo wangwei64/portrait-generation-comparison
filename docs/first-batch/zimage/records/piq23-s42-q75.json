@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s42-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with short brown hair and black rectangular glasses sits on a weathered wooden bench against a red brick wall. He wears a bright blue printed hoodie and blue jeans. Looking down with a slight smile, he holds a black smartphone upright in his right hand in front of his chest, while his left hand rests near his lap. The horizontal image is viewed from a slightly low angle and shows his head, torso and thighs. The empty left side of the bench extends across the foreground, and a small rectangular opening is set high in the brickwork.",
+  "prompt_sha256": "87c7c088d1936efb3d26039fbb140ac25a0cac033be19e53078d45ad38369925",
+  "seed": 42,
+  "token_count": 119,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.227707482874393,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077608585357666,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 60.721170903920545,
+  "generated_at": "2026-10-07T09:11:16.898332+00:00",
+  "image_path": "zimage/generated/piq23-s42-q75.png",
+  "sha256": "fb2d7ef193522361a0c5146e13b50c2114bb6622da5b6fe8d99f934345300b4b",
+  "bytes": 1222669
+}

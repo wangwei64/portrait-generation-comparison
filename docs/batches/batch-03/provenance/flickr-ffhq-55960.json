@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-55960",
+  "candidate_index": 133,
+  "ffhq_id": 55960,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-55960.jpg",
+  "source_sha256": "9585485bfd8ffab3b3744b0d47b893c10216039bc8b0d6177518db178792f406",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2667,
+    4000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/techcrunch/28956443168/",
+    "photo_title": "TC_TLV_432",
+    "author": "TechCrunch",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2018-06-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/techcrunch/28956443168/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "67f0a7168e8e5657ee48076b6113c950",
+  "current_decoded_pixel_md5": "8568e1a6b1a093644d03f344572b4747",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.05174803149606299,
+  "fetched_at": 1791365442.2473257,
+  "visual_review": "pending"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-33994",
+  "prompt": "A horizontal home snapshot of a laughing toddler seated in a padded high chair with a small circular pattern. The child has short light brown hair, wears a red-and-white patterned top and holds a small spoon upright. White food smears the mouth, chin, hands and pale tray. The other hand rests on the tray. Direct flash illuminates the face against a darker kitchen counter, cabinets and a glass-fronted background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-031-036.jpg",
+  "reviewed_source_sha256": "aa6862565b10951b0c42467df8ab414c6907b5692f56c8bac629f60a2c4c45b5",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

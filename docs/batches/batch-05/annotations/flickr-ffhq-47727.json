@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-47727",
+  "prompt": "A horizontal outdoor close portrait of a woman with shoulder-length dark brown hair, turned slightly sideways and smiling at the camera with teeth visible. A green halter-style strap rests at her neck, with her shoulders in frame. Strong sunlight gives her face warm tones and casts distinct shadows. Behind her are a vivid blue sky, part of a boat or poolside structure, white rope barriers and a thatched roof.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-313-318.jpg",
+  "reviewed_source_sha256": "041eb4b9bc9966eca51599e18ae34b9f6a99a72ca1fef406d63a4a82d4824643",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

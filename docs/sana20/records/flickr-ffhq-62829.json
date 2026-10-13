@@ -1,0 +1,37 @@
+{
+  "index": 178,
+  "image_id": "flickr-ffhq-62829",
+  "prompt": "A horizontal close portrait of a young person with short dark hair mostly covered by a tan woven wide-brimmed hat with a black band. The subject looks at the camera with a subtle closed-mouth smile, slightly narrowed eyes and faint freckles on the cheeks. Only the top of a gray shirt is visible. Soft outdoor light falls beneath the brim, with a blurred fence, pale building and another indistinct figure near the right edge behind.",
+  "prompt_sha256": "6f08fcd49431390581bd3477cb0a7d5754f5be33efa1033e5592229c09c8efc3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/74/743777d49d21159c49b89ce6afbb63aea8afce71e89d1b7c25cf4d797f8affef.png",
+  "original_sha256": "743777d49d21159c49b89ce6afbb63aea8afce71e89d1b7c25cf4d797f8affef",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/35/359e814cf432294e851e1635e7769865992586e26b54f1bd71ce42aad20c8cff.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405768476426601,
+  "png_path": "generated/flickr-ffhq-62829.png",
+  "preview_path": "previews/flickr-ffhq-62829.jpg",
+  "png_sha256": "5ef00e72567d245e337ce0bc3036eca72530eb65c5a0c030668d2f798b606331",
+  "preview_sha256": "37ba7d4dd14a9ab60d26671438c119abb5764f232e55b116f0ad280fa223eca7",
+  "png_bytes": 1514558,
+  "preview_bytes": 231114,
+  "pixel_std": 78.41033817360953,
+  "created_at": "2026-10-08T08:49:38.198949+00:00"
+}

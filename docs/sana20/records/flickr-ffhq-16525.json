@@ -1,0 +1,37 @@
+{
+  "index": 179,
+  "image_id": "flickr-ffhq-16525",
+  "prompt": "A vertical outdoor close portrait of a smiling man with very short receding dark hair and light stubble. He looks directly at the camera, showing his teeth. He wears a white polo shirt with broad dark green horizontal stripes and a thin dark necklace at the open collar. Frame his head and upper chest in strong sunlight, with deep facial shadows, a clear cyan sky, distant white apartment buildings and a small patch of greenery behind.",
+  "prompt_sha256": "62f72818d4f22601a8a2e11ff372cd8183b4464a88964d695e9aa4a4b3bb50d3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/41/41ade45c5a66489a9b66c2f65f4dbd707bcee41a4992ea50b37729aa63f589df.png",
+  "original_sha256": "41ade45c5a66489a9b66c2f65f4dbd707bcee41a4992ea50b37729aa63f589df",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f0/f058f143596fe3c436dcabe27f5ec0a6005fc017a0048fc9cbcf4561ac2fc57d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401375986635685,
+  "png_path": "generated/flickr-ffhq-16525.png",
+  "preview_path": "previews/flickr-ffhq-16525.jpg",
+  "png_sha256": "bf29a9c4813f0b45c4082eec4280d1c4e3598c57411768ba97f1dac38fbf6406",
+  "preview_sha256": "89595592d527835710e325ac12b05b3cb343279b238e8db93da28ed97161abbf",
+  "png_bytes": 1665330,
+  "preview_bytes": 297180,
+  "pixel_std": 81.89056653348977,
+  "created_at": "2026-10-08T08:49:39.580186+00:00"
+}

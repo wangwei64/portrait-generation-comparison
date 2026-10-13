@@ -1,0 +1,37 @@
+{
+  "index": 263,
+  "image_id": "flickr-ffhq-30621",
+  "prompt": "A horizontal portrait of an older woman with a short pale blonde bob and bangs, wearing large delicate metal-framed glasses. She turns slightly toward the camera with a broad warm smile and teeth visible. A dark brown turtleneck, silver chain necklace and small stud earrings frame her face. Place her head and shoulders on the right side of a simple pale gray background, with soft bright studio-style lighting and open space to the left.",
+  "prompt_sha256": "ba629018b1d2cb302a2126ecf73f21dee8fb8146b1a8583f5f38dc732edee995",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/11/11f9a657e6b04c1dd84b1cc7df9c6f936aada5b2dbb0174ee5b074edc32699be.png",
+  "original_sha256": "11f9a657e6b04c1dd84b1cc7df9c6f936aada5b2dbb0174ee5b074edc32699be",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e6/e6d7a77c7d340dbea5cde29cfe2256d09860dde22854962f3278139cc8173f23.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401714727282524,
+  "png_path": "generated/flickr-ffhq-30621.png",
+  "preview_path": "previews/flickr-ffhq-30621.jpg",
+  "png_sha256": "e00b9b77cc52188a1f362fa2a41e2732790b0b1172851056f524ed71ec5dfa67",
+  "preview_sha256": "e3aa13f35e8c386739e778900f3626ff86f752eb8596be16511860d213c496bc",
+  "png_bytes": 1483894,
+  "preview_bytes": 211054,
+  "pixel_std": 70.21563391146762,
+  "created_at": "2026-10-08T08:51:33.292779+00:00"
+}

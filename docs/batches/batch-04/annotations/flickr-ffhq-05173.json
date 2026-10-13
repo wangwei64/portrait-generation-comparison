@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-05173",
+  "prompt": "A horizontal photograph of a dark-haired woman seated at a restaurant table beside a bright window. She smiles softly at the camera while resting her cheek in one palm, with the elbow on the table and the other arm folded across it. She wears a sleeveless purple top and a chunky red and brown bracelet. A wineglass is cropped in the foreground; wicker chairs, white tablecloths, glassware and small framed pictures recede into the shaded dining room.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-199-204.jpg",
+  "reviewed_source_sha256": "d387d4f8df3eb7385631a366ac3caa8fbab2c4932f7aca64149e87256ce84752",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-05182",
+  "candidate_index": 268,
+  "ffhq_id": 5182,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-05182.jpg",
+  "source_sha256": "e058c02481bc9d6950be3a4e6d9f5499bb2753029a1d26c4ea23062da99a8287",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/mlwaters/8595200921/",
+    "photo_title": "_MG_0152",
+    "author": "Dalton Middle School",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-03-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/mlwaters/8595200921/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "50572a84fa77e31a3cf4843b6fd6ed9e",
+  "current_decoded_pixel_md5": "c6a89b9a493ed1c87894435b06c7ce1f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791367333.9737933,
+  "visual_review": "pending"
+}

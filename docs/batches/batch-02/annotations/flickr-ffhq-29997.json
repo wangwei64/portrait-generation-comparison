@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-29997",
+  "prompt": "A horizontal candid photograph of a man with short dark wavy hair wearing a pale blue open-collar shirt. Leaning sideways from the right side of the frame, he looks to the left with a playful closed-mouth smile. Frame his head and chest in a dim technical or stage interior. Blue-lit metal framework, a dark display and a pale looping cable fill the background and lower foreground, with brighter light on his face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-049-054.jpg",
+  "reviewed_source_sha256": "6bf5b66c212420c35baaf60d3074b040d162ea3fb8b6a1e684da83b11b4af4b1",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

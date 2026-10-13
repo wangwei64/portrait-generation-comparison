@@ -1,0 +1,37 @@
+{
+  "index": 290,
+  "image_id": "flickr-ffhq-48863",
+  "prompt": "A nearly square close portrait of a child wearing a tall tan woven straw hat with a broad blue band and blue brim. Short dark hair curls beneath the hat, and blue rectangular eyeglasses frame a serious direct gaze. The child wears a pale sleeveless collared shirt printed with tiny dark palm trees and a blue lanyard. Frame the head and shoulders against softly blurred rough gray stone in gentle outdoor shade.",
+  "prompt_sha256": "845093853796243ba71f1b7715aca25462e8ed6910f47b9f2a185f665cd648b5",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4f/4f69ffe57ddeac2642ab8958b656d94a9d9fc8377c296090b208772e51a86c4a.png",
+  "original_sha256": "4f69ffe57ddeac2642ab8958b656d94a9d9fc8377c296090b208772e51a86c4a",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/54/5423b608346ccd9c05befa7742e9da037d58939147c7992568bdc718520ef6f9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9417664222419262,
+  "png_path": "generated/flickr-ffhq-48863.png",
+  "preview_path": "previews/flickr-ffhq-48863.jpg",
+  "png_sha256": "fa5f4bef51a20966bb75d4181800dba89c8722527fbd810e4a2d606a1d1d2429",
+  "preview_sha256": "bc3382e6f3dbf707530d8211720a34a3907c2450d8dba57bd1296b6302727f29",
+  "png_bytes": 1640489,
+  "preview_bytes": 350956,
+  "pixel_std": 67.80173830976169,
+  "created_at": "2026-10-08T08:52:09.724065+00:00"
+}

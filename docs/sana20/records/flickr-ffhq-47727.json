@@ -1,0 +1,37 @@
+{
+  "index": 250,
+  "image_id": "flickr-ffhq-47727",
+  "prompt": "A horizontal outdoor close portrait of a woman with shoulder-length dark brown hair, turned slightly sideways and smiling at the camera with teeth visible. A green halter-style strap rests at her neck, with her shoulders in frame. Strong sunlight gives her face warm tones and casts distinct shadows. Behind her are a vivid blue sky, part of a boat or poolside structure, white rope barriers and a thatched roof.",
+  "prompt_sha256": "0eca54f4fb18363e7f540bad346e6090d10c9c761ad14a11582e3d32f5ba01e9",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d2/d2c37c7d8c811cdc6f6ddee0d2f7d10ec65b5adaff9304fd8c38c11868f3765c.png",
+  "original_sha256": "d2c37c7d8c811cdc6f6ddee0d2f7d10ec65b5adaff9304fd8c38c11868f3765c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2c/2c286949c9df52c7f29688e2ee4476063d4e43a34b48455001935df085086c30.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941097654402256,
+  "png_path": "generated/flickr-ffhq-47727.png",
+  "preview_path": "previews/flickr-ffhq-47727.jpg",
+  "png_sha256": "14a76d832cf58273eddcb06a2b1352a093c8bb5eef537e07a5b0861c92cc759e",
+  "preview_sha256": "fd271f2dadb7b3e22a4c7ec0a1509f2bc533997918620f8827807eb18666df71",
+  "png_bytes": 1594053,
+  "preview_bytes": 285648,
+  "pixel_std": 79.145165455859,
+  "created_at": "2026-10-08T08:51:15.535011+00:00"
+}

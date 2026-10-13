@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-29505",
+  "candidate_index": 289,
+  "ffhq_id": 29505,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-29505.jpg",
+  "source_sha256": "dbeb5fdd723ca7a804ad63f944402230e9d9003c07e345bebcdf26fb5470c6eb",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3000,
+    4000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/danuv/8771107968/",
+    "photo_title": "",
+    "author": "danuv",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-05-21",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/danuv/8771107968/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "1a5fa869851afb8ea3fc4850638b02a1",
+  "current_decoded_pixel_md5": "1d9c035ffa524c4e262ced8eceec8d2e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.137388,
+  "fetched_at": 1791365571.507928,
+  "visual_review": "pending"
+}

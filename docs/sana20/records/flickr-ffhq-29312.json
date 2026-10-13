@@ -1,0 +1,37 @@
+{
+  "index": 208,
+  "image_id": "flickr-ffhq-29312",
+  "prompt": "A horizontal studio head-and-shoulders portrait of a man with short brown hair swept back and a full thick brown beard. He smiles broadly at the camera with teeth visible, wearing a casual green shirt with gray raglan shoulders. Place him slightly left of center against a charcoal gray background that softly lightens behind his head. Use soft frontal light to reveal facial texture and individual beard hairs without flattening the gentle shadows.",
+  "prompt_sha256": "2a5f9e9fadfc0306cd9c847686c234fcb3beda6fb3da56b1ed579dddf93ab4d5",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c4/c4b1049597d0bed00393a8a35eacb31e7d616657caec2f18783edc4cf075bd90.png",
+  "original_sha256": "c4b1049597d0bed00393a8a35eacb31e7d616657caec2f18783edc4cf075bd90",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8d/8d883a62af99996a5a316054b4ca962359934028826b1f866b035f0c0f56224f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415176101028919,
+  "png_path": "generated/flickr-ffhq-29312.png",
+  "preview_path": "previews/flickr-ffhq-29312.jpg",
+  "png_sha256": "26db1d924a1013dfd80cebb4502b45358c16281fd29a263656bbda9bc8a229a4",
+  "preview_sha256": "3f6242b9414c1b388c5599bd8477af2f66a9a9c763b7299bd553ee854732041b",
+  "png_bytes": 1611811,
+  "preview_bytes": 264494,
+  "pixel_std": 45.23458482197849,
+  "created_at": "2026-10-08T08:50:18.941440+00:00"
+}

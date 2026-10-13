@@ -1,0 +1,37 @@
+{
+  "index": 131,
+  "image_id": "flickr-ffhq-55960",
+  "prompt": "A vertical candid photograph of a smiling woman with reddish brown hair tied back and thin bangs. She wears a light gray V-neck T-shirt, a white lanyard and a brown shoulder strap. In one hand she holds a narrow stemmed glass containing dark red liquid, while a black jacket lies over her other arm. Frame her head and torso against a bright conference interior with other people softly blurred behind.",
+  "prompt_sha256": "65d521d9d74e5756d6f78581f991687e141e6f4ff26015bd41b14f1ea0a39ca8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/30/30a27072b7674e1e6555e1485899b2e56db53d08e8df290281331dbf90d21c0a.png",
+  "original_sha256": "30a27072b7674e1e6555e1485899b2e56db53d08e8df290281331dbf90d21c0a",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/12/120f8bbfa7649782e7eec4508639775662b98f14a4180761dcdd96d23792d330.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9394899308681488,
+  "png_path": "generated/flickr-ffhq-55960.png",
+  "preview_path": "previews/flickr-ffhq-55960.jpg",
+  "png_sha256": "b6b496b7f32b9c7df4fe643dc074f8956aabec92eaa92e4ccfd69455f4a00aa2",
+  "preview_sha256": "1cb19a73f3832bee499547aa118ddc626121fe44090ae237673c56eb9e258fb8",
+  "png_bytes": 1520310,
+  "preview_bytes": 261981,
+  "pixel_std": 76.52813086417825,
+  "created_at": "2026-10-08T08:48:34.575480+00:00"
+}

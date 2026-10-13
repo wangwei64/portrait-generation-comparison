@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-38779",
+  "candidate_index": 248,
+  "ffhq_id": 38779,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-38779.jpg",
+  "source_sha256": "e0a98f183456f2b4820f05581005a1517fe0166ed50694a6c109d0dd318ceb5b",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/k9/46031665/",
+    "photo_title": "Amy's Dirty Nose",
+    "author": "Nick Kocharhook",
+    "country": "United States",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2005-09-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/k9/46031665/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "0ff6770dd9f7fc677dc5e8c4e9a33817",
+  "current_decoded_pixel_md5": "e759df82dd62b3f658a66bbdc77c674e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.18847783406575522,
+  "fetched_at": 1791365560.1065228,
+  "visual_review": "pending"
+}

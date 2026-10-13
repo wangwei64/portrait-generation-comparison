@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42851",
+  "prompt": "A horizontal photograph of a smiling young girl seated at a formal table, wearing a pale blue sleeveless dress and a matching headband topped with a large white fabric flower. Her straight dark hair falls to her shoulders. A small rectangular name badge is pinned to her dress. Frame her head and torso behind white table linens, silverware and a paper booklet, with a patterned upholstered chair and dark carpet behind in soft indoor light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-175-180.jpg",
+  "reviewed_source_sha256": "54d80e9f29af99cd7e4ee0a73281c1c2145a1f0b0a6245ede2e0c20311eb61ac",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

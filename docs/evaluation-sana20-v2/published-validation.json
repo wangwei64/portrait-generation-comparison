@@ -1,0 +1,148 @@
+{
+  "passed": true,
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "previous_input_manifest_sha256": "b57f1fbe0f91b1e0e363069bf7f3454418b030ac16e55a1b9f34fe7c1bfa0686",
+  "original_pngs_verified": 1200,
+  "changed_inputs": 300,
+  "unchanged_inputs": 900,
+  "modules": {
+    "musiq": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "d373c9989fa46886166cac8f11a595da8eea79881eaf8763f766fef6d2f2b6bb"
+    },
+    "niqe": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "62f1963b1db0da6cb2c257c8ace218910192ce9a7bf7962b748aec260b9dbfdb"
+    },
+    "community_forensics": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "3d84e14cb62e9f0b70a8f49607581278caaa0daf801fe690452f9893eafcca8d"
+    },
+    "brisque": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "1dba4dc9a5d3638a9bb0f2009bee7e9928ef9188a71ac8aa25cf223d0ece1c70"
+    },
+    "dinov2": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "bc31aad4368c2d01b0623181e230c8122247ca72cf91a989d998aa3195e80b0c"
+    },
+    "longclip": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "8ebd176922f45d7a53d904b2c382942a89a431f93181e70be33f57217cd46de0"
+    },
+    "hpsv21": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "69514a5e4bcb5225a0c22b4780efa9b96384bfaa342ddc15af8f3a8df00f1a37"
+    },
+    "omniaid_robust": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "f3c912d54d0b2f056d04978903710087136ec69ca9af3c3916da9201b459e4b9"
+    },
+    "pickscore": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "51d6508d076e616019ae7515e2e18c238a8b7ae80d1a32a29fb8d081f72bdd29"
+    },
+    "forensic_chat": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "690c2ea85bacd63e33c7e79fd7e6c23c67c57a77e6087aeba65e96361899f5df"
+    },
+    "hpsv3": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "d085d493bb28b2c345b661b2c8a84186e5fbfca0d94d1a8570eaad05877ae9ed"
+    },
+    "clipiqa": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "a125621e63dc76650d580ffe96d2ca290af0bbc5be72cabb545085fbba612ede"
+    },
+    "maniqa": {
+      "records": 1200,
+      "newly_scored": 300,
+      "reused_unchanged": 900,
+      "records_valid": true,
+      "old_records_exactly_preserved": true,
+      "runner_and_weights_protocol_preserved": true,
+      "feature_hashes_valid": true,
+      "manifest_sha256": "12677d9c96f13982c2e54401ef2f971fa569746112f4562ae646ccddd283e042"
+    }
+  },
+  "all_planned_complete": true,
+  "total_records": 15600,
+  "new_records": 3900,
+  "reused_records": 11700,
+  "current_score_csv_rows": 14400,
+  "old_new_score_csv_rows": 3600,
+  "statistics_match_records": true,
+  "updated_at": "2026-10-08T09:58:44.634483+00:00"
+}

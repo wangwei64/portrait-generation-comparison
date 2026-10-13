@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-64372",
+  "candidate_index": 331,
+  "ffhq_id": 64372,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-64372.jpg",
+  "source_sha256": "cc19a9bb8f6b305eac5105e43f61b788446407a528b73dc0ca71582c230df0a4",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1362
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/xjaysonx/3658239917/",
+    "photo_title": "Marie",
+    "author": "Jayson Ignacio",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-06-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/xjaysonx/3658239917/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "b23c95f0a634629fdd9f41637292256d",
+  "current_decoded_pixel_md5": "92c9e3c8e928171cd042d6f04f67c956",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13196143617021278,
+  "fetched_at": 1791367493.388782,
+  "visual_review": "pending"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-59121",
+  "candidate_index": 271,
+  "ffhq_id": 59121,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-59121.jpg",
+  "source_sha256": "b3492f92f2cfb0100daf9101c2dd2e5003fbf67fd212bb6a563bffdc53174111",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1731,
+    1824
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/cayobo/9548318039/",
+    "photo_title": "62",
+    "author": "Cayobo",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-08-19",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/cayobo/9548318039/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "7e47c5d7fbaedd67971147f8674dd1ee",
+  "current_decoded_pixel_md5": "33608253f041c6a701e622110823aa8f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13054136641430267,
+  "fetched_at": 1791365566.28994,
+  "visual_review": "pending"
+}

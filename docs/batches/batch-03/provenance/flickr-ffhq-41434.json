@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-41434",
+  "candidate_index": 164,
+  "ffhq_id": 41434,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-41434.jpg",
+  "source_sha256": "aef49a7a8ebec83186b882b17f454649fb0fbe600de8e78d77fe6bf4d37f5e79",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1575,
+    2362
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/aecioneves/29345144384/",
+    "photo_title": "Aécio Neves - Entrevista após encontro com o presidente Temer - 27/09/2016",
+    "author": "Aécio Neves",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-09-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/aecioneves/29345144384/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "0f137a4c7d1d1098ad726f99e6ff4257",
+  "current_decoded_pixel_md5": "2be8998f6d84eb649a4de3e79b8b4218",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15958227490826982,
+  "fetched_at": 1791365502.1390476,
+  "visual_review": "pending"
+}

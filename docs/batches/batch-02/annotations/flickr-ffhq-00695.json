@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-00695",
+  "prompt": "A vertical photograph of a man with closely cropped dark hair, rectangular dark glasses and a short beard speaking behind a wooden lectern. He wears a charcoal suit, white shirt and purple patterned tie, with his hands resting on opposite lectern edges. Several microphones rise in front of him. His mouth is partly open and his gaze turns slightly sideways. A white backdrop with repeated blue circular emblems fills the bright indoor background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-037-042.jpg",
+  "reviewed_source_sha256": "b0060546349cd0bae0f46d1a385a5e5a5ee0e692bb9d8f95bf7a13c20393db7c",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

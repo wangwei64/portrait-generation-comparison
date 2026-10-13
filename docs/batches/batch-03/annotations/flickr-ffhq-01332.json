@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-01332",
+  "prompt": "A vertical candid portrait of a woman with shoulder-length reddish brown hair and thin rectangular glasses, seated at a table with her arms folded. She wears a bright red fleece sweater and smiles gently toward the camera. Frame her head and torso with the wooden table visible below. Other seated people and chair backs are softly blurred behind her in a warmly lit indoor gathering.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-115-120.jpg",
+  "reviewed_source_sha256": "17bb72e5619312cd002ef37edb42bf9a700705e63e83e97a553dba64ea13f038",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

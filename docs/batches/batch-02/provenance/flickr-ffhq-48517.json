@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-48517",
+  "candidate_index": 63,
+  "ffhq_id": 48517,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-48517.jpg",
+  "source_sha256": "0b58000edbd490316a1d40b5136e44e0b234cbd59bd4844e74a606a70d1724a2",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3504,
+    2336
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/roland/1345717126/",
+    "photo_title": "20070907-5- Around Irvine",
+    "author": "Roland Tanglao",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2007-09-08",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/roland/1345717126/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "5b86d4e06c3c6cd2417107a33c73e494",
+  "current_decoded_pixel_md5": "5b86d4e06c3c6cd2417107a33c73e494",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09698798242321886,
+  "fetched_at": 1791365106.1106982,
+  "visual_review": "pending"
+}

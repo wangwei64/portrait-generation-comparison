@@ -1,0 +1,37 @@
+{
+  "index": 274,
+  "image_id": "flickr-ffhq-47612",
+  "prompt": "A horizontal waterfront selfie of a woman with shoulder-length wavy light brown hair blowing in the wind. She wears oversized dark sunglasses and a blue-and-white patterned blouse, facing the camera with a small relaxed smile. Show her head and upper torso beside a pale stone seawall. A road, low buildings, street lamps, bicycle racks and a pale tower recede behind under a clear light blue sky in strong daylight.",
+  "prompt_sha256": "eca89a2dd6c2bd9a0c5a00ad07e62309c9aecaa942176a68533b2be6189e9d44",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d1/d106eb8f06b440c85063ab7033099d41bfe80fe0e97971d39f2b9bb35d1b5f06.png",
+  "original_sha256": "d106eb8f06b440c85063ab7033099d41bfe80fe0e97971d39f2b9bb35d1b5f06",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2d/2dec43c5a5c724816e7701b8e62a4dbaa1b83459058aad5eba3341d55ec6f3b0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416529648005962,
+  "png_path": "generated/flickr-ffhq-47612.png",
+  "preview_path": "previews/flickr-ffhq-47612.jpg",
+  "png_sha256": "77d6453d07922ed09628f3f743f3303942f6c7ad0fcee019c402ffa9416fad89",
+  "preview_sha256": "63f16e35624730a850f802f9ddff091539c26376ee0e22bb1d2dff62172e1bdf",
+  "png_bytes": 1918092,
+  "preview_bytes": 483674,
+  "pixel_std": 73.77274597669357,
+  "created_at": "2026-10-08T08:51:48.141343+00:00"
+}

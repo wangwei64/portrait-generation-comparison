@@ -1,0 +1,37 @@
+{
+  "index": 238,
+  "image_id": "flickr-ffhq-57620",
+  "prompt": "A horizontal close photograph of a sleepy-looking baby reclining in a padded infant seat. The baby has very fine brown hair, half-open eyes and a small closed mouth, and wears a pale green sleeper with thin tan horizontal stripes. A soft brown winged head cushion supports both sides of the head, with a small embroidered animal on one wing. Green patterned seat fabric fills the background under direct indoor flash.",
+  "prompt_sha256": "7c57e3eb5ece35b5128aa995b8fe083bef127f9ee75f6362f5890517f1ffdae9",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/54/540450c697f879778c1865e0b4a78597e210fefd4ba011d02209c564267b1a30.png",
+  "original_sha256": "540450c697f879778c1865e0b4a78597e210fefd4ba011d02209c564267b1a30",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1d/1d48765c0d869f22b7d7da83354c355e0489be947f70c1ec06172e89c8989eb4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405834898352623,
+  "png_path": "generated/flickr-ffhq-57620.png",
+  "preview_path": "previews/flickr-ffhq-57620.jpg",
+  "png_sha256": "75e6f7e27e75317ad6f04daab875dae782c0df2d23ea1f4d80af9ac94c35dfc4",
+  "preview_sha256": "8c05f52cb8b2685529da75a732271ca4efe26c3aab07d23b3643307dce23037c",
+  "png_bytes": 1844612,
+  "preview_bytes": 356273,
+  "pixel_std": 62.76280607864098,
+  "created_at": "2026-10-08T08:50:59.614379+00:00"
+}

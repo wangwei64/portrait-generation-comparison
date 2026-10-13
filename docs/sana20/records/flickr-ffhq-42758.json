@@ -1,0 +1,37 @@
+{
+  "index": 180,
+  "image_id": "flickr-ffhq-42758",
+  "prompt": "A vertical chest-up portrait of a man with medium-length wavy gray hair, round metal glasses and a dark mustache and goatee streaked with gray. He wears a dark jacket, bright blue collared shirt and a loosely knotted black tie. Looking straight into the camera, he gives a small relaxed smile. Soft cool light highlights his face and hair against a dim blurred brown and green interior.",
+  "prompt_sha256": "db32a7a12af954f132d44f66616000808663d45ace162e2ae201c59b8a9faf0c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    832,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0c/0c1c7e7c0eba6327862e967e96d6983fd9abff00539c969dcf3a1aa5e1beb845.png",
+  "original_sha256": "0c1c7e7c0eba6327862e967e96d6983fd9abff00539c969dcf3a1aa5e1beb845",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/25/25b4d50c44994389aae19d96de16f2c74e10f50df86f363afb5c51c2cfcf2235.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9417314045131207,
+  "png_path": "generated/flickr-ffhq-42758.png",
+  "preview_path": "previews/flickr-ffhq-42758.jpg",
+  "png_sha256": "d2a7f57bdefff18288a61c31ef20335c5f601eae772e03ea4f66e460bb8de33a",
+  "preview_sha256": "a60b83095e7426552bc3b04fc74a8ef5871d40080fc1ed8e118b6aac49f12af2",
+  "png_bytes": 1630966,
+  "preview_bytes": 271771,
+  "pixel_std": 51.718839302790826,
+  "created_at": "2026-10-08T08:49:40.954184+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-50087",
+  "prompt": "A horizontal candid portrait of an older woman with short tousled silver hair and narrow red-framed sunglasses. Her mouth is open as if speaking, and her arms bend outward at her hips. She wears a bright red short-sleeved top with a black, white and red patterned front panel, a large dark floral pendant and a small white name badge. Strong sunlight lights her upper body against a broad dark tree trunk and distant hazy landscape.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-379-384.jpg",
+  "reviewed_source_sha256": "8624728cfc98cf01a824e0f0192a3e0598cd2b5e4fd24db7d54751b2eef16438",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 171,
+  "image_id": "flickr-ffhq-49755",
+  "prompt": "A horizontal candid photograph of a man with receding short dark hair and stubble, speaking with his mouth slightly open while looking toward the right. He wears a dark suit, a white shirt and a diagonally striped gold and blue tie. Frame his head and upper chest under warm indoor lighting. The back of another man's head and dark-framed glasses partly obscure the left foreground, while blurred notices and signs hang on the wall behind.",
+  "prompt_sha256": "71b5f0e3674b2714fc720c5eda83a1043ad2a5840632bf41ab53e60f77779a5a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/87/87f39f6d91e088ee2b75dd891779c0b830dc6ca328bfe755e7a62c5ccb99758c.png",
+  "original_sha256": "87f39f6d91e088ee2b75dd891779c0b830dc6ca328bfe755e7a62c5ccb99758c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8f/8fbc556140972f97ccb33e60243913c1ef660a3c6453433cd4a72a64cc6b4179.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400145560503006,
+  "png_path": "generated/flickr-ffhq-49755.png",
+  "preview_path": "previews/flickr-ffhq-49755.jpg",
+  "png_sha256": "bfb999efb7daab8d63441688abcb96bf6e3dfb4a669b79b836293669a71bc7d5",
+  "preview_sha256": "00782687436dc050c7bd9caee2cf3434e2bc227d63f366b8ff218eadec5105f4",
+  "png_bytes": 1611447,
+  "preview_bytes": 284795,
+  "pixel_std": 68.8051066781556,
+  "created_at": "2026-10-08T08:49:28.683238+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-33333",
+  "candidate_index": 35,
+  "ffhq_id": 33333,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-33333.jpg",
+  "source_sha256": "bb76abdc281432cfacb93818e2c90c3f6db91c40425ba2b176330a966036c130",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3456,
+    2304
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/sjon/2304048914/",
+    "photo_title": "",
+    "author": "Jan Jablunka",
+    "country": "Czech Republic",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-03-02",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/sjon/2304048914/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "662d0206ce56cfe5c8d740dd13d9a9ee",
+  "current_decoded_pixel_md5": "c61dd4e1e223d9e6d74a195986adc445",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06914353861239712,
+  "fetched_at": 1791365064.1039624,
+  "visual_review": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42531",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal chest-up portrait of a smiling man with long brown hair tied back, wearing a textured gray suit jacket, a blue shirt and a burgundy tie. A small yellow floral boutonniere is pinned to his lapel. He looks directly into the camera in a bright room with cream walls, patterned stained glass, draped window shades and a ceiling air-conditioning unit. Soft window light gives his face gentle shadows.",
+  "prompt_sha256": "8e2827f713459f8d12e88b5c44309a4548c466a1ddc104be40f88fcb0c5c9582",
+  "seed": 42,
+  "token_count": 94,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.93856432288885,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.85419225692749,
+  "peak_reserved_gib": 26.60546875,
+  "nvidia_smi_peak_gib": 27.1142578125,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 60.45795126127058,
+  "generated_at": "2026-10-07T09:58:43.693086+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-42531.png",
+  "sha256": "7ccf6d1fa34b8de573db0c8b5ac5edc1fe69cae537d80901136b836b63a696f9",
+  "bytes": 933986
+}

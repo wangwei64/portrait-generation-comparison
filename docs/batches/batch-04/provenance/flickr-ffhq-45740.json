@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-45740",
+  "candidate_index": 316,
+  "ffhq_id": 45740,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-45740.jpg",
+  "source_sha256": "1945454e329158d0b5cb5e6ded6a61bd5d387b990a5293ca9f96d5046bf757a6",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1370
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/petertresther/738693425/",
+    "photo_title": "IMGP3553",
+    "author": "peter tr",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2007-07-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/petertresther/738693425/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "116e773e79408dc7cb2babd1f8afbe22",
+  "current_decoded_pixel_md5": "42732a1589b30e9b5bdf1f6f842b8ece",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14689923585766423,
+  "fetched_at": 1791365577.5472376,
+  "visual_review": "pending"
+}

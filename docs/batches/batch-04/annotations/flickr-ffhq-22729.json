@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-22729",
+  "prompt": "A horizontal candid photograph of a woman with dark hair swept up and loose strands across her forehead. She holds a small black mobile phone to her ear with a ringed hand and looks slightly left of the camera with a reserved expression. She wears a pale cardigan. Direct flash lights her face and hand against a dim room with curtains, a framed picture and a seated person turned away in the background. Frame her head and shoulders.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-199-204.jpg",
+  "reviewed_source_sha256": "2699e37bb660298a98ece19a27a98dc2cbc072848175adc625cfb33c4529c623",
+  "framing": "closeup",
+  "environment": "lowlight",
+  "tags": [
+    "closeup",
+    "lowlight"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

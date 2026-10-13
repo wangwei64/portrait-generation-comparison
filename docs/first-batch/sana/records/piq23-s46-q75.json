@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s46-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A man with short dark hair and a trimmed beard reclines on a green metal chair on a grassy lawn. He wears black sunglasses, a fitted dark gray T-shirt and blue jeans. Both hands clasp the shaft of a large rainbow-colored umbrella near his chest, while his legs extend diagonally toward the lower right. His face turns upward and to the right. The vertical image shows most of his body and the umbrella canopy spread behind his head along the left edge. A neatly trimmed hedge, a round-topped tree and a pale cloudy sky form the background.",
+  "prompt_sha256": "384b53a8171d7ef70211ae92602fc6ff2d95acfdd725328f217c23f3e70686fa",
+  "seed": 42,
+  "token_count": 320,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6819304153323174,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 82.08520217865801,
+  "generated_at": "2026-10-07T09:29:24.936477+00:00",
+  "image_path": "sana/generated/piq23-s46-q75.png",
+  "sha256": "ee62c6d7b3f7bb4e7feb5219b43302fc02f488f59bc21111168aece0758fd8cd",
+  "bytes": 1160834
+}

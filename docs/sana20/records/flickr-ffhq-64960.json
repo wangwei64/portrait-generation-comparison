@@ -1,0 +1,37 @@
+{
+  "index": 272,
+  "image_id": "flickr-ffhq-64960",
+  "prompt": "A horizontal close portrait of a young girl with light brown hair, straight wispy bangs and loose curls near her neck. A small pink hair tie or clip sits near the crown. She looks directly at the camera with her mouth slightly open, wearing a pale pink top. Frame her head and shoulders against a gray block garden wall, with pink flowers at the lower left and soft green plants behind.",
+  "prompt_sha256": "8c9056cf6fa6494c07e12ac19e2845d941f39e225e7c2b130dedc82fdd7026b7",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    736
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/95/955575c73e7548c29bd3c56d919cc05ee0271df782f2454a1769a5aeb69b6acc.png",
+  "original_sha256": "955575c73e7548c29bd3c56d919cc05ee0271df782f2454a1769a5aeb69b6acc",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fc/fcf3bfad8675995dc1c900a91c15b87da6dfac6710de31b5703d2c573db7de33.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403605125844479,
+  "png_path": "generated/flickr-ffhq-64960.png",
+  "preview_path": "previews/flickr-ffhq-64960.jpg",
+  "png_sha256": "f0ba5c72f7c20973066ba33739d97e9796cea84e917ee57c0745f5805e0deb15",
+  "preview_sha256": "7fdefdc58bc600f9ec7604f3a600c0ddca78c9dce94caebcae4c8836a333ac81",
+  "png_bytes": 1760168,
+  "preview_bytes": 324123,
+  "pixel_std": 60.744366312804004,
+  "created_at": "2026-10-08T08:51:45.493491+00:00"
+}

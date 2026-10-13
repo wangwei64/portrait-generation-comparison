@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-48863",
+  "prompt": "A nearly square close portrait of a child wearing a tall tan woven straw hat with a broad blue band and blue brim. Short dark hair curls beneath the hat, and blue rectangular eyeglasses frame a serious direct gaze. The child wears a pale sleeveless collared shirt printed with tiny dark palm trees and a blue lanyard. Frame the head and shoulders against softly blurred rough gray stone in gentle outdoor shade.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-373-378.jpg",
+  "reviewed_source_sha256": "e9d86512d4a11be1c77f369ad4c80d3afbfb4fb082c0b9eafa8ea2059b85b98f",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

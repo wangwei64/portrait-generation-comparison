@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-61689",
+  "candidate_index": 251,
+  "ffhq_id": 61689,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-61689.jpg",
+  "source_sha256": "5a9188a16039e0872ddee92c6a14985ae0632e1bf8e1c6c21f0556488f5bb0d1",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/zacharycohn/22129411591/",
+    "photo_title": "IMG_2458",
+    "author": "Zachary Cohn",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2015-10-12",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/zacharycohn/22129411591/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "23b094f39dacfe6605662f340664d38e",
+  "current_decoded_pixel_md5": "45fa96ce5a9518f4c56dfbf7f1f4e619",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1772458704846822,
+  "fetched_at": 1791367287.5018783,
+  "visual_review": "pending"
+}

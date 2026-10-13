@@ -1,0 +1,37 @@
+{
+  "index": 154,
+  "image_id": "flickr-ffhq-35112",
+  "prompt": "A horizontal candid portrait of an older man with thinning white hair, seated and leaning forward. He wears a pale blue and purple fine-check button-down shirt and looks off to the left with raised eyebrows and a restrained smile. Frame his head and upper torso closely. Warm indoor light gives the face a soft reddish cast, with a plain beige wall and part of another person's white shirt at the right edge.",
+  "prompt_sha256": "3f0ca149ab76b432601c4c846e65e6ded4813b833df17cd8d66b01fafd04e230",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/66/66346ccf3365b6e9ff12f8a8e33fabb6ca9197dad2e0b19339bf7501e3db9414.png",
+  "original_sha256": "66346ccf3365b6e9ff12f8a8e33fabb6ca9197dad2e0b19339bf7501e3db9414",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/db/db11c8974ddf33ccf64d0858cd9400be8b37b875771603d98ed5e293d1a06ceb.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403433091938496,
+  "png_path": "generated/flickr-ffhq-35112.png",
+  "preview_path": "previews/flickr-ffhq-35112.jpg",
+  "png_sha256": "e7cdb2fb57ade1458485a6ce5760104da6afcfd4c44df67fb09612a59bd9bbd9",
+  "preview_sha256": "52f80d02b470bce9e49bd6061c7398d2efb81650a150e311f83d0b225a7a7fc3",
+  "png_bytes": 1744323,
+  "preview_bytes": 306075,
+  "pixel_std": 44.85233639455819,
+  "created_at": "2026-10-08T08:49:05.488577+00:00"
+}

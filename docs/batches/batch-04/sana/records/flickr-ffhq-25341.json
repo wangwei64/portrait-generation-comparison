@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-25341",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical front-facing portrait of a young woman with long straight dark hair tucked behind her ears. She smiles at the camera with metal braces visible and wears round pearl-like earrings. Her vivid blue short-sleeved top has a wide neckline and a fine dark floral pattern. Frame her head and torso against a plain white wall with bright, fairly direct indoor lighting and only faint background shadows.",
+  "prompt_sha256": "818d66c09b5ba1d10f2e8c757f9b879fd3dc5df9be3fb5820fe9ae9b62956194",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6990957334637642,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.63671875,
+  "nvidia_smi_peak_gib": 12.1533203125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 75.28268344889166,
+  "generated_at": "2026-10-07T11:31:17.018083+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372598535841839",
+  "image_path": "sana/generated/flickr-ffhq-25341.png",
+  "sha256": "b99d4e1d832fa577b0c1e0b5fcaa664b0d15c3382b1fa940e7ded1aba7eb00bd",
+  "bytes": 940795
+}

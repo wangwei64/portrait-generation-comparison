@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s02-q75",
+  "source_sha256": "76a0e680e4fccdf0e558aa38b9236933d58a4be5c50199f3516eb1fb0043d40d",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "long_hair",
+    "window"
+  ],
+  "prompt": "A woman with long straight dark hair looks directly toward the camera with a neutral expression. The horizontal portrait closely frames her face, neck and upper shoulders. She wears a pale green scarf over a burgundy top, with hair falling over both sides of the scarf. A tall window fills the background, bordered by a white frame and handle at the left. Green and yellow foliage is visible outside. Her face is centered against the much brighter window, and the top of her hair nearly touches the upper edge.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

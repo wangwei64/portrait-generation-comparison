@@ -1,0 +1,37 @@
+{
+  "index": 26,
+  "image_id": "piq23-s25-q75",
+  "prompt": "A man with swept-back brown hair and black rectangular glasses stands on a paved tree-lined sidewalk at night. He faces the camera in a black coat over a black V-neck top, with a brown scarf wrapped loosely around his neck and a crossbody strap descending over his chest. His upper body fills the left-center of a vertical composition. Red light falls across the left side of his face and clothing. Behind him are dark shrubs, fallen leaves along the curb, a road and apartment buildings. A streetlamp glows above his right shoulder, partly framed by tree branches.",
+  "prompt_sha256": "d98b8a7c1d0f5b23146ba490a10f6880a69117075260c5b23f1c81e5fd03dd5c",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b8/b81261ccc11590b01ff9b65ce7561408eab94558b2336850c95bac46138b69db.png",
+  "original_sha256": "b81261ccc11590b01ff9b65ce7561408eab94558b2336850c95bac46138b69db",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ba/babdc90c41b4b4c03c843539d3208c2c9c6eabf15fafdc85852f2aac24de5a29.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 323,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9417030103504658,
+  "png_path": "generated/piq23-s25-q75.png",
+  "preview_path": "previews/piq23-s25-q75.jpg",
+  "png_sha256": "0ee1c2236b760f6081833d573b59eeaefd2d6567d4b853b591a7e1d022558911",
+  "preview_sha256": "01f6a761667275682dd738025d02f3fb0a52c3c486b306c377dc5255ae659b86",
+  "png_bytes": 1536854,
+  "preview_bytes": 319416,
+  "pixel_std": 48.07298328042721,
+  "created_at": "2026-10-08T08:46:15.180751+00:00"
+}

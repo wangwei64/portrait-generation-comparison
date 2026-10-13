@@ -1,0 +1,37 @@
+{
+  "index": 21,
+  "image_id": "piq23-s20-q75",
+  "prompt": "A bearded man with short dark hair and large thin-framed glasses is shown in a tight horizontal close-up from below. His face occupies most of the right side, and he looks upward toward the left with his mouth closed. Blue-cyan light covers his face, glasses, pale shirt and the wall. A large round clock with a dark rim, white face and black numerals is partly cropped at the left edge beside his head. Only a small portion of his shoulders and dark lanyard is visible along the bottom.",
+  "prompt_sha256": "2627918f1185c5f6bb7558910b6c25692af6758caea508264dd25013776762cb",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/70/7034f39907348ee488490003553afcd8e36baee67f099564e5c16ed1a0c7579b.png",
+  "original_sha256": "7034f39907348ee488490003553afcd8e36baee67f099564e5c16ed1a0c7579b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/83/834be39f817facf52281bc0451bff705e3a721c83fb6c5d5cc16de89c4cd70ca.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 310,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9418058358132839,
+  "png_path": "generated/piq23-s20-q75.png",
+  "preview_path": "previews/piq23-s20-q75.jpg",
+  "png_sha256": "9a12c39149b4982de86303774695c3e615041813979e6c306dda3a6dc5f81435",
+  "preview_sha256": "4a070b274057841a5f349e2e8d4df404c6862ee03cb7ddbce7ec984b54af8d2f",
+  "png_bytes": 1407383,
+  "preview_bytes": 304861,
+  "pixel_std": 87.1628971518076,
+  "created_at": "2026-10-08T08:46:08.470888+00:00"
+}

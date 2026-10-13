@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-60230",
+  "prompt": "A horizontal sunlit photograph of a young boy with tousled medium-brown hair, smiling with his front teeth visible. He wears a white T-shirt and looks up toward the camera. Frame his head and shoulders beside an adult whose gray-green shirt, torso and hand are cropped along the right edge, with the hand resting near the boy's shoulder. Behind is a grassy sports field with bare trees and a low pale building.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-151-156.jpg",
+  "reviewed_source_sha256": "27d68febc4e730dc6dc6f180a3434188cc0ed5f35c0ff4b47977394f6359099f",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-20671",
+  "candidate_index": 239,
+  "ffhq_id": 20671,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20671.jpg",
+  "source_sha256": "92558542765488f599712654892b4a648e2863bf05ef2275329787f14218890d",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1766
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/georgholzer/317665393/",
+    "photo_title": "DSC_0630",
+    "author": "gholzer",
+    "country": "Austria",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2006-12-09",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/georgholzer/317665393/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "ee745011ebed9461774c85b0a9200186",
+  "current_decoded_pixel_md5": "e98ff54b6ead252830e69985ffdb8266",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.17429363049567653,
+  "fetched_at": 1791367259.5873969,
+  "visual_review": "pending"
+}

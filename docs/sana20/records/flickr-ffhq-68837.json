@@ -1,0 +1,37 @@
+{
+  "index": 260,
+  "image_id": "flickr-ffhq-68837",
+  "prompt": "A vertical close photograph of a small child wearing an oversized blue-and-white striped engineer-style cap with a short bill. The child looks directly into the camera with wide eyes and slightly parted lips. A blue T-shirt with large yellow lettering is crossed by bright red apron straps. Frame the head and chest in a warm home interior with wooden dining chairs, a fireplace and a pale child seat blurred behind.",
+  "prompt_sha256": "41f038bc1ff705efce36b2d6ff334ef010fda28106c872d02e557764f9dc4229",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6e/6e741963ab14fb571e6d6fe74f2a48f63ad0b78cf3bd40d064958b108e738212.png",
+  "original_sha256": "6e741963ab14fb571e6d6fe74f2a48f63ad0b78cf3bd40d064958b108e738212",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a2/a203c4b880ab0a9d6994dd5080f86741a5fc81c3496ab136a43ee34f35f6fe66.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400048330426216,
+  "png_path": "generated/flickr-ffhq-68837.png",
+  "preview_path": "previews/flickr-ffhq-68837.jpg",
+  "png_sha256": "f5e36efee3c785c3d33626412f987256aa17f5c4ac2b7ebd1c4eac915bcf17f1",
+  "preview_sha256": "340b80811cf5e783cb03cd1c982f85b9365e2529d5259317d913bd420cd6d4c1",
+  "png_bytes": 1518004,
+  "preview_bytes": 291410,
+  "pixel_std": 75.9887075338243,
+  "created_at": "2026-10-08T08:51:29.181279+00:00"
+}

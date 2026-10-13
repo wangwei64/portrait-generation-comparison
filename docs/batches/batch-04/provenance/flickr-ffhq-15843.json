@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-15843",
+  "candidate_index": 193,
+  "ffhq_id": 15843,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-15843.jpg",
+  "source_sha256": "02033cb5c4578a5fc7578c144b1ca3d38394f4a39348ca4cb577dd80d46894cb",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/hankword/4269764676/",
+    "photo_title": "Christmas 2009, Covington",
+    "author": "Hank Word",
+    "country": "United States",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2010-01-12",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/hankword/4269764676/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a7b94366f84433d90bd7e10a31565cc3",
+  "current_decoded_pixel_md5": "3f98d4530fbd4c1d50d1e0f50258a101",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.04665949286920623,
+  "fetched_at": 1791367140.5496793,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 148,
+  "image_id": "flickr-ffhq-09189",
+  "prompt": "A vertical waist-up portrait of a woman with very short auburn hair and an asymmetrical fringe. She wears a fitted black long-sleeved top and several thick looped necklaces in orange, pink and purple. Standing sideways with one hand on her hip, she turns her face to look off to the left with a serious expression. Direct frontal light casts a distinct silhouette shadow on the vivid red wall behind.",
+  "prompt_sha256": "792ec444942ebdc94383dfb881f3f46fd21837809fc33dda8078cbeb26d45820",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a5/a590927c179581d2ed7fa9661d6d824ff888eb5325458bff81ed6d9fa6b40bd3.png",
+  "original_sha256": "a590927c179581d2ed7fa9661d6d824ff888eb5325458bff81ed6d9fa6b40bd3",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3d/3de4b6a1a0ba3d3e920d1ece8e2d90b8dff3ac5fd69d37b0d6682b68a1c1f287.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9420259334146976,
+  "png_path": "generated/flickr-ffhq-09189.png",
+  "preview_path": "previews/flickr-ffhq-09189.jpg",
+  "png_sha256": "7300aa87f1869debb4090330f2f831a215381e3bd4e87fa9633319f564c08036",
+  "preview_sha256": "49ede414107c014541e7ac245dac3b823ebb07ca11de4a2e5a9628204c2137f2",
+  "png_bytes": 1216154,
+  "preview_bytes": 214993,
+  "pixel_std": 92.22754566494268,
+  "created_at": "2026-10-08T08:48:57.468302+00:00"
+}

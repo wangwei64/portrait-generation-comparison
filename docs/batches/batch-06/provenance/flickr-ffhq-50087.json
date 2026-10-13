@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-50087",
+  "candidate_index": 383,
+  "ffhq_id": 50087,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-50087.jpg",
+  "source_sha256": "8624728cfc98cf01a824e0f0192a3e0598cd2b5e4fd24db7d54751b2eef16438",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2047,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/apeyton/15434885517/",
+    "photo_title": "IMG_5376",
+    "author": "Andy Peyton",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2014-10-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/apeyton/15434885517/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "4afac34dcd9a99e6e4b7a4461e835a3e",
+  "current_decoded_pixel_md5": "cda6d92db812b68498d68a7267c83e54",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06539709843033287,
+  "fetched_at": 1791367642.2492232,
+  "visual_review": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-08576",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of a woman seated in the front passenger seat of a car, turning back toward the camera with a broad toothy smile. She has shoulder-length light brown hair and oversized dark sunglasses, and wears an orange and white striped sleeveless top. Gray fabric seats, the dark dashboard and a rearview mirror surround her. Bright daylight through the windshield reveals a flat roadside and distant trees.",
+  "prompt_sha256": "7b3345bd802d75e989de6318f4f83221cf291e552b9823c321cb71ea4e9f9c67",
+  "seed": 42,
+  "token_count": 88,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.053681537508965,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077460765838623,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 96,
+  "pixel_std": 72.27602905636269,
+  "generated_at": "2026-10-07T12:30:08.855609+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-08576.png",
+  "sha256": "dcb9e5d92c9391cbdd2332d843c59f81d9e8c9a078ca3fded908638a372ee4e5",
+  "bytes": 1135425
+}

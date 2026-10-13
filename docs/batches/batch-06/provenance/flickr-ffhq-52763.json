@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-52763",
+  "candidate_index": 360,
+  "ffhq_id": 52763,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-52763.jpg",
+  "source_sha256": "1064172b46d6db69908b4436c650a2b507be209fab4c8c723d3c2a49429f3b28",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1371
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/trec_lit/4735255937/",
+    "photo_title": "DSC_0092",
+    "author": "trec_lit",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-06-26",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/trec_lit/4735255937/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "2709acb22ab67ad41740b13566aecda0",
+  "current_decoded_pixel_md5": "edcb29d5d169dfb4839ec021d230544e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.1140767683144577,
+  "fetched_at": 1791367569.7975388,
+  "visual_review": "pending"
+}

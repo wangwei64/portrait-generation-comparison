@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-49544",
+  "prompt": "A vertical indoor snapshot of a smiling man with a short brown beard and rectangular glasses, wearing a chunky pink-and-white knitted beanie. His yellow and purple plaid shirt is open over a gray printed T-shirt. Frame his head and chest closely. Direct frontal light reveals his face and the knit texture against a warm yellow wall, with colorful stuffed toys, including a red dinosaur, and patterned cushions behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-151-156.jpg",
+  "reviewed_source_sha256": "0efdc35939118cf2dfc1a966069b3d95e52985bc9af4b52ed0e9203f1abe6322",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

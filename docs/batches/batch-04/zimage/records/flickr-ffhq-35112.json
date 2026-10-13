@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-35112",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid portrait of an older man with thinning white hair, seated and leaning forward. He wears a pale blue and purple fine-check button-down shirt and looks off to the left with raised eyebrows and a restrained smile. Frame his head and upper torso closely. Warm indoor light gives the face a soft reddish cast, with a plain beige wall and part of another person's white shirt at the right edge.",
+  "prompt_sha256": "3f0ca149ab76b432601c4c846e65e6ded4813b833df17cd8d66b01fafd04e230",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.96371354907751,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854177951812744,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 55.29747993298776,
+  "generated_at": "2026-10-07T10:56:07.968104+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-35112.png",
+  "sha256": "c787054b2b0a9e2e403da2b09e2c0b4e40afb93dc1c9e3f508923a0a396fa15a",
+  "bytes": 966886
+}

@@ -1,0 +1,37 @@
+{
+  "index": 74,
+  "image_id": "flickr-ffhq-54322",
+  "prompt": "A vertical seated portrait of a smiling woman with blonde hair pinned into a loose curled updo and one curved strand beside her cheek. She wears a simple black sleeveless scoop-neck dress. Her body angles slightly sideways while her face turns toward the camera. Frame her head and torso beside a large white-framed window, with soft daylight and a blurred view of water, greenery and buildings outside.",
+  "prompt_sha256": "98963ee1faa183d2356486b1ffd05225aff30c7de81a6b383d39928fee10e535",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d4/d43edf3cb761c6b26ccc30bdd2f2e54439c2776b29c56b7bb971c933e671ecac.png",
+  "original_sha256": "d43edf3cb761c6b26ccc30bdd2f2e54439c2776b29c56b7bb971c933e671ecac",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/39/398a1f2cab54fd9fa34fb8c51f66280d56fc0d1cb9e7f97b58dcc0c63bc62146.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399182386696339,
+  "png_path": "generated/flickr-ffhq-54322.png",
+  "preview_path": "previews/flickr-ffhq-54322.jpg",
+  "png_sha256": "ce524bd43059d82f59b3f799b7b1d1dc009e6585b7324dc521770b60a62204f9",
+  "preview_sha256": "15247cf5c728dbdf17dd8666b4c8d2d58413e9659777e29d842e1cae8722b82a",
+  "png_bytes": 1219390,
+  "preview_bytes": 176164,
+  "pixel_std": 81.36952121347838,
+  "created_at": "2026-10-08T08:47:18.049631+00:00"
+}

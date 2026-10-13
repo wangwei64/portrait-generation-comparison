@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-18069",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical outdoor portrait of a young woman with short tousled purple and black hair tied with a wide red fabric headband, whose loose ends hang beside her neck. She looks at the camera with a serious expression. Pale theatrical makeup, dark eye makeup and red branching costume markings cover parts of her forehead, neck and upper chest. She wears a red top with large black dots and thin black straps. Sunlit green foliage blurs behind her.",
+  "prompt_sha256": "5cf77c21a762162fd0d257cd881a0e65ef338a154d5260fb3759578af351a332",
+  "seed": 42,
+  "token_count": 295,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6697696186602116,
+  "baseline_allocated_gib": 6.565764427185059,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.830078125,
+  "nvidia_smi_peak_gib": 11.3466796875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 61.847124650076424,
+  "generated_at": "2026-10-07T12:09:16.089315+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-18069.png",
+  "sha256": "534035a6148780bbd811a2633db1ad3c8a5f3a9feb9e14fd4c40827a02ef3de5",
+  "bytes": 1020362
+}

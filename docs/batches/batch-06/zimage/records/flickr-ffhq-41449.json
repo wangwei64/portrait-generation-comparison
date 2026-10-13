@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-41449",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A nearly square outdoor portrait of a woman with short gray-streaked dark hair and large brown sunglasses, laughing with her mouth open. She wears a black sleeveless top with white horizontal stripes and a black diagonal shoulder strap. Frame her head and upper torso in bright sunlight. Behind her is a broad green lawn with tiny distant visitors, a large upright stone near the right edge and a blue sky scattered with white clouds.",
+  "prompt_sha256": "ce7aa3bccc5107a0c53a8ada702b197ae8a1a6ecf65104bded43141fc1c4906a",
+  "seed": 42,
+  "token_count": 92,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 41.420789159834385,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.67293882369995,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 138,
+  "pixel_std": 75.11509482502822,
+  "generated_at": "2026-10-07T12:13:07.323850+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-41449.png",
+  "sha256": "830a9c8a2df2aee870ff8dd87b246f5c33abdb60648e0fda2c7faba67e1f2b4e",
+  "bytes": 1628680
+}

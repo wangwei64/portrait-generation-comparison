@@ -1,0 +1,37 @@
+{
+  "index": 20,
+  "image_id": "piq23-s19-q75",
+  "prompt": "A young man with reddish-brown hair pulled back and a faint goatee sits facing the camera in a patterned gray knitted sweater. A tablet in a bronze-colored case is visible across the lower foreground, and cool light from below illuminates his face and neck. The horizontal view shows his head and upper chest. Behind him on the left, white open shelves hold stacked books, small green plants, a clear jug, a blue cup and a woven container. Warm room light colors the shelves and wall in contrast with the cool light across his face.",
+  "prompt_sha256": "217c3ec4a4b8d28e1857737faaa8c6bdd3958c5488c95762407d179eaa25a61e",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/37/37aa910db476e017f0090b8f5f5362e59081188c0fb39131e0579ba270490b0c.png",
+  "original_sha256": "37aa910db476e017f0090b8f5f5362e59081188c0fb39131e0579ba270490b0c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e2/e24a946c262e1fdc091957c163c4611b84bbad12947e440baf03d9d8e20e192c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 316,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406121857464314,
+  "png_path": "generated/piq23-s19-q75.png",
+  "preview_path": "previews/piq23-s19-q75.jpg",
+  "png_sha256": "26322eb57a112bb835b4e01f882976925307085e343548aaa7302be75adb6539",
+  "preview_sha256": "dbcf47aec577cf9e8212c826e57e6c2e68144c5e576707b718b1574a51ca45f8",
+  "png_bytes": 1757947,
+  "preview_bytes": 353133,
+  "pixel_std": 55.005775605381714,
+  "created_at": "2026-10-08T08:46:07.122597+00:00"
+}

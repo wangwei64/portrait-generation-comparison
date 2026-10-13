@@ -1,0 +1,37 @@
+{
+  "index": 285,
+  "image_id": "flickr-ffhq-49754",
+  "prompt": "A horizontal travel portrait of an older man with short gray hair, a gray mustache and large black sunglasses, smiling toward the camera. He wears a navy polo shirt with a small white chest emblem. Frame his head and upper torso on the right side. Behind him, a long stone wall and watchtowers wind across hazy green mountain ridges under a pale overcast sky, leaving generous landscape space on the left.",
+  "prompt_sha256": "8b32a4397af769bd94dff312c48dace44462684385984810825900ef00ff54e2",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a6/a68fd0ada9b16ff04658c292c7bdaedc1ecaf9b8ae85700c83299e2fc5713fbc.png",
+  "original_sha256": "a68fd0ada9b16ff04658c292c7bdaedc1ecaf9b8ae85700c83299e2fc5713fbc",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ea/ea7fefda4a6178d4bfd0a94070a11101dbd699cd97e2528a43fe3e939a880d43.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400012828409672,
+  "png_path": "generated/flickr-ffhq-49754.png",
+  "preview_path": "previews/flickr-ffhq-49754.jpg",
+  "png_sha256": "629cc7aea81ce77456282da2f602adf08b4fe04c20d7e17c176b91c8db71130c",
+  "preview_sha256": "3ae3e13f93f7059311e43791abeaf7c1fb9c0299068a66219d73eae81d84c172",
+  "png_bytes": 1493080,
+  "preview_bytes": 239419,
+  "pixel_std": 79.33109246271265,
+  "created_at": "2026-10-08T08:52:02.940382+00:00"
+}

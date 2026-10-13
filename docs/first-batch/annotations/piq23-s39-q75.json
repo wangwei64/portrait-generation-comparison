@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s39-q75",
+  "source_sha256": "44d2d6cc87a312bb558bd3c3ba5ac1cd918f68ba510a81ff914d0013ffc899ee",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "seated",
+    "clasped_hands",
+    "outdoor"
+  ],
+  "prompt": "A dark-skinned man with closely cropped hair sits on a green metal chair in a courtyard. He wears a fitted light gray long-sleeved shirt and blue jeans, with his hands clasped in his lap. His body angles toward the left, and he lifts his chin slightly while looking past the camera. The vertical view shows his head, torso and upper legs. A pale concrete wall and small young trees stand behind him, with a tall apartment building rising along the right side and a patch of blue sky above. Brick paving and grass border the chair.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

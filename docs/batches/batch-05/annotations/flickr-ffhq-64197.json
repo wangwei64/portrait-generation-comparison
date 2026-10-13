@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-64197",
+  "prompt": "A horizontal close photograph of a red-haired toddler sitting in a pale green patterned child seat. The toddler looks toward the right with a quiet, slightly uncertain expression and parted lips. A bright blue bib with pale rounded motifs and a black restraint strap cover the front of a green and pale blue top. Strong sunlight from the left highlights the hair and one cheek, leaving the other side shaded against a dim home interior.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-229-234.jpg",
+  "reviewed_source_sha256": "69288f106b6af4bcb486a46da140b65d29fa2947c6392c40bb99638b2ca58b62",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

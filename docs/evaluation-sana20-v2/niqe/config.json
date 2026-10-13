@@ -1,0 +1,29 @@
+{
+  "metric": "niqe",
+  "native_preprocessing": true,
+  "semantics": "PyIQA niqe native no-reference image quality. Lower is better for NIQE/BRISQUE; higher for MUSIQ/MANIQA/CLIPIQA. Not AI detection.",
+  "pyiqa_version": "0.1.15.post2",
+  "cache_weights": {
+    "deepgaze2e.pth [9b663c8220]": "49b65724184f43a2b60426c29c12fd2b743b47ad9eb3435d3dd28e50ea4e2585",
+    "resnet50_finetune_60_epochs_lr_decay_after_30_start_resnet50_train_45_epochs_combined_IN_SF-ca06340c.pth.tar [b443e123c6]": "ca06340ccc07e0410dbe24c24166f6ac61fea3c5066571f604b5d31f76ad8842",
+    "efficientnet-b5-b6417697.pth [c0ebb354ad]": "b641769706a245cea68d309c3d35a864b6317e686e315fe79ed3d81e78c6f51c",
+    "raft_small_C_T_V2-01064c6d.pth [322db8429a]": "01064c6dba73b0fc9fc8edf772248560a00a3acfd62ac6677e9eeebad9680e27",
+    "alexnet-owt-7be5be79.pth [c5fdc3b720]": "7be5be791159472b1fbf3c69796f7cb30dca7ad8466c2df70058c37116cdee02",
+    "resnext50_32x4d-7cdf4587.pth [40a3e44ac2]": "7cdf458735e4f17e63e904909f785cffa00b8789e74d320eac9f122247aaf754",
+    "dino_vitbase16_pretrain.pth [18828c1687]": "bf34ad0f424b9029b593e8dc3ed553bf26e88bcba0d32bf3e62a6209cb64c85e",
+    "densenet201-c1103571.pth [a592e94fdf]": "c1103571aad4f45d0b5b15556d92944db94c33bee68cd58babba3d76225a6401",
+    "maskrcnn_resnet50_fpn_v2_coco-73cbd019.pth [1cd3ba9841]": "73cbd0190fcbe3ba339921fbce2c3a0b6bb9126c9a133c85e43a2a8e060a109e"
+  },
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "runner_sha256": "5a21c64f5de41f15ee7b9576a33346e56672c5a6313589857d8325d08aeff70a",
+  "rescore_runner_sha256": "226c0d89ef7068cb8f1a385f5c7970529597ed7435e5f94b588939e5ca7c26ed",
+  "started_at": "2026-10-08T09:21:55.465486+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0,
+  "newly_scored": 300,
+  "reused_unchanged": 900,
+  "reuse_manifest_sha256": "a00ef96131636885a399fe648db222d5eb4dc8e57f2d49ec757f124723aea420",
+  "random_seed": 42,
+  "random_stream_note": "Same metric initialization seed; score only the changed Sana inputs in original order. Native stochastic crop draws need not match the earlier 1200-image pass."
+}

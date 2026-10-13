@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-36896",
+  "candidate_index": 306,
+  "ffhq_id": 36896,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-36896.jpg",
+  "source_sha256": "558c5155766ace82a20afb6ebf1acc8f6bfc063eb91c3e3ef00d5029e836ded5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/coniecto/3441104522/",
+    "photo_title": "DSC06878",
+    "author": "Gabriela Avram",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-04-14",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/coniecto/3441104522/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "94bf710ffce7abe7e45f696d5dd21cac",
+  "current_decoded_pixel_md5": "64478a9f2a8e99f9844a6b9857529bb6",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.19250454653064739,
+  "fetched_at": 1791367424.2566726,
+  "visual_review": "pending"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-21602",
+  "prompt": "A horizontal travel selfie of a man with long dark hair tied back, thin oval glasses and a mustache and goatee. He wears a plain brown T-shirt and looks toward the camera with a neutral expression. His head and shoulders occupy the right foreground. A gray brick parapet winds away toward a square watchtower on a steep green mountain ridge beneath a hazy blue sky. Natural sunlight creates mild facial shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-145-150.jpg",
+  "reviewed_source_sha256": "da7e9a3d4d4d7bec129cb4850a04f83d1f794e7eaee0d744df54b86dfb0fe15c",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

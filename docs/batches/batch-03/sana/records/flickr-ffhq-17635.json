@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-17635",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of a man with side-parted brown hair, rectangular glasses and a short gray goatee, speaking on a stage. He wears a black suit, striped shirt, dotted dark tie and purple lanyard. One hand is raised beside his head with loosely curled fingers, and he looks upward with his mouth open. Behind him is a large blurred blue-gray event banner with red and white lettering. Use directional indoor stage lighting.",
+  "prompt_sha256": "b7277f7ce9080f1500db2e24e13de268c378edd3e3eb8ef213b27cb6ba935f02",
+  "seed": 42,
+  "token_count": 295,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.67600417137146,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 89.61427093522796,
+  "generated_at": "2026-10-07T10:52:59.308089+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-17635.png",
+  "sha256": "b1f2d6c8fcc53d2cc68867ab2700289525656f26433833e220b249a118f0a91e",
+  "bytes": 902489
+}

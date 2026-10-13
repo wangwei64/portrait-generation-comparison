@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s31-q75",
+  "source_sha256": "5aa85f6b320228dfa9f757a22939625eae34fcfdd0c78ce39f6ab57694860945",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "beard",
+    "river",
+    "night"
+  ],
+  "prompt": "A man with short brown hair and a full beard stands facing the camera beside a metal railing overlooking a river at night. He wears a pale beige hooded jacket zipped high at the neck, with black fasteners and a broad dark crossbody strap. The horizontal composition frames him from the head to around the waist, slightly left of center. Behind him, lights from waterfront buildings and streets cast yellow reflections across the river. A dark wooded hillside runs across the distance, beneath a cloudy night sky. Horizontal railing bars pass behind his shoulders and lower torso.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

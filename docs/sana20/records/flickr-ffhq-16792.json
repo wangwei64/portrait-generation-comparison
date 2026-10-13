@@ -1,0 +1,37 @@
+{
+  "index": 230,
+  "image_id": "flickr-ffhq-16792",
+  "prompt": "A horizontal candid head-and-shoulders photograph of a woman with straight shoulder-length dark brown hair and side-swept bangs. She looks upward toward the right with her mouth open as if speaking. She wears an orange collared shirt with fine white stripes. Soft indoor illumination shows natural facial detail. A pale wall occupies the left background and closed horizontal gray window blinds fill the right.",
+  "prompt_sha256": "4e35062c239bf2ebe0b273c3e5c3ad424400064b1b80f145d166f63c1f8e0a4f",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3d/3d2044c510ee80a4fdeb662652709aa6ed7b1c4a82ec8021e3b3caa6960d69cf.png",
+  "original_sha256": "3d2044c510ee80a4fdeb662652709aa6ed7b1c4a82ec8021e3b3caa6960d69cf",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5c/5c84320f8166da8b32ef60ca1a704e6ca9318a94412e14b03535309c1fb2faba.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405007399618626,
+  "png_path": "generated/flickr-ffhq-16792.png",
+  "preview_path": "previews/flickr-ffhq-16792.jpg",
+  "png_sha256": "a6f7b6b1d136c5b9efc0deb2b5638b0c620d2de1cb2da2f7eb32fe6f7cca81b9",
+  "preview_sha256": "83a35444cd9c82f56865ef8c71e9b207ceba93e006871f45b86a4bfc2b506eed",
+  "png_bytes": 1730089,
+  "preview_bytes": 327542,
+  "pixel_std": 55.107664535885405,
+  "created_at": "2026-10-08T08:50:49.013329+00:00"
+}

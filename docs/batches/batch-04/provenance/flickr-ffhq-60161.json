@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-60161",
+  "candidate_index": 182,
+  "ffhq_id": 60161,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-60161.jpg",
+  "source_sha256": "74554148d25b44841f8dfd43fd1e3274f1211b97a7988501ec31a5e5bb75cfff",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3888,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bobjudge/871163419/",
+    "photo_title": "j. alexander lee eats chili cheese jawns",
+    "author": "Robert Judge",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2007-07-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/bobjudge/871163419/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "295cbe86c85314d3262cff8d9ad42611",
+  "current_decoded_pixel_md5": "295cbe86c85314d3262cff8d9ad42611",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.05477918762383783,
+  "fetched_at": 1791365539.9262593,
+  "visual_review": "pending"
+}

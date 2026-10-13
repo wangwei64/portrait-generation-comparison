@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-05442",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical high-angle backyard selfie of a woman with shoulder-length blonde hair and darker roots, wearing a turquoise scoop-neck T-shirt and matching dangling earrings. She looks up at the camera with slightly parted lips, one arm extending out of frame. Warm low sunlight crosses her face and casts an angular shadow on her chest. Behind are grass, paving stones, a rough gray wall, a turquoise door and a purple play tent.",
+  "prompt_sha256": "506e657f9015ad77cf74bf2ad55d34c8b0841279c1fcd6933a2a1af486e70d94",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.823990024626255,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.208707332611084,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 64.10799308509145,
+  "generated_at": "2026-10-07T10:45:03.385308+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-05442.png",
+  "sha256": "e2033586da14d2ebdfb30586a42aa968c81805adb626ca1472f36afe1010c180",
+  "bytes": 1615456
+}

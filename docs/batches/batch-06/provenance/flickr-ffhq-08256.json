@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-08256",
+  "candidate_index": 350,
+  "ffhq_id": 8256,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-08256.jpg",
+  "source_sha256": "af0a331f0dd7c889923a6014a4485f9dfd40aaff6997d46735bd18e8cdc3ca5e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1637,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/wmamurphy/7996682935/",
+    "photo_title": "IMG_7393",
+    "author": "Wm Andrew Murphy",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-09-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/wmamurphy/7996682935/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "ac3f9c04db0ca1bc6065dd72f74fe737",
+  "current_decoded_pixel_md5": "d469c04447d8cb1378ae2071a75d431c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14877641824249166,
+  "fetched_at": 1791367537.6541686,
+  "visual_review": "pending"
+}

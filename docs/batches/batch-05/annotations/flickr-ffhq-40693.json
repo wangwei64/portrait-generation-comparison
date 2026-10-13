@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-40693",
+  "prompt": "A vertical close portrait of a woman with straight light brown hair partly pulled back, shown in left-facing three-quarter profile. Her lips are slightly parted and she looks out of frame. She wears a dark velvet-like top with green satin accents, with a thin turquoise strap visible at one shoulder. Strong direct sunlight illuminates her face and loose hair strands. A dark blue-gray door and rough pale stone wall form the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-259-264.jpg",
+  "reviewed_source_sha256": "d705aadf81024e80d2f11369c904236bd78965f37d432730aff17d3c3b251116",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

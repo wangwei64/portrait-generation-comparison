@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-58230",
+  "candidate_index": 386,
+  "ffhq_id": 58230,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-58230.jpg",
+  "source_sha256": "ee7b56c684415e96748ab584cbbe42245c60b981eadf90d3d12abf8e4e5fab49",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1375
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/mroutley/3051797758/",
+    "photo_title": "DSC_0031",
+    "author": "Matthew Routley",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-11-23",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/mroutley/3051797758/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "dc7d8d8191afdcab05532fcac3db7d03",
+  "current_decoded_pixel_md5": "7923702c1fd1ec422e1ab2c2752bcdc5",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09779417615897051,
+  "fetched_at": 1791367711.801952,
+  "visual_review": "pending"
+}

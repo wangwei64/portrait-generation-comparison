@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s44-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with thick curly dark hair stands in side profile on an elevated walkway beside a river. He wears a navy and red sports jacket, light blue jeans and black shoes, with his hands in his pockets. His full body is visible near the center of a wide horizontal frame, facing right with his head slightly turned toward the camera. A metal railing runs behind him, overlooking the river and a wooded hillside with scattered buildings. Dark broken clouds surround a bright opening in the sky, and a large pale chalk curve is drawn on the paved foreground.",
+  "prompt_sha256": "02b3cb26bc9b43e76408aa70a34453bf8d8eb18f4ff4b35aef3900c86bc71239",
+  "seed": 42,
+  "token_count": 120,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.552599623799324,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077613353729248,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 58.028359513952005,
+  "generated_at": "2026-10-07T09:12:16.525294+00:00",
+  "image_path": "zimage/generated/piq23-s44-q75.png",
+  "sha256": "668d862c7ddecedb8405d44938311c8bcd4e5989dab34d359b2c83e409ea407a",
+  "bytes": 1219987
+}

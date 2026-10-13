@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-18509",
+  "candidate_index": 120,
+  "ffhq_id": 18509,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-18509.jpg",
+  "source_sha256": "015ff087a7c02dc641b602da7a9192d4df300fa95f20cc9e83a65c4fb98f219e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2798,
+    2798
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/lydiaxliu/17229606915/",
+    "photo_title": "Portraits-Natalie",
+    "author": "Lydia Liu",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2015-04-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/lydiaxliu/17229606915/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "3e2d60723cf6a0f7749f2d2be05a0c78",
+  "current_decoded_pixel_md5": "8579cfd5c24f7f7591708b71ce09a2d0",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.048942341639923545,
+  "fetched_at": 1791365424.5704248,
+  "visual_review": "pending"
+}

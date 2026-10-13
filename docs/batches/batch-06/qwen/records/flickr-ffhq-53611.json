@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-53611",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal stage photograph of an older man with short white hair and rimless glasses, playing a slim silver-colored vertical flute held to his mouth. He wears a dark formal jacket, white shirt and white bow tie. Both hands are visible with fingers positioned along the instrument. Frame his head, chest and hands against a vivid purple-blue illuminated screen. Focused stage light brightens his face and the reflective instrument.",
+  "prompt_sha256": "0b33762e717b76893773ed61a6b02fa6651ec4213e1736c21d46b289947eb28a",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.793843049556017,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.20771551132202,
+  "peak_reserved_gib": 39.12890625,
+  "nvidia_smi_peak_gib": 39.6396484375,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 92.08249817863579,
+  "generated_at": "2026-10-07T12:41:15.095315+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791376530505287358",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-53611.png",
+  "sha256": "0ca83d24a181e755df56b7e8d5ad45f17811319b88e9e4e0998c67291756b473",
+  "bytes": 1323830
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-66388",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal travel snapshot of a smiling man peeking above a low rough stone ledge topped with grass. He wears a floppy beige camouflage sun hat with long side flaps, squinting in the daylight. Only his head and a little dark clothing are visible above the foreground rock. A steep dark green mountain slope with exposed vertical cliffs fills the background, creating a deep outdoor setting.",
+  "prompt_sha256": "e062edb01b874243b513efb3a16eaaeacca520cb7963d73a3835c69d3451cd70",
+  "seed": 42,
+  "token_count": 84,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.425274677574635,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077441692352295,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 71.62867364588818,
+  "generated_at": "2026-10-07T10:28:01.604633+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-66388.png",
+  "sha256": "6659809d943a01a5cb80a7c3f66b8b9279e1fb3e9db99160a8273bccf6182c61",
+  "bytes": 1243529
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-16107",
+  "candidate_index": 91,
+  "ffhq_id": 16107,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-16107.jpg",
+  "source_sha256": "8189194d00b75f7e901106f8d5e84e818971773a6366fda7e78d275da467d303",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2592,
+    3456
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/snigl3t/5237618688/",
+    "photo_title": "TGIO 2010",
+    "author": "Anne-Lise Heinrichs",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-12-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/snigl3t/5237618688/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "22071f67f2ac6420273b02b2bffca628",
+  "current_decoded_pixel_md5": "041969d05b68d7f2c57db2a3b2e8c99f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.0886229352423411,
+  "fetched_at": 1791365345.0002768,
+  "visual_review": "pending"
+}

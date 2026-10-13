@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-20656",
+  "candidate_index": 249,
+  "ffhq_id": 20656,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20656.jpg",
+  "source_sha256": "1bff87cd27726d4fe3964f429b394939c7d1f41c6fba0ae9e23bb0f6cb828aa0",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/24156278@N08/5129444447/",
+    "photo_title": "PA090070",
+    "author": "Zissis Psallas",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-10-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/24156278@N08/5129444447/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "7c10dc75066e9d59348b97bf84a97cea",
+  "current_decoded_pixel_md5": "aecab093afe9b15663fb6dab004b5ced",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1432867366717929,
+  "fetched_at": 1791367284.1944034,
+  "visual_review": "pending"
+}

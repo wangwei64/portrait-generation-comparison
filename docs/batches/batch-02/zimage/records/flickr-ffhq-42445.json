@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42445",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical waist-up portrait of a woman wearing a draped red, cream and teal geometric-patterned headscarf with fringed ends. Her long-sleeved brown dress has delicate floral embroidery and beadwork across the chest. She stands slightly sideways beside tall green bamboo stems, turns toward the camera and gives a small smile with pink lips. Soft daylight illuminates her face against a blurred garden wall and green foliage.",
+  "prompt_sha256": "76fea6a3583f0fd093ede1eb32f5a4bc26b6f501da70cad010c57877f334c2bf",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.194405294954777,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854177951812744,
+  "peak_reserved_gib": 26.60546875,
+  "nvidia_smi_peak_gib": 27.1142578125,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 65.33896951870707,
+  "generated_at": "2026-10-07T09:58:17.481558+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-42445.png",
+  "sha256": "a63470dc4954d02c262f712e346f53afac0cd7d9d6659d28fb5b86ae8334e688",
+  "bytes": 945538
+}

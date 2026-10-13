@@ -1,0 +1,37 @@
+{
+  "index": 8,
+  "image_id": "piq23-s07-q75",
+  "prompt": "A man with short brown hair and a trimmed beard stands indoors wearing a burgundy hoodie. His body is angled toward the right, and he lowers his gaze toward an open dark-covered book held in both hands around waist height. He occupies the left-center of a horizontal waist-up composition. A pale wooden grid bookshelf spans the background, containing upright and leaning books, a small green plant and a woven basket. The open shelving reveals another room with windows, tables and a pale ceiling. The hands and open pages are visible in front of his torso.",
+  "prompt_sha256": "d2f54e04ed6b066c353ab48593432bdecdaea56ee4e2e0a3e71d9926d59b0be9",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bd/bd49b2890d231b8556c8a94c02f81c1e9b67a49041359e3e2dea9813658a31e3.png",
+  "original_sha256": "bd49b2890d231b8556c8a94c02f81c1e9b67a49041359e3e2dea9813658a31e3",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ad/adfb68ab76c363503bdb349ada0a6a5f09e1701a5ee85ac7b4b6fcba11c966e4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 318,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9469392448663712,
+  "png_path": "generated/piq23-s07-q75.png",
+  "preview_path": "previews/piq23-s07-q75.jpg",
+  "png_sha256": "25c008adf6c3f5c8b745fb585fd285f0496c8275c94ee0db535f6d57f5fd4432",
+  "preview_sha256": "21d26671832d75d35aeac4cb7e8fb246f5ed340affeb9620f19e92886c2bd7ac",
+  "png_bytes": 1420275,
+  "preview_bytes": 272636,
+  "pixel_std": 65.37124023158766,
+  "created_at": "2026-10-08T08:45:50.864468+00:00"
+}

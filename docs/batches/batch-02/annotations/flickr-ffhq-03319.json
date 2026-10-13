@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-03319",
+  "prompt": "A horizontal portrait of a broad-shouldered man with very short light brown hair and a neatly shaped goatee. He wears a charcoal jacket over a black textured shirt and looks off to the right with his lips slightly parted. Frame his head and upper chest. Soft daylight illuminates his face in a bright interior, with large windows, pale structural columns and out-of-focus bare trees behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-061-066.jpg",
+  "reviewed_source_sha256": "4a3fec0bcd97735fa69945c1c0e8d584d73a2efc312f22d0a9e2c8ddec4db310",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-61858",
+  "prompt": "A vertical sunlit photograph of a toddler with short wavy light brown hair, decorated with a large cream flower clip and a small pink barrette. The child looks to the right with lips parted, wearing a pale yellow patterned sleeveless dress with a multicolored bow and a tan waist sash. One arm reaches beyond the edge. Patio chairs, paving and plants sit behind, with part of an adult cropped at the far left.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-121-126.jpg",
+  "reviewed_source_sha256": "ee4f328b127df2c5d9710e4abac94b12bdca10cee66b837cb3724208b9d18d9e",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-03122",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph of a man with short brown hair and a close beard, speaking with his mouth open while looking toward the audience. He wears a white double-breasted chef jacket beneath a dark purple apron and a small headset microphone curving toward his cheek. Frame his head and torso in warm indoor light. A pale angular object partly covers the lower right foreground, with a softly blurred gray wall and vertical cable behind.",
+  "prompt_sha256": "3d7d8aca759b8ce6e3b7db5bd47ed5184962c9baf43c92627c051c52204ed6dc",
+  "seed": 42,
+  "token_count": 92,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.016778398305178,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854182720184326,
+  "peak_reserved_gib": 23.44140625,
+  "nvidia_smi_peak_gib": 23.9501953125,
+  "nvidia_smi_sample_count": 88,
+  "pixel_std": 68.05057249001622,
+  "generated_at": "2026-10-07T11:33:31.948624+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372731603469464",
+  "image_path": "zimage/generated/flickr-ffhq-03122.png",
+  "sha256": "453f270369dc353c85f1e7b0136a390e25ab1b902865414cba23f969502845be",
+  "bytes": 762724
+}

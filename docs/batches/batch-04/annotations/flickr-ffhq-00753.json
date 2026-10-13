@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-00753",
+  "prompt": "A horizontal snapshot of a smiling boy with very short tightly curled dark hair, wearing a red-and-white plaid button-front shirt. He looks directly at the camera with his head slightly tilted and teeth visible. Frame his head and upper torso against a worn gray wall, a small wood-framed window and a ledge covered with newspaper and stacked books. Direct frontal light brightens his face and catches reflections in the eyes.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-307-312.jpg",
+  "reviewed_source_sha256": "a0fb5b6bc76e74b41433e654118580fa478a2725c549c68bf02bf0eae8c76174",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-38647",
+  "prompt": "A horizontal close photograph taken from a slightly low angle of an older man with very short thinning gray hair. He looks down toward the right with parted lips and a thoughtful expression. He wears a vivid blue outer jacket over a black high collar, with another blue collar folded outward. Soft daylight comes through a series of slanted high windows, forming bright diagonal shapes in the pale modern interior behind his head.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-259-264.jpg",
+  "reviewed_source_sha256": "a10d6b2f63199bf4f356b28b6afdba4211a00b8792901701179c6931d2d1667f",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

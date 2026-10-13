@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-54806",
+  "candidate_index": 296,
+  "ffhq_id": 54806,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-54806.jpg",
+  "source_sha256": "07b3eea43367792250a85ec79b6507389551574ca947e30d227977169c46f0b1",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1363,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/gpaumier/8100453504/",
+    "photo_title": "David Nykl at Sci-Convention Toulouse / TGS OHANAMI on April 28, 2012.",
+    "author": "Guillaume Paumier",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2012-10-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/gpaumier/8100453504/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "02e0e7f16775b1d8e0f1ea88af3373ff",
+  "current_decoded_pixel_md5": "18caf756da0776ee8c3f227412ac16a2",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.19676442164733868,
+  "fetched_at": 1791367399.482066,
+  "visual_review": "pending"
+}

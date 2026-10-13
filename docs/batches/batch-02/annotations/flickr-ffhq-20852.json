@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20852",
+  "prompt": "A vertical studio portrait of a young woman with brown hair braided back and loose wisps beside her face. She wears a pale cream lace top with three-quarter sleeves and holds her hands together just below one shoulder, a thin ring visible on a finger. Her body angles slightly sideways while she looks calmly at the camera. Soft directional light highlights her face and the lace texture against a dark mottled blue-gray backdrop.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-079-084.jpg",
+  "reviewed_source_sha256": "1add6d0fc97476d5d5bef4f056a748c1c9bc5120013c1fff4bb043b5d8dfa329",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 185,
+  "image_id": "flickr-ffhq-38779",
+  "prompt": "A vertical close snapshot of a smiling young woman wearing a black baseball cap backward, with short brown hair curling out near her ears. She wears a bright red T-shirt and black backpack straps and looks directly toward the camera. Strong sunshine illuminates her face. Behind her are wooden benches, a chain-link fence and part of another smiling person's face cropped at the upper left, all less prominent than the main subject.",
+  "prompt_sha256": "eca2dd7f50c6afa3a836e425a60a4ce5e8aafb04ca54358006f5638ad277748d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a1/a18ad78d3f8f47af233d940fa208160ba14f68b2009cdb4d1f075be64c0358e8.png",
+  "original_sha256": "a18ad78d3f8f47af233d940fa208160ba14f68b2009cdb4d1f075be64c0358e8",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/30/304eb876f4a815e4beb9ca47f54bf74f11db546c1c1d014ab8e1cf5de679aca0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939679741859436,
+  "png_path": "generated/flickr-ffhq-38779.png",
+  "preview_path": "previews/flickr-ffhq-38779.jpg",
+  "png_sha256": "1a8ee3a86319e6eca4e18ef1d5a59bec6751120437cb276888ae70272ab9ac5e",
+  "preview_sha256": "207c66c937c83af370daf0a49278eca7dc9b3b0586bc9f22a0c9fe139c42628c",
+  "png_bytes": 1549777,
+  "preview_bytes": 313061,
+  "pixel_std": 95.60613371971064,
+  "created_at": "2026-10-08T08:49:47.653594+00:00"
+}

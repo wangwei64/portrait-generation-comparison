@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-12735",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical chest-up portrait of a boy with very short black hair, facing the camera with a serious expression and slightly narrowed eyes. He wears a zipped navy athletic jacket with bright yellow inserts, small embroidered lettering and a red-and-gold crest on the chest. Strong sunlight brightly illuminates the center of his face. A plain muted coral-red wall fills the background, with a tightly centered composition.",
+  "prompt_sha256": "85d9671f10d450c74a41772b261959dea470831db29e3be42d7e19daa05e9e4b",
+  "seed": 42,
+  "token_count": 288,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6899259984493256,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 74.58034762058504,
+  "generated_at": "2026-10-07T10:53:24.832439+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-12735.png",
+  "sha256": "7866aa47d2fd8cda514d7e24d6750b45ef15f60f910510ea2a1c704cd3291b72",
+  "bytes": 994819
+}

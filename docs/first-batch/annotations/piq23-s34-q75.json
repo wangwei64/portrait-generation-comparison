@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s34-q75",
+  "source_sha256": "f9008ad86e9c3f9cee2f3cc160da91a8199ef9f7b628a50eaf1637342bfb22d8",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "pole",
+    "hands",
+    "low_angle"
+  ],
+  "prompt": "A man wearing a black knit beanie and black outdoor jacket stands facing the camera in a courtyard. He holds a long black telescoping pole with both hands at chest level; the pole extends diagonally toward the lower left foreground. A small black crossbody bag hangs at his waist. The horizontal view looks slightly upward and frames his head and upper body. Behind him rises a gray modern apartment building with projecting angular balconies in blue, pink, green and bronze. A metal fence, shrubs and a tree with brown leaves fill the lower background.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,37 @@
+{
+  "index": 58,
+  "image_id": "flickr-ffhq-18848",
+  "prompt": "A horizontal close portrait of a young child with wispy reddish brown hair and a small tuft standing up. The child looks directly at the camera with a serious expression and slightly parted glossy lips, wearing a dark brown sleeveless garment over a small floral-patterned shirt. Warm indoor light and direct frontal illumination reveal the face. Behind are blurred people, furniture, a television and yellow lights in a lived-in room.",
+  "prompt_sha256": "2fde186022dfc9d1761917990471e83ff238e7a005ac52b67ca0494a6495835d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d7/d7cb4a36572b62e5e0d36a388f72edde650f23a3e75ad86f7ac75e6a62412e80.png",
+  "original_sha256": "d7cb4a36572b62e5e0d36a388f72edde650f23a3e75ad86f7ac75e6a62412e80",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/97/978c3def1e671eccf73f1fb95f4c392691c4e65aa014308f6ff62b246eef2659.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9411454796791077,
+  "png_path": "generated/flickr-ffhq-18848.png",
+  "preview_path": "previews/flickr-ffhq-18848.jpg",
+  "png_sha256": "7df738a14e82739f95caa28bceb0be10e4ec3f532e60ed981c96384a36c4ea23",
+  "preview_sha256": "ec072dbf1a3696d36f15e1512bd93c0a67bfacb16de9b89e9f386d6f2af9446a",
+  "png_bytes": 1610468,
+  "preview_bytes": 286211,
+  "pixel_std": 58.82193303604393,
+  "created_at": "2026-10-08T08:46:56.609412+00:00"
+}

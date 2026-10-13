@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-45740",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal candid street portrait of a woman with short side-parted brown hair, looking at the camera with pursed pink lips and one eyebrow slightly raised. She wears a dark round-neck top, with her shoulders cropped close. A green cafe awning and circular shop emblem appear behind her along with out-of-focus pedestrians and a pale doorway. Soft daylight gives the image a warm casual snapshot appearance.",
+  "prompt_sha256": "9bd99e215b26c98c76f55245900934ca505fc2b3ade2797f9ccb9de525d14208",
+  "seed": 42,
+  "token_count": 101,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.232851151376963,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59414052963257,
+  "peak_reserved_gib": 45.25390625,
+  "nvidia_smi_peak_gib": 45.7646484375,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 63.299743478540364,
+  "generated_at": "2026-10-07T11:29:44.608648+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791371871203523541",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-45740.png",
+  "sha256": "882789062b25888935fa1c827a63d7a0247ac67d8804f5b9da8c62c547773069",
+  "bytes": 1092232
+}

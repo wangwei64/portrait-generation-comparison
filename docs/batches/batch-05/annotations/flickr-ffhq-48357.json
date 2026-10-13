@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-48357",
+  "prompt": "A horizontal low-angle photograph of a baby being held up toward the camera beneath a leafy tree. The baby has wispy dark hair with a tiny pink clip, wide dark eyes and an open cheerful mouth, wearing a pale pink short-sleeved button-front top. Both small hands are curled near the chest while adult hands support the torso from below. Dark green branches and patches of blue-white sky fill the sunlit background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-289-294.jpg",
+  "reviewed_source_sha256": "0a5f7026f6b2c30376f1edf7c702f6784b42aeb9f8dc1b70ee02d4eb6e345d6e",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

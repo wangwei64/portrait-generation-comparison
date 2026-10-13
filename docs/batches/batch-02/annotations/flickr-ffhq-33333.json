@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-33333",
+  "prompt": "A horizontal photograph of a woman with short side-parted wavy light brown hair, leaning toward the camera with both arms extended outward beyond the image edges. Her mouth is open as if speaking and her gaze meets the lens. She wears a dark blouse covered in tiny red, blue and white flowers. Frame her head, shoulders and upper chest against a plain pale blue wall, with bright frontal light and mild shadow falloff.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-031-036.jpg",
+  "reviewed_source_sha256": "bb76abdc281432cfacb93818e2c90c3f6db91c40425ba2b176330a966036c130",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 15,
+  "image_id": "piq23-s14-q75",
+  "prompt": "A young man with straight black hair swept across his forehead looks directly at the camera. He has faint facial stubble, small metallic earrings and a plain black crew-neck top. His face, shoulders and upper chest fill the center of a horizontal portrait in a dim room. Behind him is a black metal shelving unit holding tall green glass bottles and a woven container. The lower portion of a large OPEN sign is cropped along the top edge, and another translucent bottle stands at the far left. His face is brighter than his dark clothing.",
+  "prompt_sha256": "568faa04dd207d2a343ec464008370d28067a5495e693fb7df8f07716e933ade",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ec/ec6ebd159502b422c9feb03da4e4c598dd60502da224358f1436c33ef53b0ba1.png",
+  "original_sha256": "ec6ebd159502b422c9feb03da4e4c598dd60502da224358f1436c33ef53b0ba1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5f/5f6be830ecfda479f1b4bfe3e52c890330dc543bf7f581118f8bfcf6a9aa97d7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 313,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9491862691938877,
+  "png_path": "generated/piq23-s14-q75.png",
+  "preview_path": "previews/piq23-s14-q75.jpg",
+  "png_sha256": "11a0f8b56fc7f4d70b7a7f40401cdca261a5ca2e34af0d96f7e7dbde94202bed",
+  "preview_sha256": "5ed2a75b24b5c5ede0ba8f6d5e15fd2508982576109c983879b25a2c89abe876",
+  "png_bytes": 1449402,
+  "preview_bytes": 231777,
+  "pixel_std": 48.195763654141,
+  "created_at": "2026-10-08T08:46:00.434570+00:00"
+}

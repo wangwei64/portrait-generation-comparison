@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-60710",
+  "prompt": "A horizontal photograph of a smiling boy with short light brown hair, wearing oversized clear protective goggles over narrow rectangular eyeglasses. His eyes are nearly closed and he shows his teeth while leaning slightly forward in a blue crew-neck T-shirt. Frame his head and upper torso in a classroom or laboratory. White glass-front cabinets, a dark worktop, cardboard boxes and small supplies sit softly out of focus behind him.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-337-342.jpg",
+  "reviewed_source_sha256": "7baf7722c14835087f39a7e5e91126635f628983295651a15ade82af55321eb2",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

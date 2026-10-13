@@ -1,0 +1,37 @@
+{
+  "index": 14,
+  "image_id": "piq23-s13-q75",
+  "prompt": "A smiling dark-skinned woman with dark hair pulled back stands facing the camera in an open doorway. She wears a fitted brown sleeveless top tucked into pale beige high-waisted trousers. Her arms hang loosely by her sides. The horizontal composition places her on the right and frames her from the head to the upper legs. A cork noticeboard with a pinned white sheet and a small color chart occupies the pale wall on the left. White doorframes, another doorway and a bright ceiling light are visible behind her in the corridor.",
+  "prompt_sha256": "f9e9aaa874b8c71cc4a4b507461d5449d25dd5c5dd5e4a1553b43796296a0105",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/dd/dd4c177b10c8b05603e7a28afbdd7e56b60b029a582007e6c77f3e277ed57b06.png",
+  "original_sha256": "dd4c177b10c8b05603e7a28afbdd7e56b60b029a582007e6c77f3e277ed57b06",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/40/406a892575a6e2e7ccc4646adada4fe736c6b39bae819577fa36bdce041d7802.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 312,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941955178976059,
+  "png_path": "generated/piq23-s13-q75.png",
+  "preview_path": "previews/piq23-s13-q75.jpg",
+  "png_sha256": "9a7adc2c1170bd8927115ff174921410e6431088f13c36fb30b35c8ab8e3e5aa",
+  "preview_sha256": "e9946fabf55c9dad4c933f50015296e6058271ad1def8ea0a7ee1a43501e4c0a",
+  "png_bytes": 1320660,
+  "preview_bytes": 189655,
+  "pixel_std": 68.62086868190835,
+  "created_at": "2026-10-08T08:45:59.023450+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-11864",
+  "candidate_index": 274,
+  "ffhq_id": 11864,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-11864.jpg",
+  "source_sha256": "9630f184e85b572fad2edc67c9d6f16f5b1133a0e27803417d377591c9d12d4a",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1362
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/rinkel/2518258734/",
+    "photo_title": "_MG_5755",
+    "author": "Rienk Jan Schurer",
+    "country": "Netherlands",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-05-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/rinkel/2518258734/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "71f8f4dacd5518646196295130d22be4",
+  "current_decoded_pixel_md5": "a7ceb669053e81e33263ae171a4fec18",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14415967588563325,
+  "fetched_at": 1791367349.6297677,
+  "visual_review": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-65345",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical garden portrait of a smiling girl with long straight black hair swept over one shoulder. She peeks out from behind a broad tree trunk on the left, resting a hand against the bark. She wears a blue plaid sleeveless dress with a shiny blue waistband and a long necklace with an oval pendant. Soft light illuminates her face against a bright, blurred park lawn and leafy trees.",
+  "prompt_sha256": "379efa174e7448a38c9c4403aad5cacfc61bae03339a07f5a113b5c5a201ff7d",
+  "seed": 42,
+  "token_count": 283,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.677459206432104,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 78.57661018169811,
+  "generated_at": "2026-10-07T10:53:22.877524+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-65345.png",
+  "sha256": "3085133d4ff84215c27dd8dfd1ac92899e03e64612998376de4f0686da93009d",
+  "bytes": 1028232
+}

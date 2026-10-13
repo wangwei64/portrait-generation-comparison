@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-52398",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait of an older woman with gray hair tucked beneath a light gray knitted beret with raised textured patterns. She looks toward the camera with a reserved closed-mouth expression, showing detailed forehead and cheek lines. Small gold hoop earrings accompany a brown-gray woven jacket with dark decorative fastenings over a pale mauve high collar. Frame her head and upper chest against an old red brick wall with a thin diagonal pipe above.",
+  "prompt_sha256": "579e33b8124299bc2f9df164ed6e06104a19e28d8f68910dc7fecc41cacc1b03",
+  "seed": 42,
+  "token_count": 291,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6655003726482391,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 9.001953125,
+  "nvidia_smi_peak_gib": 9.5185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 56.53947331287225,
+  "generated_at": "2026-10-07T12:48:09.728406+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-52398.png",
+  "sha256": "d33d3211797d31bad0d00031c257c8fc517c2af0aa34b5275cb6e5f7e21f2485",
+  "bytes": 1140166
+}

@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s06-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A stocky man with short reddish-brown hair, a full beard and thin metal-framed glasses sits on a sofa, leaning slightly toward the camera. He wears a light gray short-sleeved T-shirt with a small dark chest logo and a black lanyard. His head, shoulders, chest and forearms fill much of a horizontal composition. He looks directly ahead with a slight closed-mouth smile. A dark sofa back and white patterned, burgundy and mustard cushions surround him. Behind him is a muted blue-green wall with circular sunburst mirrors partly cut off along the top edge.",
+  "prompt_sha256": "0cb10e5f145443ec99117f5f0578c08d0809a9417950d6774c4cd2c98fccc42d",
+  "seed": 42,
+  "token_count": 326,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.687828652560711,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 75.91574767859952,
+  "generated_at": "2026-10-07T09:28:03.148344+00:00",
+  "image_path": "sana/generated/piq23-s06-q75.png",
+  "sha256": "68e693afa1c2d47697373a1f518147def151aafa98b6d2bbdaa0270496fb9078",
+  "bytes": 1197894
+}

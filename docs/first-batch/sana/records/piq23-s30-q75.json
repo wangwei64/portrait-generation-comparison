@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s30-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with straight chin-length brown hair stands in left-facing profile against a red brick wall. She wears a black quilted hooded coat and pale trousers, with both hands tucked into the coat pockets. A dark camera hangs from a strap against the front of her coat near her waist. The vertical composition frames her from the head to the upper thighs and places her toward the right, leaving open brickwork on the left. Pale mortar lines and faint chalk marks cross the wall, with her shadow falling to the left.",
+  "prompt_sha256": "2253722c158f0a26615fa99d5dda1d383a820935631e911ecf7f080351a2495a",
+  "seed": 42,
+  "token_count": 311,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7142753265798092,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 66.96883409742348,
+  "generated_at": "2026-10-07T09:28:52.795593+00:00",
+  "image_path": "sana/generated/piq23-s30-q75.png",
+  "sha256": "eeaaa3572a11fd77d38d53ea3ccab24821bd271c509a5a6c7396945199a874fa",
+  "bytes": 1232947
+}

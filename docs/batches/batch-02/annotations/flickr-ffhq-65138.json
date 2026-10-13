@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-65138",
+  "prompt": "A horizontal close portrait of a woman with dark hair pulled tightly back, looking at the camera with a calm expression. She wears dangling gold-toned earrings, a beaded necklace and a cream blouse with red and brown stripes. At the right side she holds a clear plastic name badge beside her head, with yellow cords hanging down. Direct frontal light highlights her face against a rough gray concrete wall. The badge contains small printed lines.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-055-060.jpg",
+  "reviewed_source_sha256": "780624b77e6af8b47cf946465ff1dc7a3c61c4d6a015dfa88c98a7c33f92d895",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

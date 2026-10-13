@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-42205",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    736,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical waist-up studio portrait of a young woman with dark brown hair pulled into a ponytail over one shoulder. She faces the camera with a small smile and keeps her hands behind her back. She wears a bright yellow sports jersey covered with black sponsor lettering, logos and a large number 25 at the chest. Even frontal lighting separates her from a plain white background, with natural facial shadows.",
+  "prompt_sha256": "04dff0f92d55376f11601c52f075aab361a79c4a9cf3ae81c627faa4d63f959a",
+  "seed": 42,
+  "token_count": 103,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.373802985996008,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.00221395492554,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 91.81807909929418,
+  "generated_at": "2026-10-07T10:46:55.587552+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    243,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-42205.png",
+  "sha256": "ebebd7d2ca7635379d027d5cdf5713ef68816eb57a5284be3f00401f8565e23e",
+  "bytes": 1048879
+}

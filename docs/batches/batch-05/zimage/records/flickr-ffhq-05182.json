@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-05182",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of a smiling boy with closely cropped dark hair, seated at a desk and turning toward the camera. He wears a plain heather gray T-shirt, with one forearm stretched across the lower left. Frame his head and upper body in an everyday room. A tissue box, clear pump bottle, black organizer, papers, a small plant and a noticeboard occupy the background under soft indoor light.",
+  "prompt_sha256": "a48fdb6831ca3cd2eb74c73ab1a49a8493bb062c6a5aca6fb08a4ea30bf05ad7",
+  "seed": 42,
+  "token_count": 90,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.765648044645786,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854173183441162,
+  "peak_reserved_gib": 26.33203125,
+  "nvidia_smi_peak_gib": 26.8408203125,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 60.08560722801904,
+  "generated_at": "2026-10-07T11:45:54.886201+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372731603469464",
+  "image_path": "zimage/generated/flickr-ffhq-05182.png",
+  "sha256": "864d350f558aa74502cab01d54a6dff56e2a920fdb01206341e5981128663160",
+  "bytes": 853626
+}

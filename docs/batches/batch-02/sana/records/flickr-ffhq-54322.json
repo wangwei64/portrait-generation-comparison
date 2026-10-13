@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-54322",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical seated portrait of a smiling woman with blonde hair pinned into a loose curled updo and one curved strand beside her cheek. She wears a simple black sleeveless scoop-neck dress. Her body angles slightly sideways while her face turns toward the camera. Frame her head and torso beside a large white-framed window, with soft daylight and a blurred view of water, greenery and buildings outside.",
+  "prompt_sha256": "98963ee1faa183d2356486b1ffd05225aff30c7de81a6b383d39928fee10e535",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6558398492634296,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 83.77640536373009,
+  "generated_at": "2026-10-07T10:13:03.693253+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-54322.png",
+  "sha256": "d43edf3cb761c6b26ccc30bdd2f2e54439c2776b29c56b7bb971c933e671ecac",
+  "bytes": 686016
+}

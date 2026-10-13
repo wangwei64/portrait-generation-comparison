@@ -1,0 +1,37 @@
+{
+  "index": 220,
+  "image_id": "flickr-ffhq-46333",
+  "prompt": "A horizontal candid photograph of an older man with receding short gray hair, looking downward to the left with a furrowed forehead and a subdued expression. He wears a light blue collared shirt and holds a dark jacket over one shoulder with his raised hand. A ring and wristwatch are visible. Frame his head and upper torso in daylight, with parked vehicles, a low pale building and a small tree behind him.",
+  "prompt_sha256": "c944daf54f696d1300fca9615e74b9bb690b15dd39f7e078a60becdcd71c0f62",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/51/5143bad0d969223faafd610e78444e4df1669d719e04e16cb6de3a4e3fb844e1.png",
+  "original_sha256": "5143bad0d969223faafd610e78444e4df1669d719e04e16cb6de3a4e3fb844e1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e8/e8fac93547fa5f74ac05d413ebec819c1bac49e26f84c3833b155124a5f90f11.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9413228258490562,
+  "png_path": "generated/flickr-ffhq-46333.png",
+  "preview_path": "previews/flickr-ffhq-46333.jpg",
+  "png_sha256": "fb19900afa433815799d4fa9d9698b844027c1fbe6ac1c338fcf9774ce84ae64",
+  "preview_sha256": "5bf2a1851d5bdf67c2f5a16f674354c53ac5320409d9c5a4552aa103aa2a837e",
+  "png_bytes": 1661785,
+  "preview_bytes": 257320,
+  "pixel_std": 71.79787101297559,
+  "created_at": "2026-10-08T08:50:35.404327+00:00"
+}

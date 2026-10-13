@@ -1,0 +1,37 @@
+{
+  "index": 65,
+  "image_id": "flickr-ffhq-20468",
+  "prompt": "A vertical waist-up photograph of a young man in a green camouflage uniform with rolled sleeves, a dark green undershirt and a bright blue beret bearing a white emblem. He faces the camera with a slight smile, hands held behind his back. Include cloth badges and chest pockets. A large white vehicle with bold dark letters and part of a heavy tire stands immediately behind him. Strong sunlight casts crisp shadows.",
+  "prompt_sha256": "851c345ac857f22f13ba282c78f2bd590411f8c336479bdc0625d8408fd7a7d0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/91/91892ff8822b36ce9e675e796f9b38b11e06701a06dad8e8c8cfecec727496bf.png",
+  "original_sha256": "91892ff8822b36ce9e675e796f9b38b11e06701a06dad8e8c8cfecec727496bf",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/03/03bd0f33bbc89edc9b8cf98f2823c4a7bb212be5748a8176aaf97dee98b152b7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399700090289116,
+  "png_path": "generated/flickr-ffhq-20468.png",
+  "preview_path": "previews/flickr-ffhq-20468.jpg",
+  "png_sha256": "63b04f46e689f423faccc783648c6a3be6f1c52baaf94e332cde11c9f9cfc2b7",
+  "preview_sha256": "3d7af28862cd7844a0eb531fafbae63bc64d5cfc7d48522cead63b3b5d36b857",
+  "png_bytes": 1551720,
+  "preview_bytes": 288898,
+  "pixel_std": 91.81387142259236,
+  "created_at": "2026-10-08T08:47:05.931929+00:00"
+}

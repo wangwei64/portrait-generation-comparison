@@ -1,0 +1,37 @@
+{
+  "index": 121,
+  "image_id": "flickr-ffhq-12520",
+  "prompt": "A vertical candid photograph of a boy with closely cropped dark hair, wearing a dark gray zip-neck fleece. He looks sideways toward the camera with his lips pressed together, holding a white paper plate and a sugar-dusted fried pastry with both hands. Frame his head, chest and hands. A smaller out-of-focus person in a purple top, water and distant greenery form the cool daylight background.",
+  "prompt_sha256": "923e8efc87437cbe01c27dd99981dd72938b6378728799b1dffb4db26468d017",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    736,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6b/6bbac984089f4036c9737bb7399f1ec1e8e2f847827ed6a158ef90e9859b8ca2.png",
+  "original_sha256": "6bbac984089f4036c9737bb7399f1ec1e8e2f847827ed6a158ef90e9859b8ca2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a4/a4c79ade2244310e58ccce2557e30c2ccbc6267c7eb18d33b3073ffde0fcb647.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939797155559063,
+  "png_path": "generated/flickr-ffhq-12520.png",
+  "preview_path": "previews/flickr-ffhq-12520.jpg",
+  "png_sha256": "1beefa4712033d9d94568d7bda19677646e2a1b767563ec3726dfe2fab9a6bcd",
+  "preview_sha256": "f65d5b17fc6ce9f3676eb1c797653e59dc86db8ea6aa0a820d938ab7f74713d3",
+  "png_bytes": 1695461,
+  "preview_bytes": 303500,
+  "pixel_std": 64.05954127035486,
+  "created_at": "2026-10-08T08:48:21.494429+00:00"
+}

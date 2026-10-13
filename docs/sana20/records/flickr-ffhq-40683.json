@@ -1,0 +1,37 @@
+{
+  "index": 139,
+  "image_id": "flickr-ffhq-40683",
+  "prompt": "A horizontal portrait of a man with medium-length wavy gray hair brushed back, turning his head toward the camera with a neutral expression. He wears a bright blue athletic T-shirt with gray shoulder seams. Show his head and upper torso at a slight angle in a cool gray interior with mirrors, glass partitions and bright fluorescent ceiling fixtures behind. The face is evenly lit with gentle shadows beneath the eyes and chin.",
+  "prompt_sha256": "e6141cfddfba56d3d98bcab80d2b28a330b3d79242bb1e980625d60f63e3ab70",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b3/b3f41698f10cb05c15573177b46757f406fdd146485aedc98395cc064b7536c5.png",
+  "original_sha256": "b3f41698f10cb05c15573177b46757f406fdd146485aedc98395cc064b7536c5",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/eb/eb7585880a7f5285c9ad1bb8914b52a7489d8591d9bf71ae07c98eaf5ebcf48a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401669017970562,
+  "png_path": "generated/flickr-ffhq-40683.png",
+  "preview_path": "previews/flickr-ffhq-40683.jpg",
+  "png_sha256": "86f599b532fe3ab413761578678eea1f342670e75cb7cb945add61aed5181d6b",
+  "preview_sha256": "d0bfc39be4e2c479d530cd3300d71a72847d19360cc34a815918104618420670",
+  "png_bytes": 1803065,
+  "preview_bytes": 323492,
+  "pixel_std": 68.71609232031318,
+  "created_at": "2026-10-08T08:48:45.370206+00:00"
+}

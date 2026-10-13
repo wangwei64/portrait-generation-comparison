@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-11738",
+  "candidate_index": 107,
+  "ffhq_id": 11738,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-11738.jpg",
+  "source_sha256": "a3795ed69a9d2a52aaffb1ac2919e9f62bb89fcf7144c8a965049a2470541ffb",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2828,
+    4256
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/treypennington/3926692989/",
+    "photo_title": "_7000848",
+    "author": "drtreypennington",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-09-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/treypennington/3926692989/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "24df7f7be9fe5589de2e58a30f3e44c1",
+  "current_decoded_pixel_md5": "0de53c185ad13fcb13d3e070b28bf820",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.04586652274249981,
+  "fetched_at": 1791365404.3740768,
+  "visual_review": "pending"
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-16792",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal candid head-and-shoulders photograph of a woman with straight shoulder-length dark brown hair and side-swept bangs. She looks upward toward the right with her mouth open as if speaking. She wears an orange collared shirt with fine white stripes. Soft indoor illumination shows natural facial detail. A pale wall occupies the left background and closed horizontal gray window blinds fill the right.",
+  "prompt_sha256": "4e35062c239bf2ebe0b273c3e5c3ad424400064b1b80f145d166f63c1f8e0a4f",
+  "seed": 42,
+  "token_count": 100,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.44381358101964,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59364461898804,
+  "peak_reserved_gib": 41.033203125,
+  "nvidia_smi_peak_gib": 41.5439453125,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 51.43905052412636,
+  "generated_at": "2026-10-07T12:03:54.060390+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-16792.png",
+  "sha256": "087a5e3deb164112167c630dc76a60e06e98ef2d724fa03d2ffcd7eb606e02c0",
+  "bytes": 925436
+}

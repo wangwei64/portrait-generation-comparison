@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-69026",
+  "candidate_index": 221,
+  "ffhq_id": 69026,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-69026.jpg",
+  "source_sha256": "e10deca522e191d5f1e1dc70d6eb05b980e5a7d457fb2cbd4aece98661f833fa",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1371
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/44915787@N00/3145346405/",
+    "photo_title": "DSC_ 116",
+    "author": "Heather",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-12-29",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/44915787@N00/3145346405/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "9b5ef6eb7d8b6d2d2510d20e2a1670b1",
+  "current_decoded_pixel_md5": "d81f079dc7c5a91394f7e82a034980a3",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1642705463728191,
+  "fetched_at": 1791367207.5308628,
+  "visual_review": "pending"
+}

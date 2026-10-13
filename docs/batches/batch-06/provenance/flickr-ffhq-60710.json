@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-60710",
+  "candidate_index": 340,
+  "ffhq_id": 60710,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-60710.jpg",
+  "source_sha256": "7baf7722c14835087f39a7e5e91126635f628983295651a15ade82af55321eb2",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/smair/14621797145/",
+    "photo_title": "DSC_0163",
+    "author": "S Mair",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-07-10",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/smair/14621797145/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a80a6b6fc92c428c1269eb31d8fb4a80",
+  "current_decoded_pixel_md5": "03215c1bf15f18a73a8b942d660f3e96",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791367521.7583618,
+  "visual_review": "pending"
+}

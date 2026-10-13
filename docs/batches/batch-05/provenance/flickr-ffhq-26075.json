@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-26075",
+  "candidate_index": 302,
+  "ffhq_id": 26075,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-26075.jpg",
+  "source_sha256": "e7c530e57eeab6c099d1cda12e186370d89d816f32a00957beac22e51572b8b2",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1360,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/linuxfoundation/8192237566/",
+    "photo_title": "DSC_0846",
+    "author": "Linux Foundation",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-11-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/linuxfoundation/8192237566/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "2a6960b0b798010c3851a448994f6675",
+  "current_decoded_pixel_md5": "33cf10e1372ced8091f5f24a58d24093",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791367415.1316168,
+  "visual_review": "pending"
+}

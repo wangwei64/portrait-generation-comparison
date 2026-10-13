@@ -1,0 +1,37 @@
+{
+  "index": 233,
+  "image_id": "flickr-ffhq-17772",
+  "prompt": "A vertical selfie-style close portrait of a man with very short receding dark hair and large gray rectangular glasses. He raises his eyebrows slightly and smiles with closed lips, looking straight into the lens. He wears a purple button-front shirt with fine white checks. Soft window light brightens his face. Frame his head and shoulders against a pale room with a white doorway, dark stacked objects and a blue container blurred behind.",
+  "prompt_sha256": "253a107360ed11536bb271c448b667e73bef56b5fbbd72f5050e9c5a1d5dd08d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/52/5234e2f7c1d1d255f4303939494594ef28271210889968ea1c790ad84b07e622.png",
+  "original_sha256": "5234e2f7c1d1d255f4303939494594ef28271210889968ea1c790ad84b07e622",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/58/58f0514231e32b325ed01c44ac8f8b910c5440429d3973c6d83eea992c225ffe.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9421565607190132,
+  "png_path": "generated/flickr-ffhq-17772.png",
+  "preview_path": "previews/flickr-ffhq-17772.jpg",
+  "png_sha256": "6ffe7fd9ee487299c33574d04552da2bd96e417fcda58cdb7a9fe994ef3e5f72",
+  "preview_sha256": "d31305c7fa4a2aff2d20551aa9f788400d86e6b3d7b9f02b1c2ac78f6715838e",
+  "png_bytes": 1583476,
+  "preview_bytes": 281938,
+  "pixel_std": 69.0286333150503,
+  "created_at": "2026-10-08T08:50:53.055221+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 79,
+  "image_id": "flickr-ffhq-42891",
+  "prompt": "A horizontal conference photograph of a man with thinning brown hair, a gray beard and rimless glasses, wearing a black single-ear headset. He sits in a dark suit, white shirt, patterned blue tie and light blue lanyard, resting fingertips beside his cheek while looking ahead seriously. Water bottles, a drinking glass, a tablet, microphones and a white printed desk sign fill the table in front. The background is plain pale gray.",
+  "prompt_sha256": "716946404b2fbef7a50d346e1e7478a074df17b0314b072514a0d08910ae9cf3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3f/3f38a4d489c53e0b076c11e367c4b8b063090bd9b49000adda94083100bed9a3.png",
+  "original_sha256": "3f38a4d489c53e0b076c11e367c4b8b063090bd9b49000adda94083100bed9a3",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7e/7e78792920ff8b0b9604559e31868c9c67503d832d4ed83e5b6c5754e4a203ce.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940692525357008,
+  "png_path": "generated/flickr-ffhq-42891.png",
+  "preview_path": "previews/flickr-ffhq-42891.jpg",
+  "png_sha256": "c1f4350dd07e441e6c5b7b06b209f6d1208b993fd0724cb6572f83d3675db691",
+  "preview_sha256": "7c967506c475a977f8336a4698d501e919046436d5eab0d9add761eb9cd1f0d4",
+  "png_bytes": 1591663,
+  "preview_bytes": 289971,
+  "pixel_std": 81.30285043776638,
+  "created_at": "2026-10-08T08:47:24.632152+00:00"
+}

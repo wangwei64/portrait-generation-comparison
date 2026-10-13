@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s14-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with straight black hair swept across his forehead looks directly at the camera. He has faint facial stubble, small metallic earrings and a plain black crew-neck top. His face, shoulders and upper chest fill the center of a horizontal portrait in a dim room. Behind him is a black metal shelving unit holding tall green glass bottles and a woven container. The lower portion of a large OPEN sign is cropped along the top edge, and another translucent bottle stands at the far left. His face is brighter than his dark clothing.",
+  "prompt_sha256": "568faa04dd207d2a343ec464008370d28067a5495e693fb7df8f07716e933ade",
+  "seed": 42,
+  "token_count": 313,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7110532969236374,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 53.307838861520665,
+  "generated_at": "2026-10-07T09:28:20.642050+00:00",
+  "image_path": "sana/generated/piq23-s14-q75.png",
+  "sha256": "ec6ebd159502b422c9feb03da4e4c598dd60502da224358f1436c33ef53b0ba1",
+  "bytes": 930667
+}

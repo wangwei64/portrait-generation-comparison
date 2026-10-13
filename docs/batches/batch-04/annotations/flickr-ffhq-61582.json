@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-61582",
+  "prompt": "A horizontal chest-up portrait of a man with short tightly cropped dark hair and a full dark beard. He wears a light gray suit jacket, white shirt, dark dotted tie and a small red star pin on the lapel. Facing the camera, he has a calm serious expression. Strong daylight illuminates one side of his face, while a crowd, red flags, trees and a pale building blur into the outdoor background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-277-282.jpg",
+  "reviewed_source_sha256": "0d83fd9908c451f07dea67b3e8d696b881c9c6183d895a92323fa427ab356d9e",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

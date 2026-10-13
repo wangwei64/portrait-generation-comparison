@@ -1,0 +1,37 @@
+{
+  "index": 197,
+  "image_id": "flickr-ffhq-49189",
+  "prompt": "A vertical party portrait of a smiling woman with long straight blonde hair, wearing a black top and layered silver necklaces. She holds a thin wooden stick topped with a red paper hat prop above her head, while her other hand is raised in an open wave with rings visible. Her head tilts playfully toward the camera. Direct flash casts a distinct shadow on a plain warm gray wall behind.",
+  "prompt_sha256": "3b8d2452ed6d76263ff11a50a8d3635dd2796149bab7e9b410708b73ca81ccfe",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e0/e0f4e1dc2d74b1dfa517eb1e54eaff8860680d4072969d6546a07878f1edf322.png",
+  "original_sha256": "e0f4e1dc2d74b1dfa517eb1e54eaff8860680d4072969d6546a07878f1edf322",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ff/ff3f8b5af4356bbdc25a1dd9b1325a4e28414e6a7de9d4de78e5b8adfe195218.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9411390461027622,
+  "png_path": "generated/flickr-ffhq-49189.png",
+  "preview_path": "previews/flickr-ffhq-49189.jpg",
+  "png_sha256": "8ca60d4c16ac4ba67d8878cd31f615b8e1e27209e5ce5c39cdfd8565476f5b57",
+  "preview_sha256": "cc3e2350ea1b7ff3afc3b75d322f53e0c861f1da9e904ea867bbdae703d5dde8",
+  "png_bytes": 1631863,
+  "preview_bytes": 266529,
+  "pixel_std": 51.59836839711229,
+  "created_at": "2026-10-08T08:50:03.829601+00:00"
+}

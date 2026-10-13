@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s23-q75",
+  "source_sha256": "4731dbe511574adcf45ec488acd4bc90b129d3d5d0c5c79bafba02dc567afce4",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "profile",
+    "glasses",
+    "night"
+  ],
+  "prompt": "A man with swept-back brown hair and dark rectangular glasses leans against a large tree trunk on a city sidewalk at night. He is on the right of a horizontal composition, shown from the head to around the waist in profile, looking left along the street. He wears a black coat, a thick brown scarf and a small black crossbody bag at his hip. The tree bark forms the right edge. The sidewalk recedes to the left past more trees, parked motorcycles, traffic signs and distant pedestrians. Cars and a white bus travel along the lit roadway, with building windows and streetlights in the background.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

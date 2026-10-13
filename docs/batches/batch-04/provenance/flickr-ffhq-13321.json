@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-13321",
+  "candidate_index": 208,
+  "ffhq_id": 13321,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-13321.jpg",
+  "source_sha256": "48c8f622171e775d3c58faffd8e6cf2afc034124ac871e8243ce396cbf31851d",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1575
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/manne/33726108923/",
+    "photo_title": "Saisonstart Nürnberg (Streetculture) \"Wir sind Bundesliga!\" 2017",
+    "author": "emscha",
+    "country": "Germany",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-05-08",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/manne/33726108923/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "7d5bbefd2546ac752d106c30b495cdb1",
+  "current_decoded_pixel_md5": "4a16c2e1c9e696877213a2da98950f0d",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.055547766873623075,
+  "fetched_at": 1791367179.4752548,
+  "visual_review": "pending"
+}

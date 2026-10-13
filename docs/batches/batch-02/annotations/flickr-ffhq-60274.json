@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-60274",
+  "prompt": "A horizontal outdoor portrait of a young man with short curly reddish brown hair and a few freckles. He wears a white collared shirt, black waistcoat and loosely knotted gray striped tie. He turns slightly sideways with raised eyebrows and parted lips, looking toward the camera. Show his head and chest beside a pond, with leafless branches, autumn-colored shrubs and tall narrow trees softly blurred beneath an overcast sky.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-049-054.jpg",
+  "reviewed_source_sha256": "6869668a23b81fed5a82189c40d63d76288db7416ef56b7843789e594cf62371",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

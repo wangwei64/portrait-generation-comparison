@@ -1,0 +1,37 @@
+{
+  "index": 108,
+  "image_id": "flickr-ffhq-14777",
+  "prompt": "A horizontal close photograph of a woman with dark brown hair pulled back, looking toward the camera with a slight toothy smile. She stands beside a hanging metal skewer bearing several browned food pieces and curved red peppers. Frame her face on the right and the skewer on the left. Direct flash lights her face and the food against a very dark interior containing rough wood and hanging netting.",
+  "prompt_sha256": "48bc149fb5fe32c38f8af7a6b5aab8aac7e475a13edb5ce695f58edb121ca4b0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/47/472f0d528c9b1f4424886c4b035f70db5bdc32b94391081fe6c51d426cb66f6f.png",
+  "original_sha256": "472f0d528c9b1f4424886c4b035f70db5bdc32b94391081fe6c51d426cb66f6f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/be/be563c93902ae45b4108c4eb4f87934de26664f29c66305f1fd418d8aaabea90.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399418458342552,
+  "png_path": "generated/flickr-ffhq-14777.png",
+  "preview_path": "previews/flickr-ffhq-14777.jpg",
+  "png_sha256": "27d31ffbd1167ebd26abafb2563869b52e62ff4261092f4ba5db5992775716e3",
+  "preview_sha256": "c853692808cf023b67b9ebe94026e1120a45f798e63fda5d21bb3eae00ef35b1",
+  "png_bytes": 1343948,
+  "preview_bytes": 283156,
+  "pixel_std": 47.09598692856429,
+  "created_at": "2026-10-08T08:48:03.812316+00:00"
+}

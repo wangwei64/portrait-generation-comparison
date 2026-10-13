@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-64353",
+  "prompt": "A horizontal candid close portrait of a boy with very short dark hair, leaning toward the camera with both arms extending toward the lower edges. He looks directly into the lens with a calm closed-mouth expression and wears a black-and-white sleeveless graphic shirt. The bright room has pale upper walls and a blue lower section. A tall black loudspeaker and a blurred person in a colorful costume and straw hat stand behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-337-342.jpg",
+  "reviewed_source_sha256": "aadee60fb24017ca9cef71961534e3b6629a2a0744ace7cae6141479df29d874",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

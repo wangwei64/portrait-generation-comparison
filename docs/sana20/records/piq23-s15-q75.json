@@ -1,0 +1,37 @@
+{
+  "index": 16,
+  "image_id": "piq23-s15-q75",
+  "prompt": "A woman with shoulder-length blonde hair sits sideways on a sofa in a dim room, facing right and looking down at a glowing white-framed tablet held in both hands. She wears a dark navy long-sleeved top. The horizontal view shows her head, torso and bent arms, with the tablet tilted diagonally toward her face. Black-and-white geometric cushions and a mustard cushion surround her. A mustard-colored wall with a large abstract print and a short string of warm lights occupies the left background. A round floor lamp stands above her shoulder, and a pale curtain with dense black dots fills the right background.",
+  "prompt_sha256": "b911660ff08be05e722514c2f7aa5eba3aeb59383ae2c824664a20d5fdd50bf9",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/30/308a08d2b1642f493962ded2bd39ef8c632d786f84bcf8e247c6814c4cc7524c.png",
+  "original_sha256": "308a08d2b1642f493962ded2bd39ef8c632d786f84bcf8e247c6814c4cc7524c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0b/0b3eb43645b08ead9cc1d1bcf33de476992a3ad954768f7480405f9552eac720.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 332,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9423476867377758,
+  "png_path": "generated/piq23-s15-q75.png",
+  "preview_path": "previews/piq23-s15-q75.jpg",
+  "png_sha256": "810e5937775c2043a0df57fd66fde5c139aefe0a1da6ccac3087a9df7d616e12",
+  "preview_sha256": "df5478dd9c20ad56e0c9c5fdf882ad1b0c4dc868af4ac6549ac00c4b6ff6a2c5",
+  "png_bytes": 1411922,
+  "preview_bytes": 306680,
+  "pixel_std": 56.39272550916988,
+  "created_at": "2026-10-08T08:46:01.758391+00:00"
+}

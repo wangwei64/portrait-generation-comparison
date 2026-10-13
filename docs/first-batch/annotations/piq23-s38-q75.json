@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s38-q75",
+  "source_sha256": "7fe17cb34f1112ad797a8683d482dbca15915797b6bde5e769a787c7220adbcf",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "raised_hand",
+    "path",
+    "outdoor"
+  ],
+  "prompt": "A woman with shoulder-length brown hair stands on a paved pedestrian path between buildings. She wears a dark blue textured sweater and faces the camera with a neutral expression. Her right hand is raised beside her head on the left of the image, palm forward and fingers spread; her other arm hangs down. The horizontal frame shows her head and upper torso. A glass-fronted office building recedes along the left, a pale wall runs along the right, and patches of grass, low greenery and a small tree border the curving pathway behind her.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

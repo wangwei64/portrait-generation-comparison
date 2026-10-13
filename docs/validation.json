@@ -1,0 +1,13 @@
+{
+  "passed": true,
+  "groups": 300,
+  "shared_prompts": true,
+  "shared_seed": 42,
+  "shared_dimensions": false,
+  "steps": {
+    "zimage": 50,
+    "qwen": 50,
+    "sana": 20
+  },
+  "sana_png_validation": "sana20/local-png-validation.json"
+}

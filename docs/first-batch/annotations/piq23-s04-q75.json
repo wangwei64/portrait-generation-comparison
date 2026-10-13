@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s04-q75",
+  "source_sha256": "2c7205f3a4a983776e5499f1f7f561294f5b90622d244ee73de292579de388bc",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "raised_hand",
+    "table",
+    "indoor"
+  ],
+  "prompt": "A curly dark-haired man sits behind a wooden table, facing the camera in a navy blazer and an open-neck white shirt. His right hand is raised beside his face, palm forward with fingers spread, while his left hand rests flat on the table. His upper body occupies the center-right of the horizontal frame. Tall orange and purple glass bottles stand in the left foreground, a pale blue bottle is cut off at the right edge, and green foliage and a string of small lights cross the table. A black metal shelf, an OPEN sign and part of a dartboard appear against the pale wall behind him.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s49-q75",
+  "source_sha256": "d548c16a112714ac13c8e136a2e01f1d39eb487d2c2fd0d9c4e58eb65247a254",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "full_body",
+    "standing",
+    "building"
+  ],
+  "prompt": "A man with short dark hair stands facing the camera in the middle of a narrow brick-paved passage between tall buildings. He wears a black hooded jacket over a dark shirt, dark jeans and brown lace-up shoes with pale soles. His arms hang down at his sides and his feet are close together. His full body appears relatively small near the center of a wide horizontal composition. Low clipped shrubs and young trees line both sides of the path. A pale solid wall rises on the left, rows of office windows extend along the right, and tall facades close the distant end.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-30410",
+  "candidate_index": 92,
+  "ffhq_id": 30410,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-30410.jpg",
+  "source_sha256": "5332df13f9dfe1464e5cc6160d41275674c7765c3433ce5edf0a5e4c4de642ea",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3888,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/oceanyamaha/3753054447/",
+    "photo_title": "20090724_MG_4818",
+    "author": "ocean yamaha",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-07-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/oceanyamaha/3753054447/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "82dbf57798895d288a02c98bfc458059",
+  "current_decoded_pixel_md5": "0318a3229295545169302dc95a82d102",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.11360731659299904,
+  "fetched_at": 1791365346.003782,
+  "visual_review": "pending"
+}

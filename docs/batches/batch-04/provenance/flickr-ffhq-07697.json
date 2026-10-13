@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-07697",
+  "candidate_index": 174,
+  "ffhq_id": 7697,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-07697.jpg",
+  "source_sha256": "0659132b89495fa0531020ae236d2584e23e9ad5007f6c70310a1dfae1af6f52",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4912,
+    3264
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/wendell_thejesus/19386229853/",
+    "photo_title": "DSC08981",
+    "author": "Wendell F. S. Diniz",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2015-07-26",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/wendell_thejesus/19386229853/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "5a5cf0552ea5ce22782b0cbc0524d6ec",
+  "current_decoded_pixel_md5": "a02c4a0d5b9b4bb7b58546a0b7fb5b08",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1479220556300696,
+  "fetched_at": 1791365524.5397685,
+  "visual_review": "pending"
+}

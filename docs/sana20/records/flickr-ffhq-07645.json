@@ -1,0 +1,37 @@
+{
+  "index": 145,
+  "image_id": "flickr-ffhq-07645",
+  "prompt": "A horizontal interview photograph of a man with a closely shaved head and short beard, seated in a dark suit jacket over a fine-striped open-collar shirt. A small clip-on microphone is attached near the shirt opening. He looks toward a blonde interviewer whose back and shoulder are cropped on the right. Frame his head and torso with a bottle and glass at the lower edge, against a pink-purple lit stage wall.",
+  "prompt_sha256": "1e9668de6c29b8203ebecce87c5a8b04785db832e3d9f8dff4ae08398c631e31",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/96/96e1c66bcf9f06b28166357d01d02c103f7412dfacc797b0c0453ce7c9954e9b.png",
+  "original_sha256": "96e1c66bcf9f06b28166357d01d02c103f7412dfacc797b0c0453ce7c9954e9b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8d/8d60649f3798107a820db6baa23fad5358cf94888de79306a08631f7beef0a9b.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403745494782925,
+  "png_path": "generated/flickr-ffhq-07645.png",
+  "preview_path": "previews/flickr-ffhq-07645.jpg",
+  "png_sha256": "d1e1cf69418cb7f4d1b56b960e33ff76441e64e861a1c8eedfd95c80b70f471f",
+  "preview_sha256": "b9445d3cc08917f27f483e8c285753ce78fb2d21b25838e2f1a7d00d6ec05a20",
+  "png_bytes": 1499604,
+  "preview_bytes": 274414,
+  "pixel_std": 97.5410734906701,
+  "created_at": "2026-10-08T08:48:53.396181+00:00"
+}

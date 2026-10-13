@@ -1,0 +1,37 @@
+{
+  "index": 246,
+  "image_id": "flickr-ffhq-01897",
+  "prompt": "A vertical portrait of a man with very closely cropped hair and a short salt-and-pepper beard, smiling warmly at the camera. His shoulders are turned slightly to one side. He wears a blue chambray button-front shirt with chest pockets and buttoned shoulder tabs. Frame his head and upper torso against an uncluttered off-white background, using soft even illumination to retain natural skin texture and subtle facial shadows.",
+  "prompt_sha256": "bda1754e57ff9411293192087d1b07870339bfe515c7d3b72eb2b97a2afac308",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bb/bb33c18d50ecdc8d416f64e4cdf70ccbc7f93b93e624b42a39d1fe836ecea3e5.png",
+  "original_sha256": "bb33c18d50ecdc8d416f64e4cdf70ccbc7f93b93e624b42a39d1fe836ecea3e5",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/54/54699e28f773fa66d42a42d92eea7149afc840404bddb665f92aa7eef31ec1ab.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415804967284203,
+  "png_path": "generated/flickr-ffhq-01897.png",
+  "preview_path": "previews/flickr-ffhq-01897.jpg",
+  "png_sha256": "a02b44b0b97bc06396d122881aabe961b2ab36c4facf15a516ab989f549831f2",
+  "preview_sha256": "f3d4a1bb88b3132ee7738d103fc6977a1caff259a4f6045337891a9f1476545b",
+  "png_bytes": 1253306,
+  "preview_bytes": 340544,
+  "pixel_std": 83.14901787069871,
+  "created_at": "2026-10-08T08:51:10.069018+00:00"
+}

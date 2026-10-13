@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-61858",
+  "candidate_index": 125,
+  "ffhq_id": 61858,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-61858.jpg",
+  "source_sha256": "ee4f328b127df2c5d9710e4abac94b12bdca10cee66b837cb3724208b9d18d9e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2448,
+    3264
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/shanaver/16970243197/",
+    "photo_title": "Eleanor",
+    "author": "bryan shanaver",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2015-04-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/shanaver/16970243197/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "5cc41d47d9c5e3092b4ce1a6b82a18d2",
+  "current_decoded_pixel_md5": "348a25a50c8be1dd197134cf01ad2833",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1432867366717929,
+  "fetched_at": 1791365433.9245636,
+  "visual_review": "pending"
+}

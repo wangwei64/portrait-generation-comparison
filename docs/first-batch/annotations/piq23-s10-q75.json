@@ -1,0 +1,19 @@
+{
+  "image_id": "piq23-s10-q75",
+  "source_sha256": "c0ca16f12f0a383d6bf44ea98b0d1d945dde19b3a040cee2e113b62c96feeeb0",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "reading",
+    "hand",
+    "window",
+    "indoor"
+  ],
+  "prompt": "A young man with swept-back brown hair sits at a white table beside a window. He wears a brown and gray knitted sweater with patterned bands across the chest and upper arms. His head turns downward toward an open illustrated book on the tabletop. One forearm rests beside the book and the nearer hand extends into the lower foreground near the table edge. The vertical composition includes his head, torso and arms. A black-and-white patterned curtain and window stand behind him on the left, while a tall green potted plant sits above a white radiator on the right. Small colored counters and a patterned textile appear on the table.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

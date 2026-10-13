@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-05442",
+  "prompt": "A vertical high-angle backyard selfie of a woman with shoulder-length blonde hair and darker roots, wearing a turquoise scoop-neck T-shirt and matching dangling earrings. She looks up at the camera with slightly parted lips, one arm extending out of frame. Warm low sunlight crosses her face and casts an angular shadow on her chest. Behind are grass, paving stones, a rough gray wall, a turquoise door and a purple play tent.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-115-120.jpg",
+  "reviewed_source_sha256": "c6049f28d01b302f7599e659fc4082c19c9374735d0b7276a08354015297ba74",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

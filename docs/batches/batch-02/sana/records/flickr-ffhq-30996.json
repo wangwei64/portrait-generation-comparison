@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-30996",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical theatrical studio portrait of a woman in profile, facing left toward a small black bird perched on her raised hand with its wings spread. Her blonde hair is arranged in a tall elaborate updo. She wears a sleeveless textured olive-green dress, a pearl necklace and small dangling earrings. Red lipstick and dark eye makeup are visible. Dramatic side lighting separates her face and the bird from a softly mottled blue-gray background.",
+  "prompt_sha256": "4fa594bf2375823676ee308250fa4a9f5b0c6c0abf9480d7233a6c05b842e6c3",
+  "seed": 42,
+  "token_count": 292,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 2.0622738897800446,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 8.198065757751465,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 7,
+  "pixel_std": 44.72035562053557,
+  "generated_at": "2026-10-07T10:13:38.849817+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-30996.png",
+  "sha256": "d5efd08c254a7dc8fb8bcc05ab7a5307dbc564e6b68768d12cdc224e11fdc976",
+  "bytes": 1457157
+}

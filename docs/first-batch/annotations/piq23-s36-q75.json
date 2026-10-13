@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s36-q75",
+  "source_sha256": "f7a2210a67e9e1403e97e5b2833da63181c63dada53be3b98f78cbe5cabd8e91",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "crouching",
+    "hands",
+    "full_body"
+  ],
+  "prompt": "A young man with short light-brown hair crouches on a gray brick-paved path, facing the camera. He wears a light gray short-sleeved T-shirt, dark blue jeans and pale canvas sneakers, with sunglasses hanging from his shirt collar. His elbows rest against his bent knees, and his hands meet loosely in front of him. His entire crouching figure is visible in a vertical frame, with a large area of paving extending toward the foreground. Dense green shrubs, grass and a pale residential building stand behind him.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

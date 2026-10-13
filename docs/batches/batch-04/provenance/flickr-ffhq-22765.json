@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-22765",
+  "candidate_index": 207,
+  "ffhq_id": 22765,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-22765.jpg",
+  "source_sha256": "bde52a205153b41afbdf1f4c761f54c29abdd99bb0da25cc2bc25cf7d61979e7",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2047
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/coachboltonlahs/27800485324/",
+    "photo_title": "0L9A8605",
+    "author": "Coach Bolton and his LAHS photography students",
+    "country": "",
+    "license": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "date_uploaded": "2016-07-19",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 10,
+  "photo_url": "https://www.flickr.com/photos/coachboltonlahs/27800485324/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "adced7274856294cbb0f0783a775d14f",
+  "current_decoded_pixel_md5": "0b3efd2221736ad380417a9f9ea21b3f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1398719467379746,
+  "fetched_at": 1791367176.2082644,
+  "visual_review": "pending"
+}

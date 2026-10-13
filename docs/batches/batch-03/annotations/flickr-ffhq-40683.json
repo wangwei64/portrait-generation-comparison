@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-40683",
+  "prompt": "A horizontal portrait of a man with medium-length wavy gray hair brushed back, turning his head toward the camera with a neutral expression. He wears a bright blue athletic T-shirt with gray shoulder seams. Show his head and upper torso at a slight angle in a cool gray interior with mirrors, glass partitions and bright fluorescent ceiling fixtures behind. The face is evenly lit with gentle shadows beneath the eyes and chin.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-151-156.jpg",
+  "reviewed_source_sha256": "7cfd507f8430564989afa1cf819c165f2f053cd0667389f191bf5ab5c072378c",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

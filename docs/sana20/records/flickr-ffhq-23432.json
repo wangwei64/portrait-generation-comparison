@@ -1,0 +1,37 @@
+{
+  "index": 52,
+  "image_id": "flickr-ffhq-23432",
+  "prompt": "A vertical indoor portrait of a man wearing a black bowler hat, a curly dark wig and a short rectangular black costume mustache. He tilts his head slightly and gives the camera a small smile. His black coat is open over a white collared shirt and a loose dark tie. Pale cabinets and a round white paper lampshade occupy the softly lit background. Include his head and chest.",
+  "prompt_sha256": "7cc252ef5cc4a1539a8dd8c03efd6af9ad77872e4545139a0066e55a77222751",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/10/101458c968c196a92f379438a735fccd522eb059f9ae42efc22b09a32b91761e.png",
+  "original_sha256": "101458c968c196a92f379438a735fccd522eb059f9ae42efc22b09a32b91761e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c2/c2ceafabdea68ba348ab00683fc88ac194d4d66e37cd73523b7230a80d6763f7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402242973446846,
+  "png_path": "generated/flickr-ffhq-23432.png",
+  "preview_path": "previews/flickr-ffhq-23432.jpg",
+  "png_sha256": "df7b5e26ee79a6281e3eb998c8c03d726713264ad30e1133e8f56ba107faba32",
+  "preview_sha256": "318a6f520fa87e0dd1e9cb0bbf0a0accf2b7c6e315e7aa4cb93a55f513ad036b",
+  "png_bytes": 1357184,
+  "preview_bytes": 191086,
+  "pixel_std": 68.78780804487661,
+  "created_at": "2026-10-08T08:46:48.564149+00:00"
+}

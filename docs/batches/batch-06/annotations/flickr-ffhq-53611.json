@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-53611",
+  "prompt": "A horizontal stage photograph of an older man with short white hair and rimless glasses, playing a slim silver-colored vertical flute held to his mouth. He wears a dark formal jacket, white shirt and white bow tie. Both hands are visible with fingers positioned along the instrument. Frame his head, chest and hands against a vivid purple-blue illuminated screen. Focused stage light brightens his face and the reflective instrument.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-343-348.jpg",
+  "reviewed_source_sha256": "87fb05e9448133cee1a581d6a40390355b780c462b77f4dd0d95d5a6ca86b75c",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

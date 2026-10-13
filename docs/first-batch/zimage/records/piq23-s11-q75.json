@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s11-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A dark-skinned man with short upright black hair sits sideways at a white desk wearing a light gray T-shirt and matching pale trousers. His body faces right, while he turns his head toward the camera with a slight smile. His bent forearms and hands rest near each other on the desk. The horizontal frame includes his head, torso and lap. The desk holds a small lamp, a framed picture, multicolored cards and upright bright plastic cups. A color chart and patterned test boards lean against the wall, with tiny potted plants on a shelf above and an open doorway on the left.",
+  "prompt_sha256": "96a2bc9febb84f2bce2d14794170ae236089e202312d2be597c56a0fa22556c4",
+  "seed": 42,
+  "token_count": 129,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 30.68320955336094,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077656269073486,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 102,
+  "pixel_std": 67.8589038207033,
+  "generated_at": "2026-10-07T08:55:49.242340+00:00",
+  "image_path": "zimage/generated/piq23-s11-q75.png",
+  "sha256": "5204cb371cc3c2f145eb5f756d7551e0fbfaf0569563ffcb8804a2a7c1496ca7",
+  "bytes": 945263
+}

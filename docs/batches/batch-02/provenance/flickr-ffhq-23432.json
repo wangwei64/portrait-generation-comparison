@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-23432",
+  "candidate_index": 3,
+  "ffhq_id": 23432,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-23432.jpg",
+  "source_sha256": "f8e6d0b3124a2b03ea6fe923a0d6631d1081f8f5bb44e8cf45777ee5888352a5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2510,
+    3765
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/smileham/3915370087/",
+    "photo_title": "Nicky's Birthday Party (12 of 42)",
+    "author": "Steven Mileham",
+    "country": "United Kingdom",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-09-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/smileham/3915370087/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "a5c6e16e028788aaa4d111416ac3ed45",
+  "current_decoded_pixel_md5": "a5c6e16e028788aaa4d111416ac3ed45",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12115151611350085,
+  "fetched_at": 1791365002.1867273,
+  "visual_review": "pending"
+}

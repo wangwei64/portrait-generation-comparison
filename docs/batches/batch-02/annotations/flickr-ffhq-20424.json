@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20424",
+  "prompt": "A horizontal press-conference photograph of a man with short neatly combed reddish brown hair and thin rectangular glasses. He wears a dark suit, white shirt and pale blue tie, speaking with his mouth open while looking forward. A slender black microphone with a glowing red ring angles toward him from the right. Frame him at chest level behind a table, against a muted blue-gray wall patterned with small white emblems.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-043-048.jpg",
+  "reviewed_source_sha256": "cc755dec4746bb44d84dcbf0243c2b84a218f90437d1cab59ed32d345798e9b8",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

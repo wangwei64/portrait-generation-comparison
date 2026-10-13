@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s30-q75",
+  "source_sha256": "f1a2a73f765fb07e7f2bc2bdc08500be2777d8aee07d8a22830b0ec748c9cabc",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "profile",
+    "coat",
+    "brick_wall"
+  ],
+  "prompt": "A woman with straight chin-length brown hair stands in left-facing profile against a red brick wall. She wears a black quilted hooded coat and pale trousers, with both hands tucked into the coat pockets. A dark camera hangs from a strap against the front of her coat near her waist. The vertical composition frames her from the head to the upper thighs and places her toward the right, leaving open brickwork on the left. Pale mortar lines and faint chalk marks cross the wall, with her shadow falling to the left.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

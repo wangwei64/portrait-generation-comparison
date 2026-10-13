@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-45740",
+  "prompt": "A horizontal candid street portrait of a woman with short side-parted brown hair, looking at the camera with pursed pink lips and one eyebrow slightly raised. She wears a dark round-neck top, with her shoulders cropped close. A green cafe awning and circular shop emblem appear behind her along with out-of-focus pedestrians and a pale doorway. Soft daylight gives the image a warm casual snapshot appearance.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-313-318.jpg",
+  "reviewed_source_sha256": "1945454e329158d0b5cb5e6ded6a61bd5d387b990a5293ca9f96d5046bf757a6",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

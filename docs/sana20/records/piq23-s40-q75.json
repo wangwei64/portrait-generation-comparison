@@ -1,0 +1,37 @@
+{
+  "index": 41,
+  "image_id": "piq23-s40-q75",
+  "prompt": "A young man with short straight brown hair and thick black rectangular glasses looks directly toward the camera with a slight closed-mouth smile. He wears a bright blue hoodie beneath a navy quilted jacket. The vertical close portrait frames his head, shoulders and chest. A large rough-barked tree trunk fills almost the entire background immediately behind him, with small green ivy leaves growing between the deep bark crevices. His head is slightly left of center, and the blue hood bunches around his neck.",
+  "prompt_sha256": "3256ab0c0097eb0422d5828c2e33f57eec81c5c995bc3036d24ae37e54fb6d1b",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/79/7980ced88103876e5aa0182dde29f6558572e6ad37d404155e41ebf2da10de9e.png",
+  "original_sha256": "7980ced88103876e5aa0182dde29f6558572e6ad37d404155e41ebf2da10de9e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9d/9d224bb9e72857e3e928e0f2901d1d097e0b6e38f38caafbef41ff125fe0fd6f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 303,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415178149938583,
+  "png_path": "generated/piq23-s40-q75.png",
+  "preview_path": "previews/piq23-s40-q75.jpg",
+  "png_sha256": "188e01bb847afcfc3f3831f634f08d940101a999cddd75de2c981c2d7487ccb3",
+  "preview_sha256": "8a0cda31ffa0a020e22ef58a5d0021690687aabb89f16fd25a6f4f50608c96d1",
+  "png_bytes": 2092513,
+  "preview_bytes": 532757,
+  "pixel_std": 59.07651624398687,
+  "created_at": "2026-10-08T08:46:34.577171+00:00"
+}

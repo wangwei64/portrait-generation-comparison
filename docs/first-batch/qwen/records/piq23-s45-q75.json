@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s45-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A woman with shoulder-length brown hair stands beside a large round pale column outdoors. She looks toward the camera wearing an olive-green hooded pullover jacket with a large front pocket, a rectangular chest label and a small flag patch. Her left arm is bent outward, with her fingertips touching the column at shoulder height on the right edge of the image. The vertical composition frames her from the head to around the hips. A paved plaza, roadside greenery, parked vehicles, distant low buildings and a tree with yellow foliage appear behind her beneath a gray sky.",
+  "prompt_sha256": "1d83391983ba7378edc32fb2407edb10046bf4083a68d1ede14c687fab9752c2",
+  "seed": 42,
+  "token_count": 133,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.758491609245539,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22209692001343,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 64.61173690690296,
+  "generated_at": "2026-10-07T09:26:33.502043+00:00",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s45-q75.png",
+  "sha256": "dba7bafc521306b68bdfd6b59d046364a6af0279837e55e9519c8ca0c6844024",
+  "bytes": 1285985
+}

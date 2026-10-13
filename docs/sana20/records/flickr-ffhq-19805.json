@@ -1,0 +1,37 @@
+{
+  "index": 61,
+  "image_id": "flickr-ffhq-19805",
+  "prompt": "A horizontal close photograph of a girl with long straight brown hair parted near the center. She looks into the camera and smiles with her teeth visible. Her head fills much of the image and her shoulders fall below the bottom edge. Behind her is a broad green grassy field leading to dense leafy trees and a pale distant sky. Soft outdoor daylight gives gentle facial shadows and a natural casual appearance.",
+  "prompt_sha256": "39b5eda0364c65130fd98aaf3e30a2ca7097576d18bf56d4b84934c0a7a0915e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ac/ac88f47d9899044771fa1cf04d6e2b457c5723ad67aeddef2ea2dda367d2d8e7.png",
+  "original_sha256": "ac88f47d9899044771fa1cf04d6e2b457c5723ad67aeddef2ea2dda367d2d8e7",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6b/6b726b66c7cc09b1d640622541697a90ef05f0578adb510fc36e980bc5914da1.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404443465173244,
+  "png_path": "generated/flickr-ffhq-19805.png",
+  "preview_path": "previews/flickr-ffhq-19805.jpg",
+  "png_sha256": "6124db87da6d72fdc5568c64a3eeff2f0bf84563a0f0dfda8b80ccf4d5ce6806",
+  "preview_sha256": "8c8757921029fc96a89d02b007dc9bbaae18d965382a58d7f2c59b409b425704",
+  "png_bytes": 1630146,
+  "preview_bytes": 284110,
+  "pixel_std": 79.41936387201822,
+  "created_at": "2026-10-08T08:47:00.616006+00:00"
+}

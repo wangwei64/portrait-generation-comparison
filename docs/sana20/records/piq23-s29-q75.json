@@ -1,0 +1,37 @@
+{
+  "index": 30,
+  "image_id": "piq23-s29-q75",
+  "prompt": "A person with short light-brown hair stands facing the camera in front of a large weathered dark green wooden gate at night. They wear an olive hooded jacket, black trousers and pale sneakers, with both hands in the jacket pockets and feet slightly apart. Their full body occupies the right-center of a wide horizontal frame. A brick pier and pale plaster wall border the gate on the right, with a rectangular wall lamp glowing overhead. Curved roof tiles line the top of the gate, a circular pale object is attached on the left, and irregular paving stones cover the ground.",
+  "prompt_sha256": "a9a4c146d0009fdbcbf0e852fcd521dd2d72677a63a45d7b102ca6bc164994b5",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b9/b9d91bc1c686082c85b01da36c6b665d4ed56785b274439404b3819d0f8426f0.png",
+  "original_sha256": "b9d91bc1c686082c85b01da36c6b665d4ed56785b274439404b3819d0f8426f0",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/91/913872026742c5558b234d52c7b046377834bfdd9b56f78efe0c075c6c7bd028.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 321,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415527917444706,
+  "png_path": "generated/piq23-s29-q75.png",
+  "preview_path": "previews/piq23-s29-q75.jpg",
+  "png_sha256": "cdae75f7ff8306605675413638e986e33b3202dc97091b7df6f6971b9e71172c",
+  "preview_sha256": "08138f79d5d92470f66e9cadccf38d415ccc3f9058a169c089d218bcb0b7ac4c",
+  "png_bytes": 1795331,
+  "preview_bytes": 421865,
+  "pixel_std": 46.995961447694135,
+  "created_at": "2026-10-08T08:46:20.286051+00:00"
+}

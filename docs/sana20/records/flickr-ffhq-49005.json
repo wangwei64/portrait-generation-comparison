@@ -1,0 +1,37 @@
+{
+  "index": 234,
+  "image_id": "flickr-ffhq-49005",
+  "prompt": "A vertical front-facing costume portrait of a young person wearing a glossy black chin-length bob wig with straight bangs and a wide pale headband patterned with small dark marks. The subject looks directly at the camera with a serious expression, pale face makeup, dark eye makeup and bright red lipstick. A black velvet-like garment has a white lace collar and small pearl-like buttons. Direct flash casts a shadow on the horizontal brown wooden boards behind.",
+  "prompt_sha256": "f4cec04bc69c3b1f9f8a1a78055e0b87fe1016802ff2ea6f3c957f5e76909a92",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5b/5b43452ddd5b6fa7dd2428e3a6ba0deffbeb41f1ab6cade43eb283259d729136.png",
+  "original_sha256": "5b43452ddd5b6fa7dd2428e3a6ba0deffbeb41f1ab6cade43eb283259d729136",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/29/29c1533d8a25154203e29c94038ff16a301ba4c627e72ee13aa2029c9b0dd9de.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 296,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401393905282021,
+  "png_path": "generated/flickr-ffhq-49005.png",
+  "preview_path": "previews/flickr-ffhq-49005.jpg",
+  "png_sha256": "71764d3aec0955d295196fac696591af642606391a8a5d3df85bae703c7187f5",
+  "preview_sha256": "a5ca82fe8bf429ba9b0d54cd5d29d240d8242f458f8c55b42dbc537542ef9940",
+  "png_bytes": 1450165,
+  "preview_bytes": 263582,
+  "pixel_std": 58.10063340784184,
+  "created_at": "2026-10-08T08:50:54.350656+00:00"
+}

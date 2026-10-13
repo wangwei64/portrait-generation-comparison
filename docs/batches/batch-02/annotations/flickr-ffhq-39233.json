@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-39233",
+  "prompt": "A vertical garden portrait of a woman with straight shoulder-length gray-blonde hair and a side fringe. She wears thin rectangular metal glasses, a blue openwork knitted V-neck top and a fine necklace. She faces the camera with a restrained closed-mouth smile. Show her head and upper torso, with sunlight on the hair and forehead, dense green leaves, white blossoms and part of a wooden fence behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-007-012.jpg",
+  "reviewed_source_sha256": "d082d512038018a3477e95a857ac2fd7dee94311fc2a28cd9abcc5829d314711",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

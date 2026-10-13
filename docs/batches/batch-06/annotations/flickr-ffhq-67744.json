@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-67744",
+  "prompt": "A vertical formal portrait of a young man with thick black hair swept upward and to one side, smiling at the camera with teeth visible. He wears a crisp pale blue collared shirt and a navy tie with small gold dots. His shoulders are angled slightly while his face remains forward. Frame his head and chest against a mottled charcoal-gray studio backdrop, with warm even frontal light and soft shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-313-318.jpg",
+  "reviewed_source_sha256": "7249b9d0a682f2b81d8ef745a8ddcc93737e194e76d0eb2f69a5db90b4fbce81",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

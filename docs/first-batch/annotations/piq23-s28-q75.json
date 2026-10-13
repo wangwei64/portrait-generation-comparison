@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s28-q75",
+  "source_sha256": "d54d729775ea6b58311f7261a0eb585b34a8d288dced344ed7f3702b103b3324",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "smile",
+    "coat",
+    "night"
+  ],
+  "prompt": "A smiling dark-skinned woman with dark hair tied up stands on a garden path at night. She wears a black padded coat over a tan ribbed turtleneck, black trousers and a small black crossbody bag in front of her hip. Her hands are held behind her back. The vertical view frames her from the head to the upper legs. Dense green and yellow foliage fills the background beneath a dark sky. A bright streetlamp stands above her on the left, and part of a green bench is visible at the right edge.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

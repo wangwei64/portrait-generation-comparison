@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-05836",
+  "prompt": "A horizontal travel photograph of a man with short dark hair smiling toward the camera beside a dark wooden boat. He wears a black zip jacket with thin white piping over a yellow shirt. His extended left arm rests on a curved wooden railing. Frame his head and chest on the right, with carved wood, a yellow geometric decorative band, windows and a few green leaves behind him in soft daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-181-186.jpg",
+  "reviewed_source_sha256": "f4469958cb2907148d6b40254d29694b1ee1cd47bb556f56457d461e3fe4ae30",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

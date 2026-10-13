@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-20671",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    896
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close photograph of a woman with short layered wavy blonde hair, resting her chin on a loosely closed hand and smiling slightly at the camera. She wears a white collared shirt beneath a pale textured sweater and a rectangular watch on a dark strap. Direct flash lights her face and hand. Drinking glasses, colored straws and a narrow menu stand occupy the lower left, while the restaurant background remains dark.",
+  "prompt_sha256": "859c00a135e87fc30168d699eb52bfe27476a97c1365681c3817b77539dadbee",
+  "seed": 42,
+  "token_count": 90,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 35.47307080030441,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.375199794769287,
+  "peak_reserved_gib": 26.33203125,
+  "nvidia_smi_peak_gib": 26.8408203125,
+  "nvidia_smi_sample_count": 116,
+  "pixel_std": 85.36638647315915,
+  "generated_at": "2026-10-07T11:39:27.753244+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372731603469464",
+  "image_path": "zimage/generated/flickr-ffhq-20671.png",
+  "sha256": "231ca87cb2618a4aa12330acf6367d65425428d07012933b7c61ac064f3fe341",
+  "bytes": 1187614
+}

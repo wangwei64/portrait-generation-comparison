@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-19851",
+  "candidate_index": 377,
+  "ffhq_id": 19851,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-19851.jpg",
+  "source_sha256": "3ff86ea3478aabb17d2953edf51b210733518ea6bbefc63317ac9624ec435ea4",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1600,
+    1064
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/southernfoodwaysalliance/2937107402/",
+    "photo_title": "Everett McBride (chicken and sausage gumbo)",
+    "author": "Southern Foodways Alliance",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-10-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/southernfoodwaysalliance/2937107402/",
+  "public_size_key": "h",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "ea80066df8c5abbce6e31bdd1656b70e",
+  "current_decoded_pixel_md5": "1372f23a0f40943da5de4a60b4b65f8e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09201063829787234,
+  "fetched_at": 1791367623.3046455,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 1,
+  "image_id": "piq23-s00-q75",
+  "prompt": "A man with short brown hair and a beard sits beside a large window in a communal indoor seating area. He wears a loose gray-blue coat over dark clothing and raises his right hand toward the left side of the horizontal frame, palm outward. His other arm hangs down beside his leg. Pale wooden tables, high chairs and a small round potted plant fill the left background. The window runs down the right side, revealing trees and a tall modern building. The wide composition includes the seated man, part of his legs and much of the room.",
+  "prompt_sha256": "95923c620b8ce54bf3aa9bf050376f429108c755e3dc8bb2f442e1d6ed0594a4",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/33/330aed9451adad0d2a2115eb82bad0984ee253827522f4e95246f03ff96f9e40.png",
+  "original_sha256": "330aed9451adad0d2a2115eb82bad0984ee253827522f4e95246f03ff96f9e40",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/aa/aaa670c887e24e3bb17148b77f18d5610696350c1cca49809099ce2e638b5f5b.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 316,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 2.8105863742530346,
+  "png_path": "generated/piq23-s00-q75.png",
+  "preview_path": "previews/piq23-s00-q75.jpg",
+  "png_sha256": "89dea2e8b4a7b7ce78dfa31a67ec4e98039fd76ea0da7a23ed7061c0287ca0a9",
+  "preview_sha256": "e00ca6dba1e2ad285152920634f41547126cc87f62c28984443db4a50f509242",
+  "png_bytes": 1670327,
+  "preview_bytes": 371198,
+  "pixel_std": 75.56167011539263,
+  "created_at": "2026-10-08T08:45:41.219212+00:00"
+}

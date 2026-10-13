@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-53259",
+  "prompt": "A horizontal outdoor portrait of a woman with shoulder-length straight black hair, turning slightly toward the camera with a small closed-mouth smile. A pale cream scarf is wrapped around her neck above a gray top, with a narrow red strap at one shoulder. Frame her head and shoulders close to the lens. An urban plaza with trees, a covered stall, seated people, a dark blue stroller canopy and a pale bag forms the softly blurred background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-241-246.jpg",
+  "reviewed_source_sha256": "5356406db5751f1e1c38761469396b130fd536a1614b3ff46fc04d57a52ce9cf",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

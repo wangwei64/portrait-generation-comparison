@@ -1,0 +1,37 @@
+{
+  "index": 70,
+  "image_id": "flickr-ffhq-26249",
+  "prompt": "A horizontal flash photograph of a small child with fine blonde hair wearing an oversized orange-and-white baseball cap tilted sideways. The child leans toward the camera and raises an open hand near the upper right of the frame. A white long-sleeved shirt sits beneath a colorful fruit-patterned top. Include the head and upper body, slightly reddish flash reflections in the eyes, and a cluttered kitchen counter with bottles and a dark appliance behind.",
+  "prompt_sha256": "6619b0fd0fb5fd3ce02cb03431a9add5a5485c3b2062b148f3ef2c3030f74fb2",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d1/d1ef3753b5142a0310ae20b86796da689e8f67553938d5873645edf7243406e7.png",
+  "original_sha256": "d1ef3753b5142a0310ae20b86796da689e8f67553938d5873645edf7243406e7",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4e/4e1f9e404c77ef8f95b7fa9f84d085a56fbca6a8d3ced1f0a307dc91f7205ba0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 296,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402553029358387,
+  "png_path": "generated/flickr-ffhq-26249.png",
+  "preview_path": "previews/flickr-ffhq-26249.jpg",
+  "png_sha256": "5b9cb978da5262f31e4b8085235d10fe871c30804ad10773f32fd0719f7c46dd",
+  "preview_sha256": "b916484d10e325a79785abacef388945a282b1df914ce74e9a1655f5cc2d9f08",
+  "png_bytes": 1778164,
+  "preview_bytes": 347577,
+  "pixel_std": 73.63332827856551,
+  "created_at": "2026-10-08T08:47:12.596307+00:00"
+}

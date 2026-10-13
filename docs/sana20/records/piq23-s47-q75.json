@@ -1,0 +1,37 @@
+{
+  "index": 48,
+  "image_id": "piq23-s47-q75",
+  "prompt": "A man with short light-brown hair styled upward and light facial stubble looks directly toward the camera. He wears a pale gray crew-neck sweatshirt over a darker neckline. The horizontal portrait frames his head, shoulders and upper chest, slightly left of center. Dense narrow green leaves fill the entire background. Sunlight catches the top and left side of his hair and creates small bright patches in the foliage, while his face remains evenly visible with a neutral closed-mouth expression.",
+  "prompt_sha256": "b4516ecf503b255f2173eb5a1b7fe7522bd7891204e3f67f96d3305f8296d6e8",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/64/64573d138ac81f0dadec7128e0c53dc181de75f51eb31cff40cb3980535ae674.png",
+  "original_sha256": "64573d138ac81f0dadec7128e0c53dc181de75f51eb31cff40cb3980535ae674",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/db/db5f86aef1b44919d68a62b04b3aff5ef51b020582fa3846d31466644a074804.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 300,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398608542978764,
+  "png_path": "generated/piq23-s47-q75.png",
+  "preview_path": "previews/piq23-s47-q75.jpg",
+  "png_sha256": "7f3348dc44f28a731c7001c6223240c14130c4942c71d963cd7fcb8a86dde33f",
+  "preview_sha256": "1fc296dfe4475b6b06a696e6845afd6097b3c9965a90a17afbe7ee1dd1ab7019",
+  "png_bytes": 1985148,
+  "preview_bytes": 433207,
+  "pixel_std": 68.17851623413873,
+  "created_at": "2026-10-08T08:46:43.640546+00:00"
+}

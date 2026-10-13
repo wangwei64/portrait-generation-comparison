@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-05836",
+  "candidate_index": 183,
+  "ffhq_id": 5836,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-05836.jpg",
+  "source_sha256": "f4469958cb2907148d6b40254d29694b1ee1cd47bb556f56457d461e3fe4ae30",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/junkii/4250741032/",
+    "photo_title": "On the Junk",
+    "author": "junkii",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2010-01-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/junkii/4250741032/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a91811032258aa353bea947b99369746",
+  "current_decoded_pixel_md5": "840801d48ec5ad26bc1f76e56472aa20",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.11582769672238061,
+  "fetched_at": 1791367117.193133,
+  "visual_review": "pending"
+}

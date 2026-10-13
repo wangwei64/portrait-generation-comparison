@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-02331",
+  "prompt": "A horizontal sunlit portrait of a woman with short layered reddish-blonde hair and dark oval sunglasses. She wears a crisp white open-collar shirt and a delicate necklace, facing the camera with a gentle closed-mouth smile. Frame her head and upper torso beside a white-framed glass door. Strong golden sunlight illuminates one side of her hair and face, while a dark interior and outdoor reflections appear in the glass behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-055-060.jpg",
+  "reviewed_source_sha256": "40f50f6921e17f43ec0bf16a0109bd87bd7af74e78ca4d4fb661dc48db7d0261",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

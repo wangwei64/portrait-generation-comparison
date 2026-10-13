@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s21-q75",
+  "source_sha256": "6477d779d1601962b7d5cf66697e0768da222a32b226f8ea31ccb1eed65df746",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "full_body",
+    "ball",
+    "hands"
+  ],
+  "prompt": "A tall young man with curly dark hair stands facing the camera with his feet apart, holding a pale green ball in both hands in front of his abdomen. He wears a black and red sports jacket with pale piping over a gray hood, tan trousers and black shoes. His full body is visible in a horizontal room view. A large round wall clock hangs to his left, a closed white door stands behind him, and his shadow falls on the pale wall to the right. A low wooden shelf with bottles and small plants is partly visible on the left above the parquet floor.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

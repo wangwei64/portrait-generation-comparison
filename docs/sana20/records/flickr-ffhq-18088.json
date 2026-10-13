@@ -1,0 +1,37 @@
+{
+  "index": 60,
+  "image_id": "flickr-ffhq-18088",
+  "prompt": "A horizontal close portrait of a woman with voluminous tightly curled black hair, looking downward and smiling broadly. Small metallic dental braces are visible. She wears a red scoop-neck top, a cream patterned choker with large red decorative stones and matching dangling earrings. Warm light catches her face and gold-toned eye makeup. Softly blurred white flowers and a warm brown interior fill the background. Crop near the shoulders and top of the hair.",
+  "prompt_sha256": "72cbd0d77b97fe7caf25e2cc82c4cdc2fde5697fd9c72b4c4258fc15b1944cf0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c8/c856903e6025880b53b655fd5191b44ebf6eab3dfe6df6055dad55c815d31ba4.png",
+  "original_sha256": "c856903e6025880b53b655fd5191b44ebf6eab3dfe6df6055dad55c815d31ba4",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8e/8ea8736eef4a74c73080b3c4701e34d79807dcb3e160801852e8073911c024e9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9443122409284115,
+  "png_path": "generated/flickr-ffhq-18088.png",
+  "preview_path": "previews/flickr-ffhq-18088.jpg",
+  "png_sha256": "45ce068de528c0e69d463b56415d8d76ca4ecb18f4b9121e2085614ecb89f9a9",
+  "preview_sha256": "de6cd8317767fad20bc5dc9f8c476f49121cfa1bf8c20dd175e24b4c7cd04700",
+  "png_bytes": 1267886,
+  "preview_bytes": 248513,
+  "pixel_std": 59.987706209679686,
+  "created_at": "2026-10-08T08:46:59.266481+00:00"
+}

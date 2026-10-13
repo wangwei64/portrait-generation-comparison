@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-12223",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical studio portrait of a smiling woman with voluminous shoulder-length curly blonde hair and bangs. She sits at a slight angle while turning her face toward the camera, wearing a shiny blouse patterned with broad purple, black and white shapes and short gathered sleeves. A thin gold necklace rests at the neckline. Frame her head and torso against a mottled blue-gray backdrop, with soft frontal light and gentle shadows.",
+  "prompt_sha256": "ea06df66a552b63d9529a3f20c110e2058d30480db0f15baec43cdd4b9aee5c0",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.416636057198048,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.596620082855225,
+  "peak_reserved_gib": 41.595703125,
+  "nvidia_smi_peak_gib": 42.1064453125,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 44.5136478825402,
+  "generated_at": "2026-10-07T10:10:19.714981+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    229,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-12223.png",
+  "sha256": "9049503d06735a03e74d4f15da1fbecda209686f5f07a4fc70b075e99b0e4970",
+  "bytes": 1283730
+}

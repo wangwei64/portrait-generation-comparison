@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42891",
+  "candidate_index": 47,
+  "ffhq_id": 42891,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42891.jpg",
+  "source_sha256": "550628940b2abb51976593e3428801f229059f0a367916e8de157bb0beb0842a",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    5760,
+    3840
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/itupictures/13560156323/",
+    "photo_title": "World Telecommunication Development Conference 2014 - Dubai day 3",
+    "author": "ITU Pictures",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-04-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/itupictures/13560156323/",
+  "public_size_key": "6k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "68eac561623008da83f90767a8ed1110",
+  "current_decoded_pixel_md5": "70e2a324611e154a80d17c18982c0cca",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06929253472222222,
+  "fetched_at": 1791365073.5761385,
+  "visual_review": "pending"
+}

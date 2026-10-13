@@ -1,0 +1,37 @@
+{
+  "index": 268,
+  "image_id": "flickr-ffhq-60710",
+  "prompt": "A horizontal photograph of a smiling boy with short light brown hair, wearing oversized clear protective goggles over narrow rectangular eyeglasses. His eyes are nearly closed and he shows his teeth while leaning slightly forward in a blue crew-neck T-shirt. Frame his head and upper torso in a classroom or laboratory. White glass-front cabinets, a dark worktop, cardboard boxes and small supplies sit softly out of focus behind him.",
+  "prompt_sha256": "0e32969945de01ec9eafdd0799974cfeed902628f8ed73fd781c746497fde845",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5e/5e527806d3d5e61584b48d43a7fa5e398aa4026578c640bfd0c5f858f8c95230.png",
+  "original_sha256": "5e527806d3d5e61584b48d43a7fa5e398aa4026578c640bfd0c5f858f8c95230",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/47/47fa37cf3c188bfb6be048b8ba99b917cb4b36098c8b4338dba9f513658a0ffc.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407543689012527,
+  "png_path": "generated/flickr-ffhq-60710.png",
+  "preview_path": "previews/flickr-ffhq-60710.jpg",
+  "png_sha256": "0cc4a36aff60ddb1dbbd36df1ae12fadea2225b004910a0d2043919e7f24505c",
+  "preview_sha256": "58fc5e124f5830b1d0480d68d77efd31c160f280dd1c5a7019d4583afb761526",
+  "png_bytes": 1480479,
+  "preview_bytes": 255102,
+  "pixel_std": 73.63949070521848,
+  "created_at": "2026-10-08T08:51:40.219506+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-32654",
+  "prompt": "A horizontal photograph of an older woman with a neat short blonde bob and thin rectangular glasses, speaking at a wooden lectern. She looks toward the left while raising a thick bundle of printed papers in one hand. She wears a navy blazer, pale floral top, fine necklace and a small round lapel pin. Two black gooseneck microphones frame her upper body against a dark background with bright vertical strips.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-379-384.jpg",
+  "reviewed_source_sha256": "f2ad1820d19882c4bbdc8744198ef20dfafd492ca774ec671feebd0c6f675ffe",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

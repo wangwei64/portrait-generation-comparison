@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-41132",
+  "prompt": "A horizontal stage photograph of a man with short brown hair and a full short beard playing an orange-brown violin under his chin. He wears a dark gray collarless buttoned shirt and looks intently toward the camera. The violin stretches across his chest, his fingers press its neck at the right edge, and a bow rises almost vertically. Warm and purple stage lights highlight his face and instrument against a nearly black background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-043-048.jpg",
+  "reviewed_source_sha256": "e6cf3edc9fbe879d64e81e4e1043fe1e026e7e3b796435ed9cc7b31edc6eb03e",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

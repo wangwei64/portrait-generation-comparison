@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42205",
+  "candidate_index": 132,
+  "ffhq_id": 42205,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42205.jpg",
+  "source_sha256": "984e7b23ef7a37685c0060ea7246cb1e9cafb0c0b16985dcd3f0299947bcdd25",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2480,
+    3508
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/skvflorbal/24480810915/",
+    "photo_title": "Lenka Schröpferová",
+    "author": "SKV Florbal",
+    "country": "",
+    "license": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "date_uploaded": "2016-01-19",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 10,
+  "photo_url": "https://www.flickr.com/photos/skvflorbal/24480810915/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "6c21afc8dc51c663e9795f41ebbe6149",
+  "current_decoded_pixel_md5": "8425ef0e8270b7938a8800ef856ff4da",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06328438224151249,
+  "fetched_at": 1791365460.2718394,
+  "visual_review": "pending"
+}

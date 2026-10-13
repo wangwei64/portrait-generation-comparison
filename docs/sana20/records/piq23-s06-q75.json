@@ -1,0 +1,37 @@
+{
+  "index": 7,
+  "image_id": "piq23-s06-q75",
+  "prompt": "A stocky man with short reddish-brown hair, a full beard and thin metal-framed glasses sits on a sofa, leaning slightly toward the camera. He wears a light gray short-sleeved T-shirt with a small dark chest logo and a black lanyard. His head, shoulders, chest and forearms fill much of a horizontal composition. He looks directly ahead with a slight closed-mouth smile. A dark sofa back and white patterned, burgundy and mustard cushions surround him. Behind him is a muted blue-green wall with circular sunburst mirrors partly cut off along the top edge.",
+  "prompt_sha256": "0cb10e5f145443ec99117f5f0578c08d0809a9417950d6774c4cd2c98fccc42d",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/68/68e693afa1c2d47697373a1f518147def151aafa98b6d2bbdaa0270496fb9078.png",
+  "original_sha256": "68e693afa1c2d47697373a1f518147def151aafa98b6d2bbdaa0270496fb9078",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3a/3a3ee2a73512229c7ebc1b7578f26772fcafcd9b31cdafe427a81a90b2aa76da.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 326,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9422580227255821,
+  "png_path": "generated/piq23-s06-q75.png",
+  "preview_path": "previews/piq23-s06-q75.jpg",
+  "png_sha256": "6c8b82aedbafc2fd897dad517dca6cbfe8696e2d89e39be8d928472cb7b5bebb",
+  "preview_sha256": "8d4f2b530a77a0dc8c943b248df9bfb33600fa2b5c1b9b7677bd666046325c88",
+  "png_bytes": 1804548,
+  "preview_bytes": 364238,
+  "pixel_std": 58.65480505337648,
+  "created_at": "2026-10-08T08:45:49.508763+00:00"
+}

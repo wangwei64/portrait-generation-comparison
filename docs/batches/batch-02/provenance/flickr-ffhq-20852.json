@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-20852",
+  "candidate_index": 82,
+  "ffhq_id": 20852,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20852.jpg",
+  "source_sha256": "1add6d0fc97476d5d5bef4f056a748c1c9bc5120013c1fff4bb043b5d8dfa329",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3200,
+    4800
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/olsenart/43156059112/",
+    "photo_title": "c-11",
+    "author": "Lucky Lynda",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2018-07-05",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/olsenart/43156059112/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "c0cd78af971d30108cac47b4068641fd",
+  "current_decoded_pixel_md5": "10fccfd7463b8efc5d0288ec7ea6ade9",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.051801041666666665,
+  "fetched_at": 1791365326.1774514,
+  "visual_review": "pending"
+}

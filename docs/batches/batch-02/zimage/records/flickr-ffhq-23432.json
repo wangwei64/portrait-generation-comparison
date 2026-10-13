@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-23432",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical indoor portrait of a man wearing a black bowler hat, a curly dark wig and a short rectangular black costume mustache. He tilts his head slightly and gives the camera a small smile. His black coat is open over a white collared shirt and a loose dark tie. Pale cabinets and a round white paper lampshade occupy the softly lit background. Include his head and chest.",
+  "prompt_sha256": "7cc252ef5cc4a1539a8dd8c03efd6af9ad77872e4545139a0066e55a77222751",
+  "seed": 42,
+  "token_count": 87,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.779831681400537,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854158878326416,
+  "peak_reserved_gib": 23.44140625,
+  "nvidia_smi_peak_gib": 23.9501953125,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 69.56956919859691,
+  "generated_at": "2026-10-07T09:36:58.108679+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-23432.png",
+  "sha256": "f2e591850c649febf7a22cf97faf4b91253716228b6ead350a05888e4ad30f52",
+  "bytes": 781627
+}

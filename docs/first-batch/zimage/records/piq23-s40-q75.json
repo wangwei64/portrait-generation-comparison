@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s40-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with short straight brown hair and thick black rectangular glasses looks directly toward the camera with a slight closed-mouth smile. He wears a bright blue hoodie beneath a navy quilted jacket. The vertical close portrait frames his head, shoulders and chest. A large rough-barked tree trunk fills almost the entire background immediately behind him, with small green ivy leaves growing between the deep bark crevices. His head is slightly left of center, and the blue hood bunches around his neck.",
+  "prompt_sha256": "3256ab0c0097eb0422d5828c2e33f57eec81c5c995bc3036d24ae37e54fb6d1b",
+  "seed": 42,
+  "token_count": 107,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.661535497754812,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07755136489868,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 97,
+  "pixel_std": 68.19113541431726,
+  "generated_at": "2026-10-07T09:10:17.555034+00:00",
+  "image_path": "zimage/generated/piq23-s40-q75.png",
+  "sha256": "96f9e1b5990367c194de855944858036f63c039eae20cdb01f206c2e5a4c7d28",
+  "bytes": 1412521
+}

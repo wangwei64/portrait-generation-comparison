@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-45210",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    960
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical indoor photograph of a boy with short spiky light brown hair, wearing an orange polo shirt with dark green, blue and white horizontal stripes. He looks directly at the camera with a quiet neutral expression. A second child's out-of-focus head partly blocks his lower torso in the near foreground. Keep the main face sharply focused, with warm soft light and a blurred brown and cream room behind.",
+  "prompt_sha256": "05ef61c53206c466b6a383053a6cda0bb11068374436423d7f4f74e60f47c15c",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.347842615097761,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 8.096442222595215,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 12,
+  "pixel_std": 67.45769642665131,
+  "generated_at": "2026-10-07T10:13:26.454205+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-45210.png",
+  "sha256": "780c78682a7dea6f2f6a3dab6b0816876669705258e16ff1daf67fad99ed98a6",
+  "bytes": 1136093
+}

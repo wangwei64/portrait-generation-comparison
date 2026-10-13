@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-28281",
+  "prompt": "A vertical posed photograph of a man with short slightly tousled dark hair and a mild smile, looking directly toward the camera. He wears a loose light gray polo shirt with a small colorful embroidered emblem on the chest and another patch on one sleeve. Frame him from the head to the waist, with relaxed shoulders and arms down. A colorful exhibition backdrop with map-like lines and partial large lettering fills the background under direct indoor light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-199-204.jpg",
+  "reviewed_source_sha256": "01cc433e4d793b69b1ac199f435548c3e29e79fd84ff36f0550a4d2cded5bfef",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

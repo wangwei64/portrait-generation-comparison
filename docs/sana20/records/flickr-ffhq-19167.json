@@ -1,0 +1,37 @@
+{
+  "index": 193,
+  "image_id": "flickr-ffhq-19167",
+  "prompt": "A vertical candid photograph of an older woman seated beside a large vehicle window. She has short light brown hair, thin oval glasses and hoop earrings, and wears a black jacket over a purple knitted sweater. Her eyes are closed and her face relaxed. Frame her head and upper torso at the right, with dark blue window frames and a bright view of grass, a pale roadside and dense evergreen trees outside.",
+  "prompt_sha256": "475e18bfa564cd05e3a23fd5ab42e8cdbbf8b34ce7a5b8f90057e31bc99efcf0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0b/0b74b95b4e812fcebfa71eff4958a3fbce523c1c6cc06abb429f0580a817319d.png",
+  "original_sha256": "0b74b95b4e812fcebfa71eff4958a3fbce523c1c6cc06abb429f0580a817319d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4b/4b5f5b371274b2024aadb9abda3ffabecf3967e865a06dde853ee337f04ba751.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412682428956032,
+  "png_path": "generated/flickr-ffhq-19167.png",
+  "preview_path": "previews/flickr-ffhq-19167.jpg",
+  "png_sha256": "813b388ffb14dead7924f80700cabecdbabf72851a26b817828c2e7ab02cec4f",
+  "preview_sha256": "3e516f3a5df2266ea1a7550e56e3b04f047f952159c2005d78cff7a4d2ad753f",
+  "png_bytes": 1599398,
+  "preview_bytes": 305106,
+  "pixel_std": 82.3143721425195,
+  "created_at": "2026-10-08T08:49:58.361596+00:00"
+}

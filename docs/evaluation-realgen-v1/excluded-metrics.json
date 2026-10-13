@@ -1,0 +1,14 @@
+{
+  "updated_at": "2026-10-08T04:10:30.455725+00:00",
+  "effort": {
+    "status": "checkpoint_unavailable",
+    "checkpoint": "Official Effort GenImage checkpoint",
+    "public_google_drive_id": "1UXf1hC9FC1yV93uKwXSkdtepsgpIAU9d",
+    "reason": "Official public Google Drive link returned a download quota / too-many-users error during this run; earlier A800 access was also unavailable. No checkpoint acquired; no random-weight or partial-score substitute.",
+    "retry_scope": "Download is not being retried continuously; no access restriction bypass."
+  },
+  "gpt5_single_and_arena": {
+    "status": "excluded_by_user",
+    "reason": "User requested no external API calls; no independent GPT API configured or used."
+  }
+}

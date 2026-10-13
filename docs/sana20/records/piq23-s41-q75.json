@@ -1,0 +1,37 @@
+{
+  "index": 42,
+  "image_id": "piq23-s41-q75",
+  "prompt": "A dark-skinned man with short textured black hair stands facing the camera with a small smile. He wears a blue-gray winter parka zipped to the neck, with a wide pale tan faux-fur trim framing the back of his hood. The horizontal portrait shows his head, shoulders and upper chest. Behind him, a dark gray tiled wall covers the left and center, while a narrow strip of orange-red brickwork occupies the right. His face is positioned just right of center, and the coat has large dark buttons and flap details.",
+  "prompt_sha256": "3c3885dc4ae97633c3fccebcf307f1a32f9fa3dc71f4246f18a1affdc370c1bd",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/49/499c20a7cce9fb1b109cdfb4e99deb3da9d35686d48485f05cbf5a6831e9a9ab.png",
+  "original_sha256": "499c20a7cce9fb1b109cdfb4e99deb3da9d35686d48485f05cbf5a6831e9a9ab",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/be/be08dba00595687bdd4dc95e4437cabb01992491d83acb7909f2cc1631e144d6.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 315,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412541165947914,
+  "png_path": "generated/piq23-s41-q75.png",
+  "preview_path": "previews/piq23-s41-q75.jpg",
+  "png_sha256": "0fdd3a48e1dd094ec30753f598786bb17753a6815ea4619bac7e0e72ea18856d",
+  "preview_sha256": "50d068cf6481696a48cf29544b8ccd35bbfd858d5e895050137268605f61da44",
+  "png_bytes": 1722557,
+  "preview_bytes": 305939,
+  "pixel_std": 59.913521723130714,
+  "created_at": "2026-10-08T08:46:35.944931+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42758",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    832,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical chest-up portrait of a man with medium-length wavy gray hair, round metal glasses and a dark mustache and goatee streaked with gray. He wears a dark jacket, bright blue collared shirt and a loosely knotted black tie. Looking straight into the camera, he gives a small relaxed smile. Soft cool light highlights his face and hair against a dim blurred brown and green interior.",
+  "prompt_sha256": "db32a7a12af954f132d44f66616000808663d45ace162e2ae201c59b8a9faf0c",
+  "seed": 42,
+  "token_count": 287,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.8371052145957947,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.893195152282715,
+  "peak_reserved_gib": 11.63671875,
+  "nvidia_smi_peak_gib": 12.1533203125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 59.85964312349274,
+  "generated_at": "2026-10-07T11:31:23.136318+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372598535841839",
+  "image_path": "sana/generated/flickr-ffhq-42758.png",
+  "sha256": "0c1c7e7c0eba6327862e967e96d6983fd9abff00539c969dcf3a1aa5e1beb845",
+  "bytes": 960506
+}

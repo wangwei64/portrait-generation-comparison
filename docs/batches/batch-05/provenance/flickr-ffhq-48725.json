@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-48725",
+  "candidate_index": 224,
+  "ffhq_id": 48725,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-48725.jpg",
+  "source_sha256": "87670e71827b364d013c9ec77237ec241174c43589af1781e2398abecb7d788c",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/danielwork77/4186529772/",
+    "photo_title": "kids",
+    "author": "Daniel Work",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-12-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/danielwork77/4186529772/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "d21b390a52fca9c232204532dab588aa",
+  "current_decoded_pixel_md5": "62b4e1ba07fbbb333c08bba776db9a52",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1577406004489338,
+  "fetched_at": 1791367216.1216545,
+  "visual_review": "pending"
+}

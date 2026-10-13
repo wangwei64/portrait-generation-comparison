@@ -1,0 +1,37 @@
+{
+  "index": 93,
+  "image_id": "flickr-ffhq-12223",
+  "prompt": "A vertical studio portrait of a smiling woman with voluminous shoulder-length curly blonde hair and bangs. She sits at a slight angle while turning her face toward the camera, wearing a shiny blouse patterned with broad purple, black and white shapes and short gathered sleeves. A thin gold necklace rests at the neckline. Frame her head and torso against a mottled blue-gray backdrop, with soft frontal light and gentle shadows.",
+  "prompt_sha256": "ea06df66a552b63d9529a3f20c110e2058d30480db0f15baec43cdd4b9aee5c0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0a/0a6b73cc37f7b7bb25931dd78cac2566bdceba1c81649fb00573635e1027a353.png",
+  "original_sha256": "0a6b73cc37f7b7bb25931dd78cac2566bdceba1c81649fb00573635e1027a353",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/70/7092ed061da66f8c3cf29e35efd24f75159420930d3e638ac47825318665d009.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9410366788506508,
+  "png_path": "generated/flickr-ffhq-12223.png",
+  "preview_path": "previews/flickr-ffhq-12223.jpg",
+  "png_sha256": "761fb841b5764f1579d4f8bf2cb19df56d8d77896fad8136fd829a57faff6c3f",
+  "preview_sha256": "02dfafa18b55266a926e500803ee979a2a8f8e84903e6861548463d073051055",
+  "png_bytes": 1873272,
+  "preview_bytes": 371510,
+  "pixel_std": 53.141234205077104,
+  "created_at": "2026-10-08T08:47:43.524190+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-59266",
+  "prompt": "A horizontal outdoor photograph of a girl with blonde hair pulled back, wearing a large handmade metallic-green headpiece shaped like pointed ears with dark circular centers. Green straps cross her black printed T-shirt. She looks ahead with her mouth open as if singing. Frame her head and upper torso, with other similarly costumed children partially visible at both sides. Strong sunshine highlights the shiny headpiece and loose hair.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-127-132.jpg",
+  "reviewed_source_sha256": "f563ec9ded523075c6c313e3d8daf739723427be9562fe271adff478caf08078",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

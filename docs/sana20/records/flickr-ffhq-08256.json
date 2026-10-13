@@ -1,0 +1,37 @@
+{
+  "index": 276,
+  "image_id": "flickr-ffhq-08256",
+  "prompt": "A vertical candid photograph of a woman with light brown hair braided over one shoulder, making a playful face by crossing her eyes and sticking out her tongue. She wears large ornate gold hoop earrings, a wide geometric gold necklace and a black off-the-shoulder top with patterned fabric near the bottom. Frame her head and upper torso from slightly above. Warm light falls across her face against pale wooden boards and small wall decorations.",
+  "prompt_sha256": "e5581348bf2c59a9eaec2c362ef895e65f75b9a9e7064c6112cc1346d5132d4e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    832,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/84/848fde16a3417a9acc2ae16133b2a8742f33fd6522bbb0b6f70a771680d73e6a.png",
+  "original_sha256": "848fde16a3417a9acc2ae16133b2a8742f33fd6522bbb0b6f70a771680d73e6a",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/20/20ca2412df82d6fde11201488843b957dd44faab171915792f72c0d9325fe6f8.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400306046009064,
+  "png_path": "generated/flickr-ffhq-08256.png",
+  "preview_path": "previews/flickr-ffhq-08256.jpg",
+  "png_sha256": "74eb8b43af27bce82ee60cfa44c544c3ead42e9df66012dc1caa28c3c4b78e2b",
+  "preview_sha256": "6a03839d425e05723f75116f249766c9e658f7e03ad5defe3d42bb7844618d06",
+  "png_bytes": 1755055,
+  "preview_bytes": 346071,
+  "pixel_std": 60.327844792270376,
+  "created_at": "2026-10-08T08:51:50.773922+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 188,
+  "image_id": "flickr-ffhq-36571",
+  "prompt": "A vertical high-angle outdoor portrait of a woman with dark curly hair tied back, smiling broadly toward the camera. She wears a patterned sleeveless top, a black cord tied around her neck, a small pendant and a black backpack. Bright overhead sunlight produces strong highlights and shadows on her face and shoulders. Dense spiky green plants and thin dry branches fill the surrounding sunlit scrubland background.",
+  "prompt_sha256": "3e88a384e804b27bc97b53c84150f174b77965a74572c0f545a26a11ac378f95",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fb/fb861548cdff8d8a6123591389006d763508be2ccb32a5054e039314b61f1384.png",
+  "original_sha256": "fb861548cdff8d8a6123591389006d763508be2ccb32a5054e039314b61f1384",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b4/b4c63a16a6500daa416364c6ea11a3400db93c4c42de1f9a2f54aec833701c3a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9410635493695736,
+  "png_path": "generated/flickr-ffhq-36571.png",
+  "preview_path": "previews/flickr-ffhq-36571.jpg",
+  "png_sha256": "b0310176cdc125ed64c304047c345c8de5b6522755f1dc61ab386287f5d154f3",
+  "preview_sha256": "8d2cbc1284ade7d3f2a0c02b8e55241e6b0eb91b51479b4208af4d5ac109337f",
+  "png_bytes": 1852211,
+  "preview_bytes": 466042,
+  "pixel_std": 63.17581087787984,
+  "created_at": "2026-10-08T08:49:51.650035+00:00"
+}

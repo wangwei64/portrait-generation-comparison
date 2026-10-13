@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-69377",
+  "prompt": "A vertical chest-up portrait of an older man with shaggy gray-brown hair and a sandy-gray mustache. He smiles toward the camera, wearing a black button-down shirt and a dark tie with a large pink floral pattern. Bright natural light reveals fine facial lines and slightly flushed cheeks. The background consists of softly blurred sunlit green trees, with the subject centered and both shoulders visible.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-295-300.jpg",
+  "reviewed_source_sha256": "6b6952d326a496f9271ecfae221ab3264cb609f1e75fb0b5c05ab01281ddf01b",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

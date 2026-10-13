@@ -1,0 +1,34 @@
+{
+  "metric": "maniqa",
+  "native_preprocessing": true,
+  "initialization_change": "Skip redundant timm ImageNet checkpoint; PyIQA still loads the complete MANIQA checkpoint with strict=True.",
+  "semantics": "PyIQA maniqa native no-reference image quality. Lower is better for NIQE/BRISQUE; higher for MUSIQ/MANIQA/CLIPIQA. Not AI detection.",
+  "pyiqa_version": "0.1.15.post2",
+  "cache_weights": {
+    "niqe_modelparameters.mat [9e80e470da]": "fa2aa4d12dd9595c3fb6bf8b4e1a15c79d5d1469238d0901c88dead195be578d",
+    "musiq_koniq_ckpt-e95806b9.pth [986b6e9060]": "e95806b9eae5f3814c410f574ba8e552362bd5bc63d758ed5b97860f5d6185aa",
+    "brisque_svm_weights.pth [0e9cc9f77c]": "e5b048ef5325bae6c57965cf077fadfa5834fcefb02e13611b4ea2d36cf3c52c",
+    "ckpt_koniq10k.pt [efb574d9d8]": "a207f8ab57322e6be38ff5c8d019301dc032b454bef21c3c9f9dbf7974eebff6",
+    "RN50.pt [fe8e49871b]": "afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762"
+  },
+  "unrelated_cache_snapshot_changes": [
+    {
+      "path": "[local path omitted]",
+      "old_snapshot_sha256": "91bd1d066456d3395caf8a606488acc76d6c62e0afcd5ee69cfb2432861d9c83",
+      "current_sha256": "afeb0e10f9e5a86da6080e35cf09123aca3b358a0c3e3b6c78a7b63bc04b6762",
+      "reason": "Not loaded by MANIQA; matches the frozen CLIP-IQA checkpoint."
+    }
+  ],
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "runner_sha256": "3eb61d77eb590f5cbb0a4ea1196a0debc5823775cf46fe0b88a8776b13135915",
+  "rescore_runner_sha256": "4a8feb5e2ba1120f7b9bf65ad69c6e49e51e1465f31dd76892561c5e13b53ea3",
+  "started_at": "2026-10-08T09:53:31.278154+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0,
+  "newly_scored": 300,
+  "reused_unchanged": 900,
+  "reuse_manifest_sha256": "2f828e7ffc6b0a0663197578ecc13a102feb95baf563fc7b330d690bd0024cc6",
+  "random_seed": 42,
+  "random_stream_note": "Same metric initialization seed; score only the changed Sana inputs in original order. Native stochastic crop draws need not match the earlier 1200-image pass."
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-09464",
+  "prompt": "A horizontal close photograph of a man with wavy dark hair streaked with gray, turning his face toward the left as he speaks with rounded open lips. He wears a dark jacket over a pale collared shirt, mostly cropped below the neck. A small black recording device appears near the far right edge. Soft subdued light falls across his face against a heavily blurred dark background with broad turquoise, white and red areas.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-235-240.jpg",
+  "reviewed_source_sha256": "57376da44a3aea08c9330cc4e072d342951ca3979e161a4803405a265d9a4719",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

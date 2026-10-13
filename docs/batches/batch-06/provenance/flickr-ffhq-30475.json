@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-30475",
+  "candidate_index": 335,
+  "ffhq_id": 30475,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-30475.jpg",
+  "source_sha256": "19847da85747ec25fd3c6fde387e95e31bfe0e071abe7f9812db8d80d0cce86d",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/8451536@N07/5296309924/",
+    "photo_title": "DSC_0075",
+    "author": "zizou_mtl",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-12-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/8451536@N07/5296309924/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "7e716e062be564dcbd7caf532749da97",
+  "current_decoded_pixel_md5": "a13d28b8694ddcdfcf83d714795fe7a4",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.16666724896118656,
+  "fetched_at": 1791367506.359557,
+  "visual_review": "pending"
+}

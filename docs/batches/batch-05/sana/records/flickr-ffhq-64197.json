@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-64197",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close photograph of a red-haired toddler sitting in a pale green patterned child seat. The toddler looks toward the right with a quiet, slightly uncertain expression and parted lips. A bright blue bib with pale rounded motifs and a black restraint strap cover the front of a green and pale blue top. Strong sunlight from the left highlights the hair and one cheek, leaving the other side shaded against a dim home interior.",
+  "prompt_sha256": "ff4e9f57a2e9f71d2aa921d0088d2199b78861882e6f49f0ce74692654a94cf6",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6900363974273205,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.830078125,
+  "nvidia_smi_peak_gib": 11.3466796875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 70.89175632801415,
+  "generated_at": "2026-10-07T12:09:02.992106+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-64197.png",
+  "sha256": "26828caa9f0cbc23eb7ae89d628817c4ffcb05ebe9836626b0dc6f622ee23ae8",
+  "bytes": 965627
+}

@@ -1,0 +1,37 @@
+{
+  "index": 141,
+  "image_id": "flickr-ffhq-12497",
+  "prompt": "A horizontal photograph of a woman with graying dark hair pulled back, rectangular glasses and small hoop earrings, speaking beside a slender black microphone. She wears a beige top, a dark patterned shawl over one shoulder and a bright blue lanyard. Her mouth is open and her gaze points slightly upward. Frame her head and upper chest against a deep blue stage backdrop with soft green shapes, under focused frontal lighting.",
+  "prompt_sha256": "08e046e1e60d04160a9dbd1173f3b2df385e0fb4ffeb534fc657a3f297a41d0a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c5/c5c47cfcc3223435573bbd5559a2e9b21e4404de6bd7680d0b668bbe887bf8e4.png",
+  "original_sha256": "c5c47cfcc3223435573bbd5559a2e9b21e4404de6bd7680d0b668bbe887bf8e4",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fa/fa8fb0900e9f169f3c7da2fb8e186757d0b95b2ec3dc513dbb88a4eebd6a1048.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401904754340649,
+  "png_path": "generated/flickr-ffhq-12497.png",
+  "preview_path": "previews/flickr-ffhq-12497.jpg",
+  "png_sha256": "fddfc901d0d205d110f1f23a9a99ee5a7c9d8a9eb6971fd8b48670fba575e30b",
+  "preview_sha256": "f2ca3b7cd20b893f9e0822c226f86e5596ba00775fa4f24f530e447becf84877",
+  "png_bytes": 1635487,
+  "preview_bytes": 356520,
+  "pixel_std": 73.76945011351772,
+  "created_at": "2026-10-08T08:48:47.984282+00:00"
+}

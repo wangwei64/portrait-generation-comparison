@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-09764",
+  "candidate_index": 167,
+  "ffhq_id": 9764,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-09764.jpg",
+  "source_sha256": "367699934dd34e73c74c14fa9859d432f40d3df236d45a134ca3d03573fe476b",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3056,
+    2292
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/tparamore41696/3559183653/",
+    "photo_title": "102_0069",
+    "author": "triciadp",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-05-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/tparamore41696/3559183653/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "4732100fbe7d5128ce658cc344d419ae",
+  "current_decoded_pixel_md5": "1f16fe4515c6cde7916d7ac1137a9c8c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.11334096287565217,
+  "fetched_at": 1791365513.6863632,
+  "visual_review": "pending"
+}

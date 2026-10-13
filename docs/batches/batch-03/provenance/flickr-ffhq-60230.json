@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-60230",
+  "candidate_index": 156,
+  "ffhq_id": 60230,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-60230.jpg",
+  "source_sha256": "27d68febc4e730dc6dc6f180a3434188cc0ed5f35c0ff4b47977394f6359099f",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4272,
+    2848
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/96988329@N03/8954815132/",
+    "photo_title": "IMG_1507",
+    "author": "larissaleilascott",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-06-05",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/96988329@N03/8954815132/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "c52d44fb56f936d8f352b216775fe1c9",
+  "current_decoded_pixel_md5": "c14a6f93b3f8c64a222ad7fe4942384b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13550609140260067,
+  "fetched_at": 1791365494.6974447,
+  "visual_review": "pending"
+}

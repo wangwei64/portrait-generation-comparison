@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-07645",
+  "prompt": "A horizontal interview photograph of a man with a closely shaved head and short beard, seated in a dark suit jacket over a fine-striped open-collar shirt. A small clip-on microphone is attached near the shirt opening. He looks toward a blonde interviewer whose back and shoulder are cropped on the right. Frame his head and torso with a bottle and glass at the lower edge, against a pink-purple lit stage wall.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-163-168.jpg",
+  "reviewed_source_sha256": "a7a4c1f26e2464d438de714176a6efbda86a662045fb1c14f3d9423aa61a2dbf",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

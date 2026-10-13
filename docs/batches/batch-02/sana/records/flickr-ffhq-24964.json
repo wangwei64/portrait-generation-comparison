@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-24964",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical indoor photograph of an older woman with short gray hair and wispy bangs. She wears rectangular glasses on a decorative chain, pink lipstick and a multicolored orange, green and brown patterned top. One hand rests beside her neck. Long necklaces and pale branching decorative strands lie across her chest, with a small name badge on the garment. Frame her upper body against a dark interior with patterned fabric, using direct frontal light.",
+  "prompt_sha256": "af0a7cb86f906b5ed412db9804d4eba81dd0e1ac69ef31dfc6b77a02ef9e4480",
+  "seed": 42,
+  "token_count": 291,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6681086793541908,
+  "baseline_allocated_gib": 6.565817832946777,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 65.22025211758589,
+  "generated_at": "2026-10-07T10:12:40.736185+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-24964.png",
+  "sha256": "081ab6f0e41777e11f16c6fea23d9609f384004f5039f6d6e7de21302c61e32e",
+  "bytes": 1161913
+}

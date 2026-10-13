@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-07279",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal arm-length travel selfie of a young man with very short reddish brown hair and rectangular metal glasses. He wears a pale gray crew-neck T-shirt and faces the camera with a neutral closed-mouth expression, arms extending toward the lower corners. Harsh sunlight casts distinct facial shadows. Behind him is a storefront with large green and pink lettering, a curved white facade, roadside trees and a vivid blue sky.",
+  "prompt_sha256": "212c5c069ab0306415ee26f8797679d6e58f60eb01626528e14871a8308c34ec",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.18908154964447,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07747507095337,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 84.56827489242163,
+  "generated_at": "2026-10-07T12:23:40.516622+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-07279.png",
+  "sha256": "2444828fb320ab2e5df9b23290450f512f67e3b7773f452a6566f4b68fe3d4ee",
+  "bytes": 1085473
+}

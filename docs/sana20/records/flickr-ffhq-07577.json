@@ -1,0 +1,37 @@
+{
+  "index": 159,
+  "image_id": "flickr-ffhq-07577",
+  "prompt": "A vertical photograph from above of a smiling young child with shoulder-length blonde hair and a small yellow flower clip. The child looks up directly toward the camera with bright eyes and a toothy smile, standing with arms at the sides. A knitted sleeveless top has black, brown and cream sections above yellow trousers with ruffled hems. Include the figure down to the feet against white wooden paneling and a pale shaggy rug in gentle indoor light.",
+  "prompt_sha256": "8930c09f235d6fb8ec2c4c3e9c9da33a7f2dd85f94dd4d4fe49f2747671f1eb8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "environmental",
+  "original_dimensions": [
+    736,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/38/384985a02fadaed878ebff3e69451aebf546c157e5b91322146fe0c2e9863a7d.png",
+  "original_sha256": "384985a02fadaed878ebff3e69451aebf546c157e5b91322146fe0c2e9863a7d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a7/a7696913e975297a04a0dc5c4c22c764bcd4945cda6f11d32472bc795b8d7096.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405802339315414,
+  "png_path": "generated/flickr-ffhq-07577.png",
+  "preview_path": "previews/flickr-ffhq-07577.jpg",
+  "png_sha256": "00beaa6daecb8658e6cb9fda13c69dfa09df1a6485effd2fbf972d5b3646f099",
+  "preview_sha256": "258b2738291d22a7dd1e388302f8f6ae4850076f82af669376943332ea97c3be",
+  "png_bytes": 1476001,
+  "preview_bytes": 259372,
+  "pixel_std": 67.12312255506258,
+  "created_at": "2026-10-08T08:49:12.440731+00:00"
+}

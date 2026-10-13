@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-26336",
+  "candidate_index": 99,
+  "ffhq_id": 26336,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-26336.jpg",
+  "source_sha256": "031ede24e255190b29634d1e923b3386900cd68a7c5c7d06ac227a691414fe63",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3888,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/emsenn/3296023265/",
+    "photo_title": "Swimming in a pool",
+    "author": "Morgan SEnnhauser",
+    "country": "Thailand",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-02-21",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/emsenn/3296023265/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "dbf9efa94b3bee0fd1943ec6a8675b32",
+  "current_decoded_pixel_md5": "94e3a91721e58d74464ec93c9f84ee27",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.11360731659299904,
+  "fetched_at": 1791365390.1294825,
+  "visual_review": "pending"
+}

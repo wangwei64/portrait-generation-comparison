@@ -1,0 +1,37 @@
+{
+  "index": 85,
+  "image_id": "flickr-ffhq-65138",
+  "prompt": "A horizontal close portrait of a woman with dark hair pulled tightly back, looking at the camera with a calm expression. She wears dangling gold-toned earrings, a beaded necklace and a cream blouse with red and brown stripes. At the right side she holds a clear plastic name badge beside her head, with yellow cords hanging down. Direct frontal light highlights her face against a rough gray concrete wall. The badge contains small printed lines.",
+  "prompt_sha256": "66d1bc18becc1dcd025f7a8fe0dce4eb2f75b5c50d58bb0d9926fa0c983dcf9e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/dd/dd392fac63fe2d91e1547e9a9655d7e2bb485d1e4a5f7eb269b41cd8404a66c1.png",
+  "original_sha256": "dd392fac63fe2d91e1547e9a9655d7e2bb485d1e4a5f7eb269b41cd8404a66c1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b0/b0b4082f17d103c8a917fb9a55b401d6fdf92255c2c7f69eb3c0369361d660a0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404731690883636,
+  "png_path": "generated/flickr-ffhq-65138.png",
+  "preview_path": "previews/flickr-ffhq-65138.jpg",
+  "png_sha256": "295d984975c42e14fa4c709bcd9e4b8d9068d4de7d589de1e7768f4b3ffb1de9",
+  "preview_sha256": "31ee666c8a7e3ce1ab17dc8a8228e050a9da0405a9453d7966c3a64608087670",
+  "png_bytes": 1819454,
+  "preview_bytes": 379859,
+  "pixel_std": 54.470201839548956,
+  "created_at": "2026-10-08T08:47:32.592447+00:00"
+}

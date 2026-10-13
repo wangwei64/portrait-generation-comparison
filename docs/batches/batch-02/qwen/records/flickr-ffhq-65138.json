@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-65138",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal close portrait of a woman with dark hair pulled tightly back, looking at the camera with a calm expression. She wears dangling gold-toned earrings, a beaded necklace and a cream blouse with red and brown stripes. At the right side she holds a clear plastic name badge beside her head, with yellow cords hanging down. Direct frontal light highlights her face against a rough gray concrete wall. The badge contains small printed lines.",
+  "prompt_sha256": "66d1bc18becc1dcd025f7a8fe0dce4eb2f75b5c50d58bb0d9926fa0c983dcf9e",
+  "seed": 42,
+  "token_count": 108,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.311993096023798,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59761190414429,
+  "peak_reserved_gib": 41.59375,
+  "nvidia_smi_peak_gib": 42.1044921875,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 45.49153911322532,
+  "generated_at": "2026-10-07T10:08:30.039457+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-65138.png",
+  "sha256": "b4fc8615ad24237e531f83e78ec49293865cca108fc079ef49da467885a10e6f",
+  "bytes": 1226544
+}

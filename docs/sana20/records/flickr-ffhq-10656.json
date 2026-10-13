@@ -1,0 +1,37 @@
+{
+  "index": 165,
+  "image_id": "flickr-ffhq-10656",
+  "prompt": "A vertical home snapshot of a toddler with short straight black hair, wearing a bright blue long-sleeved shirt with white collar and cuffs and large black-and-white letters on the chest. The child looks up toward the camera with a quiet expression, hands resting on a cream leather sofa. Colorful patterned cushions sit behind. Direct flash brightly lights the face and shirt, with a slightly elevated camera angle.",
+  "prompt_sha256": "a608682e649f9615e63fa7ca08e17cb6a7b29254a83b4f79a09cf6a5b83c14f9",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4a/4a4d6b6d9bf566d3a98cd4f29caff00e06a3ac6eb736b0f4ff1d818b53f434f4.png",
+  "original_sha256": "4a4d6b6d9bf566d3a98cd4f29caff00e06a3ac6eb736b0f4ff1d818b53f434f4",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a1/a129a83ff55787e4b969b0beda17de74362de6ccd20087b4b639a51cbdea7ad5.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9424525834619999,
+  "png_path": "generated/flickr-ffhq-10656.png",
+  "preview_path": "previews/flickr-ffhq-10656.jpg",
+  "png_sha256": "83a1d2c2d9a376e910b56cada5f86172f3313c8a1e30edc48075b897f05092db",
+  "preview_sha256": "a2762c807121295a487d5b091555314f3a1cd57042bac932fc7f280e632a238a",
+  "png_bytes": 1652491,
+  "preview_bytes": 309813,
+  "pixel_std": 75.06277944090958,
+  "created_at": "2026-10-08T08:49:20.552777+00:00"
+}

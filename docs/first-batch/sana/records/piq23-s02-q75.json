@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s02-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with long straight dark hair looks directly toward the camera with a neutral expression. The horizontal portrait closely frames her face, neck and upper shoulders. She wears a pale green scarf over a burgundy top, with hair falling over both sides of the scarf. A tall window fills the background, bordered by a white frame and handle at the left. Green and yellow foliage is visible outside. Her face is centered against the much brighter window, and the top of her hair nearly touches the upper edge.",
+  "prompt_sha256": "e913ff7a7336db5da452f98f5325f28a0adf48349537c86d97e7d2a39025395b",
+  "seed": 42,
+  "token_count": 306,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7039970569312572,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 80.34684412572706,
+  "generated_at": "2026-10-07T09:27:55.021824+00:00",
+  "image_path": "sana/generated/piq23-s02-q75.png",
+  "sha256": "2f4162b67e091b039e5ba9f8f0294b42f961bc893ef6f6aec4fb98f3cc112ec6",
+  "bytes": 962259
+}

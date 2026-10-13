@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s05-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with swept-up brown hair, a short mustache and a small goatee faces the camera with a slight smile. He wears a burgundy crew-neck T-shirt. His head and shoulders fill the right side of a horizontal close portrait. A black telescoping pole runs diagonally from the lower left toward a clamp near his right shoulder. A dense spherical green plant in a salmon-colored pot occupies the left foreground beside his face. A pale wall and indistinct furniture appear behind him.",
+  "prompt_sha256": "25c6380df1c57e1f0cba483dd9f096410fee0cc446b6253af03d0ba225e06040",
+  "seed": 42,
+  "token_count": 306,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6993068978190422,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 79.96518355221163,
+  "generated_at": "2026-10-07T09:28:01.185675+00:00",
+  "image_path": "sana/generated/piq23-s05-q75.png",
+  "sha256": "6312755f7aa88ce2f273f1aa04dca9c8876037f65728c5d73e3080e808d2a431",
+  "bytes": 908741
+}

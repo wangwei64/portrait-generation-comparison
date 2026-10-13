@@ -1,0 +1,37 @@
+{
+  "index": 53,
+  "image_id": "flickr-ffhq-34985",
+  "prompt": "A candid horizontal photograph of a young child with short light brown curly hair, wearing a gray knitted cardigan with tan buttons. The child looks off to the right with an open mouth, holding a black remote on one upturned hand while the other hand is raised. Frame the head and torso in a home interior with pale walls, wooden trim and a red hanging cloth behind.",
+  "prompt_sha256": "f11b167955f204811152ef6de4f0550129e40debf0353f084258ecfa0f88ff28",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0a/0a1d48a962f593f78ac6ff107a4474fd72d7d46d464b55dcf7ce46b3f737c090.png",
+  "original_sha256": "0a1d48a962f593f78ac6ff107a4474fd72d7d46d464b55dcf7ce46b3f737c090",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f2/f2cba1b3482e0f6a8d535262582cdce6945b45b4c26294e192da98317df9a379.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 281,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399159401655197,
+  "png_path": "generated/flickr-ffhq-34985.png",
+  "preview_path": "previews/flickr-ffhq-34985.jpg",
+  "png_sha256": "1941d8b0c2990693f48a2dadda98ee09153ac4e1e1bc0ee1fc9521fb498f5252",
+  "preview_sha256": "c3137ecd42157a69c25cc0c0128f4d1e88fa6c92183063ec184cbe2ce1cda820",
+  "png_bytes": 1689615,
+  "preview_bytes": 301352,
+  "pixel_std": 65.10099685893569,
+  "created_at": "2026-10-08T08:46:49.905947+00:00"
+}

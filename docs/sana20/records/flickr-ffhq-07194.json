@@ -1,0 +1,37 @@
+{
+  "index": 291,
+  "image_id": "flickr-ffhq-07194",
+  "prompt": "A vertical candid photograph of a blonde toddler seated outdoors, looking toward the camera with a serious expression and the tip of the tongue showing. The child wears an olive-green zip jacket with gray fleece lining over a yellow patterned shirt. One hand holds a large irregular pale cereal-like snack while the other rests on a wooden surface. Frame the head and torso against softly blurred bare ground, scattered leaves and a distant bench.",
+  "prompt_sha256": "8a57bba846d872c688abaec261d43e74693db69925c8447b65b29aa167668f5d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/88/880888ffbe36b561d76f46f5875b87802601ebfbe0282b2aadec1e922c4500c2.png",
+  "original_sha256": "880888ffbe36b561d76f46f5875b87802601ebfbe0282b2aadec1e922c4500c2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c7/c78c3aa6c7d2ccda40975ade08ecde462be14069dd48674a4e6ea640e53bb0c8.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415879398584366,
+  "png_path": "generated/flickr-ffhq-07194.png",
+  "preview_path": "previews/flickr-ffhq-07194.jpg",
+  "png_sha256": "84ec075557ced0a44440a6da873bb551b09ef65e95b6855c537bc30675201810",
+  "preview_sha256": "fc0d8912561440ebb6dc9aaaf6047c487d7822d3d387d0741c127d3c70ca6f75",
+  "png_bytes": 1685276,
+  "preview_bytes": 326329,
+  "pixel_std": 53.230755749823345,
+  "created_at": "2026-10-08T08:52:11.088508+00:00"
+}

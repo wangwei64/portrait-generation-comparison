@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-45351",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal portrait of a smiling woman with curly auburn hair gathered over one shoulder. A small white bridal headpiece supports a fine diamond-mesh birdcage veil across her forehead, eyes and nose. She wears dangling pearl-like earrings, red lipstick and a cream sleeveless dress. Frame her head and shoulders under warm direct indoor light, with wooden cabinets, shelves, doorframes and small wall decorations behind her.",
+  "prompt_sha256": "6a0c85ca7ce6ce15c0da745b9dc206f1138a1438a7dc6ecf38e38c2813fdca79",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6904946193099022,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 71.16880523853416,
+  "generated_at": "2026-10-07T12:48:22.370373+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-45351.png",
+  "sha256": "cb8543fd8be459458d5dedb9389580daedcffbd940d3d6799e9d8405b6bb5d8f",
+  "bytes": 900512
+}

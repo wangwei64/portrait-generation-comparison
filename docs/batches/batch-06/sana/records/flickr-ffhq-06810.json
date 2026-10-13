@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-06810",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    800,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+  "prompt_sha256": "89ce6cdc3a69d2284cce95dcdb44b506add8efac23c5947db98f93a979c475d8",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.173752296715975,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.84238338470459,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 11,
+  "pixel_std": 79.06041252447902,
+  "generated_at": "2026-10-07T12:48:56.530836+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-06810.png",
+  "sha256": "2daa0970d04d63dbf764b8037ee25f17274a412bec6220b2f30cfbe4c4975278",
+  "bytes": 1207459
+}

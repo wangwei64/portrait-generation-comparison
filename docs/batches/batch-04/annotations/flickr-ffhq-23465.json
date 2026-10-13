@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-23465",
+  "prompt": "A horizontal outdoor photograph of a young boy with closely cropped dark hair and dusty marks on his cheeks. He squints toward the camera with a small tight-lipped smile, wearing a gray zip-neck jacket with red stripes and embroidered red letters. Another child's pink sleeveless top and arm are cropped at the right, with a hand near his shoulder. Strong sunlight lights the main face against a softly blurred pale patterned background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-217-222.jpg",
+  "reviewed_source_sha256": "441f89b24759a5065dbe6d77c3ef6a69cdb48726967dc48abaa617f6ef5cecbd",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

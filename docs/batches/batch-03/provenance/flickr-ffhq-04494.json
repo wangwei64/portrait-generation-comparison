@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-04494",
+  "candidate_index": 87,
+  "ffhq_id": 4494,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-04494.jpg",
+  "source_sha256": "65beedf10ead77cd66b5d96d55adb5345ac12201b60d9a46f696d886f1f80e5a",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3982,
+    3982
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/plusbzz/27133969115/",
+    "photo_title": "_DSC0319",
+    "author": "Raj Bandyopadhyay",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2016-05-20",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/plusbzz/27133969115/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "5c4e060990885805c13e7e22c4cfc86f",
+  "current_decoded_pixel_md5": "b6588ef2526c10e90ce36defa7f00e7e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14995682479747513,
+  "fetched_at": 1791365342.4720955,
+  "visual_review": "pending"
+}

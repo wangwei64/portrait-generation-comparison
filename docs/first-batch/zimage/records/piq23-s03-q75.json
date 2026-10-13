@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s03-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with closely cropped brown hair and a full dark beard faces the camera in a light gray crew-neck T-shirt. His head, shoulders and upper chest occupy the center of a horizontal portrait. He has a calm expression with his mouth closed. A large window behind him shows a bare tree, a pale courtyard wall and rows of windows on apartment buildings. The right side of the view is bordered by a white window frame, and the facade of a nearby building recedes diagonally into the distance.",
+  "prompt_sha256": "c2f023c4fc57b05e774dee06cdc5a63d7e4fbd2728f70be5752ccf3c0101c34b",
+  "seed": 42,
+  "token_count": 108,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.19588551670313,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077556133270264,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 99,
+  "pixel_std": 54.78990744371208,
+  "generated_at": "2026-10-07T08:51:43.235201+00:00",
+  "image_path": "zimage/generated/piq23-s03-q75.png",
+  "sha256": "00f7110298bbcce45a63096694c01bcd4467c53c4f493c5048f9911d1b7d01c2",
+  "bytes": 1079276
+}

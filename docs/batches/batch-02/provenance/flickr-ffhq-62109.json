@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-62109",
+  "candidate_index": 45,
+  "ffhq_id": 62109,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-62109.jpg",
+  "source_sha256": "5c5073ddb6895059ff5edff7abc1d6b8bbc30c989f9a33ea10d774867cfa374e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3024,
+    4032
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/barrettelementary/33225682285/",
+    "photo_title": "Read Across America Week - Hat Day Feb 27, 2017, 12-11 PM",
+    "author": "K.W. Barrett",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-03-03",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/barrettelementary/33225682285/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "e1b6fb76930db29e1a465e66b22c3292",
+  "current_decoded_pixel_md5": "30fbccdb0459d329b3c93173579a46e1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09389992493911145,
+  "fetched_at": 1791365074.810316,
+  "visual_review": "pending"
+}

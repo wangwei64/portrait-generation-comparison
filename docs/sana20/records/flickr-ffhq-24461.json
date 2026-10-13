@@ -1,0 +1,37 @@
+{
+  "index": 221,
+  "image_id": "flickr-ffhq-24461",
+  "prompt": "A horizontal close portrait of a young man with short tousled light brown hair and faint stubble, turning his face toward the right while glancing sideways toward the camera with slightly pursed lips. He wears a black textured high-collared sweater. Frame his head and shoulders at an outdoor cafe, with teal-painted doors, a striped awning, tables and seated people softly blurred behind him in warm daylight.",
+  "prompt_sha256": "b30cda1e9c038f0757e36478f41ee2815aa8486daa507d7a1a6f2dc73db554fc",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/67/67d532cbf86627f5e3f6049ce2e8d800403e3ad16e14b0abc26c27ff0593c52d.png",
+  "original_sha256": "67d532cbf86627f5e3f6049ce2e8d800403e3ad16e14b0abc26c27ff0593c52d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/94/9492a8b192b0c268e2203bf57cb1b4d49c5f2bfdd79bedd5219df12e658c6295.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398948401212692,
+  "png_path": "generated/flickr-ffhq-24461.png",
+  "preview_path": "previews/flickr-ffhq-24461.jpg",
+  "png_sha256": "33fb8b64704f21fbac947c07aa1ece9995e2adce6f179cc7be43a40362a25e12",
+  "preview_sha256": "cf52968a48bcaa1dcbe7625fcae09380e746f8099153d4d862320fd977bf46fa",
+  "png_bytes": 1632773,
+  "preview_bytes": 306603,
+  "pixel_std": 69.31371667763338,
+  "created_at": "2026-10-08T08:50:36.793995+00:00"
+}

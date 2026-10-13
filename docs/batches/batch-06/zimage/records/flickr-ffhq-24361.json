@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-24361",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    736
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid portrait of a bald man wearing a dark button-front shirt with thin pale blue vertical stripes. He raises one arm and rests his hand behind his head, looking directly at the camera with a neutral expression and deep horizontal forehead lines. Frame his head, chest and bent elbow. Bright daylight filters through closely spaced horizontal window blinds behind him, leaving his face and shirt softly shaded.",
+  "prompt_sha256": "d40071f64d47a036f08847ed2cf442da633ee0ceecfd7d794fabc906af50330f",
+  "seed": 42,
+  "token_count": 85,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 28.131514228880405,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.00216007232666,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 93,
+  "pixel_std": 96.50018740891566,
+  "generated_at": "2026-10-07T12:27:54.167009+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-24361.png",
+  "sha256": "98b5fd284e425d6ea5f6ec7632f2d6c70875a998eb8b29dbf4a9910a01f301af",
+  "bytes": 1087417
+}

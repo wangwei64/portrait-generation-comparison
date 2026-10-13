@@ -1,0 +1,37 @@
+{
+  "index": 134,
+  "image_id": "flickr-ffhq-54564",
+  "prompt": "A vertical close studio portrait of a woman with light brown hair arranged in loose curls and a voluminous pinned updo. Bright green eyeshadow and fine black eyeliner emphasize her eyes. She faces the camera with a serious closed-mouth expression, wearing a plain black sleeveless scoop-neck top. Frame her head, neck and shoulders against a clean pale gray background with soft even illumination and subtle facial shadows.",
+  "prompt_sha256": "7f398f78d41db44f643817356be278895735a307b593646a3f910a69c90ca3ea",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "closeup",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6b/6b04cb800296d7080efe8aae24d22a4b46264d9745a49c293242ef04beef51d3.png",
+  "original_sha256": "6b04cb800296d7080efe8aae24d22a4b46264d9745a49c293242ef04beef51d3",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/33/336c4ee0f1c86cb67f9f97a6e05ad646bcf24ebc3128cbdd05739c4742477fd7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401904195547104,
+  "png_path": "generated/flickr-ffhq-54564.png",
+  "preview_path": "previews/flickr-ffhq-54564.jpg",
+  "png_sha256": "ed3a1806ec1bb30e337b2f137963159e400c9f2e854965b0e31693c1327915c6",
+  "preview_sha256": "fbb919ff3a31264a2817a8c423d22aa95d28e8f54000ccef8a2526a3aedb3af0",
+  "png_bytes": 1533112,
+  "preview_bytes": 230441,
+  "pixel_std": 56.414602784316386,
+  "created_at": "2026-10-08T08:48:38.743337+00:00"
+}

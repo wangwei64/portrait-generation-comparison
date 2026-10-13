@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-29997",
+  "candidate_index": 52,
+  "ffhq_id": 29997,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-29997.jpg",
+  "source_sha256": "6bf5b66c212420c35baaf60d3074b040d162ea3fb8b6a1e684da83b11b4af4b1",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3296,
+    2189
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/leweb3/6487964389/",
+    "photo_title": "LeWeb11 @ Les Docks Paris-83",
+    "author": "OFFICIAL LEWEB PHOTOS",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2011-12-10",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/leweb3/6487964389/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "fc6a70211eddb89223b55efe48285647",
+  "current_decoded_pixel_md5": "f9d566cbb483b101cc3466730d6c9b72",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07651452318964638,
+  "fetched_at": 1791365078.795214,
+  "visual_review": "pending"
+}

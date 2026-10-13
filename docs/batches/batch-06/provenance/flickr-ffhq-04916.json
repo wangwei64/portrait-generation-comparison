@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-04916",
+  "candidate_index": 353,
+  "ffhq_id": 4916,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-04916.jpg",
+  "source_sha256": "d6dfc8ec2b645b3aceabe977f0531791d311b5b2a4c221721d71871f04653501",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1363
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bigbirdz/4507232196/",
+    "photo_title": "untitled",
+    "author": "bigbirdz",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-04-10",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/bigbirdz/4507232196/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "7aa8d1eba2a475e84403522cb6ddd9ca",
+  "current_decoded_pixel_md5": "f39f8f5a6a1f93b532a769ea49976a0b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.04567861656259292,
+  "fetched_at": 1791367546.9476945,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 92,
+  "image_id": "flickr-ffhq-56966",
+  "prompt": "A vertical photograph of a young girl with dark hair in a high ponytail and loose strands around her face. She wears a pink short-sleeved shirt with bold yellow stripes and holds up a slice of bread topped with corn, peas and carrot pieces using both hands. She looks toward the camera across a bright blue classroom table. A wooden chair, another blue table and pale cupboards fill the softly lit room behind.",
+  "prompt_sha256": "07dd01057f6a3b8d651f40a795dcfcbd46552171800db7728b19ec618bff620b",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9f/9f800f8c071ff36812537732b2f672c94ccbe5f15adbc2ab66afb1fc4f7218b2.png",
+  "original_sha256": "9f800f8c071ff36812537732b2f672c94ccbe5f15adbc2ab66afb1fc4f7218b2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a6/a6c388481635345d57a92a23d170159570342ecd0bf57404eb8fbf336e94ba2f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399308264255524,
+  "png_path": "generated/flickr-ffhq-56966.png",
+  "preview_path": "previews/flickr-ffhq-56966.jpg",
+  "png_sha256": "93ee6dfd1331da6202eb7399f1b5384dd8849e000005bde7d0840e3d5ea746c3",
+  "preview_sha256": "fbe8da0ccf750c0d9b8042544c0a980797f4470149347b19d1ec6196b828e20a",
+  "png_bytes": 1656510,
+  "preview_bytes": 315389,
+  "pixel_std": 68.54317381108244,
+  "created_at": "2026-10-08T08:47:42.188974+00:00"
+}

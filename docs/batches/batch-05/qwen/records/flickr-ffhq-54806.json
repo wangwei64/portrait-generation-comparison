@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-54806",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical portrait of a man with short tousled brown hair and a receding hairline, smiling gently toward the camera with closed lips. He wears a bright blue tropical-print button-front shirt with green and yellow details and a white lanyard around his neck. Frame his head and upper chest against an out-of-focus exhibition backdrop with pink, red, yellow and white areas. Even soft light reveals fine lines around his eyes.",
+  "prompt_sha256": "7bbf640480d695d12c8feed6741e9ec854e0f42991c7340aaaa9bddbde069117",
+  "seed": 42,
+  "token_count": 108,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.358874350786209,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59761190414429,
+  "peak_reserved_gib": 43.287109375,
+  "nvidia_smi_peak_gib": 43.7978515625,
+  "nvidia_smi_sample_count": 40,
+  "pixel_std": 68.63071647853954,
+  "generated_at": "2026-10-07T12:06:14.712486+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    247,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-54806.png",
+  "sha256": "0a30ea199f9c5925484c44b427c90da45b44fd69a47bb6ef8aaec6a08e84c2b4",
+  "bytes": 1222073
+}

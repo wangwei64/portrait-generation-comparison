@@ -1,0 +1,37 @@
+{
+  "index": 120,
+  "image_id": "flickr-ffhq-01332",
+  "prompt": "A vertical candid portrait of a woman with shoulder-length reddish brown hair and thin rectangular glasses, seated at a table with her arms folded. She wears a bright red fleece sweater and smiles gently toward the camera. Frame her head and torso with the wooden table visible below. Other seated people and chair backs are softly blurred behind her in a warmly lit indoor gathering.",
+  "prompt_sha256": "75d94f45af5ab0528b88d3d024c9a08203e1a1e7b38b920f6287aac10b5b35b7",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a7/a781e3779dc5febca7243e34c16dce2e5cb05b64fe01be6653e80787ca6ab3c9.png",
+  "original_sha256": "a781e3779dc5febca7243e34c16dce2e5cb05b64fe01be6653e80787ca6ab3c9",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5f/5f693e0bf866ddef3de5e3d8d40051418ef805167daf6760ebdb2e027aa9f8df.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 279,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415830746293068,
+  "png_path": "generated/flickr-ffhq-01332.png",
+  "preview_path": "previews/flickr-ffhq-01332.jpg",
+  "png_sha256": "50211b84f5a1c0b7c22ef7147d9ab5f5db54a70a07578fb5a700ef30a165e76d",
+  "preview_sha256": "6aa8e9c833789381bef0e920f87dd9aab2db17f7b96e00823a9942b7e856dc6b",
+  "png_bytes": 1506361,
+  "preview_bytes": 289207,
+  "pixel_std": 67.45474631843413,
+  "created_at": "2026-10-08T08:48:20.147123+00:00"
+}

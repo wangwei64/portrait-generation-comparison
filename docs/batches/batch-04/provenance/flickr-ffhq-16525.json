@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-16525",
+  "candidate_index": 215,
+  "ffhq_id": 16525,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-16525.jpg",
+  "source_sha256": "f26bc0ae88d4908b642a1bb2ed4c038bc214e15aa1ee25c02481ed84458f4463",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1363,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/boombust/3896384727/",
+    "photo_title": "Wagner Fontoura",
+    "author": "Wagner Fontoura",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-09-07",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/boombust/3896384727/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "7f736d7b851289431dc77631e32103d1",
+  "current_decoded_pixel_md5": "63e8969483d093aa64a305148a9dd86a",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.21017582146455227,
+  "fetched_at": 1791367198.0781646,
+  "visual_review": "pending"
+}

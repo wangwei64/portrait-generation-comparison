@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-19558",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal candid photograph of a smiling woman with short side-parted brown hair held by a thin headband. She wears pink circular earrings, a black cardigan and a red top, seated sideways while turning toward the camera. Frame her head and upper torso in a meeting room. A white-covered table with a blue water bottle and papers, blue upholstered chairs and partially cropped people are visible behind, with a blurred head in the lower foreground.",
+  "prompt_sha256": "3369474d9cc2d2a2b63c3e3685bdf415c114c8e71a978a8834059bb79f04949a",
+  "seed": 42,
+  "token_count": 111,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.231395214796066,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59909963607788,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 67.78187889680618,
+  "generated_at": "2026-10-07T10:50:38.442215+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-19558.png",
+  "sha256": "e025fcdc9379970217458352384235200d44f7cc5e0366dd0c1427796fe7720a",
+  "bytes": 933247
+}

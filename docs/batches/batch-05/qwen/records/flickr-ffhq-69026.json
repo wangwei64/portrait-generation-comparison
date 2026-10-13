@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-69026",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal close portrait of a young child with short curly reddish hair beneath a large bright red cowboy hat. White hat cords hang beside the face. The child looks directly into the camera with wide eyes and slightly parted lips, wearing a dark navy hooded top with part of a red design at the bottom. Bright soft light illuminates the face against a blurred colorful indoor background with indistinct party decorations.",
+  "prompt_sha256": "1e0d9e1f8c710e756be798abd5314a69cf6e9c07df47129d6853dc197633ab30",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.27134382724762,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59562826156616,
+  "peak_reserved_gib": 35.75390625,
+  "nvidia_smi_peak_gib": 35.8955078125,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 77.36076611046175,
+  "generated_at": "2026-10-07T11:57:42.446448+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-69026.png",
+  "sha256": "e169ab4d4bbca916287434618e8615a7fa7a0e55a1dffaf227aec907056c00b2",
+  "bytes": 1045060
+}

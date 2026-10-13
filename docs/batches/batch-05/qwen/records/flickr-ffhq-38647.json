@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-38647",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal close photograph taken from a slightly low angle of an older man with very short thinning gray hair. He looks down toward the right with parted lips and a thoughtful expression. He wears a vivid blue outer jacket over a black high collar, with another blue collar folded outward. Soft daylight comes through a series of slanted high windows, forming bright diagonal shapes in the pale modern interior behind his head.",
+  "prompt_sha256": "329932ee083a8075865e4c119988feb491e7803c936653e977b1ac9ce156e555",
+  "seed": 42,
+  "token_count": 103,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.392779566347599,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59513235092163,
+  "peak_reserved_gib": 41.033203125,
+  "nvidia_smi_peak_gib": 41.5439453125,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 72.97123445688251,
+  "generated_at": "2026-10-07T12:02:19.817154+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    254,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-38647.png",
+  "sha256": "8d850390d2771170bb99a594e2e05e41c918bb24cfd158375d8decc714c58073",
+  "bytes": 850238
+}

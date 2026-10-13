@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-40970",
+  "prompt": "A vertical night street portrait of a woman with a short straight black bob and bangs, turning her face toward the camera with raised eyebrows and a slight smile. She wears a royal-blue long-sleeved shirt with a large white striped graphic and carries a brown checkered shoulder bag. Frame her head and torso with a dark storefront, glowing green signage and warm yellow and red lights softly blurred behind. Direct flash lights her face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-079-084.jpg",
+  "reviewed_source_sha256": "3a2aa83b02cff58a1109b8cc1ef7a600e45890d48432f1a54f3039413d7ecd87",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

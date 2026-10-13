@@ -1,0 +1,37 @@
+{
+  "index": 252,
+  "image_id": "flickr-ffhq-52398",
+  "prompt": "A vertical portrait of an older woman with gray hair tucked beneath a light gray knitted beret with raised textured patterns. She looks toward the camera with a reserved closed-mouth expression, showing detailed forehead and cheek lines. Small gold hoop earrings accompany a brown-gray woven jacket with dark decorative fastenings over a pale mauve high collar. Frame her head and upper chest against an old red brick wall with a thin diagonal pipe above.",
+  "prompt_sha256": "579e33b8124299bc2f9df164ed6e06104a19e28d8f68910dc7fecc41cacc1b03",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d3/d33d3211797d31bad0d00031c257c8fc517c2af0aa34b5275cb6e5f7e21f2485.png",
+  "original_sha256": "d33d3211797d31bad0d00031c257c8fc517c2af0aa34b5275cb6e5f7e21f2485",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5b/5bf9f30f587df28e08fd0ed3ae82bb61ab01ddf4422906e3ccbfb5aa74b544d6.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409085139632225,
+  "png_path": "generated/flickr-ffhq-52398.png",
+  "preview_path": "previews/flickr-ffhq-52398.jpg",
+  "png_sha256": "25ef4818b20b6c476a49d9cf03fdf1ed8a8c409827e2dfb2d1c7a5d089f9da44",
+  "preview_sha256": "382d8cb1605d9f99353b6f57f5b5f931bc44638c85ae66d8146d795dea72c186",
+  "png_bytes": 1772907,
+  "preview_bytes": 357852,
+  "pixel_std": 60.80772376611498,
+  "created_at": "2026-10-08T08:51:18.296334+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20656",
+  "prompt": "A horizontal outdoor portrait of a man wearing a brown baseball cap and a cream polo shirt with an open collar. He has short dark hair and a small neatly trimmed gray goatee, and looks directly at the camera with a neutral closed-mouth expression. Frame his head and shoulders beneath the shaded brim. A sloping green grassy embankment stretches behind him beneath a blue sky with scattered white clouds in bright daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-247-252.jpg",
+  "reviewed_source_sha256": "1bff87cd27726d4fe3964f429b394939c7d1f41c6fba0ae9e23bb0f6cb828aa0",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

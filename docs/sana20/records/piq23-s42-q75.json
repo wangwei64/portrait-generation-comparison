@@ -1,0 +1,37 @@
+{
+  "index": 43,
+  "image_id": "piq23-s42-q75",
+  "prompt": "A young man with short brown hair and black rectangular glasses sits on a weathered wooden bench against a red brick wall. He wears a bright blue printed hoodie and blue jeans. Looking down with a slight smile, he holds a black smartphone upright in his right hand in front of his chest, while his left hand rests near his lap. The horizontal image is viewed from a slightly low angle and shows his head, torso and thighs. The empty left side of the bench extends across the foreground, and a small rectangular opening is set high in the brickwork.",
+  "prompt_sha256": "87c7c088d1936efb3d26039fbb140ac25a0cac033be19e53078d45ad38369925",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e0/e0ccd4b1252c3947439cab7965331b416b7459c0248272737b91d368ed35219d.png",
+  "original_sha256": "e0ccd4b1252c3947439cab7965331b416b7459c0248272737b91d368ed35219d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7c/7ca95f5961c40e49d2bcb9e3e0a823c49d6ff0e33c59640befb73c186438b953.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 317,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9410586170852184,
+  "png_path": "generated/piq23-s42-q75.png",
+  "preview_path": "previews/piq23-s42-q75.jpg",
+  "png_sha256": "cb29893b35725045a2251efa73bdc5f28e57b96ec1b4c2be67ca5b788e514e9d",
+  "preview_sha256": "6316ba3a93d934b52dcb2052a4341fc1d99f8897a5fa06a8c001035d3c3818b8",
+  "png_bytes": 1988019,
+  "preview_bytes": 591157,
+  "pixel_std": 78.83232572598928,
+  "created_at": "2026-10-08T08:46:37.188112+00:00"
+}

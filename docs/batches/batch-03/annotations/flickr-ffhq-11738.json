@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-11738",
+  "prompt": "A vertical candid photograph of a bald man with short facial stubble speaking in front of a projected presentation. He wears a dark suit jacket, pale lavender shirt and a small white name badge. Both hands are raised at chest level with the fingers spread as he looks to the left. Frame his head and torso, with out-of-focus audience heads across the bottom and a bright projection of large pale lettering behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-103-108.jpg",
+  "reviewed_source_sha256": "a3795ed69a9d2a52aaffb1ac2919e9f62bb89fcf7144c8a965049a2470541ffb",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

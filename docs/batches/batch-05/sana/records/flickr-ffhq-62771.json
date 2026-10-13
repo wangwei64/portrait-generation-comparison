@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-62771",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait of a man with short thick curly dark brown hair, smiling broadly at the camera. He wears a black suit jacket, a white collared shirt and a pale pink, gray and white diagonally striped tie. Frame his head and upper torso in bright sunshine, with small curly hair shadows across his forehead. Behind him is a wooden-framed outdoor information board displaying a green and blue landscape map, with foliage near the edges.",
+  "prompt_sha256": "a3f25999cc7bce5753337b55ed50ac23ebc58955f9bc23a6df61417a6a443a8d",
+  "seed": 42,
+  "token_count": 294,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6746622286736965,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.705078125,
+  "nvidia_smi_peak_gib": 12.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 83.27381090045279,
+  "generated_at": "2026-10-07T12:10:07.979138+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-62771.png",
+  "sha256": "8e00dfe320e320f9ab8246a268fcdf0b2c16287e70a781ec7ceaea44c2873ba7",
+  "bytes": 1064683
+}

@@ -1,0 +1,37 @@
+{
+  "index": 18,
+  "image_id": "piq23-s17-q75",
+  "prompt": "A woman with dark hair tied back sits on a simple black chair with an open black laptop across her lap. She wears a teal graphic T-shirt and black trousers, with her legs angled toward the lower left of the horizontal frame. Her hands rest near the keyboard, and she looks at the screen, which casts cool light on her face. A patterned curtain fills the left background. A low wooden cube shelf on the right holds a green ball and storage baskets, with speakers, flowers and small glowing lamps on top beneath a large tree-patterned wall picture.",
+  "prompt_sha256": "5debfb97f29995830b6510fcde354bd44c960bf9b0346b42f134534ed05b33aa",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b3/b32b231fc5206fe91ce7a91da384338692697eb5251ecaf7296c6ad0a388bc3b.png",
+  "original_sha256": "b32b231fc5206fe91ce7a91da384338692697eb5251ecaf7296c6ad0a388bc3b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/21/21705192f9b391b4f6aa84d59761f18b71849fdaf93adedd7e4cae796047b8a7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 320,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412722624838352,
+  "png_path": "generated/piq23-s17-q75.png",
+  "preview_path": "previews/piq23-s17-q75.jpg",
+  "png_sha256": "5f111cebfd8f46550a9cb1e470928ee0ab3acddac4561a3613b53f8e9aca24ea",
+  "preview_sha256": "9d6b153d71812174184c3b9ea963a199bcb59673e45cb67cef1a2f856bd5939d",
+  "png_bytes": 1481076,
+  "preview_bytes": 364064,
+  "pixel_std": 56.41937208377463,
+  "created_at": "2026-10-08T08:46:04.402367+00:00"
+}

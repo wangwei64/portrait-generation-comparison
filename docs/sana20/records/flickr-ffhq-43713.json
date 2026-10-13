@@ -1,0 +1,37 @@
+{
+  "index": 174,
+  "image_id": "flickr-ffhq-43713",
+  "prompt": "A horizontal close photograph of a brown-haired child looking directly at the camera with wide eyes and a serious closed-mouth expression. The child wears a bright pink sleeveless top with tied shoulder straps and yellow stitching, and a pink wristband. Both arms are raised, holding a thick silver metal chain above the forehead between vertical posts. Direct flash brightens the face, hands and chain against a dark indoor background, with the upper arms partly cropped.",
+  "prompt_sha256": "1f0b12786769ebf490ba039b90788d26f6657cee746cb1a63d4d8ed611eea296",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c1/c1a070943fc21af684df551146367688ec7d0869f594b737c8e7970373176387.png",
+  "original_sha256": "c1a070943fc21af684df551146367688ec7d0869f594b737c8e7970373176387",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a2/a235bd83be0b653c0e743142a007cbeafd08086b193b2e4daed44e2d1fa56e11.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 296,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9448818042874336,
+  "png_path": "generated/flickr-ffhq-43713.png",
+  "preview_path": "previews/flickr-ffhq-43713.jpg",
+  "png_sha256": "9c7c5bcb2f2b7c4e5051edf453552c12f599fea0179892a6f654cfb5410e74d8",
+  "preview_sha256": "54a58504edfa936828d1b3e6db32cf8b822ec6e1ae40bfe91f7212565bfe2013",
+  "png_bytes": 1575976,
+  "preview_bytes": 306727,
+  "pixel_std": 77.94516303014858,
+  "created_at": "2026-10-08T08:49:32.781252+00:00"
+}

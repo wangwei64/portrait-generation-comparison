@@ -1,0 +1,37 @@
+{
+  "index": 95,
+  "image_id": "flickr-ffhq-52150",
+  "prompt": "A vertical candid portrait of a smiling man with short brown hair and dark aviator sunglasses. He wears a charcoal T-shirt with bold white lettering and two thin red and blue lanyards around his neck. One arm extends toward someone cropped at the right edge. A hand holding a small dark recorder enters the lower foreground. Warm sunlight lights his face against a nearly black shaded doorway behind him.",
+  "prompt_sha256": "7e955bbce7153aef9ad5297a06fa176d6f534d36b24eff8fbe43b0f1a4cbb68d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0e/0ea8213fcbc4f79c07df800f54a5a6cfbf0378c50813f39781cc91833b432019.png",
+  "original_sha256": "0ea8213fcbc4f79c07df800f54a5a6cfbf0378c50813f39781cc91833b432019",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/67/675726bdb4b329c26c70751fe9b1dd1268893c581f6358dfa94e7bbe20300ea9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9395669996738434,
+  "png_path": "generated/flickr-ffhq-52150.png",
+  "preview_path": "previews/flickr-ffhq-52150.jpg",
+  "png_sha256": "0de556933a279f896d2acd8da0ee65dab853e112b696026ecd6b906b12d6a528",
+  "preview_sha256": "8045c6854cf98f3b070de57514012fd5f4a1ea3f45b24907ed6527a07cdfc1b5",
+  "png_bytes": 1425683,
+  "preview_bytes": 319338,
+  "pixel_std": 71.9333300796929,
+  "created_at": "2026-10-08T08:47:46.156202+00:00"
+}

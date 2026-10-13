@@ -1,0 +1,37 @@
+{
+  "index": 89,
+  "image_id": "flickr-ffhq-30996",
+  "prompt": "A vertical theatrical studio portrait of a woman in profile, facing left toward a small black bird perched on her raised hand with its wings spread. Her blonde hair is arranged in a tall elaborate updo. She wears a sleeveless textured olive-green dress, a pearl necklace and small dangling earrings. Red lipstick and dark eye makeup are visible. Dramatic side lighting separates her face and the bird from a softly mottled blue-gray background.",
+  "prompt_sha256": "4fa594bf2375823676ee308250fa4a9f5b0c6c0abf9480d7233a6c05b842e6c3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d5/d5efd08c254a7dc8fb8bcc05ab7a5307dbc564e6b68768d12cdc224e11fdc976.png",
+  "original_sha256": "d5efd08c254a7dc8fb8bcc05ab7a5307dbc564e6b68768d12cdc224e11fdc976",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/29/2907156c976ba7140e3e485648bd161515fddec9579ce5a45e68517f3d9b5d83.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9397813007235527,
+  "png_path": "generated/flickr-ffhq-30996.png",
+  "preview_path": "previews/flickr-ffhq-30996.jpg",
+  "png_sha256": "36a172a91b660592a908f944ec15d923bd3fb0d5de7439440110a73c238d80e6",
+  "preview_sha256": "dc67365c69e2f22ac311867caa6e1a78cc249a805df5c02eb2323ebc9933b3c1",
+  "png_bytes": 1437610,
+  "preview_bytes": 190747,
+  "pixel_std": 44.125352577025545,
+  "created_at": "2026-10-08T08:47:38.094036+00:00"
+}

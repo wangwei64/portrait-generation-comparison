@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-05704",
+  "candidate_index": 387,
+  "ffhq_id": 5704,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-05704.jpg",
+  "source_sha256": "1d47b9477e9d088f450115d9cec007c4c80901bab0daa79475e033011ce86b15",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/millsjpg/8602199508/",
+    "photo_title": "20130322-D6A_3186.jpg",
+    "author": "Curt Mills",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-03-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/millsjpg/8602199508/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "91b721ea1fa71fd61bd9862bb7109b50",
+  "current_decoded_pixel_md5": "9cb7509236330a67b710a7f3fb6367d9",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07873152305635807,
+  "fetched_at": 1791367715.2165074,
+  "visual_review": "pending"
+}

@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s26-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A bearded man with short brown hair stands partway down an outdoor station stairway at night, facing upward toward the camera. He wears a beige hooded jacket, dark trousers and dark shoes, with a black crossbody strap; both hands are tucked into his pockets. His full body appears near the center of a horizontal composition viewed from the top of the stairs. White tiled walls with green border strips slope downward on either side, carrying black handrails. Round lamps glow above the lower entrance, while dark metal railings and parked bicycles border the sidewalk at the top.",
+  "prompt_sha256": "5b449424bfb9fc7559e5c9a8d7608c4de3353b2d42894903d9778b89a1794d5e",
+  "seed": 42,
+  "token_count": 123,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.648167721927166,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077627658843994,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 99,
+  "pixel_std": 70.00194206073498,
+  "generated_at": "2026-10-07T09:03:20.749515+00:00",
+  "image_path": "zimage/generated/piq23-s26-q75.png",
+  "sha256": "25322f0965d84456921759808850fd9a0946c89c65a01c52487ffd4f9fc20175",
+  "bytes": 1217758
+}

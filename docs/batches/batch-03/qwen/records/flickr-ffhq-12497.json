@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-12497",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal photograph of a woman with graying dark hair pulled back, rectangular glasses and small hoop earrings, speaking beside a slender black microphone. She wears a beige top, a dark patterned shawl over one shoulder and a bright blue lanyard. Her mouth is open and her gaze points slightly upward. Frame her head and upper chest against a deep blue stage backdrop with soft green shapes, under focused frontal lighting.",
+  "prompt_sha256": "08e046e1e60d04160a9dbd1173f3b2df385e0fb4ffeb534fc657a3f297a41d0a",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.441979549825191,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.596620082855225,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 52.74484379296897,
+  "generated_at": "2026-10-07T10:49:20.031047+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-12497.png",
+  "sha256": "da2c52e416a13c4af98e1f1186b6f84e8e6ebe313f83a1a77cfa961e262fcd2f",
+  "bytes": 878436
+}

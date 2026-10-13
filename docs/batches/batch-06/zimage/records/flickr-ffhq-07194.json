@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-07194",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid photograph of a blonde toddler seated outdoors, looking toward the camera with a serious expression and the tip of the tongue showing. The child wears an olive-green zip jacket with gray fleece lining over a yellow patterned shirt. One hand holds a large irregular pale cereal-like snack while the other rests on a wooden surface. Frame the head and torso against softly blurred bare ground, scattered leaves and a distant bench.",
+  "prompt_sha256": "8a57bba846d872c688abaec261d43e74693db69925c8447b65b29aa167668f5d",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.13865291699767,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854177951812744,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 62.53337566076102,
+  "generated_at": "2026-10-07T12:31:04.990850+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-07194.png",
+  "sha256": "a3b1fdcc0ac29f3313482c959e9e9ac909a6c8a0e8a11c1f53eb5d75e0dbcc83",
+  "bytes": 953974
+}

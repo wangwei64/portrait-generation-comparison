@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-63979",
+  "prompt": "A vertical close portrait of a woman with wavy pink hair fading to purple at the ends, wearing a tall black knit beanie with small colored embroidery. Her mouth is open and her eyes narrow in an animated expression. She has a small nose stud, a lip ring, red lipstick and a heart-shaped necklace above a gray coat with a broad collar. The daylight street background is softly blurred in muted gray and beige.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-091-096.jpg",
+  "reviewed_source_sha256": "39bc5318464594930beedd60eca88164726a646344e8eb58564fa52cd55ad70f",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

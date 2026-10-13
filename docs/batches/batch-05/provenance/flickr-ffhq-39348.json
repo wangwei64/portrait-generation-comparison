@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-39348",
+  "candidate_index": 258,
+  "ffhq_id": 39348,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-39348.jpg",
+  "source_sha256": "1db0b01fcee1cce65dd7bb937395f9e2e2191b83e9d7267a8aa42ffbc73232b2",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/hurtubia/2208718237/",
+    "photo_title": "retrato",
+    "author": "Ricardo Hurtubia",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-01-21",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/hurtubia/2208718237/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "c815950b4b9b185809e0d395a6f6db00",
+  "current_decoded_pixel_md5": "3e8ffdbd9d52eea3e6a12b2f849abc45",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13348371857782368,
+  "fetched_at": 1791367306.186304,
+  "visual_review": "pending"
+}

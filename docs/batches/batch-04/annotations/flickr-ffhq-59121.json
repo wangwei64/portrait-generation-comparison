@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-59121",
+  "prompt": "A vertical portrait of a smiling woman with reddish brown hair pulled back, wearing thick dark rectangular glasses and small dangling earrings. She wears a white sleeveless scoop-neck top and a silver necklace with a round flat pendant. Frame her head and upper torso against lush green shrubs and narrow palm-like leaves, with a pale blue building partly visible above. Bright natural daylight lights the face and bare shoulders.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-271-276.jpg",
+  "reviewed_source_sha256": "b3492f92f2cfb0100daf9101c2dd2e5003fbf67fd212bb6a563bffdc53174111",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

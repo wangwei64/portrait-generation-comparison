@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-50607",
+  "candidate_index": 225,
+  "ffhq_id": 50607,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-50607.jpg",
+  "source_sha256": "7b075c0d63c2b35d49e18856ec2dc061888b439104f1ba512905eee2e25ba1e8",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1463,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/prensacdsalta/22871088333/",
+    "photo_title": "Asumieron los Concejales Electos para el Periodo 2015-2017 (03-12-15)",
+    "author": "Concejo Deliberante de Salta",
+    "country": "",
+    "license": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "date_uploaded": "2015-12-03",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 10,
+  "photo_url": "https://www.flickr.com/photos/prensacdsalta/22871088333/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "43d6e22d97273b6c85266b3335f0860e",
+  "current_decoded_pixel_md5": "43bcb4a47b0ed821f67949af4564145f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.18105657904318065,
+  "fetched_at": 1791367219.200699,
+  "visual_review": "pending"
+}

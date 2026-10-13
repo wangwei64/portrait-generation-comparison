@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-34985",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A candid horizontal photograph of a young child with short light brown curly hair, wearing a gray knitted cardigan with tan buttons. The child looks off to the right with an open mouth, holding a black remote on one upturned hand while the other hand is raised. Frame the head and torso in a home interior with pale walls, wooden trim and a red hanging cloth behind.",
+  "prompt_sha256": "f11b167955f204811152ef6de4f0550129e40debf0353f084258ecfa0f88ff28",
+  "seed": 42,
+  "token_count": 98,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.714239493012428,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.204740047454834,
+  "peak_reserved_gib": 37.439453125,
+  "nvidia_smi_peak_gib": 37.9501953125,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 45.983623969384475,
+  "generated_at": "2026-10-07T10:01:14.698804+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-34985.png",
+  "sha256": "c6e14fd083396c9f938a01bb647bc2f798451d6b9fb1e513876e41501b89d9ca",
+  "bytes": 1330402
+}

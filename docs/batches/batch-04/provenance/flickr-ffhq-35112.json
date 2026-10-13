@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-35112",
+  "candidate_index": 180,
+  "ffhq_id": 35112,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-35112.jpg",
+  "source_sha256": "efb91fffb461f08499c798c704d77cfe056bdd3e1aa6e56e38d5324630d8e8dc",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4928,
+    3264
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/brf/5934766908/",
+    "photo_title": "Hamilton",
+    "author": "Ben Freeman",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-07-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/brf/5934766908/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "233dcaabe3dc97013878da46c17fa5d5",
+  "current_decoded_pixel_md5": "961e5e339345a3ebc953d88506bfb36e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.10249653838808251,
+  "fetched_at": 1791365527.5921197,
+  "visual_review": "pending"
+}

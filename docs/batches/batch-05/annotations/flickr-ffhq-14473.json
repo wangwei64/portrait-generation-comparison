@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-14473",
+  "prompt": "A vertical close outdoor photograph of a woman with dark hair pulled back, smiling at the camera with teeth visible. She wears a gray zip jacket with its collar raised and a small blue cartoon-shaped zipper pull. Bright sunlight falls across her face while parts of her hair remain shaded. Frame her head and upper chest, with a paved path, dark green tropical foliage and tree trunks receding behind her.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-271-276.jpg",
+  "reviewed_source_sha256": "a9fd273b00b2b32c66d7b24eb950e6fbae396fd1ea05dd6219866684d5b3651b",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

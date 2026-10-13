@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-24620",
+  "candidate_index": 261,
+  "ffhq_id": 24620,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-24620.jpg",
+  "source_sha256": "63886e644901833a307927e2748e87c42e1fdcee7427fb3b263ffe9a5629b1be",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1362
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/dolceromanzo/2895217766/",
+    "photo_title": "08-06-23 DSC_0807",
+    "author": "Takashi Ueno",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-09-28",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/dolceromanzo/2895217766/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a769ade90c381c756a998709228b68c2",
+  "current_decoded_pixel_md5": "689a48e7debc01b2188ca149ea98e4fa",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1903091755319149,
+  "fetched_at": 1791367315.7485542,
+  "visual_review": "pending"
+}

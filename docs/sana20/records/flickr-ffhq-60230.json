@@ -1,0 +1,37 @@
+{
+  "index": 140,
+  "image_id": "flickr-ffhq-60230",
+  "prompt": "A horizontal sunlit photograph of a young boy with tousled medium-brown hair, smiling with his front teeth visible. He wears a white T-shirt and looks up toward the camera. Frame his head and shoulders beside an adult whose gray-green shirt, torso and hand are cropped along the right edge, with the hand resting near the boy's shoulder. Behind is a grassy sports field with bare trees and a low pale building.",
+  "prompt_sha256": "741308f4b621eb9fef0fe0a4b56c64e9cc47308906f364eac19bb6313b606371",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/36/364aac9a2690231a7e33e088880a662fc2cde7e00becd8ea933fbcc69a56261f.png",
+  "original_sha256": "364aac9a2690231a7e33e088880a662fc2cde7e00becd8ea933fbcc69a56261f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d3/d3e46f18c2be7898e615d56dc573bce00eb61f92836757721b0275c75a9e3b58.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404198788106441,
+  "png_path": "generated/flickr-ffhq-60230.png",
+  "preview_path": "previews/flickr-ffhq-60230.jpg",
+  "png_sha256": "ca89a249770677ca22f8c15c7ad72445b523347850964d8b86c8f42e091ac412",
+  "preview_sha256": "e7f3eb2b9558c7b2c077d6643f29a7ed3605dcbad318a778fea3e590806b7d32",
+  "png_bytes": 1617332,
+  "preview_bytes": 259604,
+  "pixel_std": 80.28740234459666,
+  "created_at": "2026-10-08T08:48:46.710262+00:00"
+}

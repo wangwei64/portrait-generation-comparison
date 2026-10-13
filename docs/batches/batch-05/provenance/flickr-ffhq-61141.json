@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-61141",
+  "candidate_index": 269,
+  "ffhq_id": 61141,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-61141.jpg",
+  "source_sha256": "9785c1479dad00ea4ad2648251c1b6cb594d5c2f15992fa205a0da637a5559da",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/quirky/1463619365/",
+    "photo_title": "Seth",
+    "author": "Wendy Harman",
+    "country": "United States",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2007-09-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/quirky/1463619365/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "84f2315e9e02e2e41394b19e9dc3274b",
+  "current_decoded_pixel_md5": "78b78ecc66c58cea7a9ec830ac337e48",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15755188487527308,
+  "fetched_at": 1791367336.9967296,
+  "visual_review": "pending"
+}

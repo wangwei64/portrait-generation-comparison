@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42851",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of a smiling young girl seated at a formal table, wearing a pale blue sleeveless dress and a matching headband topped with a large white fabric flower. Her straight dark hair falls to her shoulders. A small rectangular name badge is pinned to her dress. Frame her head and torso behind white table linens, silverware and a paper booklet, with a patterned upholstered chair and dark carpet behind in soft indoor light.",
+  "prompt_sha256": "c4f5b53abf230c2a6f51538c694e739e23a2288a2cc1f0524bcbe56dc4253783",
+  "seed": 42,
+  "token_count": 96,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.875365532934666,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854201793670654,
+  "peak_reserved_gib": 23.44140625,
+  "nvidia_smi_peak_gib": 23.9501953125,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 74.29776502864974,
+  "generated_at": "2026-10-07T10:55:13.373625+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-42851.png",
+  "sha256": "1a7df6057a2fb64192269a45df4c271168fe2c40df9b99837803a500f7fcf112",
+  "bytes": 820466
+}

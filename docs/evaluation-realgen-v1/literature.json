@@ -1,0 +1,51 @@
+[
+  {
+    "name": "RED",
+    "date": "2026-09-29",
+    "url": "https://arxiv.org/abs/2609.36822",
+    "idea": "利用多尺度重建过程中的变化，而非只看最终重建误差；融合冻结 VQ-VAE、CLIP 和 VAR 的证据。",
+    "use": "研究参考。论文写明接收后开放代码，当前不作为已复现指标。"
+  },
+  {
+    "name": "REALIS",
+    "date": "2026-09-26",
+    "url": "https://arxiv.org/abs/2609.32734",
+    "idea": "内容匹配的真实／生成对照，并测试新生成器与后处理。困难处理集上，预训练检测器仍可能接近随机。",
+    "use": "采用逐生成器 AUC、真实误判率与成对压缩／缩放敏感性；本次 4 种处理不等于复现其全部 35 种。"
+  },
+  {
+    "name": "Percept-Lens / Gaussian Discriminants",
+    "date": "论文 2026-08-19；介绍 2026-09-03",
+    "url": "https://arxiv.org/abs/2608.18523",
+    "idea": "把训练参考数据、冻结特征与分类规则分开研究，强调跨生成器、提示风格、来源域的泛化。",
+    "use": "不在本次 300 组上拟合检测头再报告测试准确率；补充公开 CF-384 权重，保留域分组。"
+  },
+  {
+    "name": "IAPL · CVPR 2026",
+    "date": "代码／权重 2026-03-04",
+    "url": "https://github.com/liyih/IAPL",
+    "idea": "图像自适应提示学习；公开结果在 GenImage 与 Chameleon 间有明显变化。",
+    "use": "可复现的后续候选，当前未纳入已完成实测；测试时自适应需要单独记录计算与数据边界。"
+  },
+  {
+    "name": "Open-source detector benchmark",
+    "date": "2026-02-08",
+    "url": "https://arxiv.org/abs/2602.07814",
+    "idea": "大规模比较开源鉴伪模型的直接使用表现，检验跨数据集与生成器迁移。",
+    "use": "采用多检测器、逐模型结果；不把某个检测器的低检出率解释成普适真实。"
+  },
+  {
+    "name": "Community Forensics",
+    "date": "CVPR 2025",
+    "url": "https://github.com/JeongsooP/Community-Forensics",
+    "idea": "利用大量不同生成器的数据训练检测器；提供官方 384 输入版本权重。",
+    "use": "已加入本次评测，官方尺寸、裁剪与 ImageNet 归一化；作为独立于 RealGen 的补充。"
+  },
+  {
+    "name": "RealGen",
+    "date": "2025-12；代码持续更新",
+    "url": "https://github.com/yejy53/RealGen",
+    "idea": "把鉴伪评分与图文一致性、人类偏好分开评估。",
+    "use": "沿用可离线运行的指标框架；样本为本项目 300 人像，非原文 1000 图基准复现。"
+  }
+]

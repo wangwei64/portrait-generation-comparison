@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-33333",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal photograph of a woman with short side-parted wavy light brown hair, leaning toward the camera with both arms extended outward beyond the image edges. Her mouth is open as if speaking and her gaze meets the lens. She wears a dark blouse covered in tiny red, blue and white flowers. Frame her head, shoulders and upper chest against a plain pale blue wall, with bright frontal light and mild shadow falloff.",
+  "prompt_sha256": "e9ab43c0d711240df30b0f618c6715e5e6552ee1834e780a183b0b724d2bc886",
+  "seed": 42,
+  "token_count": 107,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.432589840143919,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.597115993499756,
+  "peak_reserved_gib": 39.341796875,
+  "nvidia_smi_peak_gib": 39.8525390625,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 78.79676470342925,
+  "generated_at": "2026-10-07T10:05:28.541321+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    249,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-33333.png",
+  "sha256": "8a52b7b24a975a6072da24163fcbdd277095bfa5cebd90c117e09adba0419360",
+  "bytes": 1200978
+}

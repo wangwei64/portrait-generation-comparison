@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-22729",
+  "candidate_index": 203,
+  "ffhq_id": 22729,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-22729.jpg",
+  "source_sha256": "2699e37bb660298a98ece19a27a98dc2cbc072848175adc625cfb33c4529c623",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/josemanuelsg/2669560859/",
+    "photo_title": "Seriedad en el Telefono",
+    "author": "Jose Suarez",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-07-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/josemanuelsg/2669560859/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "3d4155ca4ca4cc2d01a93ded991d73a6",
+  "current_decoded_pixel_md5": "5bfddd45aadbe743ddc59f131fd9bdd8",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07877594243763654,
+  "fetched_at": 1791367166.4553823,
+  "visual_review": "pending"
+}

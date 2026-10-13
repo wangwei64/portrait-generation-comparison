@@ -1,0 +1,37 @@
+{
+  "index": 32,
+  "image_id": "piq23-s31-q75",
+  "prompt": "A man with short brown hair and a full beard stands facing the camera beside a metal railing overlooking a river at night. He wears a pale beige hooded jacket zipped high at the neck, with black fasteners and a broad dark crossbody strap. The horizontal composition frames him from the head to around the waist, slightly left of center. Behind him, lights from waterfront buildings and streets cast yellow reflections across the river. A dark wooded hillside runs across the distance, beneath a cloudy night sky. Horizontal railing bars pass behind his shoulders and lower torso.",
+  "prompt_sha256": "c6ce80e55f05637f3cd73d8506e915aebdb519d379a2ea22a003b9cd0c8dcbcc",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/70/70b16e1001a807682ca3d5da9cfe4afb406635bec8b2fec1e72d712038c35c43.png",
+  "original_sha256": "70b16e1001a807682ca3d5da9cfe4afb406635bec8b2fec1e72d712038c35c43",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/69/69499f3e8b7be087d03a83f7210f1d5fb1459c0aa7485d52e1cf407d9fd2b7d0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 314,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9445247277617455,
+  "png_path": "generated/piq23-s31-q75.png",
+  "preview_path": "previews/piq23-s31-q75.jpg",
+  "png_sha256": "93f125d11e8f77d7744b9852fad8951f258186a507352de4eafbea57d51625c1",
+  "preview_sha256": "3c208849719ad532b8c23a7d6ecce03318595679df5d522b278a13e428be286e",
+  "png_bytes": 1568267,
+  "preview_bytes": 246249,
+  "pixel_std": 52.28664669639665,
+  "created_at": "2026-10-08T08:46:22.894748+00:00"
+}

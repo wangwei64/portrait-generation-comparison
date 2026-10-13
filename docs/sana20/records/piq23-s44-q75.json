@@ -1,0 +1,37 @@
+{
+  "index": 45,
+  "image_id": "piq23-s44-q75",
+  "prompt": "A young man with thick curly dark hair stands in side profile on an elevated walkway beside a river. He wears a navy and red sports jacket, light blue jeans and black shoes, with his hands in his pockets. His full body is visible near the center of a wide horizontal frame, facing right with his head slightly turned toward the camera. A metal railing runs behind him, overlooking the river and a wooded hillside with scattered buildings. Dark broken clouds surround a bright opening in the sky, and a large pale chalk curve is drawn on the paved foreground.",
+  "prompt_sha256": "02b3cb26bc9b43e76408aa70a34453bf8d8eb18f4ff4b35aef3900c86bc71239",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bf/bf3eb7f4f5557c49a2a25b787e7e6a27028bccb45f82ea480eeec55ec6380ae0.png",
+  "original_sha256": "bf3eb7f4f5557c49a2a25b787e7e6a27028bccb45f82ea480eeec55ec6380ae0",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/08/08ee96d2924a895ba4aea7bcffd4667ae3ffc611b817833c705e3e67e692db1e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 317,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9413593038916588,
+  "png_path": "generated/piq23-s44-q75.png",
+  "preview_path": "previews/piq23-s44-q75.jpg",
+  "png_sha256": "a987721e08498532061b69849ce2f0e1bee09cf9ef1d725cf1abda27d020164f",
+  "preview_sha256": "b368cbdce99edaf157715cb38c43846c0bbc4c975f0e66ab432ca957b7ad9c1e",
+  "png_bytes": 1436769,
+  "preview_bytes": 262185,
+  "pixel_std": 77.69102624542107,
+  "created_at": "2026-10-08T08:46:39.917563+00:00"
+}

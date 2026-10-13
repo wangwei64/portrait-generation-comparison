@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-02331",
+  "candidate_index": 58,
+  "ffhq_id": 2331,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-02331.jpg",
+  "source_sha256": "40f50f6921e17f43ec0bf16a0109bd87bd7af74e78ca4d4fb661dc48db7d0261",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3008,
+    2000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bobx-nc/372825011/",
+    "photo_title": "2007 Jan 28 128",
+    "author": "Bob Muller",
+    "country": "United States",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2007-01-29",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/bobx-nc/372825011/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "b6aad397b20a514b480b2cf4de721849",
+  "current_decoded_pixel_md5": "ce24a110d3b8f34d6e6d4fd0d0841b9b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06389627659574468,
+  "fetched_at": 1791365094.1749504,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 83,
+  "image_id": "flickr-ffhq-45210",
+  "prompt": "A vertical indoor photograph of a boy with short spiky light brown hair, wearing an orange polo shirt with dark green, blue and white horizontal stripes. He looks directly at the camera with a quiet neutral expression. A second child's out-of-focus head partly blocks his lower torso in the near foreground. Keep the main face sharply focused, with warm soft light and a blurred brown and cream room behind.",
+  "prompt_sha256": "05ef61c53206c466b6a383053a6cda0bb11068374436423d7f4f74e60f47c15c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    960
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/78/780c78682a7dea6f2f6a3dab6b0816876669705258e16ff1daf67fad99ed98a6.png",
+  "original_sha256": "780c78682a7dea6f2f6a3dab6b0816876669705258e16ff1daf67fad99ed98a6",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8a/8a37a426862d7dd5a9b9551bf3b8162e1059cb25bf16ec40dcdbb07dfb1b74b7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407099038362503,
+  "png_path": "generated/flickr-ffhq-45210.png",
+  "preview_path": "previews/flickr-ffhq-45210.jpg",
+  "png_sha256": "65bf4de5c6cbce25d4e3bf8e64ec2df0f334194c0c09580aa6288e076a5e3b1f",
+  "preview_sha256": "bdecb6bf1c4c7c2af97c9a4f3638198b964225b2a4898ee7afa91418fee8913e",
+  "png_bytes": 1544696,
+  "preview_bytes": 240752,
+  "pixel_std": 63.290115460095144,
+  "created_at": "2026-10-08T08:47:30.091795+00:00"
+}

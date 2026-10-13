@@ -1,0 +1,37 @@
+{
+  "index": 57,
+  "image_id": "flickr-ffhq-56249",
+  "prompt": "A horizontal chest-up photograph of a smiling man with short curly brown hair and light stubble. He wears bright yellow wraparound sunglasses, a black formal jacket, a white shirt and a pale blue striped tie. A blue bus stands behind him to the right. Leafy trees, a light building, a lamp post and a few smaller background pedestrians fill the outdoor setting. Bright daylight produces natural highlights and shadows.",
+  "prompt_sha256": "dc21409543b4777aebfad89bc50cca2ac86214b23dde03b044f9f710397d1391",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/43/43b47c74e407f690e40c0ccb04a0854188a98d2b1246774db6bae6d7430298a8.png",
+  "original_sha256": "43b47c74e407f690e40c0ccb04a0854188a98d2b1246774db6bae6d7430298a8",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4d/4dac29bff48c21896738aec9995d45153cc4cdafd0afe093c3ca2c170b856e9e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941134337335825,
+  "png_path": "generated/flickr-ffhq-56249.png",
+  "preview_path": "previews/flickr-ffhq-56249.jpg",
+  "png_sha256": "6006f69d945ab5b3b26178b6e92bfad0efb5894d28f7e5fef72d86714400e9a7",
+  "preview_sha256": "de085939a30c1d6e4f8e210863aec7f1d52e5ed099d16ab503a0a69d8ff04cbe",
+  "png_bytes": 1516477,
+  "preview_bytes": 288681,
+  "pixel_std": 88.73180537049437,
+  "created_at": "2026-10-08T08:46:55.219285+00:00"
+}

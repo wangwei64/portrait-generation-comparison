@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42137",
+  "candidate_index": 72,
+  "ffhq_id": 42137,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42137.jpg",
+  "source_sha256": "e0f1d3a8003fed98adfda42b4d512fd408c4ffb11bdbddf073c02d69bc6746b8",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4928,
+    3264
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/brookhines/32179076280/",
+    "photo_title": "KBH_2834",
+    "author": "brookhines",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-01-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/brookhines/32179076280/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "3c487409cf96b84fbeba9d9f39172ac0",
+  "current_decoded_pixel_md5": "91c25408352672d033f9a1ddd95c055b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.10249653838808251,
+  "fetched_at": 1791365127.6640377,
+  "visual_review": "pending"
+}

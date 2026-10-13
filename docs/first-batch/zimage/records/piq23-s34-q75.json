@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s34-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man wearing a black knit beanie and black outdoor jacket stands facing the camera in a courtyard. He holds a long black telescoping pole with both hands at chest level; the pole extends diagonally toward the lower left foreground. A small black crossbody bag hangs at his waist. The horizontal view looks slightly upward and frames his head and upper body. Behind him rises a gray modern apartment building with projecting angular balconies in blue, pink, green and bronze. A metal fence, shrubs and a tree with brown leaves fill the lower background.",
+  "prompt_sha256": "6abf875d6ffd108040d99486ccf5adce2beab4876d4f0b2b47516bbad33bc8fd",
+  "seed": 42,
+  "token_count": 118,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.149008464068174,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077603816986084,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 64.9081406161652,
+  "generated_at": "2026-10-07T09:07:18.604565+00:00",
+  "image_path": "zimage/generated/piq23-s34-q75.png",
+  "sha256": "a1673d54afbf97f2a25e04d542958bd44ba60e11cb02f13ec96c0457c7789b1d",
+  "bytes": 1149651
+}

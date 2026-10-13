@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-51714",
+  "prompt": "A horizontal photograph of a young child with very short tightly curled black hair, seated against a dark earthen bank threaded with pale dry grass roots. The child wears a worn brown short-sleeved top over a muted rust-colored shirt, with knees drawn up and one hand resting near them. Looking off to the right with parted lips, the child is lit by soft daylight. Keep the soil and vegetation visible around the upper body.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-139-144.jpg",
+  "reviewed_source_sha256": "e559d8239d741b75784b40b962768f538185066d4aba2ce9961e1e9068d24f48",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

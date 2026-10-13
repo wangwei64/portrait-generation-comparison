@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-50607",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    736,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait of a seated man with short gray hair combed to one side, thick dark eyebrows and a calm slightly open-mouthed expression. He looks straight at the camera wearing a dark charcoal suit jacket, white shirt and a bright red-orange tie with fine diagonal stripes. Frame his head and chest closely. Soft indoor lighting reveals natural facial lines, while dark clothing and indistinct people form the shallow-focus background.",
+  "prompt_sha256": "fc89ecacdc0b4d1339faf866959b38d277a07d6158d193342e9a543c0ac6e985",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.0774527713656425,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.739996910095215,
+  "peak_reserved_gib": 10.080078125,
+  "nvidia_smi_peak_gib": 10.5966796875,
+  "nvidia_smi_sample_count": 11,
+  "pixel_std": 71.17386731591682,
+  "generated_at": "2026-10-07T12:08:55.642148+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-50607.png",
+  "sha256": "5d15de9771e012d24eba84f0ab5259d97354da024f86f227469cd5b6f2af587e",
+  "bytes": 1034861
+}

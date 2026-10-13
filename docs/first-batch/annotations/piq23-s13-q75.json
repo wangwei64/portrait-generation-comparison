@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s13-q75",
+  "source_sha256": "8ac7f00469b8ac913660a6b9e71c16f16ddd058fe1f5563d9cb04ba60cf3751c",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "standing",
+    "doorway",
+    "three_quarter"
+  ],
+  "prompt": "A smiling dark-skinned woman with dark hair pulled back stands facing the camera in an open doorway. She wears a fitted brown sleeveless top tucked into pale beige high-waisted trousers. Her arms hang loosely by her sides. The horizontal composition places her on the right and frames her from the head to the upper legs. A cork noticeboard with a pinned white sheet and a small color chart occupies the pale wall on the left. White doorframes, another doorway and a bright ceiling light are visible behind her in the corridor.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

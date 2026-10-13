@@ -1,0 +1,37 @@
+{
+  "index": 78,
+  "image_id": "flickr-ffhq-13473",
+  "prompt": "A vertical chest-up portrait of a bald man with light stubble and a relaxed slightly open smile, facing the camera. He wears a bright red outdoor jacket unzipped to reveal a yellow fleece lining and a black T-shirt with a white-and-red printed design. Soft natural daylight lights his face evenly. Keep the face and jacket clear against a strongly blurred background of green trees and pale sunlit foliage.",
+  "prompt_sha256": "d21717b13a455d71ba9d10925f1cb8a1c8843f7eec2c9916de34687c8ddd7807",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/23/230db2508431dc47ec1c2a3db1e58a2ac648689eebbc7b19d65cb8d1b6842a31.png",
+  "original_sha256": "230db2508431dc47ec1c2a3db1e58a2ac648689eebbc7b19d65cb8d1b6842a31",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/92/925f88015b67bca08ec584af9baf0272f1d92ee1090b96c5087cd4ecaa8c1235.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9411135315895081,
+  "png_path": "generated/flickr-ffhq-13473.png",
+  "preview_path": "previews/flickr-ffhq-13473.jpg",
+  "png_sha256": "71f3347e670e39485a3fb1de83aba726339ae3c4fed2510206eee4277e0e6f4e",
+  "preview_sha256": "4ba6da9fc1579a113b2dd54159dec34f71fc51af4f9a282a2d95abb59919775c",
+  "png_bytes": 1512980,
+  "preview_bytes": 270807,
+  "pixel_std": 84.64132142140484,
+  "created_at": "2026-10-08T08:47:23.312650+00:00"
+}

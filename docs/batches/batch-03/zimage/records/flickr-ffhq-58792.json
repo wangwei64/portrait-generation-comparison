@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-58792",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical high-angle selfie of a smiling woman with short tousled brown hair and thin rimless glasses, her eyes nearly closed in the bright light. She wears a black sleeveless top, a necklace and a brown shoulder strap. Her face occupies the lower foreground. Red railings, brick parapets, sloping tile roofs and an old stone building with tall windows extend below and behind her. Use natural daylight and a casual handheld composition.",
+  "prompt_sha256": "0c9e0ddab69455bb75d4080ce81f67df88ca0b7de2dfda8771703a0395e474ca",
+  "seed": 42,
+  "token_count": 97,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 41.4007115252316,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.67296266555786,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 138,
+  "pixel_std": 64.56079071163153,
+  "generated_at": "2026-10-07T10:16:45.373981+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-58792.png",
+  "sha256": "65dbe57087456a61a859620495781151815645f748b20daf80f7b9328bb68113",
+  "bytes": 1663783
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-55689",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal flash photograph of a man with short dark hair leaning toward the camera and making an exaggerated wide-eyed grin with his teeth clenched. He wears a dark purple finely striped button-front shirt. Frame his head and upper torso against a very dark restaurant or bar interior dotted with warm orange pendant lights. A cropped companion's shoulder and hand appear along the far right edge, without a visible face.",
+  "prompt_sha256": "7e22b27559d85eb42681c7b960c9caa9a99a8170ed358b81500151e876dc078b",
+  "seed": 42,
+  "token_count": 101,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.446446385234594,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59414052963257,
+  "peak_reserved_gib": 41.033203125,
+  "nvidia_smi_peak_gib": 41.5439453125,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 54.09237142947557,
+  "generated_at": "2026-10-07T12:00:33.474071+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-55689.png",
+  "sha256": "6a0fe42260d7b9ad40501e5f16c1d2ba703912ce2d0cbfd55ea370f6bf49d071",
+  "bytes": 927520
+}

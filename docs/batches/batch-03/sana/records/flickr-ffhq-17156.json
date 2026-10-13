@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-17156",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical outdoor portrait of a woman with long straight black hair, a few strands falling across her face. She faces the camera with a subtle closed-mouth smile and dark eye makeup. A loose white sleeveless top has a cutout patterned panel and a narrow pink strap beside one shoulder; a fine necklace is visible. Frame her head and upper torso against softly blurred green foliage in gentle natural daylight.",
+  "prompt_sha256": "8398b3549225f299959a03416bd1fcecc0e55270b6a586b49701ad7376309fa7",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6971758864820004,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 74.20879641914755,
+  "generated_at": "2026-10-07T10:51:58.461635+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-17156.png",
+  "sha256": "664077325d5c99bb16b93a32f33419fe80faa0cec7d63f873285fc23027858cd",
+  "bytes": 937435
+}

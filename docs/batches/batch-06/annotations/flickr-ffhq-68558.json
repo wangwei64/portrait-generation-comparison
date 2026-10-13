@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-68558",
+  "prompt": "A vertical candid portrait of a man with short straight black hair, rectangular glasses and a faint mustache, looking directly at the camera with a neutral expression. He wears a dark graphic T-shirt and a black shoulder strap. Frame his head and upper torso inside an eyeglass shop, with rows of sunglasses mounted on a white display wall, boxed products, overhead lights, partial signs and two small background figures.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-325-330.jpg",
+  "reviewed_source_sha256": "c5a5209ac62cc68f2d51655022748d7b9cb6fc97c52b34269e06a9092dbdab27",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

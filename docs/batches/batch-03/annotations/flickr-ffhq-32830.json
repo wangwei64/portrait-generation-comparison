@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-32830",
+  "prompt": "A vertical formal portrait of a woman with long straight light brown hair and side-swept bangs. She wears a fitted black pinstriped jacket over a black top and faces the camera with a composed neutral expression. Her torso is angled slightly to one side. Frame her from head to waist against dark blue-gray draped fabric, using soft directional studio light that highlights the hair and leaves gentle shadows on the face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-103-108.jpg",
+  "reviewed_source_sha256": "d17567758fb06a740f732501a4b95e373f7363ed3860849fedfe174453aa0001",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 186,
+  "image_id": "flickr-ffhq-35614",
+  "prompt": "A vertical photograph of a man with short curly brown hair and rectangular metal glasses, speaking into a handheld microphone with a blue band. He wears a dark suit, pale blue shirt, patterned navy tie and a red conference lanyard with a badge. One hand holds the microphone while the other is raised in a small gesture. He looks slightly right, mouth open, against a softly lit cream wall and dark doorway.",
+  "prompt_sha256": "419b16c630cb66295aebc4c24934581c9fe8aae8154520c99f620b7ab5e725ad",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/14/143ee7956e0be1e4ceaf2ee236585bcaf6ce78d548173f7b43f4d95bbb27fc69.png",
+  "original_sha256": "143ee7956e0be1e4ceaf2ee236585bcaf6ce78d548173f7b43f4d95bbb27fc69",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/03/03716152aef395b2bd736cf400871ab306b102cda45d9ba644766e0e30cdd1ec.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939856868237257,
+  "png_path": "generated/flickr-ffhq-35614.png",
+  "preview_path": "previews/flickr-ffhq-35614.jpg",
+  "png_sha256": "c5b789e2a728887ac677ac8bee84af4d5efcdb8bf07a160dda1d04635f6d5b7a",
+  "preview_sha256": "a5c89f945a3e5ee6e4d413bac7cbffc234c52c1fa7c13080044ad8224ee1c200",
+  "png_bytes": 1562950,
+  "preview_bytes": 289121,
+  "pixel_std": 78.83732446814501,
+  "created_at": "2026-10-08T08:49:48.986761+00:00"
+}

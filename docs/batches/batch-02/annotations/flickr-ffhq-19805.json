@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-19805",
+  "prompt": "A horizontal close photograph of a girl with long straight brown hair parted near the center. She looks into the camera and smiles with her teeth visible. Her head fills much of the image and her shoulders fall below the bottom edge. Behind her is a broad green grassy field leading to dense leafy trees and a pale distant sky. Soft outdoor daylight gives gentle facial shadows and a natural casual appearance.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-019-024.jpg",
+  "reviewed_source_sha256": "a2cfb7265842b541b84ab09b12e2072faec277ae029b92797f257d4eae1df864",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-64372",
+  "prompt": "A horizontal flash portrait of a smiling young woman with heavily layered straight blonde and light brown hair, long side-swept bangs and darker strands at the ends. She looks directly at the camera with teeth visible and wears a teal short-sleeved top. Frame her head and shoulders in a dim interior. Dark wood paneling, a reddish counter edge and a long blue padded object occupy the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-331-336.jpg",
+  "reviewed_source_sha256": "cc19a9bb8f6b305eac5105e43f61b788446407a528b73dc0ca71582c230df0a4",
+  "framing": "closeup",
+  "environment": "lowlight",
+  "tags": [
+    "closeup",
+    "lowlight"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

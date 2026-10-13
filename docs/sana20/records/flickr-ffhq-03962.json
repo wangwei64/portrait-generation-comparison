@@ -1,0 +1,37 @@
+{
+  "index": 269,
+  "image_id": "flickr-ffhq-03962",
+  "prompt": "A horizontal candid photograph of a young woman with brown hair loosely pulled back, wearing a thick black scarf. She looks toward the camera with a slight smile while gloved hands enter from the top and right, moving hair aside and holding a small white rectangular handheld instrument near her ear. Frame her head and shoulders against bright windows and horizontal ceiling beams. Strong backlight leaves her face partly in shadow.",
+  "prompt_sha256": "dc96c96bb37e4e0c67786df81f6f6e66164f484561ec9bc6af0e2ba961b7794f",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/33/33a1428ff12595999f0e0713506b8fa438478355e513da5db9db9fd26da28159.png",
+  "original_sha256": "33a1428ff12595999f0e0713506b8fa438478355e513da5db9db9fd26da28159",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d2/d25f61fdd293ffa1ca2e5d92cae687ca95ec6763023b2aa00248973c5898d7c3.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939987063407898,
+  "png_path": "generated/flickr-ffhq-03962.png",
+  "preview_path": "previews/flickr-ffhq-03962.jpg",
+  "png_sha256": "57e809f032381ab7a8fe36a29585b21a57a146663552c33c699349360c459340",
+  "preview_sha256": "9322492a28ea55978087d53bca9c67408c90066624e2c6ceddb408df56753394",
+  "png_bytes": 1637787,
+  "preview_bytes": 264636,
+  "pixel_std": 93.33371419300835,
+  "created_at": "2026-10-08T08:51:41.551872+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-66388",
+  "candidate_index": 127,
+  "ffhq_id": 66388,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-66388.jpg",
+  "source_sha256": "bfafee9e2a228f943c9185cbed5dd1c238ef26306ea119c5ed368f95a0fa2dca",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4000,
+    3000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/averon/5335784912/",
+    "photo_title": "DSC05072.JPG",
+    "author": "Pedro Markun",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2011-01-08",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/averon/5335784912/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "80b921aaa3ba84cd2bb03233293126f6",
+  "current_decoded_pixel_md5": "f8fe46d0ad44f659b16762b3927e4876",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.046128,
+  "fetched_at": 1791365441.7605128,
+  "visual_review": "pending"
+}

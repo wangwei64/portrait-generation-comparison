@@ -1,0 +1,37 @@
+{
+  "index": 100,
+  "image_id": "flickr-ffhq-33935",
+  "prompt": "A horizontal low-angle portrait of a bald man with a sharply shaped dark beard and mustache. His head sits low in the frame, leaving substantial empty wall space above. He looks down toward the camera with a neutral expression, and only his head, neck and bare shoulder tops are visible. A textured yellow-green interior wall and a dark green door frame at the left form the background. Direct warm frontal light illuminates the face.",
+  "prompt_sha256": "270d777f9f2608c7aba586cb3ab201b706ced130a2e1c145d5f5f00143a2a797",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2d/2d353cc6e943cebde79780c96710b736de1fd22101e223b94c050b1831404464.png",
+  "original_sha256": "2d353cc6e943cebde79780c96710b736de1fd22101e223b94c050b1831404464",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/03/03395de1cc3db8ca474093a0bb125bde7710e10cd560e5b7e4f40947d8be3427.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412794075906277,
+  "png_path": "generated/flickr-ffhq-33935.png",
+  "preview_path": "previews/flickr-ffhq-33935.jpg",
+  "png_sha256": "15618c98be9c006d770772ed88e20cd6e174910c18eae484a28915d3038d7ba6",
+  "preview_sha256": "2fc8f2329b7ed6b4fe427cb179c1649fdd60c73f2d271436450a20ca2393b28c",
+  "png_bytes": 1630611,
+  "preview_bytes": 268671,
+  "pixel_std": 54.86918404807204,
+  "created_at": "2026-10-08T08:47:53.020680+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-36571",
+  "prompt": "A vertical high-angle outdoor portrait of a woman with dark curly hair tied back, smiling broadly toward the camera. She wears a patterned sleeveless top, a black cord tied around her neck, a small pendant and a black backpack. Bright overhead sunlight produces strong highlights and shadows on her face and shoulders. Dense spiky green plants and thin dry branches fill the surrounding sunlit scrubland background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-265-270.jpg",
+  "reviewed_source_sha256": "3b49d690c2a3e799a267c55da7adf9da913e375d04113c0e1936087f25cb2ef2",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

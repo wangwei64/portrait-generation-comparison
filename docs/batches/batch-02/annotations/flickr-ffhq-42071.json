@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42071",
+  "prompt": "A vertical festive portrait of a smiling woman wearing an elaborate tall silver-and-black headdress with sequins, pointed curves and black feathers. She has glittery red-orange face makeup, dark eyeliner and bright red lipstick. A black-and-white feathered collar surrounds her shoulders above a sparkling costume. Frame her head and upper chest, with the top of the headdress partly cropped. Direct light makes the decorations shine against a dark crowded indoor background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-019-024.jpg",
+  "reviewed_source_sha256": "1f8f0c06175fc1cb1a736e2302cb3f9108b1eadfe262847acf96a97a58e0f31d",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

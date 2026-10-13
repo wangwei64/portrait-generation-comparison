@@ -1,0 +1,37 @@
+{
+  "index": 123,
+  "image_id": "flickr-ffhq-18509",
+  "prompt": "A vertical waist-up portrait of a smiling young woman with very long blonde curls, leaning beside a red brick wall. She wears a bright pink short-sleeved blouse with a central pleat, a layered white pearl necklace and a black waistband. She faces the camera with her teeth visible. Soft outdoor light evenly illuminates her face and hair; a dark vertical window frame occupies the right background.",
+  "prompt_sha256": "2ea0fa0ee5e70d8a6b5a190c1eaad86078a1e6f8ba40b119fa978e1eb140e61d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bd/bd5c1d6e43ac857275d1f3a2ac509214bc25cef21037d28419df6f5618387e9d.png",
+  "original_sha256": "bd5c1d6e43ac857275d1f3a2ac509214bc25cef21037d28419df6f5618387e9d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8f/8f9068a6cf1d2a72df4b23ce7bd4257e7933889af225979a02c703c32103341f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399720169603825,
+  "png_path": "generated/flickr-ffhq-18509.png",
+  "preview_path": "previews/flickr-ffhq-18509.jpg",
+  "png_sha256": "04dc88226cd76b5abb30a82550370b72fe2af0188737e663a6fc6509bfd7a35a",
+  "preview_sha256": "885467cfd28f4b10e2123eccb5eec2378611eacda1212ec0793cfcf36e636e05",
+  "png_bytes": 1871194,
+  "preview_bytes": 440533,
+  "pixel_std": 65.69828746712551,
+  "created_at": "2026-10-08T08:48:24.033654+00:00"
+}

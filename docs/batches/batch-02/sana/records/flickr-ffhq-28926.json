@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-28926",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor selfie of a man with medium-length tousled dark hair, a short beard and large gold-rimmed aviator sunglasses. He looks into the camera with a neutral expression, wearing a dark collared shirt. His head and shoulders dominate the foreground. Behind him are a wooden railing, water, leafy trees with exposed roots and a palm frond; a smaller person in sunglasses stands farther back to the right. Use dappled daylight.",
+  "prompt_sha256": "baa879ce74173082198131e86dc36f686b8126d97b509c1e6b860614432c41cf",
+  "seed": 42,
+  "token_count": 296,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6849830113351345,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 85.1739727247262,
+  "generated_at": "2026-10-07T10:12:53.840229+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-28926.png",
+  "sha256": "e4a63fc592928fd26498faf9abd517073135171f5177e8a0473ac344eaf920e2",
+  "bytes": 1144802
+}

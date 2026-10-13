@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-50607",
+  "prompt": "A vertical portrait of a seated man with short gray hair combed to one side, thick dark eyebrows and a calm slightly open-mouthed expression. He looks straight at the camera wearing a dark charcoal suit jacket, white shirt and a bright red-orange tie with fine diagonal stripes. Frame his head and chest closely. Soft indoor lighting reveals natural facial lines, while dark clothing and indistinct people form the shallow-focus background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-223-228.jpg",
+  "reviewed_source_sha256": "7b075c0d63c2b35d49e18856ec2dc061888b439104f1ba512905eee2e25ba1e8",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

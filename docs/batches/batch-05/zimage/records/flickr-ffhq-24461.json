@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-24461",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a young man with short tousled light brown hair and faint stubble, turning his face toward the right while glancing sideways toward the camera with slightly pursed lips. He wears a black textured high-collared sweater. Frame his head and shoulders at an outdoor cafe, with teal-painted doors, a striped awning, tables and seated people softly blurred behind him in warm daylight.",
+  "prompt_sha256": "b30cda1e9c038f0757e36478f41ee2815aa8486daa507d7a1a6f2dc73db554fc",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.1922894641757,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07747507095337,
+  "peak_reserved_gib": 26.33203125,
+  "nvidia_smi_peak_gib": 26.8408203125,
+  "nvidia_smi_sample_count": 97,
+  "pixel_std": 72.83452617142568,
+  "generated_at": "2026-10-07T11:42:38.948189+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372731603469464",
+  "image_path": "zimage/generated/flickr-ffhq-24461.png",
+  "sha256": "41caf0fe39f6f517d88564306e2db54d30bda129061670a05a299426b06b26a8",
+  "bytes": 1016116
+}

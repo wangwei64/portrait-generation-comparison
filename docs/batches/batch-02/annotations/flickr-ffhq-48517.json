@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-48517",
+  "prompt": "A horizontal seated portrait of a man with short black hair, oval metal-framed glasses and a gentle closed-mouth smile. He wears a red short-sleeved polo shirt with the collar open, leaning slightly toward the camera. Show his head and upper torso against a wall made of horizontal honey-colored wooden planks with visible grain and knots. Soft light from the left creates mild shadows across his face and shirt.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-061-066.jpg",
+  "reviewed_source_sha256": "0b58000edbd490316a1d40b5136e44e0b234cbd59bd4844e74a606a70d1724a2",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

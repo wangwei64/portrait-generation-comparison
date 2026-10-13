@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-50758",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal playful portrait of a boy with short spiky light brown hair, facing the camera and sticking out his tongue. He raises both open hands beside his ears with the fingers spread. He wears a white button-down shirt with the cuffs open and a dark red patterned tie. Frame his head, shoulders and bent arms from slightly above, against a simple sunlit green lawn, keeping the face and fingers clearly visible.",
+  "prompt_sha256": "c9a962a43e6f16e333280d9c258b9baae2c3bad6e941c85a7319145a621a0c0c",
+  "seed": 42,
+  "token_count": 291,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.0942511931061745,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 10,
+  "pixel_std": 89.20259273643723,
+  "generated_at": "2026-10-07T10:52:03.910071+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-50758.png",
+  "sha256": "5f7b6578da5e9582b4e6c0670916d8ca2bfb2bd322126732f9406b7242bd445d",
+  "bytes": 941601
+}

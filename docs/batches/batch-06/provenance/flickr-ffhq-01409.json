@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-01409",
+  "candidate_index": 329,
+  "ffhq_id": 1409,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-01409.jpg",
+  "source_sha256": "e3fa21392b8cebd2c391953541097cf7c1bf13f8202db581980e935a4abb22bf",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2047,
+    1648
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/blondinrikard/14699824503/",
+    "photo_title": "Ingrid",
+    "author": "Blondinrikard Fröberg",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-07-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/blondinrikard/14699824503/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "5242eab168a568da259f48cba3724190",
+  "current_decoded_pixel_md5": "d688e116cbf5ab525fa0a8760b92a446",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1455686803434348,
+  "fetched_at": 1791367487.3524454,
+  "visual_review": "pending"
+}

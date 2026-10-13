@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-32706",
+  "prompt": "A horizontal close portrait of a young woman with long dark hair pulled back, glancing toward the left with slightly parted lips. She wears a dark purple top and dangling cream-colored earrings made of beads and open oval shapes. Her face fills the center, with other people's turquoise and pale blue shirt-covered shoulders cropped at either side. Soft green foliage and a wooden post form the shaded outdoor background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-205-210.jpg",
+  "reviewed_source_sha256": "029fbe438cb6b74651e707ad46ebb59856172092932eaf0522f27892b9e971dd",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

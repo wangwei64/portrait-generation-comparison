@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-16792",
+  "prompt": "A horizontal candid head-and-shoulders photograph of a woman with straight shoulder-length dark brown hair and side-swept bangs. She looks upward toward the right with her mouth open as if speaking. She wears an orange collared shirt with fine white stripes. Soft indoor illumination shows natural facial detail. A pale wall occupies the left background and closed horizontal gray window blinds fill the right.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-265-270.jpg",
+  "reviewed_source_sha256": "e9ace74ac4707d6b143c8b38cf1d58545f41362133a5e3b081e3e47b2e5a17bb",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

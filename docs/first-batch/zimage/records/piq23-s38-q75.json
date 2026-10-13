@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s38-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with shoulder-length brown hair stands on a paved pedestrian path between buildings. She wears a dark blue textured sweater and faces the camera with a neutral expression. Her right hand is raised beside her head on the left of the image, palm forward and fingers spread; her other arm hangs down. The horizontal frame shows her head and upper torso. A glass-fronted office building recedes along the left, a pale wall runs along the right, and patches of grass, low greenery and a small tree border the curving pathway behind her.",
+  "prompt_sha256": "75dfdfb37b0f5cfdee278c28ded0d4e032245967c835542a23e0a23a1805ad4c",
+  "seed": 42,
+  "token_count": 117,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.64200507476926,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077599048614502,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 99,
+  "pixel_std": 69.70510272655328,
+  "generated_at": "2026-10-07T09:09:17.675523+00:00",
+  "image_path": "zimage/generated/piq23-s38-q75.png",
+  "sha256": "fa7d90fad9cf09134acfb51a40e64df69951390777e46487a07f4b59e9db94f4",
+  "bytes": 1200742
+}

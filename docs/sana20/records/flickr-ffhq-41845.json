@@ -1,0 +1,37 @@
+{
+  "index": 51,
+  "image_id": "flickr-ffhq-41845",
+  "prompt": "A vertical photograph of a man with short tousled gray-brown hair and light stubble, smiling gently toward the camera. His torso is turned slightly sideways. He wears a bright green button-front collared shirt with white buttons and shoulder tabs. Frame his head and upper torso against an almost white outdoor background, with a small patch of foliage at the lower left. Soft daylight reveals natural facial lines.",
+  "prompt_sha256": "8bf2b780787b36c1f4170f66c1d581603d2c901d661db50652fe1d73e202782c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/30/30c27191d31ea0d08be0efad92755e6a75e87a956ebc1978b899974ebecbd05d.png",
+  "original_sha256": "30c27191d31ea0d08be0efad92755e6a75e87a956ebc1978b899974ebecbd05d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5d/5de325ee264fafebf1db4aad2edc0c77273118a621c53821bad05f62bbd94ee5.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9418125115334988,
+  "png_path": "generated/flickr-ffhq-41845.png",
+  "preview_path": "previews/flickr-ffhq-41845.jpg",
+  "png_sha256": "997a92284fc3bf1932dbb5128d040f0a6872eae91c682a9754b77f761623ca0c",
+  "preview_sha256": "6d45e6391fd27b085545b7b888a7e8adc91124f945c6d9cb7aadc53a9d2d9c30",
+  "png_bytes": 1024691,
+  "preview_bytes": 234083,
+  "pixel_std": 72.15544549299196,
+  "created_at": "2026-10-08T08:46:47.248067+00:00"
+}

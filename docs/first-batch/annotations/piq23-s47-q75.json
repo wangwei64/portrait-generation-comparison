@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s47-q75",
+  "source_sha256": "aa17edbb65e30f2e42fd5b00922d261f3c1645a17326ce9b1d354e7430223c48",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "short_hair",
+    "foliage"
+  ],
+  "prompt": "A man with short light-brown hair styled upward and light facial stubble looks directly toward the camera. He wears a pale gray crew-neck sweatshirt over a darker neckline. The horizontal portrait frames his head, shoulders and upper chest, slightly left of center. Dense narrow green leaves fill the entire background. Sunlight catches the top and left side of his hair and creates small bright patches in the foliage, while his face remains evenly visible with a neutral closed-mouth expression.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

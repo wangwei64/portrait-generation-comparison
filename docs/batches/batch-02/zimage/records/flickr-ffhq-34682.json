@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-34682",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of a young girl with light brown hair pulled back and loose wisps around her forehead. Wearing a dark sleeveless gymnastics outfit with pink edging, she rests both bent arms over a wooden training bar and looks quietly toward the camera. A large blue padded mat fills the lower background, with red protective padding and glass doors behind. Another child's body is partly cropped at the right edge. Use soft daylight.",
+  "prompt_sha256": "0fc346a45b159b6959ff653e1ff4447c23d42b7071d9fa72cb0c4804529234e8",
+  "seed": 42,
+  "token_count": 96,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.347739782184362,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854201793670654,
+  "peak_reserved_gib": 26.60546875,
+  "nvidia_smi_peak_gib": 27.1142578125,
+  "nvidia_smi_sample_count": 89,
+  "pixel_std": 69.66651063113908,
+  "generated_at": "2026-10-07T09:55:08.982791+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-34682.png",
+  "sha256": "cd7781c8a5e65261287cb98993f38c427e7c59bb1da10850d306cad0838946f2",
+  "bytes": 876995
+}

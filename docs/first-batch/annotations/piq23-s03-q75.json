@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s03-q75",
+  "source_sha256": "0c80ebb12bf31961c778bc0be06a6cd7ffc8c060ad27d10aea5048cca677e8f0",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "beard",
+    "chest_up",
+    "window"
+  ],
+  "prompt": "A man with closely cropped brown hair and a full dark beard faces the camera in a light gray crew-neck T-shirt. His head, shoulders and upper chest occupy the center of a horizontal portrait. He has a calm expression with his mouth closed. A large window behind him shows a bare tree, a pale courtyard wall and rows of windows on apartment buildings. The right side of the view is bordered by a white window frame, and the facade of a nearby building recedes diagonally into the distance.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

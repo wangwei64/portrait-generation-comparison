@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-49754",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal travel portrait of an older man with short gray hair, a gray mustache and large black sunglasses, smiling toward the camera. He wears a navy polo shirt with a small white chest emblem. Frame his head and upper torso on the right side. Behind him, a long stone wall and watchtowers wind across hazy green mountain ridges under a pale overcast sky, leaving generous landscape space on the left.",
+  "prompt_sha256": "8b32a4397af769bd94dff312c48dace44462684385984810825900ef00ff54e2",
+  "seed": 42,
+  "token_count": 93,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.21430292725563,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854187488555908,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 73.3887498255589,
+  "generated_at": "2026-10-07T12:28:20.684543+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-49754.png",
+  "sha256": "d8142dea442e705e8c36cb1c7aedc32f8fb24a1f690010d81721a3a2d69d12b5",
+  "bytes": 799133
+}

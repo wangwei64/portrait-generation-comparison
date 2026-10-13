@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-33935",
+  "prompt": "A horizontal low-angle portrait of a bald man with a sharply shaped dark beard and mustache. His head sits low in the frame, leaving substantial empty wall space above. He looks down toward the camera with a neutral expression, and only his head, neck and bare shoulder tops are visible. A textured yellow-green interior wall and a dark green door frame at the left form the background. Direct warm frontal light illuminates the face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-079-084.jpg",
+  "reviewed_source_sha256": "ad6360270792e8ef07bbd376c36cd5e35a695c678766e97e44f617330dd53024",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

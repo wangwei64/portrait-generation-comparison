@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-26913",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close photograph of a man with short black hair and rectangular brown glasses, playing a shiny brass trumpet with his eyes nearly closed. He wears a bright blue collared shirt. Both hands hold the instrument near the valves, while the mouthpiece rests against his lips and the tubing extends into the lower right foreground. Warm sunlight illuminates his face and fingers, with a blurred thatched roof and green stems behind.",
+  "prompt_sha256": "29a7f5a40c2b7dc705bb77a9a7759536638b31ae6e6f72a8f59e226f4dd0c784",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.407617166638374,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07747507095337,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 97,
+  "pixel_std": 84.66578304022991,
+  "generated_at": "2026-10-07T12:13:37.159766+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-26913.png",
+  "sha256": "54e1f89b598b422c26e4647f5282e3dde0368233780dfe3ee8fde0b6f50ed5ff",
+  "bytes": 1044691
+}

@@ -1,0 +1,37 @@
+{
+  "index": 273,
+  "image_id": "flickr-ffhq-57306",
+  "prompt": "A horizontal beach photograph of a young boy with short straight brown hair, squinting slightly and smiling toward the camera with small teeth visible. Frame his head and bare shoulders under bright sunshine, without showing the lower body. A pale beach umbrella crosses the top edge, while blue umbrellas, scattered beachgoers, sand, breaking white surf and a hazy blue sea form the softly focused summer background.",
+  "prompt_sha256": "dc4c359b6a6d944e9202871536f3bf4053737b5e574101044daba3cac7ca87ca",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e8/e864e92d67aa379cbb9db2cb01f0b30bb8e83a700a54d7a879ecc3827ba9bb10.png",
+  "original_sha256": "e864e92d67aa379cbb9db2cb01f0b30bb8e83a700a54d7a879ecc3827ba9bb10",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8f/8f4aa2ea1d0cefc91616c0b315af6ac65d1be948058a1f466cafff3e2f0a7c56.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399571344256401,
+  "png_path": "generated/flickr-ffhq-57306.png",
+  "preview_path": "previews/flickr-ffhq-57306.jpg",
+  "png_sha256": "51d64646c783692f19a2c18f63e84bfc24c844309c49ccaf026ee9b19eba7245",
+  "preview_sha256": "7940643480101b4ea8d71ad5278644701baa282121f84fcf9280e6ee7cdf8c5e",
+  "png_bytes": 1580481,
+  "preview_bytes": 244515,
+  "pixel_std": 70.03627211187862,
+  "created_at": "2026-10-08T08:51:46.897707+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-18088",
+  "candidate_index": 18,
+  "ffhq_id": 18088,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-18088.jpg",
+  "source_sha256": "6fdedc2348560410c0716279b655d75241dae72c30d1530dd1696e234af7d343",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    5184,
+    3456
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/deputadaneusa/41981601465/",
+    "photo_title": "Sessão Especial 7 anos da SPM (90)",
+    "author": "Neusa  Cadore",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2018-06-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/deputadaneusa/41981601465/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "a17446969b4b66570543a6248f2bfad5",
+  "current_decoded_pixel_md5": "a2f60585e6eecfda84d1fe85a10ed8a1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12325317215363511,
+  "fetched_at": 1791365025.8488672,
+  "visual_review": "pending"
+}

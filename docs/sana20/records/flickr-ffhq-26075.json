@@ -1,0 +1,37 @@
+{
+  "index": 244,
+  "image_id": "flickr-ffhq-26075",
+  "prompt": "A vertical portrait of a man with short dark brown hair and light stubble, looking directly at the camera with a slight closed-mouth smile. He wears a dark gray crew-neck sweater with evenly spaced thin white horizontal stripes. Frame his head and upper torso with his shoulders nearly square to the lens. A pale rough stone wall fills the softly receding background, under diffuse natural light with gentle shadows on his face.",
+  "prompt_sha256": "ae392f50394734d655e508f660bf1a873a6e84e94338a89cfa499bf55241e7a2",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d9/d90a26cec7d810fc64794eaaef4c908ec00e27b4e427e7cf6576091058b2a2f7.png",
+  "original_sha256": "d90a26cec7d810fc64794eaaef4c908ec00e27b4e427e7cf6576091058b2a2f7",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/07/07151275f810fd0ea047c6987310f4140b3f50cb7538e7c4b5a492bf4ca3d253.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940625075250864,
+  "png_path": "generated/flickr-ffhq-26075.png",
+  "preview_path": "previews/flickr-ffhq-26075.jpg",
+  "png_sha256": "01bbf1029a0c1c78d5e39b2c99714823125e62ddfd7d3e9edfaf4eaf7278a861",
+  "preview_sha256": "3a9e31dd19fd200e8d8b9035782e00e70a123d7d3c4a98374a3f874ac08ac8c0",
+  "png_bytes": 1725632,
+  "preview_bytes": 297697,
+  "pixel_std": 60.411409800185496,
+  "created_at": "2026-10-08T08:51:07.640637+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-60710",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of a smiling boy with short light brown hair, wearing oversized clear protective goggles over narrow rectangular eyeglasses. His eyes are nearly closed and he shows his teeth while leaning slightly forward in a blue crew-neck T-shirt. Frame his head and upper torso in a classroom or laboratory. White glass-front cabinets, a dark worktop, cardboard boxes and small supplies sit softly out of focus behind him.",
+  "prompt_sha256": "0e32969945de01ec9eafdd0799974cfeed902628f8ed73fd781c746497fde845",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6978773511946201,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 70.69110049605946,
+  "generated_at": "2026-10-07T12:48:51.063098+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-60710.png",
+  "sha256": "5e527806d3d5e61584b48d43a7fa5e398aa4026578c640bfd0c5f858f8c95230",
+  "bytes": 875296
+}

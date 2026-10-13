@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-55689",
+  "candidate_index": 242,
+  "ffhq_id": 55689,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-55689.jpg",
+  "source_sha256": "ab8cee60fa9a7dbb1490d949281e82395ce4fd88b66f51d3f68af1f009beee34",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/vpk/2373499875/",
+    "photo_title": "img_0447.jpg",
+    "author": "Ville Pohjanheimo",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-03-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/vpk/2373499875/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "f05a12073eb97916edf6f07e8896e837",
+  "current_decoded_pixel_md5": "b565ee0256552d3b6ed89f91c095cbb1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791367268.9984958,
+  "visual_review": "pending"
+}

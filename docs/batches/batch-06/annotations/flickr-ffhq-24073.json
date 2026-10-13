@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-24073",
+  "prompt": "A horizontal flash photograph of a smiling woman with a short glossy black side-swept pixie haircut. She looks directly at the camera with teeth visible and wears a dark top with pale trim along the shoulder. Strong frontal flash makes her face bright against the dim room. Frame her head and upper torso on the left, with a seated person in a striped shirt and pale patterned curtains in the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-349-354.jpg",
+  "reviewed_source_sha256": "a7fc3e92134aa8520339ba226ce084bca87f76b90ea247d4f2edda912b60d241",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

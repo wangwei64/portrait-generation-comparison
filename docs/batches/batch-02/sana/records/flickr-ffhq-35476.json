@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-35476",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of a girl with long brown hair pulled back by large gray over-ear headphones. She sits behind the pale upper edge of a laptop, wearing a bright blue short-sleeved top. Her forearms spread toward the lower corners as she looks at the camera with a small closed-mouth smile. Frame her head and shoulders against softly blurred cream-colored classroom tables and chairs in even indoor light.",
+  "prompt_sha256": "dea45ab07fef5393238a22378ffe8fe09360b68825f0f74f6addfab511695012",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6801199875772,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 64.98890325548415,
+  "generated_at": "2026-10-07T10:12:42.651455+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-35476.png",
+  "sha256": "3522d4216c8a831c8662168196840f48c014e8775f4d47600745605705e6bd1a",
+  "bytes": 849790
+}

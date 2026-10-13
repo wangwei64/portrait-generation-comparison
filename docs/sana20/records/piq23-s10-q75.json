@@ -1,0 +1,37 @@
+{
+  "index": 11,
+  "image_id": "piq23-s10-q75",
+  "prompt": "A young man with swept-back brown hair sits at a white table beside a window. He wears a brown and gray knitted sweater with patterned bands across the chest and upper arms. His head turns downward toward an open illustrated book on the tabletop. One forearm rests beside the book and the nearer hand extends into the lower foreground near the table edge. The vertical composition includes his head, torso and arms. A black-and-white patterned curtain and window stand behind him on the left, while a tall green potted plant sits above a white radiator on the right. Small colored counters and a patterned textile appear on the table.",
+  "prompt_sha256": "c2e01e66077c998530a17efb7a998df1cee13bba9ac2c8f9e8e8f0d0198c56ab",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3d/3d43101ab971d577b15adebe1eba7846ece4d9041a5a08f2deb9bfcd9ba27e03.png",
+  "original_sha256": "3d43101ab971d577b15adebe1eba7846ece4d9041a5a08f2deb9bfcd9ba27e03",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/62/62e616594e4919e1775695ec8d2132d5eb44c5688e5e41ec715a863e2fad58b1.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 331,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416217468678951,
+  "png_path": "generated/piq23-s10-q75.png",
+  "preview_path": "previews/piq23-s10-q75.jpg",
+  "png_sha256": "4f0f751db9d445db3d1d3244a4c6c189c4982a4b8f1585846ed77c303c40c943",
+  "preview_sha256": "b6dd129585403f003c6f79dd8add6807e30c71c8f35e349c41b472b8a69f9d55",
+  "png_bytes": 1825166,
+  "preview_bytes": 396751,
+  "pixel_std": 90.03018825117914,
+  "created_at": "2026-10-08T08:45:54.841371+00:00"
+}

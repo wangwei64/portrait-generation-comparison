@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-16619",
+  "prompt": "A vertical photograph of a young girl with pulled-back dark hair, looking directly at the camera with her lips slightly parted. A yellow headband crosses her forehead with a large pink-and-blue sequined decoration at one side. She wears a white high-neck long-sleeved shirt beneath a shiny blue costume with yellow trim. Frame her head and upper torso against a bright blue backdrop decorated with red-and-white festive figures, using soft frontal light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-073-078.jpg",
+  "reviewed_source_sha256": "3bfc57df48d36334a09dc7684c6e844d2eac3618fe8340e12c0d9ee13ffb82a7",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

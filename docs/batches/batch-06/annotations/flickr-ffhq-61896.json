@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-61896",
+  "prompt": "A horizontal candid photograph of an older man reclining on a sofa with his eyes closed and his head resting against a gold patterned cushion. He has short gray hair and wears a navy T-shirt with large yellow and white collegiate-style lettering and an animal emblem. His hands rest together over his upper chest, showing a ring and fine skin lines. Warm direct indoor light reveals the surrounding brown upholstery and pale cushions.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-337-342.jpg",
+  "reviewed_source_sha256": "1dc4a86e6442c34fb9325a319cb83bd1bf4410bf1edff36d6c52fe1fe8f74570",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

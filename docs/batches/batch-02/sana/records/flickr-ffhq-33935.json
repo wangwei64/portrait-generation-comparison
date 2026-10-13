@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-33935",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal low-angle portrait of a bald man with a sharply shaped dark beard and mustache. His head sits low in the frame, leaving substantial empty wall space above. He looks down toward the camera with a neutral expression, and only his head, neck and bare shoulder tops are visible. A textured yellow-green interior wall and a dark green door frame at the left form the background. Direct warm frontal light illuminates the face.",
+  "prompt_sha256": "270d777f9f2608c7aba586cb3ab201b706ced130a2e1c145d5f5f00143a2a797",
+  "seed": 42,
+  "token_count": 293,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.752284299582243,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 68.86744905137319,
+  "generated_at": "2026-10-07T10:14:00.653700+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-33935.png",
+  "sha256": "2d353cc6e943cebde79780c96710b736de1fd22101e223b94c050b1831404464",
+  "bytes": 918663
+}

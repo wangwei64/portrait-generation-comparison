@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-53259",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal outdoor portrait of a woman with shoulder-length straight black hair, turning slightly toward the camera with a small closed-mouth smile. A pale cream scarf is wrapped around her neck above a gray top, with a narrow red strap at one shoulder. Frame her head and shoulders close to the lens. An urban plaza with trees, a covered stall, seated people, a dark blue stroller canopy and a pale bag forms the softly blurred background.",
+  "prompt_sha256": "26444b3ced7fdd1edc239724745b038ef8d0eb89112714c830dba53c1301ecb8",
+  "seed": 42,
+  "token_count": 110,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.41595035418868,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59860372543335,
+  "peak_reserved_gib": 41.033203125,
+  "nvidia_smi_peak_gib": 41.5439453125,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 62.56230700761716,
+  "generated_at": "2026-10-07T12:00:46.194357+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-53259.png",
+  "sha256": "85e23c8c47148c18d2aaabfb8b2a284fa331d103c5ef7f0aacbf35b357432efe",
+  "bytes": 1211584
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-57046",
+  "prompt": "A horizontal indoor snapshot of a smiling man with short dark hair and a neatly trimmed goatee. He wears a light gray sweatshirt and raises one arm over his head, holding a stemmed glass of dark red liquid directly above his hair. Frame his upper body with the hand partly cut by the top edge. Frontal flash brightens the face against a dim warm room with pictures, plants and ceiling lights.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-013-018.jpg",
+  "reviewed_source_sha256": "d1d06e86c022af4612bc28fdaecd56a0dd230d2b2dc66eb932db7aaff337821c",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

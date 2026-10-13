@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-39778",
+  "prompt": "A horizontal close portrait of a young child with short light blonde hair, smiling broadly at the camera with teeth and dimples visible. The child wears a thick cream cable-knit zip sweater with a raised collar. Frame the head and shoulders against a dark softly blurred background of green and brown foliage. Low natural light highlights one side of the face and sweater, with gentle shadows across the other cheek.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-367-372.jpg",
+  "reviewed_source_sha256": "7791ce1094644b6201f3d48eb46fe7de310f15d10ba65082afe8d39886a954d9",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

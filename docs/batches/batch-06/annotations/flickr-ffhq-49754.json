@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-49754",
+  "prompt": "A horizontal travel portrait of an older man with short gray hair, a gray mustache and large black sunglasses, smiling toward the camera. He wears a navy polo shirt with a small white chest emblem. Frame his head and upper torso on the right side. Behind him, a long stone wall and watchtowers wind across hazy green mountain ridges under a pale overcast sky, leaving generous landscape space on the left.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-361-366.jpg",
+  "reviewed_source_sha256": "79af6a0879c5e6345ad6903932d21ceaf29738efc1946eaf74a45f7f3a32692c",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

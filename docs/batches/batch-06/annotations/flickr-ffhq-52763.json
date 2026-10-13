@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-52763",
+  "prompt": "A horizontal outdoor close portrait of a baby carried against an adult's chest in a vivid red padded front carrier. The baby wears a pale pink knitted hat with small crocheted flowers and a dark navy outfit, looking directly at the camera with a calm expression. The adult's lower face and navy coat are partly cropped behind. Sunlight softly brightens the baby's face against green foliage and a pale blurred path.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-355-360.jpg",
+  "reviewed_source_sha256": "1064172b46d6db69908b4436c650a2b507be209fab4c8c723d3c2a49429f3b28",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 258,
+  "image_id": "flickr-ffhq-29482",
+  "prompt": "A vertical photograph of a cheerful older man with closely cropped gray hair, a thick gray mustache and narrow tinted rectangular glasses. He leans toward the camera with a broad toothy smile, wearing a dark suit jacket, pale striped shirt and a loosened diagonally striped dark tie. His forearms rest near the lower edge beside a small drinking glass. Dappled greenery and a bright building blur behind him beneath an outdoor trellis.",
+  "prompt_sha256": "dae7fbb2b3c868656c881771038fa9dddf3d29743ba0c8a2d45b372a5f8e4f5c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3f/3f63f2525b254aaf6b1ccd0935bbc7c07a5e287bf1dd88f8808a658a7149b862.png",
+  "original_sha256": "3f63f2525b254aaf6b1ccd0935bbc7c07a5e287bf1dd88f8808a658a7149b862",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d7/d7b3458b1a636928913cc4a4c2a4899227d9cac5038cd593c43969be21229759.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400526322424412,
+  "png_path": "generated/flickr-ffhq-29482.png",
+  "preview_path": "previews/flickr-ffhq-29482.jpg",
+  "png_sha256": "468d31daa639a044c46d4090806939d5f697ff1c23d20509310d598d775594cf",
+  "preview_sha256": "16e639b70635f5c00042a7f6560cf674d038fe314ad1919e748ec48f630715b7",
+  "png_bytes": 1794511,
+  "preview_bytes": 352803,
+  "pixel_std": 76.70888660120848,
+  "created_at": "2026-10-08T08:51:26.372353+00:00"
+}

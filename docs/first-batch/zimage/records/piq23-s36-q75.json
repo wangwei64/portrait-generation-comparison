@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s36-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with short light-brown hair crouches on a gray brick-paved path, facing the camera. He wears a light gray short-sleeved T-shirt, dark blue jeans and pale canvas sneakers, with sunglasses hanging from his shirt collar. His elbows rest against his bent knees, and his hands meet loosely in front of him. His entire crouching figure is visible in a vertical frame, with a large area of paving extending toward the foreground. Dense green shrubs, grass and a pale residential building stand behind him.",
+  "prompt_sha256": "18298786f819a3b6ea47522e3c7dc9eab259157a37fbf487415587f72e01aa59",
+  "seed": 42,
+  "token_count": 117,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.432590421289206,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077599048614502,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 99,
+  "pixel_std": 65.84372048156288,
+  "generated_at": "2026-10-07T09:08:17.894923+00:00",
+  "image_path": "zimage/generated/piq23-s36-q75.png",
+  "sha256": "623ff0afe3c794c6819d7dafc001b616c384030854f9a1f73ac9ac301790d584",
+  "bytes": 1614691
+}

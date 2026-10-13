@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-07577",
+  "prompt": "A vertical photograph from above of a smiling young child with shoulder-length blonde hair and a small yellow flower clip. The child looks up directly toward the camera with bright eyes and a toothy smile, standing with arms at the sides. A knitted sleeveless top has black, brown and cream sections above yellow trousers with ruffled hems. Include the figure down to the feet against white wooden paneling and a pale shaggy rug in gentle indoor light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-181-186.jpg",
+  "reviewed_source_sha256": "6c486fba4b4f842d339c0789c3e10558cfc04b614bf1438c28ad841a96c24e95",
+  "framing": "environmental",
+  "environment": "indoor",
+  "tags": [
+    "environmental",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

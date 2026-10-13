@@ -1,0 +1,37 @@
+{
+  "index": 143,
+  "image_id": "flickr-ffhq-13057",
+  "prompt": "A horizontal photograph of a man with short dark hair, light stubble and black rectangular glasses. He wears a muted burgundy crew-neck sweater and a long dark blue scarf, turning slightly to the right with a faint smile. Frame his head and upper torso under direct frontal light. An intricate arrangement of curved silver-gray metal ribs and railings fills the dim interior behind him, with small warm lights in the distance.",
+  "prompt_sha256": "6edb619c9ae3f66482ee3261dee26a77bdd8b01c5821463400aaa93f895ec75c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/53/53b7fbb391aba0c20f6263d838639058357f62379fa7abdd54564373902c21a2.png",
+  "original_sha256": "53b7fbb391aba0c20f6263d838639058357f62379fa7abdd54564373902c21a2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6f/6f802960d1ecc0ab10ba6bf84bb38f77e8312ddac6a10db01ceda4dfbace6278.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402856156229973,
+  "png_path": "generated/flickr-ffhq-13057.png",
+  "preview_path": "previews/flickr-ffhq-13057.jpg",
+  "png_sha256": "2f9c3ff34986dee39c2fe4239744adc4660f0d7b6d38f7e3dc79c83dc972c043",
+  "preview_sha256": "ac20e30cd43999167ab31cac93778e8bdbd623f54a4a73678d71732d38a03595",
+  "png_bytes": 1570795,
+  "preview_bytes": 283053,
+  "pixel_std": 44.97600926021767,
+  "created_at": "2026-10-08T08:48:50.748272+00:00"
+}

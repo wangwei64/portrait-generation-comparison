@@ -1,0 +1,37 @@
+{
+  "index": 243,
+  "image_id": "flickr-ffhq-13653",
+  "prompt": "A vertical candid photograph of a woman with long straight brown hair, playing a long decorated tubular wind instrument with a small blue mouthpiece at her lips. She holds it in both hands as the tube extends toward the lower foreground, and glances to the right with a concentrated expression. She wears a pale floral T-shirt and a blue patterned scarf. Soft daylight lights her face against a pale blurred architectural background.",
+  "prompt_sha256": "54541ca7e2a4edac2631d2f9dde4699d187cf6da47b65664a97295595098d178",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a5/a58b1cdfac01dbb6b3ad6835b296a3a6b5c3b23b67c69db7f96698eed3ca6928.png",
+  "original_sha256": "a58b1cdfac01dbb6b3ad6835b296a3a6b5c3b23b67c69db7f96698eed3ca6928",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e4/e4ef9f494d9ca4186421de467cfa2eff3ade139297d3a4664ac6fca383a7a060.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409076534211636,
+  "png_path": "generated/flickr-ffhq-13653.png",
+  "preview_path": "previews/flickr-ffhq-13653.jpg",
+  "png_sha256": "8143a03ec79dc5ad764bf950f29515404b8253118bcc114e9d70feaf0c87df44",
+  "preview_sha256": "58e50400f8abe3f4c8202f3c2cb553a9a39b737a73cfa5244c51bb5ae1248f4c",
+  "png_bytes": 1715940,
+  "preview_bytes": 313441,
+  "pixel_std": 58.4121218856016,
+  "created_at": "2026-10-08T08:51:06.295446+00:00"
+}

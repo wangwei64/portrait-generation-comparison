@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-69421",
+  "candidate_index": 309,
+  "ffhq_id": 69421,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-69421.jpg",
+  "source_sha256": "0e9ad6566bbc912cb5cf0659bfd45be3ce53c09ede16b5880421d35f6c7f7c37",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/44522791@N00/15906791625/",
+    "photo_title": "Happy Maya",
+    "author": "suttonls",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-11-29",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/44522791@N00/15906791625/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "c303eda010c4c1fd3507ce2ce7f866c7",
+  "current_decoded_pixel_md5": "e5625be1ee95ff5077d9350b6b94af44",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1491141613618827,
+  "fetched_at": 1791367429.7951148,
+  "visual_review": "pending"
+}

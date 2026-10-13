@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-26336",
+  "prompt": "A horizontal photograph of a smiling young woman in a swimming pool, resting her folded wet arms along the reddish-brown tiled pool edge. Her shoulder-length brown hair is soaked and strands cling to her forehead and cheeks. She looks directly toward the camera with teeth visible. Only her head, shoulders and forearms rise above the water. Sunlight creates bright turquoise and white ripples across the pool behind her.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-097-102.jpg",
+  "reviewed_source_sha256": "031ede24e255190b29634d1e923b3386900cd68a7c5c7d06ac227a691414fe63",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

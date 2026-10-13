@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-24964",
+  "candidate_index": 23,
+  "ffhq_id": 24964,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-24964.jpg",
+  "source_sha256": "1bd250ad7d92e459363fdadb1409ff1c067884b6782917e7755b04e36a0ff441",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2002,
+    3100
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/suzanne-carey/2678322971/",
+    "photo_title": "DSCN3738.JPG",
+    "author": "Suzanne Carey",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-07-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/suzanne-carey/2678322971/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "c0cf43878109353af8db805783032200",
+  "current_decoded_pixel_md5": "81bdd1d89fe5f5dfca446c65cf9a0498",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12820469852727917,
+  "fetched_at": 1791365036.6158803,
+  "visual_review": "pending"
+}

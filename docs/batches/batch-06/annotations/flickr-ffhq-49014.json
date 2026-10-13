@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-49014",
+  "prompt": "A horizontal flash portrait of a young woman with short side-swept brown hair tied into two low short pigtails. She looks calmly at the camera with closed lips and a small lip piercing. She wears dangling round earrings, a large silver pendant on a cord and a blue short-sleeved top with a pale abstract graphic. Frame her head and upper torso against warm vertical wood paneling beneath a white wall and cropped framed decorations.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-373-378.jpg",
+  "reviewed_source_sha256": "3850aa230cd1f7cab668518ef244bc38137693ef4fdaf24fc9169b2bb31c41d6",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

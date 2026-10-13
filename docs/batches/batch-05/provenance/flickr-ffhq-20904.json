@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-20904",
+  "candidate_index": 303,
+  "ffhq_id": 20904,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20904.jpg",
+  "source_sha256": "37872939912a63b6869a0f082d92940fbb84176e6167294a1b40a8b8679005c4",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1364,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/overseas-development-institute/3547703459/",
+    "photo_title": "Tulo Bulo, Ethiopia",
+    "author": "Overseas Development Institute",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-05-20",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/overseas-development-institute/3547703459/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "bb95537bb0d717b5e4ae352bfdb9f350",
+  "current_decoded_pixel_md5": "fa903a25575689ca8aaec445ed726865",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14441038836543435,
+  "fetched_at": 1791367418.1934028,
+  "visual_review": "pending"
+}

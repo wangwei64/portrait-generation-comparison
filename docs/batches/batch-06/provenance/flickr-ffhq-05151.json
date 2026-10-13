@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-05151",
+  "candidate_index": 355,
+  "ffhq_id": 5151,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-05151.jpg",
+  "source_sha256": "c330c5cfc488783f4e90554bcbb4300d60a1adbb530933f747c362ff1cde6bab",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1463,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bwgtheatre/41725343832/",
+    "photo_title": "Pepperdine University Graduation",
+    "author": "Bradley Griffin",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2018-04-28",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/bwgtheatre/41725343832/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "72525bde146d78fa72c12178d6a9ebac",
+  "current_decoded_pixel_md5": "c73db88d1693a1465e0f0dec680e728a",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07067450129520246,
+  "fetched_at": 1791367553.828557,
+  "visual_review": "pending"
+}

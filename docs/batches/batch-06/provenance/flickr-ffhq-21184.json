@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-21184",
+  "candidate_index": 372,
+  "ffhq_id": 21184,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-21184.jpg",
+  "source_sha256": "80e6ad3461a6cb65cabc08c274a54fd635937fa7910464fcdca4c51a79272d56",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1362,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/madciapka/4297415651/",
+    "photo_title": "barcampcz-7556",
+    "author": "Dušan Šimonovič",
+    "country": "Czech Republic",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-01-23",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/madciapka/4297415651/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "0b5829fa7e70106ca2d2b35fc800e1c4",
+  "current_decoded_pixel_md5": "d83d417eb8827757ebc93866ffab0669",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12824281469921545,
+  "fetched_at": 1791367607.3564005,
+  "visual_review": "pending"
+}

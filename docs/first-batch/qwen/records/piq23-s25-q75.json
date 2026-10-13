@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s25-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A man with swept-back brown hair and black rectangular glasses stands on a paved tree-lined sidewalk at night. He faces the camera in a black coat over a black V-neck top, with a brown scarf wrapped loosely around his neck and a crossbody strap descending over his chest. His upper body fills the left-center of a vertical composition. Red light falls across the left side of his face and clothing. Behind him are dark shrubs, fallen leaves along the curb, a road and apartment buildings. A streetlamp glows above his right shoulder, partly framed by tree branches.",
+  "prompt_sha256": "d98b8a7c1d0f5b23146ba490a10f6880a69117075260c5b23f1c81e5fd03dd5c",
+  "seed": 42,
+  "token_count": 137,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.818302359431982,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22408056259155,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 47,
+  "pixel_std": 43.4222237057294,
+  "generated_at": "2026-10-07T09:21:50.982179+00:00",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s25-q75.png",
+  "sha256": "d9db9fb841b7e956ba83b416cbf8cbd1d6d970338ac1e0d7147e9741bfeb46b4",
+  "bytes": 1440072
+}

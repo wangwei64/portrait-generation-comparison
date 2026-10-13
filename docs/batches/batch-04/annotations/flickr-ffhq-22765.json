@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-22765",
+  "prompt": "A vertical studio portrait of a young man with very short upright black hair and narrow rectangular glasses, facing the camera with a slight closed-mouth smile. His shoulders turn gently to one side. He wears a white subtly striped collared dress shirt and a plain dark gray tie. Frame his head and upper torso against an evenly colored gray backdrop, using soft light that preserves skin texture and creates mild shading along one side of his face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-205-210.jpg",
+  "reviewed_source_sha256": "bde52a205153b41afbdf1f4c761f54c29abdd99bb0da25cc2bc25cf7d61979e7",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-14420",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor photograph of a child in a red zip-front hooded jacket with a small pink graphic. Short wavy light brown hair lifts in the breeze. The body turns sideways while the face looks back toward the camera, mouth slightly open. Include the head and upper torso with a green park lawn, patches of bare ground, leafy trees, a fence and distant hills behind. Use ordinary daylight.",
+  "prompt_sha256": "c52f5f1aa0ac2d0816daff495de24d8ff3df599d31db2332a12bd67dd97430c0",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.68605512753129,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.126953125,
+  "nvidia_smi_peak_gib": 10.6435546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 80.73672267588992,
+  "generated_at": "2026-10-07T10:12:20.763820+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-14420.png",
+  "sha256": "b2ace431745d83abf5941d6c296d43322fd954570ffca4f2130c1ddeb6b2987d",
+  "bytes": 1111746
+}

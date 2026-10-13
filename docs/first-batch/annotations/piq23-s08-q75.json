@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s08-q75",
+  "source_sha256": "9a96c2f3dec05aa46f9a5789d0e3576e12f32c55e445eca54b577ee2daf95ec8",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "clasped_hands",
+    "table",
+    "window"
+  ],
+  "prompt": "A young man with thick curly dark hair sits centrally behind a table and looks toward the camera. He wears a black sports jacket with broad red panels and pale piping over a light gray hood. His elbows rest on the table and his hands are clasped above an open magazine. Large windows fill the upper background with trees and modern buildings outside. A leafy potted plant stands on the left and a large wicker basket occupies the right side of the table. A green horizontal frame or ledge crosses the lower foreground above a pale wooden surface with a double electrical outlet. The composition is horizontal and shows his upper body.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

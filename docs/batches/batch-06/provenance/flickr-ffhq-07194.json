@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-07194",
+  "candidate_index": 376,
+  "ffhq_id": 7194,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-07194.jpg",
+  "source_sha256": "524ac96179b351eddcd1747092a413ef92a32c62d6f73e008ef171db04db693e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1360,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/penmachine/3822404692/",
+    "photo_title": "Navarik BBQ 7",
+    "author": "Derek K. Miller (1969-2011)",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-08-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/penmachine/3822404692/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "bb32c8c825c6fd1becca5c56a4408399",
+  "current_decoded_pixel_md5": "5a093721cf70633edc539c885b288a10",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06500699626865672,
+  "fetched_at": 1791367620.2582953,
+  "visual_review": "pending"
+}

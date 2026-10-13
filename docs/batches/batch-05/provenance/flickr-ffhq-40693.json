@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-40693",
+  "candidate_index": 262,
+  "ffhq_id": 40693,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-40693.jpg",
+  "source_sha256": "d705aadf81024e80d2f11369c904236bd78965f37d432730aff17d3c3b251116",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1345,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/41171029@N02/36418439750/",
+    "photo_title": "Le Notte delle Streghe e dei Foletti, 2017",
+    "author": "MikePScott",
+    "country": "Italy",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2017-08-26",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/41171029@N02/36418439750/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "c626aca48f8fa301e0e8494445537103",
+  "current_decoded_pixel_md5": "7a44663c93126fb3efebc38338f32da6",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.18477382354156338,
+  "fetched_at": 1791367318.9168572,
+  "visual_review": "pending"
+}

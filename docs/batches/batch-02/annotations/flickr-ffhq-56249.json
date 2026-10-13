@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-56249",
+  "prompt": "A horizontal chest-up photograph of a smiling man with short curly brown hair and light stubble. He wears bright yellow wraparound sunglasses, a black formal jacket, a white shirt and a pale blue striped tie. A blue bus stands behind him to the right. Leafy trees, a light building, a lamp post and a few smaller background pedestrians fill the outdoor setting. Bright daylight produces natural highlights and shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-007-012.jpg",
+  "reviewed_source_sha256": "bdeb9a24714c625358a91b6b5431728845966ba5c828c7c4ae5c547fb9ac43c3",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

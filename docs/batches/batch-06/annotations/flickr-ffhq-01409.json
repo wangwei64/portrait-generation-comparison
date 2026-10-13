@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-01409",
+  "prompt": "A horizontal portrait of a woman with short light brown and gray hair, with a pair of glasses resting on top of her head. She looks slightly to the right of the camera with a quiet closed-mouth expression. She wears a white textured scoop-neck top and a pale shoulder strap with a metal buckle. Warm wooden panels and a window frame fill the background; backlighting leaves her face softly shaded.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-325-330.jpg",
+  "reviewed_source_sha256": "e3fa21392b8cebd2c391953541097cf7c1bf13f8202db581980e935a4abb22bf",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

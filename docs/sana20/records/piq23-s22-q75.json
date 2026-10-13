@@ -1,0 +1,37 @@
+{
+  "index": 23,
+  "image_id": "piq23-s22-q75",
+  "prompt": "A man with tousled light brown hair and dark rectangular glasses stands on a city sidewalk at night. He wears a black coat with a thick brown scarf wrapped around his neck. The horizontal portrait frames his head, shoulders and chest, with his face turned toward the right in three-quarter profile. Behind him are large shop windows with metal shutters, red lettering above them and white lettering on the glass. Reflections of streetlights and traffic appear in the windows, and a parked bicycle is visible beside the storefront on the right.",
+  "prompt_sha256": "be93917024bf1138e95081aecea94f31bb2b4ad8a33f41890dcfe1f40fb703f9",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/31/319fb677f1b2260cf2bcf3db7dfb90dfd86f6eb4b4cea8fdd53d9db04cb40f42.png",
+  "original_sha256": "319fb677f1b2260cf2bcf3db7dfb90dfd86f6eb4b4cea8fdd53d9db04cb40f42",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3b/3be72a68674b4d8ea01e2acc36bfe1c9d05e95b31b5c81d3364e3045a50e0c29.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 311,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9419575594365597,
+  "png_path": "generated/piq23-s22-q75.png",
+  "preview_path": "previews/piq23-s22-q75.jpg",
+  "png_sha256": "e167eb70af819c1530097de306bc0f9bdc97a9581ccad52c395007bcfdd22e61",
+  "preview_sha256": "14403b8acafe2d59c642bb9cb8d1e06e1fd1e767f2a83e0f24110528c0755d76",
+  "png_bytes": 1461995,
+  "preview_bytes": 316326,
+  "pixel_std": 54.987488054566114,
+  "created_at": "2026-10-08T08:46:11.188049+00:00"
+}

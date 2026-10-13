@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-26249",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal flash photograph of a small child with fine blonde hair wearing an oversized orange-and-white baseball cap tilted sideways. The child leans toward the camera and raises an open hand near the upper right of the frame. A white long-sleeved shirt sits beneath a colorful fruit-patterned top. Include the head and upper body, slightly reddish flash reflections in the eyes, and a cluttered kitchen counter with bottles and a dark appliance behind.",
+  "prompt_sha256": "6619b0fd0fb5fd3ce02cb03431a9add5a5485c3b2062b148f3ef2c3030f74fb2",
+  "seed": 42,
+  "token_count": 296,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6838865391910076,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 76.6419072877194,
+  "generated_at": "2026-10-07T10:12:55.775334+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-26249.png",
+  "sha256": "d1ef3753b5142a0310ae20b86796da689e8f67553938d5873645edf7243406e7",
+  "bytes": 1126292
+}

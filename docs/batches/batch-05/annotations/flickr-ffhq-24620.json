@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-24620",
+  "prompt": "A horizontal wide-angle photograph of a young child with short dark hair, looking directly at the camera with a serious closed-mouth expression. The child wears a cream polo shirt with blue sleeves and raises one arm above the head, cropped at the top edge. Frame the head and upper torso beside a pale wooden picket fence. Green planting and colorful rounded playground structures fill the background under warm outdoor light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-259-264.jpg",
+  "reviewed_source_sha256": "63886e644901833a307927e2748e87c42e1fdcee7427fb3b263ffe9a5629b1be",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

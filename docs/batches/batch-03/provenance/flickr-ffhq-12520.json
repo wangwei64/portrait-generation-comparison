@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-12520",
+  "candidate_index": 117,
+  "ffhq_id": 12520,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-12520.jpg",
+  "source_sha256": "0d3a2a0e76d8efc0703046a4269d54ac92ad8309131d71edfddacb8d8898f891",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2000,
+    2726
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/garritylex/6274052271/",
+    "photo_title": "hoc2011_3",
+    "author": "Chris Garrity",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-10-23",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/garritylex/6274052271/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "7a87745d3125a2efedfc629f27dd9687",
+  "current_decoded_pixel_md5": "52f4f07576bce3848408ab7f72db9223",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14593983859134263,
+  "fetched_at": 1791365415.7970762,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 98,
+  "image_id": "flickr-ffhq-42531",
+  "prompt": "A horizontal chest-up portrait of a smiling man with long brown hair tied back, wearing a textured gray suit jacket, a blue shirt and a burgundy tie. A small yellow floral boutonniere is pinned to his lapel. He looks directly into the camera in a bright room with cream walls, patterned stained glass, draped window shades and a ceiling air-conditioning unit. Soft window light gives his face gentle shadows.",
+  "prompt_sha256": "8e2827f713459f8d12e88b5c44309a4548c466a1ddc104be40f88fcb0c5c9582",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/38/38f41f3e2a0002be88a020bd61976569fd97ff504ef14e643020c7c3369a1550.png",
+  "original_sha256": "38f41f3e2a0002be88a020bd61976569fd97ff504ef14e643020c7c3369a1550",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2e/2e2ed088709177dbb65dc3d64ce758c658278721401d2d6de00e642ac6296169.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939884964376688,
+  "png_path": "generated/flickr-ffhq-42531.png",
+  "preview_path": "previews/flickr-ffhq-42531.jpg",
+  "png_sha256": "be250934efbbac0f30ac8988177f7bbaf79143bc21806ed457febd08198fb805",
+  "preview_sha256": "ef58f7e557486fb67be295e8e35167824ed94e69d59743df6a6cd57dd05e9b63",
+  "png_bytes": 1925627,
+  "preview_bytes": 380496,
+  "pixel_std": 70.99114908600576,
+  "created_at": "2026-10-08T08:47:50.230848+00:00"
+}

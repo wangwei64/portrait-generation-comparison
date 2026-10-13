@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-41449",
+  "candidate_index": 319,
+  "ffhq_id": 41449,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-41449.jpg",
+  "source_sha256": "57b163af4f62c78ebee7a5795eb1219ae0a98264c45a23795e8bcbbfd1933e80",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/gramachree/36061481463/",
+    "photo_title": "Marianne",
+    "author": "John Samuel",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2017-08-28",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/gramachree/36061481463/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "ef59ae05117bdff93915b0fee0d63c70",
+  "current_decoded_pixel_md5": "08afe2b3cff6d76454bfa9523c556665",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1455130099357844,
+  "fetched_at": 1791367457.27105,
+  "visual_review": "pending"
+}

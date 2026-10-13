@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-18529",
+  "candidate_index": 102,
+  "ffhq_id": 18529,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-18529.jpg",
+  "source_sha256": "619913f29444fc8fa6a86ee053fbb872dc239a481bfb32da6082eb5cb95e0af3",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4256,
+    2832
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/130162259@N04/26517042412/",
+    "photo_title": "JAJ_6528",
+    "author": "Agenzia Info Salesiana ANS",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2016-04-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/130162259@N04/26517042412/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "f4a5c472aa43028aa9daa38e636c76eb",
+  "current_decoded_pixel_md5": "30a47c666878e210395de69f21550c85",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.04567861656259292,
+  "fetched_at": 1791365383.881123,
+  "visual_review": "pending"
+}

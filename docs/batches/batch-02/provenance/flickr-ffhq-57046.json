@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-57046",
+  "candidate_index": 15,
+  "ffhq_id": 57046,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-57046.jpg",
+  "source_sha256": "d1d06e86c022af4612bc28fdaecd56a0dd230d2b2dc66eb932db7aaff337821c",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3072,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/64336092@N00/353521338/",
+    "photo_title": "IMG_4121",
+    "author": "cindylouwhoknows",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2007-01-11",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/64336092@N00/353521338/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "09463566671b9e7c231c0f3b0e1e94ab",
+  "current_decoded_pixel_md5": "ed0847064ba7dbfc18172f7462f4418f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.087982177734375,
+  "fetched_at": 1791365020.7180588,
+  "visual_review": "pending"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-08934",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a man with short curly reddish brown hair and a short pointed beard, looking intently off to the left. His lips are closed and his face is turned in three-quarter profile. He wears a dark navy jacket over a light shirt, with part of one hand visible along the bottom edge. A green indoor background contains large blurred white oval lights and indistinct people, with shallow depth of field.",
+  "prompt_sha256": "f5a8886c409700801dccf9fee69f5c144380ae0ba6eba4c6859cb2f5d071a970",
+  "seed": 42,
+  "token_count": 94,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.236677911132574,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.85419225692749,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 88,
+  "pixel_std": 64.06603285114917,
+  "generated_at": "2026-10-07T10:58:48.981354+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-08934.png",
+  "sha256": "1dc0cd80258a84e9cccc710c9ffaea25dd9075bf001ce13c5bb95ea226b33169",
+  "bytes": 918810
+}

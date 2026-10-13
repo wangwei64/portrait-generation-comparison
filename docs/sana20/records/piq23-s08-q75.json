@@ -1,0 +1,37 @@
+{
+  "index": 9,
+  "image_id": "piq23-s08-q75",
+  "prompt": "A young man with thick curly dark hair sits centrally behind a table and looks toward the camera. He wears a black sports jacket with broad red panels and pale piping over a light gray hood. His elbows rest on the table and his hands are clasped above an open magazine. Large windows fill the upper background with trees and modern buildings outside. A leafy potted plant stands on the left and a large wicker basket occupies the right side of the table. A green horizontal frame or ledge crosses the lower foreground above a pale wooden surface with a double electrical outlet. The composition is horizontal and shows his upper body.",
+  "prompt_sha256": "73000851eecb8978ce8f3f48dda0d7816bab1b9181f6152ba51efd610a0b4cd4",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ac/ac6eb8026025ec0b8fdb439154059ed32692f199b0d8de8590dcdebfa4200f9f.png",
+  "original_sha256": "ac6eb8026025ec0b8fdb439154059ed32692f199b0d8de8590dcdebfa4200f9f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ff/ffa34a6c372e26995e6059b374895e2a4d30861ba79e8accec4f236d8a9fc3df.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 326,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409869983792305,
+  "png_path": "generated/piq23-s08-q75.png",
+  "preview_path": "previews/piq23-s08-q75.jpg",
+  "png_sha256": "ddc47c37086ed63f6cb53f7e2391bfe773d40ca3275b23214532eb7ba9e72c50",
+  "preview_sha256": "08a9e1762ffc9785405fb828a4a776185edf414dd0f1949076deb967d7d3ec0d",
+  "png_bytes": 1524399,
+  "preview_bytes": 369331,
+  "pixel_std": 87.90456427384667,
+  "created_at": "2026-10-08T08:45:52.220666+00:00"
+}

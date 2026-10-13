@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-49755",
+  "candidate_index": 206,
+  "ffhq_id": 49755,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-49755.jpg",
+  "source_sha256": "957e0ec723e2d037819a56ab6d5511a675b6acf446b67e5994325c8490524457",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/libn/3381654789/",
+    "photo_title": "DSC_0851",
+    "author": "Long Island Business News",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-03-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/libn/3381654789/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "8251d2f2b0336ff6f4c3104498de0e1e",
+  "current_decoded_pixel_md5": "5e653535a0f0e0fd39819ff996ee14d8",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791367173.267323,
+  "visual_review": "pending"
+}

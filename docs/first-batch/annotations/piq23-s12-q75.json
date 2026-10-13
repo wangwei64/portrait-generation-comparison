@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s12-q75",
+  "source_sha256": "026052879f0bee13fe1fd1e8b64e8cf0a723532c225e028d31d9eccecd32e355",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "long_hair",
+    "window",
+    "head_tilt"
+  ],
+  "prompt": "A woman with very long straight dark hair stands close to a tall window, wearing a loose dark burgundy sweater. She tilts her head toward the window on the left and looks toward the camera with a relaxed closed mouth. Her hair falls over both shoulders and down past her waist, covering much of her torso. The vertical composition frames her from the head to around the hips. A white window frame and handle occupy the left edge, with apartment buildings and green trees visible outside. A pale curtain covered with large dark oval dots hangs immediately behind her on the right.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-01897",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical portrait of a man with very closely cropped hair and a short salt-and-pepper beard, smiling warmly at the camera. His shoulders are turned slightly to one side. He wears a blue chambray button-front shirt with chest pockets and buttoned shoulder tabs. Frame his head and upper torso against an uncluttered off-white background, using soft even illumination to retain natural skin texture and subtle facial shadows.",
+  "prompt_sha256": "bda1754e57ff9411293192087d1b07870339bfe515c7d3b72eb2b97a2afac308",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.405947152525187,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.596620082855225,
+  "peak_reserved_gib": 43.287109375,
+  "nvidia_smi_peak_gib": 43.7978515625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 71.70225068937992,
+  "generated_at": "2026-10-07T12:07:32.539095+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-01897.png",
+  "sha256": "fb46aa105715a2ef78bd6ff5a90e2e2fd3620522fc54b6eb637633de9caec85a",
+  "bytes": 1151370
+}

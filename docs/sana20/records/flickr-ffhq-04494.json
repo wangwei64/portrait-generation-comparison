@@ -1,0 +1,37 @@
+{
+  "index": 102,
+  "image_id": "flickr-ffhq-04494",
+  "prompt": "A vertical head-and-shoulders portrait of a woman with straight shoulder-length blonde hair, darker roots and a side part. She looks toward the camera with a slight open-lipped smile. A washed charcoal denim jacket lies over a gray top, with several silver necklaces, including a small heart-shaped pendant, around her neck. Frame the upper chest against a plain white indoor wall in soft diffuse light, retaining gentle facial shadows.",
+  "prompt_sha256": "36903c64ce8a92904362f1acd45976b8822bab8bf9795582574aca59ccbf8244",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/05/05c5d7002d8d236d14598f38b22f29897efad763fecd148f44d1d1c77c0e5813.png",
+  "original_sha256": "05c5d7002d8d236d14598f38b22f29897efad763fecd148f44d1d1c77c0e5813",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fd/fd6774eecc1cbdf2aa8203eb123da27ba58e4a593ecf8ec66bf7fc1bbfe8e5e3.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 296,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402742236852646,
+  "png_path": "generated/flickr-ffhq-04494.png",
+  "preview_path": "previews/flickr-ffhq-04494.jpg",
+  "png_sha256": "2f749b2b967f8741390107300a6478487d616d94103435152c1e64130f68d281",
+  "preview_sha256": "ac7b6878e0771cefb928e996f66c00029597df15226f82fa0ef9cc2dc48d5486",
+  "png_bytes": 1771164,
+  "preview_bytes": 315322,
+  "pixel_std": 65.1144636652989,
+  "created_at": "2026-10-08T08:47:55.697720+00:00"
+}

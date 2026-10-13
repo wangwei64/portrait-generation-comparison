@@ -1,0 +1,37 @@
+{
+  "index": 46,
+  "image_id": "piq23-s45-q75",
+  "prompt": "A woman with shoulder-length brown hair stands beside a large round pale column outdoors. She looks toward the camera wearing an olive-green hooded pullover jacket with a large front pocket, a rectangular chest label and a small flag patch. Her left arm is bent outward, with her fingertips touching the column at shoulder height on the right edge of the image. The vertical composition frames her from the head to around the hips. A paved plaza, roadside greenery, parked vehicles, distant low buildings and a tree with yellow foliage appear behind her beneath a gray sky.",
+  "prompt_sha256": "1d83391983ba7378edc32fb2407edb10046bf4083a68d1ede14c687fab9752c2",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/81/81122c82c4bc0b271dc7f6e63878f67cfe31e78a4e8e16a03c1f779256aca01e.png",
+  "original_sha256": "81122c82c4bc0b271dc7f6e63878f67cfe31e78a4e8e16a03c1f779256aca01e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/89/897370db24f0f0f320465d18a592204e794b16097454d59c2df33940d3d7e7e6.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 317,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9410547837615013,
+  "png_path": "generated/piq23-s45-q75.png",
+  "preview_path": "previews/piq23-s45-q75.jpg",
+  "png_sha256": "b20a7c8c5bb2da0d16fcaa00b03caaed30d63f84badcded4100744741e5ebda8",
+  "preview_sha256": "ff555fa4bd29056ba577f01bfa1a4d04e67fbca5658bbcba98a1fa87424a2e58",
+  "png_bytes": 1646384,
+  "preview_bytes": 327002,
+  "pixel_std": 76.94786448224049,
+  "created_at": "2026-10-08T08:46:41.182579+00:00"
+}

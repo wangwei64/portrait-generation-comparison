@@ -1,0 +1,37 @@
+{
+  "index": 200,
+  "image_id": "flickr-ffhq-59017",
+  "prompt": "A vertical portrait of a woman with short spiky bright red hair and thin rectangular glasses. She faces the camera with a composed closed-mouth expression, wearing a plain white crew-neck T-shirt and a fine necklace. Frame her head and upper chest against dark softly blurred green foliage. Warm natural light illuminates the face and vivid hair, with gentle shadows beneath the glasses and around the neck.",
+  "prompt_sha256": "cab89a860cc2870f31703c5bfdc2c002053c9ac969cf8b40ce5be01de32bc67a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7a/7a95d7ab907cd15b4e7a848351af19c87285295c8acf0d5e7328a18c2db0c998.png",
+  "original_sha256": "7a95d7ab907cd15b4e7a848351af19c87285295c8acf0d5e7328a18c2db0c998",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e0/e031709baf92ce214d8500958208605e137c264ddbd92bd4ef6e2a2732447505.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9408632889389992,
+  "png_path": "generated/flickr-ffhq-59017.png",
+  "preview_path": "previews/flickr-ffhq-59017.jpg",
+  "png_sha256": "0ab2c11864488b523d5f961c3e9bd947adff6f3fff39654d56637e2fca8011dd",
+  "preview_sha256": "38f6dfbd5c09031a15a1a8d711001adcdb93119e241b7c91d9007a9779c56b38",
+  "png_bytes": 1601736,
+  "preview_bytes": 282672,
+  "pixel_std": 66.42725186790098,
+  "created_at": "2026-10-08T08:50:07.948845+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 3,
+  "image_id": "piq23-s02-q75",
+  "prompt": "A woman with long straight dark hair looks directly toward the camera with a neutral expression. The horizontal portrait closely frames her face, neck and upper shoulders. She wears a pale green scarf over a burgundy top, with hair falling over both sides of the scarf. A tall window fills the background, bordered by a white frame and handle at the left. Green and yellow foliage is visible outside. Her face is centered against the much brighter window, and the top of her hair nearly touches the upper edge.",
+  "prompt_sha256": "e913ff7a7336db5da452f98f5325f28a0adf48349537c86d97e7d2a39025395b",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2f/2f4162b67e091b039e5ba9f8f0294b42f961bc893ef6f6aec4fb98f3cc112ec6.png",
+  "original_sha256": "2f4162b67e091b039e5ba9f8f0294b42f961bc893ef6f6aec4fb98f3cc112ec6",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ff/ffb95523e553f4252c67ddc260b834d5ce67d5b801f657b5547690b2f6be16a8.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 306,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401258006691933,
+  "png_path": "generated/piq23-s02-q75.png",
+  "preview_path": "previews/piq23-s02-q75.jpg",
+  "png_sha256": "2e241d34978f632f25d8627e0c9c21c7cf8d32d9a9bdfa6da3d64bd27db91668",
+  "preview_sha256": "92d1fa800f8cdbbada4a1f3ac6132a68315641ccac940573079c7280dd8d0240",
+  "png_bytes": 1510019,
+  "preview_bytes": 244183,
+  "pixel_std": 89.98221871994477,
+  "created_at": "2026-10-08T08:45:43.970827+00:00"
+}

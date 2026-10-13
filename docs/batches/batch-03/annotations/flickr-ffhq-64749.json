@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-64749",
+  "prompt": "A horizontal candid portrait of a young woman with shoulder-length wavy brown hair, seated on a wooden garden bench. She wears a pale blue polo shirt and a thin blue bracelet, resting one cheek on her closed hand while looking off to the right with a thoughtful expression. Her other forearm extends along the foreground. A wire fence, grassy field and leafy trees form a softly focused daylight background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-127-132.jpg",
+  "reviewed_source_sha256": "6daf2dfc1fa6c88fab58febc288ea02e0be9ffcc02c1dac966ee5d56d1f58ad2",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

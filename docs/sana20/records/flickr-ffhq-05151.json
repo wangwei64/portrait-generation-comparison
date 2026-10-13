@@ -1,0 +1,37 @@
+{
+  "index": 279,
+  "image_id": "flickr-ffhq-05151",
+  "prompt": "A vertical graduation photograph of a young man with dark hair wearing a royal blue square mortarboard and matching gown. Orange honor cords hang over the gown, with a white shirt and pale tie visible at the neck. He looks toward the camera with a faint smile, his face partly shaded beneath the cap. Frame him from head to waist, with a large sunlit crowd and other graduates softly blurred behind.",
+  "prompt_sha256": "8a02a46b65ab990a8de04fd9493385afe143a522e497698bd3eb7c10002f1db2",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    736,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f3/f3810f552206237e8e6fc7fde12e13665ae6bb29eb74ff93c83351d9254cdf0f.png",
+  "original_sha256": "f3810f552206237e8e6fc7fde12e13665ae6bb29eb74ff93c83351d9254cdf0f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/62/62213278d252267458d026f24fdd6ceb3a112022ce5dd67e6048247af076aff1.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401281401515007,
+  "png_path": "generated/flickr-ffhq-05151.png",
+  "preview_path": "previews/flickr-ffhq-05151.jpg",
+  "png_sha256": "c11b14bcc93a4449c0019f78ed8e0c2adbc8402ab164f6463adb165a9e6f4436",
+  "preview_sha256": "6e9c0989a3ac32bb35aa49dcffac12c86fa110c903f6867d76a52f1d7678f634",
+  "png_bytes": 1622189,
+  "preview_bytes": 289075,
+  "pixel_std": 89.46292439370372,
+  "created_at": "2026-10-08T08:51:54.817369+00:00"
+}

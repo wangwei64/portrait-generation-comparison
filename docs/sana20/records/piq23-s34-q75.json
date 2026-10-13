@@ -1,0 +1,37 @@
+{
+  "index": 35,
+  "image_id": "piq23-s34-q75",
+  "prompt": "A man wearing a black knit beanie and black outdoor jacket stands facing the camera in a courtyard. He holds a long black telescoping pole with both hands at chest level; the pole extends diagonally toward the lower left foreground. A small black crossbody bag hangs at his waist. The horizontal view looks slightly upward and frames his head and upper body. Behind him rises a gray modern apartment building with projecting angular balconies in blue, pink, green and bronze. A metal fence, shrubs and a tree with brown leaves fill the lower background.",
+  "prompt_sha256": "6abf875d6ffd108040d99486ccf5adce2beab4876d4f0b2b47516bbad33bc8fd",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3f/3fed7900933c879c0e6f515f473b05045d7e989ae1c64b8ba878fa231a2d8162.png",
+  "original_sha256": "3fed7900933c879c0e6f515f473b05045d7e989ae1c64b8ba878fa231a2d8162",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6a/6ac3b979453499c938f82ac8706e9a38d607aa8a0d82a31fec6babdeefa74669.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 312,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401542842388153,
+  "png_path": "generated/piq23-s34-q75.png",
+  "preview_path": "previews/piq23-s34-q75.jpg",
+  "png_sha256": "a1428d41c0ed52c12df0e1d491830f2c37c2407e6ecb1ffbb746b2298bac8e0c",
+  "preview_sha256": "57ab5be559fe8de3c91d723c6163444baa09e5d793434ce1bbf27c062521e79e",
+  "png_bytes": 1588586,
+  "preview_bytes": 375527,
+  "pixel_std": 72.03519350391605,
+  "created_at": "2026-10-08T08:46:26.903262+00:00"
+}

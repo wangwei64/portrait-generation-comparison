@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42531",
+  "prompt": "A horizontal chest-up portrait of a smiling man with long brown hair tied back, wearing a textured gray suit jacket, a blue shirt and a burgundy tie. A small yellow floral boutonniere is pinned to his lapel. He looks directly into the camera in a bright room with cream walls, patterned stained glass, draped window shades and a ceiling air-conditioning unit. Soft window light gives his face gentle shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-079-084.jpg",
+  "reviewed_source_sha256": "5f1413b33fff9cc740b3d69485d3966d267a5db85ccdcd236b0fbd3bfe6e9022",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-54806",
+  "prompt": "A vertical portrait of a man with short tousled brown hair and a receding hairline, smiling gently toward the camera with closed lips. He wears a bright blue tropical-print button-front shirt with green and yellow details and a white lanyard around his neck. Frame his head and upper chest against an out-of-focus exhibition backdrop with pink, red, yellow and white areas. Even soft light reveals fine lines around his eyes.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-295-300.jpg",
+  "reviewed_source_sha256": "07b3eea43367792250a85ec79b6507389551574ca947e30d227977169c46f0b1",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

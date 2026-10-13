@@ -1,0 +1,21 @@
+{
+  "metric": "longclip",
+  "native_preprocessing": true,
+  "weights": {
+    "README.md [a77786dd17]": {
+      "sha256": "4bcf87ecfbbb8e07a01b21415a970c8b53a5283bf6872b657040d3f45c9241f7",
+      "bytes": 31
+    },
+    "longclip-L.pt [ae23d7106e]": {
+      "sha256": "9d2c12ffcbf9099f95bfb9cf8f08f949b695e22fb0018e8895e088f4a88b6afd",
+      "bytes": 1711923133
+    }
+  },
+  "semantics": "Raw unnormalized image/text dot product (RealGen evaluation scale); cosine separately stored; neither is realism.",
+  "input_manifest_sha256": "b57f1fbe0f91b1e0e363069bf7f3454418b030ac16e55a1b9f34fe7c1bfa0686",
+  "runner_sha256": "b38131d22fbf0eacfa0af499df67ff6bf7a1ec319467624aa18205e4b302d0c1",
+  "started_at": "2026-10-08T01:42:18.213322+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0
+}

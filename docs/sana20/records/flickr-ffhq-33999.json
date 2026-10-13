@@ -1,0 +1,37 @@
+{
+  "index": 227,
+  "image_id": "flickr-ffhq-33999",
+  "prompt": "A horizontal close portrait of a young man with thick short wavy brown hair, facing the camera with a small asymmetrical closed-mouth smile. He wears a navy and cream striped crew-neck T-shirt. Frame his head and shoulders against a softly blurred green mountainside and pale cloudy sky. Diffuse outdoor light leaves one side of his face more shaded, while the distant landscape remains subdued and out of focus.",
+  "prompt_sha256": "3942abf96dd13ffc5e07c3affdfe355ea665225101048400174558f3241d191f",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/80/8015072444257249efa41b37f9a6fb6767ee05262081deb141480daf5a5ce482.png",
+  "original_sha256": "8015072444257249efa41b37f9a6fb6767ee05262081deb141480daf5a5ce482",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/af/afaa1d27ae629aab42d80141b612da7a9f9b43eb76d4c30dd083121990875146.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940397322177887,
+  "png_path": "generated/flickr-ffhq-33999.png",
+  "preview_path": "previews/flickr-ffhq-33999.jpg",
+  "png_sha256": "8abf881e3df766561c4fe101a5523f6977c48a226fea10cf8ae16c5512701456",
+  "preview_sha256": "5a8076f32014c6bfd697d0e65af97117d206743f8a05d2a2a45e7da8acee0258",
+  "png_bytes": 1542847,
+  "preview_bytes": 226059,
+  "pixel_std": 84.96364756029888,
+  "created_at": "2026-10-08T08:50:44.926373+00:00"
+}

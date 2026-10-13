@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-56705",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal indoor photograph of an older man with thinning gray hair, a narrow gray mustache and thin metal glasses worn low on his nose. He smiles warmly at the camera with his shoulders turned slightly sideways. He wears a muted blue-gray short-sleeved collared shirt. Frame his head and upper torso, using direct warm light. Pale curtains with dark horizontal trim and part of a wooden cupboard fill the background.",
+  "prompt_sha256": "9d8abe1dddc5cf524d1bf2268d8ae9c04e4f47eba77bee20fcd7b99077f1d592",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.679978258907795,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.830078125,
+  "nvidia_smi_peak_gib": 11.3466796875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 78.77394268189323,
+  "generated_at": "2026-10-07T12:09:06.905892+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-56705.png",
+  "sha256": "11a4253404ddcbe0f9079ab9463cc5e6393192aa5a5e9f873ae31d03e7776826",
+  "bytes": 818763
+}

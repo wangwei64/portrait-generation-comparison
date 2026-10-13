@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-28558",
+  "candidate_index": 389,
+  "ffhq_id": 28558,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-28558.jpg",
+  "source_sha256": "0f560948be989449f77f9c98ddb78dcee7dd1987ef6322b29bbc0531830bc306",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/gabenl/2817551727/",
+    "photo_title": "Coral leaving MADrid :(",
+    "author": "Gabe McIntyre",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-09-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/gabenl/2817551727/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "5dfcbf02593650cddbba8c1c14dd5c96",
+  "current_decoded_pixel_md5": "c923131222c99581586aa8a6cbfc95c9",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07604119036732206,
+  "fetched_at": 1791367722.7957094,
+  "visual_review": "pending"
+}

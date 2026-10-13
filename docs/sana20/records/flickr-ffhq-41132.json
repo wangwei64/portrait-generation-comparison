@@ -1,0 +1,37 @@
+{
+  "index": 76,
+  "image_id": "flickr-ffhq-41132",
+  "prompt": "A horizontal stage photograph of a man with short brown hair and a full short beard playing an orange-brown violin under his chin. He wears a dark gray collarless buttoned shirt and looks intently toward the camera. The violin stretches across his chest, his fingers press its neck at the right edge, and a bow rises almost vertically. Warm and purple stage lights highlight his face and instrument against a nearly black background.",
+  "prompt_sha256": "8c084b3a2f49292f1cb05819d4f9cb12cbd1f9048e84dba2c6dee59700e1cb0b",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ac/acea7f178a85f164b576693ad5ee933329b7155f9788802aac731c7cc51f8df6.png",
+  "original_sha256": "acea7f178a85f164b576693ad5ee933329b7155f9788802aac731c7cc51f8df6",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4b/4b98fb7ec6464257399568a2452d1e7587e663f965426ef64829b187dae8b1aa.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412681423127651,
+  "png_path": "generated/flickr-ffhq-41132.png",
+  "preview_path": "previews/flickr-ffhq-41132.jpg",
+  "png_sha256": "92fb5984e39378c8a50481a6ce34f5c8d39eb711efaf725801bc03e6c2bd04a0",
+  "preview_sha256": "385547788f13c62781043af517e8f89f41a5aab2b0c68b33a29e1758eed3a7d0",
+  "png_bytes": 1547722,
+  "preview_bytes": 327778,
+  "pixel_std": 63.64099007969851,
+  "created_at": "2026-10-08T08:47:20.610624+00:00"
+}

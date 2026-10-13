@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-67744",
+  "candidate_index": 315,
+  "ffhq_id": 67744,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-67744.jpg",
+  "source_sha256": "7249b9d0a682f2b81d8ef745a8ddcc93737e194e76d0eb2f69a5db90b4fbce81",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1360,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/danmilner/20167073090/",
+    "photo_title": "CWRU School of Dental Medicine Freshmen class",
+    "author": "Dan Milner",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2015-08-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/danmilner/20167073090/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "00432f4654142910c76dd70100137620",
+  "current_decoded_pixel_md5": "8f414a51dfb60665f7c0d862678bb5c4",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15132920280875672,
+  "fetched_at": 1791367448.095327,
+  "visual_review": "pending"
+}

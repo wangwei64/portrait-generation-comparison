@@ -1,0 +1,37 @@
+{
+  "index": 209,
+  "image_id": "flickr-ffhq-56705",
+  "prompt": "A horizontal indoor photograph of an older man with thinning gray hair, a narrow gray mustache and thin metal glasses worn low on his nose. He smiles warmly at the camera with his shoulders turned slightly sideways. He wears a muted blue-gray short-sleeved collared shirt. Frame his head and upper torso, using direct warm light. Pale curtains with dark horizontal trim and part of a wooden cupboard fill the background.",
+  "prompt_sha256": "9d8abe1dddc5cf524d1bf2268d8ae9c04e4f47eba77bee20fcd7b99077f1d592",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/11/11a4253404ddcbe0f9079ab9463cc5e6393192aa5a5e9f873ae31d03e7776826.png",
+  "original_sha256": "11a4253404ddcbe0f9079ab9463cc5e6393192aa5a5e9f873ae31d03e7776826",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7a/7ad854350115dc39d4ccc10d1b8a5eceb127bec67127aa36b84f20a188bab0ba.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9408818185329437,
+  "png_path": "generated/flickr-ffhq-56705.png",
+  "preview_path": "previews/flickr-ffhq-56705.jpg",
+  "png_sha256": "c815153cefd2e5b6ac13813f3459a87706636d5fef80dd377abb07a25c12e920",
+  "preview_sha256": "a46d7797dbf63556531b47d2fb3080b4b6617c3ffa6af53ee9d93324b7fb9f67",
+  "png_bytes": 1656460,
+  "preview_bytes": 276712,
+  "pixel_std": 64.42718912878502,
+  "created_at": "2026-10-08T08:50:20.334980+00:00"
+}

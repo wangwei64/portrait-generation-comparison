@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-23465",
+  "candidate_index": 219,
+  "ffhq_id": 23465,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-23465.jpg",
+  "source_sha256": "441f89b24759a5065dbe6d77c3ef6a69cdb48726967dc48abaa617f6ef5cecbd",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4912,
+    3264
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/malcolm16/12062132273/",
+    "photo_title": "Local",
+    "author": "Malcolm  Williams",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2014-01-21",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/malcolm16/12062132273/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "c9565389ab24e99b7dc6d980c0f4ca48",
+  "current_decoded_pixel_md5": "f72ccfaf66c78176a5680a89b974def3",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.10283040333397203,
+  "fetched_at": 1791365554.362191,
+  "visual_review": "pending"
+}

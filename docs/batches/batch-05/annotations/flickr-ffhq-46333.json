@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-46333",
+  "prompt": "A horizontal candid photograph of an older man with receding short gray hair, looking downward to the left with a furrowed forehead and a subdued expression. He wears a light blue collared shirt and holds a dark jacket over one shoulder with his raised hand. A ring and wristwatch are visible. Frame his head and upper torso in daylight, with parked vehicles, a low pale building and a small tree behind him.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-253-258.jpg",
+  "reviewed_source_sha256": "f76b8eb1267f3df3efbe5b8511c08df2d962981e562dc3788057b3cc0ed17d6d",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

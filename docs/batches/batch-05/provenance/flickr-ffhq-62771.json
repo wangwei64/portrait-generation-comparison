@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-62771",
+  "candidate_index": 281,
+  "ffhq_id": 62771,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-62771.jpg",
+  "source_sha256": "0ab04ade1c0a29d803363902b0a00942d85a53de2e46befbf36ddb9740e64390",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/tilentravnik/2655706358/",
+    "photo_title": "_MG_7396",
+    "author": "Tilen Travnik",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-07-10",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/tilentravnik/2655706358/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "66cc7c2b017cd6cdf6d53dcb48862ebb",
+  "current_decoded_pixel_md5": "c9c07515dd4812f4273d68e242c241f8",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791367368.5308354,
+  "visual_review": "pending"
+}

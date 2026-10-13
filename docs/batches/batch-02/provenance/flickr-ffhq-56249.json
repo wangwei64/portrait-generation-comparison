@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-56249",
+  "candidate_index": 12,
+  "ffhq_id": 56249,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-56249.jpg",
+  "source_sha256": "bdeb9a24714c625358a91b6b5431728845966ba5c828c7c4ae5c547fb9ac43c3",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3504,
+    2336
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/johan_lindgren/1113857290/",
+    "photo_title": "IMG_5390",
+    "author": "Johan Lindgren",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2007-08-14",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/johan_lindgren/1113857290/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "ec215de401458d4963cad079697e4056",
+  "current_decoded_pixel_md5": "258b533678edfa595dcd9d601ebc8a9d",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06762525802214299,
+  "fetched_at": 1791365016.5362983,
+  "visual_review": "pending"
+}

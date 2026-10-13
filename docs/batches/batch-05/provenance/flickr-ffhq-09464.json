@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-09464",
+  "candidate_index": 237,
+  "ffhq_id": 9464,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-09464.jpg",
+  "source_sha256": "57376da44a3aea08c9330cc4e072d342951ca3979e161a4803405a265d9a4719",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2047,
+    1265
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/partidodostrabalhadores/30565657076/",
+    "photo_title": "Haddad-coletiva-planalto-Foto-Lula-Marques-Agência-PT-5",
+    "author": "PT - Partido dos Trabalhadores",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-10-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/partidodostrabalhadores/30565657076/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "cf303d54300e1567750d3923a573771c",
+  "current_decoded_pixel_md5": "9ec2207e0953c1f0f0ccd820555d59d3",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13174081381736058,
+  "fetched_at": 1791367253.3755727,
+  "visual_review": "pending"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-53125",
+  "candidate_index": 285,
+  "ffhq_id": 53125,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-53125.jpg",
+  "source_sha256": "a9121011e849d9faa74e3ab0c8aefa921d17d5321776e47b2559a54c3e42b8ae",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/derekarlanyoung/8189800053/",
+    "photo_title": "Adam explaining",
+    "author": "Derek A Young",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-11-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/derekarlanyoung/8189800053/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "c04079e0ad39a8c2c70679604d478f27",
+  "current_decoded_pixel_md5": "b3d9d21fdeb8b24e34a3b9c659f8e1d3",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791367377.629806,
+  "visual_review": "pending"
+}

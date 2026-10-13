@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-28926",
+  "prompt": "A horizontal outdoor selfie of a man with medium-length tousled dark hair, a short beard and large gold-rimmed aviator sunglasses. He looks into the camera with a neutral expression, wearing a dark collared shirt. His head and shoulders dominate the foreground. Behind him are a wooden railing, water, leafy trees with exposed roots and a palm frond; a smaller person in sunglasses stands farther back to the right. Use dappled daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-031-036.jpg",
+  "reviewed_source_sha256": "17676b72ac99e234a15f07e34fa50a29943e231492bf8eb1050d93e8ef9e6bd6",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-39348",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor photograph of a woman with shoulder-length dark hair held back by a pale blue fabric headband. She wears oversized black sunglasses and a black zip sports jacket with white stripes on the shoulders, its collar raised around her neck. She turns slightly toward the camera with a closed-mouth expression. Frame her head and shoulders on the right against softly blurred blue water and a distant shoreline in strong sunshine.",
+  "prompt_sha256": "859f2f6e55e49f441c2b3b3e3adaf01ca16b8869dd59ffe14aa87da76de89874",
+  "seed": 42,
+  "token_count": 288,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6925729103386402,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 11.705078125,
+  "nvidia_smi_peak_gib": 12.2216796875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 87.49268314553979,
+  "generated_at": "2026-10-07T12:09:37.115360+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-39348.png",
+  "sha256": "b1ed591a3f334bdf68d60b82e1d5a22956532264229b63fd183c07a2768a5ae0",
+  "bytes": 1006612
+}

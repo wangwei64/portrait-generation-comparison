@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-28558",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of a woman with reddish brown hair pulled back, sitting sideways at a pavement cafe and turning toward the camera with pursed lips. She wears large turquoise earrings and a thin-strapped turquoise patterned top. Frame her head and upper torso, including a bare shoulder. Metal cafe chairs, drinks on tables, pale umbrellas, pedestrians and warm-colored shopfronts fill the lively daylight background, with a slight camera tilt.",
+  "prompt_sha256": "5a5550902c49a3f49fc678d1cc76bab83de0aeefc40e941a3d2e9900d958d580",
+  "seed": 42,
+  "token_count": 97,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.26805329322815,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07750368118286,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 97,
+  "pixel_std": 65.65815604171945,
+  "generated_at": "2026-10-07T12:35:29.302543+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-28558.png",
+  "sha256": "4ce48cf97e06626bd0b5c2af27c0772392e980d524578e964b06cd29cdf2821f",
+  "bytes": 1117680
+}

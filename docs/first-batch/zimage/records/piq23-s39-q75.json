@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s39-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A dark-skinned man with closely cropped hair sits on a green metal chair in a courtyard. He wears a fitted light gray long-sleeved shirt and blue jeans, with his hands clasped in his lap. His body angles toward the left, and he lifts his chin slightly while looking past the camera. The vertical view shows his head, torso and upper legs. A pale concrete wall and small young trees stand behind him, with a tall apartment building rising along the right side and a patch of blue sky above. Brick paving and grass border the chair.",
+  "prompt_sha256": "6ecb2ce9df73a39eeb8b69d821a086a0014ed6d70e5f886715f249f9a86e0b14",
+  "seed": 42,
+  "token_count": 120,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.638031754642725,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077613353729248,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 100,
+  "pixel_std": 56.804777942511635,
+  "generated_at": "2026-10-07T09:09:47.599031+00:00",
+  "image_path": "zimage/generated/piq23-s39-q75.png",
+  "sha256": "a642fbe0f3f37c551a86ddbf21e0e1d6bca29fb1e19a5f7510d7e85a7f7d84eb",
+  "bytes": 1183773
+}

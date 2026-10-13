@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-69488",
+  "prompt": "A horizontal photograph of a baby with fine tousled light brown hair and wide eyes, seated in a colorful padded activity seat. The baby wears a pale blue long-sleeved top and looks straight at the camera with the mouth slightly open, hands resting on either side. Bright green, yellow and orange plastic toys surround the red checked seat. Soft indoor light keeps the face clear against a blurred home background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-229-234.jpg",
+  "reviewed_source_sha256": "d4b5f4ee85be60d0e513753db3a3296d6c9734f3ce8cd0cc50ff072d68a79ffa",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

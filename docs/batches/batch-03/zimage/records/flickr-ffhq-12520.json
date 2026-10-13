@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-12520",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    736,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid photograph of a boy with closely cropped dark hair, wearing a dark gray zip-neck fleece. He looks sideways toward the camera with his lips pressed together, holding a white paper plate and a sugar-dusted fried pastry with both hands. Frame his head, chest and hands. A smaller out-of-focus person in a purple top, water and distant greenery form the cool daylight background.",
+  "prompt_sha256": "923e8efc87437cbe01c27dd99981dd72938b6378728799b1dffb4db26468d017",
+  "seed": 42,
+  "token_count": 87,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 28.27045726031065,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.002169609069824,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 95,
+  "pixel_std": 84.37898680885473,
+  "generated_at": "2026-10-07T10:25:24.612914+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-12520.png",
+  "sha256": "b6e9ebad06ad8d6f0a46ed8ec42c468409b43b13c7a4f04831cb78c98ad459c7",
+  "bytes": 1215828
+}

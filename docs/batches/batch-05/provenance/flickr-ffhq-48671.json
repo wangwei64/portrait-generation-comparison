@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-48671",
+  "candidate_index": 311,
+  "ffhq_id": 48671,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-48671.jpg",
+  "source_sha256": "a7de48a84cfb1e5cfe4af5bd2c97c841b2b4b5cf2d4c895d81ec8fd60529141d",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/cityoftemecula/8261931145/",
+    "photo_title": "2012-Santa-ElectricLight-Parade-090",
+    "author": "The City of Temecula",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-12-11",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/cityoftemecula/8261931145/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "6b880c5fcfdf834223a5a791cae20130",
+  "current_decoded_pixel_md5": "a0c0921b7a79eb6fdaa8e5134603daf1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1776441758116141,
+  "fetched_at": 1791367436.028951,
+  "visual_review": "pending"
+}

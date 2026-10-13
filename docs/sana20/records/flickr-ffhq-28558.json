@@ -1,0 +1,37 @@
+{
+  "index": 300,
+  "image_id": "flickr-ffhq-28558",
+  "prompt": "A horizontal candid photograph of a woman with reddish brown hair pulled back, sitting sideways at a pavement cafe and turning toward the camera with pursed lips. She wears large turquoise earrings and a thin-strapped turquoise patterned top. Frame her head and upper torso, including a bare shoulder. Metal cafe chairs, drinks on tables, pale umbrellas, pedestrians and warm-colored shopfronts fill the lively daylight background, with a slight camera tilt.",
+  "prompt_sha256": "5a5550902c49a3f49fc678d1cc76bab83de0aeefc40e941a3d2e9900d958d580",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/26/263bd4b33c604039af1c5a7da2c1aa2af035a9926fc50147fae537107e9206cc.png",
+  "original_sha256": "263bd4b33c604039af1c5a7da2c1aa2af035a9926fc50147fae537107e9206cc",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f1/f1c8954327784593ad084dbd801c914d72e8414f698654c081ed640e7d728a0b.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409605786204338,
+  "png_path": "generated/flickr-ffhq-28558.png",
+  "preview_path": "previews/flickr-ffhq-28558.jpg",
+  "png_sha256": "e2189a2e034b51a2a420ee132df1e2d5833de6697945ce33f07ae7fd19dd215f",
+  "preview_sha256": "d9975181c04e63a63545bc350e24809b5818c2713d9ead1bd317239668dd3705",
+  "png_bytes": 1671568,
+  "preview_bytes": 330703,
+  "pixel_std": 66.31562477248558,
+  "created_at": "2026-10-08T08:52:23.053827+00:00"
+}

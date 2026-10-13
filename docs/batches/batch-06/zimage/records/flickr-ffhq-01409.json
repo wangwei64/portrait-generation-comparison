@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-01409",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    832
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal portrait of a woman with short light brown and gray hair, with a pair of glasses resting on top of her head. She looks slightly to the right of the camera with a quiet closed-mouth expression. She wears a white textured scoop-neck top and a pale shoulder strap with a metal buckle. Warm wooden panels and a window frame fill the background; backlighting leaves her face softly shaded.",
+  "prompt_sha256": "83a5792bdecac19b090a098e75024b70e5f766c85b8b7cd4640165618368f30e",
+  "seed": 42,
+  "token_count": 87,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 32.48525744304061,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.22546672821045,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 108,
+  "pixel_std": 78.78100231393357,
+  "generated_at": "2026-10-07T12:15:59.445342+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-01409.png",
+  "sha256": "eba0d5001ecac3934b5fc5c14836ec85dc61dc13794358a0055808cfb9f0f25d",
+  "bytes": 997583
+}

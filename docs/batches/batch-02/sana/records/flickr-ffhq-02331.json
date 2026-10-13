@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-02331",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal sunlit portrait of a woman with short layered reddish-blonde hair and dark oval sunglasses. She wears a crisp white open-collar shirt and a delicate necklace, facing the camera with a gentle closed-mouth smile. Frame her head and upper torso beside a white-framed glass door. Strong golden sunlight illuminates one side of her hair and face, while a dark interior and outdoor reflections appear in the glass behind.",
+  "prompt_sha256": "d9c72a1b140ec16d46235d6e5ae422e389bc3e773f81c01ac539cd126a95fdf5",
+  "seed": 42,
+  "token_count": 291,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.665452767163515,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 80.22853910025808,
+  "generated_at": "2026-10-07T10:13:32.517310+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-02331.png",
+  "sha256": "7523c8a81a95f81c4c09d3f45a1026874d548ffd9805b54ecdcc11aa3b0f2393",
+  "bytes": 893840
+}

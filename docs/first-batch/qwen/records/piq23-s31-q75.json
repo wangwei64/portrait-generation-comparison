@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s31-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A man with short brown hair and a full beard stands facing the camera beside a metal railing overlooking a river at night. He wears a pale beige hooded jacket zipped high at the neck, with black fasteners and a broad dark crossbody strap. The horizontal composition frames him from the head to around the waist, slightly left of center. Behind him, lights from waterfront buildings and streets cast yellow reflections across the river. A dark wooded hillside runs across the distance, beneath a cloudy night sky. Horizontal railing bars pass behind his shoulders and lower torso.",
+  "prompt_sha256": "c6ce80e55f05637f3cd73d8506e915aebdb519d379a2ea22a003b9cd0c8dcbcc",
+  "seed": 42,
+  "token_count": 134,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.821603864431381,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22259283065796,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 68.07886197748076,
+  "generated_at": "2026-10-07T09:23:16.188302+00:00",
+  "alpha_extrema": [
+    207,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s31-q75.png",
+  "sha256": "3bf7ff38f3e64fc31165b72415333136d4681fe2f477152674f5232d97c3f9d6",
+  "bytes": 1159131
+}

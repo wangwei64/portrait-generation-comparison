@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-01897",
+  "candidate_index": 305,
+  "ffhq_id": 1897,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-01897.jpg",
+  "source_sha256": "e781dc9f803cc7f0872796ae4598190e9bb3631d75eddcda408fbd127f64dc95",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1356,
+    2047
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/95471191@N03/38167439481/",
+    "photo_title": "DSC_5633",
+    "author": "Desie Roberts",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-11-04",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/95471191@N03/38167439481/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "4e48ca2ff74e4faecad9da5cb6e054d7",
+  "current_decoded_pixel_md5": "d4a7d4ffebca16b44e7ba6d4c8881afb",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14763327205882354,
+  "fetched_at": 1791367421.268254,
+  "visual_review": "pending"
+}

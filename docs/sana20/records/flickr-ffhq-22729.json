@@ -1,0 +1,37 @@
+{
+  "index": 168,
+  "image_id": "flickr-ffhq-22729",
+  "prompt": "A horizontal candid photograph of a woman with dark hair swept up and loose strands across her forehead. She holds a small black mobile phone to her ear with a ringed hand and looks slightly left of the camera with a reserved expression. She wears a pale cardigan. Direct flash lights her face and hand against a dim room with curtains, a framed picture and a seated person turned away in the background. Frame her head and shoulders.",
+  "prompt_sha256": "b641929b259a44533ad6fb226f4fbbff12182dcab6c45d79e6f4072fbe401959",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "lowlight",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bc/bc5336da6cddef1d466fc3f9f028b6dcc19cf6f7a6faff224b08dd719fb0e04c.png",
+  "original_sha256": "bc5336da6cddef1d466fc3f9f028b6dcc19cf6f7a6faff224b08dd719fb0e04c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/77/77b169c8c393575757e09c00b6ff2d20eca3743f40e728d7716589378df165fd.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940188106149435,
+  "png_path": "generated/flickr-ffhq-22729.png",
+  "preview_path": "previews/flickr-ffhq-22729.jpg",
+  "png_sha256": "460d4ef4aa36ac785634f1a0eb74a456d3550535b20b27df9055e8a3e08607a8",
+  "preview_sha256": "e19c1695f772054e0b354593084daba6d53c716dbfc442742bfe7be4d841f566",
+  "png_bytes": 1557620,
+  "preview_bytes": 261439,
+  "pixel_std": 41.977740556412016,
+  "created_at": "2026-10-08T08:49:24.558787+00:00"
+}

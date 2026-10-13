@@ -1,0 +1,37 @@
+{
+  "index": 84,
+  "image_id": "flickr-ffhq-58425",
+  "prompt": "A vertical hiking selfie of a man with light stubble and rectangular dark glasses, squinting slightly in strong sunlight. He wears a black knitted hat with red and white stripes, a pompom and a large orange-and-white emblem, plus a black zip-neck sweater and backpack straps. His head and shoulders occupy the right foreground. Behind him stretches a rocky mountain valley with sparse vegetation under a blue sky streaked with white clouds.",
+  "prompt_sha256": "8eab6fba9f8c5e8c2652941f4e27648b4ec34f1e8248859f7e0572da4c0708e4",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/54/54b0f5c984b6d7b22ee6305eddbd49847f880fd091c8177d589e5cc3bc1e8e98.png",
+  "original_sha256": "54b0f5c984b6d7b22ee6305eddbd49847f880fd091c8177d589e5cc3bc1e8e98",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/68/68b0b4335ff818298ca7321ed956f08a38a855aa5b37ba309e2bd138745e04a8.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940244622528553,
+  "png_path": "generated/flickr-ffhq-58425.png",
+  "preview_path": "previews/flickr-ffhq-58425.jpg",
+  "png_sha256": "0e00ec5662d6e312e0f4af15ff03ccdf3f236bcfd6d276e1698f2b60bb889e37",
+  "preview_sha256": "a7c75fb07b38e1236131106791f24008551f6f291d70bf07659909cebd64442f",
+  "png_bytes": 1912272,
+  "preview_bytes": 471474,
+  "pixel_std": 86.31419779736046,
+  "created_at": "2026-10-08T08:47:31.311458+00:00"
+}

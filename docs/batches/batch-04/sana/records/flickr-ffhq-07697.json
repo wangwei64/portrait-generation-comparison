@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-07697",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a man with short dark hair and light facial stubble, wearing a plain white T-shirt. He turns his head to the right and looks out of frame with his lips slightly parted. Bright outdoor light catches his hair and cheek while the opposite side remains softly shaded. Frame his head and shoulders against blurred green trees, dark foliage and small bright patches of sky.",
+  "prompt_sha256": "85da19be17a71421993766f70084605951b88e408036de139510f3200b6cf3fe",
+  "seed": 42,
+  "token_count": 284,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7601606622338295,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 8.99609375,
+  "nvidia_smi_peak_gib": 7.4052734375,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 93.22707500250067,
+  "generated_at": "2026-10-07T11:30:17.724942+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372598535841839",
+  "image_path": "sana/generated/flickr-ffhq-07697.png",
+  "sha256": "9fc1cdfc8b5dcca7f7c80f7f3a09e37200ac61af4f73fde9e7d2c8ba0c476b00",
+  "bytes": 762821
+}

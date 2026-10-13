@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-07697",
+  "prompt": "A horizontal close portrait of a man with short dark hair and light facial stubble, wearing a plain white T-shirt. He turns his head to the right and looks out of frame with his lips slightly parted. Bright outdoor light catches his hair and cheek while the opposite side remains softly shaded. Frame his head and shoulders against blurred green trees, dark foliage and small bright patches of sky.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-169-174.jpg",
+  "reviewed_source_sha256": "0659132b89495fa0531020ae236d2584e23e9ad5007f6c70310a1dfae1af6f52",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

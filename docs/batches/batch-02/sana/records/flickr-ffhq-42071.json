@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42071",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    864,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical festive portrait of a smiling woman wearing an elaborate tall silver-and-black headdress with sequins, pointed curves and black feathers. She has glittery red-orange face makeup, dark eyeliner and bright red lipstick. A black-and-white feathered collar surrounds her shoulders above a sparkling costume. Frame her head and upper chest, with the top of the headdress partly cropped. Direct light makes the decorations shine against a dark crowded indoor background.",
+  "prompt_sha256": "4d7fa9ed219fa7791a1ed1901dfeb55ed106e3ce0baa0281f93411737d96ee06",
+  "seed": 42,
+  "token_count": 298,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.23114350438118,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.94400691986084,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 11,
+  "pixel_std": 73.54925105619385,
+  "generated_at": "2026-10-07T10:12:38.789292+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-42071.png",
+  "sha256": "73a4c9f951c3585696b4fa62f50c57f6fceb61e5a52155d126ee4cca904d0418",
+  "bytes": 1416262
+}

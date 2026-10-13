@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-13473",
+  "candidate_index": 46,
+  "ffhq_id": 13473,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-13473.jpg",
+  "source_sha256": "df643d365f129e861ed97cc3a86c076e0ba971bb1212f36a345e2e9fd456adc4",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3280,
+    4928
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/greenpeacepl/14985839906/",
+    "photo_title": "Łańcuch Ludzi - Jarosław Kasprzyk",
+    "author": "Greenpeace Polska",
+    "country": "Germany",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-08-23",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/greenpeacepl/14985839906/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "8602dc7fe0e8377eb01a9f439d32490c",
+  "current_decoded_pixel_md5": "a5f31721cbd6a572f1f6cd8e4273a3d6",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14672256097560976,
+  "fetched_at": 1791365070.7047656,
+  "visual_review": "pending"
+}

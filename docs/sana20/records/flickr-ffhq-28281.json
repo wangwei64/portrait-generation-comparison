@@ -1,0 +1,37 @@
+{
+  "index": 166,
+  "image_id": "flickr-ffhq-28281",
+  "prompt": "A vertical posed photograph of a man with short slightly tousled dark hair and a mild smile, looking directly toward the camera. He wears a loose light gray polo shirt with a small colorful embroidered emblem on the chest and another patch on one sleeve. Frame him from the head to the waist, with relaxed shoulders and arms down. A colorful exhibition backdrop with map-like lines and partial large lettering fills the background under direct indoor light.",
+  "prompt_sha256": "dd1b07452617746fa2c0efe3e5b656146e6e4a6d2fd5439801d2fa4297bb2cf7",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    832,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/58/58dd0dc7bbd3f218128ce820c51ec7ca3d96737ac4a9a83bade0301d86556d27.png",
+  "original_sha256": "58dd0dc7bbd3f218128ce820c51ec7ca3d96737ac4a9a83bade0301d86556d27",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/70/70c87903fe538a6f0b9b2c6095b98a219112db4baf8da30df683d15b5da8fcb4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416453614830971,
+  "png_path": "generated/flickr-ffhq-28281.png",
+  "preview_path": "previews/flickr-ffhq-28281.jpg",
+  "png_sha256": "23573f4ddc03b57d3c9cb9737f4421485bda5f0e028bbdd57527d9496e5ab53f",
+  "preview_sha256": "f378d130eddfafaf698768d8458f879015d907b0bdbf546b4566e93c090df2b8",
+  "png_bytes": 1837099,
+  "preview_bytes": 334863,
+  "pixel_std": 68.18134294778484,
+  "created_at": "2026-10-08T08:49:21.882763+00:00"
+}

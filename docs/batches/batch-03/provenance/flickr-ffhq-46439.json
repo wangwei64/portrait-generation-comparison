@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-46439",
+  "candidate_index": 109,
+  "ffhq_id": 46439,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-46439.jpg",
+  "source_sha256": "79210ac776bb8d8f4eedda6c3a9f4ba41f32f25b61af77729f63f86024cc5b37",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3872,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/beaufour/2499384654/",
+    "photo_title": "Happy Bas",
+    "author": "Allan Beaufour",
+    "country": "Netherlands",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-05-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/beaufour/2499384654/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "689ff5e0912c8d56aad91642d62d92bf",
+  "current_decoded_pixel_md5": "c783de22dfea3e7a25c206d4ac04efd4",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07927921895724926,
+  "fetched_at": 1791365415.5080671,
+  "visual_review": "pending"
+}

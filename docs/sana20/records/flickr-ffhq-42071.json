@@ -1,0 +1,37 @@
+{
+  "index": 62,
+  "image_id": "flickr-ffhq-42071",
+  "prompt": "A vertical festive portrait of a smiling woman wearing an elaborate tall silver-and-black headdress with sequins, pointed curves and black feathers. She has glittery red-orange face makeup, dark eyeliner and bright red lipstick. A black-and-white feathered collar surrounds her shoulders above a sparkling costume. Frame her head and upper chest, with the top of the headdress partly cropped. Direct light makes the decorations shine against a dark crowded indoor background.",
+  "prompt_sha256": "4d7fa9ed219fa7791a1ed1901dfeb55ed106e3ce0baa0281f93411737d96ee06",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    864,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/73/73a4c9f951c3585696b4fa62f50c57f6fceb61e5a52155d126ee4cca904d0418.png",
+  "original_sha256": "73a4c9f951c3585696b4fa62f50c57f6fceb61e5a52155d126ee4cca904d0418",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8c/8c3f685ee2b641c12fac409c210bfa7fe5e9434f6065f8c22727f30c0c2c1f53.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 298,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412343688309193,
+  "png_path": "generated/flickr-ffhq-42071.png",
+  "preview_path": "previews/flickr-ffhq-42071.jpg",
+  "png_sha256": "1fc1aead0b227713fa9cf54cdc2c7acf3a65012de6dafe032e6fba22284e5742",
+  "preview_sha256": "81dc6348d60d989b4322aa4c49cd4e0096d14b4f2de8020010912c123455e9f2",
+  "png_bytes": 1867128,
+  "preview_bytes": 494620,
+  "pixel_std": 64.78759675796736,
+  "created_at": "2026-10-08T08:47:01.851753+00:00"
+}

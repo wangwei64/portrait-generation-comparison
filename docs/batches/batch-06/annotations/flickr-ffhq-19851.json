@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-19851",
+  "prompt": "A horizontal candid portrait of an older man with thinning tousled gray hair, oval wire glasses and a gray goatee. He faces the camera with slightly parted lips and wears a peach-orange polo shirt with a small white embroidered chest logo. Frame his head and upper torso beneath a large orange-and-gray striped tent canopy. A woman in an orange shirt and other visitors remain smaller in the background at the outdoor event.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-373-378.jpg",
+  "reviewed_source_sha256": "3ff86ea3478aabb17d2953edf51b210733518ea6bbefc63317ac9624ec435ea4",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

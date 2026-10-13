@@ -1,0 +1,37 @@
+{
+  "index": 44,
+  "image_id": "piq23-s43-q75",
+  "prompt": "A young man with medium-length brown hair stands on an elevated riverside walkway wearing an olive-brown hooded jacket. Positioned on the left of a horizontal composition, he turns his face to the right and extends his left arm across the frame, resting his hand on a silver horizontal railing. His upper body is visible while his lower body is cropped out. A broad river fills the middle distance behind the railing, with long boats along the far bank, dense green trees and buildings on the hillside. Large dark and pale clouds cover the sky.",
+  "prompt_sha256": "2606a236e9364f48b709043813b79715f73f40cd2663a8bf1c9d4832b2499a12",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e5/e5ae36946ed85f651463aa7c2447b5657fca5e01a08c1c3bc8c408c2e3810883.png",
+  "original_sha256": "e5ae36946ed85f651463aa7c2447b5657fca5e01a08c1c3bc8c408c2e3810883",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/da/dad9adb761f6e1e0f176cd3576f787f84708fcab5c587388bf8b64d220ef9988.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 314,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9447064846754074,
+  "png_path": "generated/piq23-s43-q75.png",
+  "preview_path": "previews/piq23-s43-q75.jpg",
+  "png_sha256": "e21fbe8ca8559e387fb9fcdd7a62b211f03991b31307998ddbb2cb46e13d4f1e",
+  "preview_sha256": "f3bc7f48d3828a6340e8b7bb665016df9015e8f07ec3966ae826c081e2e90d8e",
+  "png_bytes": 1372876,
+  "preview_bytes": 237581,
+  "pixel_std": 81.41678896535943,
+  "created_at": "2026-10-08T08:46:38.570819+00:00"
+}

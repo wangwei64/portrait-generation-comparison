@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-55790",
+  "prompt": "A horizontal conference photograph of a man with short upright gray hair and rectangular glasses, speaking into a handheld microphone while looking toward the left. He wears a dark suit, white shirt, pale blue tie and blue lanyard, with a small multicolored circular lapel pin. A ring is visible on the hand holding the microphone. Frame his head and chest against a purple-blue backdrop patterned with repeated white conference logos under even stage lighting.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-367-372.jpg",
+  "reviewed_source_sha256": "2c3a92b660acfd5ac7a75efdf0787acde4e5017c244d09708d66d5adbe8ad531",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 295,
+  "image_id": "flickr-ffhq-05785",
+  "prompt": "A vertical portrait of a smiling young child with long light brown hair drawn into a high side ponytail and tied with a blue patterned bandana. The child wears a sleeveless navy and white striped dress with a small white flower decoration near one shoulder. A large white flower is held near the lower left of the frame. Soft side light illuminates the face and dress against a dark brown wooden interior, with the figure visible to the waist.",
+  "prompt_sha256": "e03856d4163904bcfcd3bd4fbb054422d2e9beb5896482f078cc665e9cf7a4f7",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    704,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b5/b56292e15015c6624ee40ca62c808ba24ec8b68e4bc3a3716572fd283ebe9d6d.png",
+  "original_sha256": "b56292e15015c6624ee40ca62c808ba24ec8b68e4bc3a3716572fd283ebe9d6d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fe/feba2517364848df6b4fa2b0fd96fe1f52af328ac5febc8aacf7c6e4fd570fb4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9413880109786987,
+  "png_path": "generated/flickr-ffhq-05785.png",
+  "preview_path": "previews/flickr-ffhq-05785.jpg",
+  "png_sha256": "8c583cdf0a4945c00132ccbd731a1d1677abfa91ee2e4da06a8c65d7f4382606",
+  "preview_sha256": "1037d0a80a6d7442242206f193d9bdf6e1edf7129d141da6ddef375a3d3eb6f2",
+  "png_bytes": 1530904,
+  "preview_bytes": 283534,
+  "pixel_std": 70.95015929608729,
+  "created_at": "2026-10-08T08:52:16.453446+00:00"
+}

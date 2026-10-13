@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-64353",
+  "candidate_index": 338,
+  "ffhq_id": 64353,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-64353.jpg",
+  "source_sha256": "aadee60fb24017ca9cef71961534e3b6629a2a0744ace7cae6141479df29d874",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/avaidosa/7279059000/",
+    "photo_title": "P1050848",
+    "author": "A Vaidosa .",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-05-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/avaidosa/7279059000/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "9e447c20b24ba7856004ae5376384e3e",
+  "current_decoded_pixel_md5": "a6a03ed72e20d04eb77e34446d4a5bf4",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.16187825520833332,
+  "fetched_at": 1791367515.502975,
+  "visual_review": "pending"
+}

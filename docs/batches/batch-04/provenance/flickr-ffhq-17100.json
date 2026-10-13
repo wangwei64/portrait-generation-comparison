@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-17100",
+  "candidate_index": 191,
+  "ffhq_id": 17100,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-17100.jpg",
+  "source_sha256": "712ab6ac6a131467274d745622173603b683dd77807c97d812e7bb01638fc165",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2000,
+    3000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/inter-parliamentary-union/40093346215/",
+    "photo_title": "_PAL6340",
+    "author": "Inter-Parliamentary Union",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2018-03-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/inter-parliamentary-union/40093346215/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "641df82dd41c4ba9272da2f7c68118d9",
+  "current_decoded_pixel_md5": "682a17db1f619343815c4e95adafe97c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06386,
+  "fetched_at": 1791365544.9332252,
+  "visual_review": "pending"
+}

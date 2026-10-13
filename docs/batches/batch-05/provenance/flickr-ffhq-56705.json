@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-56705",
+  "candidate_index": 233,
+  "ffhq_id": 56705,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-56705.jpg",
+  "source_sha256": "27036d55d71cf2d95d769fa351cb6e95e0cf4913f5247f8b1cb07a62248bba1e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/otakuchick/3025998933/",
+    "photo_title": "IMG_1519",
+    "author": "otakuchick",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-11-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/otakuchick/3025998933/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "749637a257632fcc6f381019c288baf9",
+  "current_decoded_pixel_md5": "5d410f998397e22ef7250accfc5ede07",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791367241.2557235,
+  "visual_review": "pending"
+}

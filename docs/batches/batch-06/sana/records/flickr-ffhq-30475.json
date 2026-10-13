@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-30475",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal flash portrait of a man with short dark hair graying at the temples, rectangular black glasses and a subtle closed-mouth smile. He faces the camera wearing an open-neck black collared shirt. Frame his head and upper chest against a muted gray interior with a tiled wall panel, a small pale square decoration and indistinct objects. Direct frontal light brightens his face while the background remains subdued.",
+  "prompt_sha256": "c22b0452557f6745cd521e19bbe6d8614a2996d631bb756c0d842036ba836af8",
+  "seed": 42,
+  "token_count": 288,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.684763040393591,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 53.57178972410212,
+  "generated_at": "2026-10-07T12:48:41.431359+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-30475.png",
+  "sha256": "08d32b9439a706f4863f6ca315bcbaecdfa3e4f2c4533a857393ae9290b42960",
+  "bytes": 905496
+}

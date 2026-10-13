@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-61906",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal indoor portrait of a man with thinning brown hair, rectangular dark glasses and a full salt-and-pepper beard. He wears a charcoal polo shirt over a pale undershirt and leans back slightly, looking at the camera with his mouth partly open. Frame his head and chest at a slight diagonal. Warm amber light and wood-paneled walls, with a small strip of red near the ceiling, give the room a golden cast.",
+  "prompt_sha256": "842d0b6cd8252d401b91675b21649ce01aaa6e5dd5e55a31f7d1eda17f640ea8",
+  "seed": 42,
+  "token_count": 96,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.217768494039774,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854201793670654,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 72.6231974373954,
+  "generated_at": "2026-10-07T10:28:28.156288+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-61906.png",
+  "sha256": "2918884df0e43127e3f1f1617d0c29f3e4fbcf618879db05b0ec02a22806f2e1",
+  "bytes": 865199
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-54293",
+  "candidate_index": 297,
+  "ffhq_id": 54293,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-54293.jpg",
+  "source_sha256": "94c189dfdd26c944cffb0b8139a66cedcd5898bfe918ff485a46d4b1efda6a86",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/wakkysweet/2403826911/",
+    "photo_title": "Juliana",
+    "author": "Steve",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-04-11",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/wakkysweet/2403826911/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "db371342a547f19d2dda249bf9ff9199",
+  "current_decoded_pixel_md5": "5f2926ca50542d7e68e488f1e7fed736",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1432867366717929,
+  "fetched_at": 1791367402.5013149,
+  "visual_review": "pending"
+}

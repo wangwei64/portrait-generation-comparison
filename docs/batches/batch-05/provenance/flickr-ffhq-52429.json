@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-52429",
+  "candidate_index": 263,
+  "ffhq_id": 52429,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-52429.jpg",
+  "source_sha256": "e9954726220ed52bdc45bf7a9186bbebe75060eebdd4b50c091d615b9a96c0d9",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1583,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/99783372@N08/29819293296/",
+    "photo_title": "IMG_2619_1",
+    "author": "Jennifer East",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-09-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/99783372@N08/29819293296/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "4753d4cb722dd532a103d558e55c7f0e",
+  "current_decoded_pixel_md5": "1a685e8280109dd46d262d8df98bcab7",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1360546642899584,
+  "fetched_at": 1791367321.947362,
+  "visual_review": "pending"
+}

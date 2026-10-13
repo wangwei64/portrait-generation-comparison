@@ -1,0 +1,37 @@
+{
+  "index": 219,
+  "image_id": "flickr-ffhq-61689",
+  "prompt": "A horizontal close photograph of a woman with long light brown hair and side-swept bangs, turning toward the camera with a broad toothy smile and slightly raised eyebrows. She wears a small nose stud and tiny earrings, with only a little dark clothing visible at the bottom. Soft outdoor light illuminates her face. Leafy trees, pale globe lamps and a low decorated wall appear behind her, all softly out of focus.",
+  "prompt_sha256": "304486a17259d37602589444d59fa9a9e99ea4a010851789a62c5a66d680ceac",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/50/50c1e0b592392a119a6267d4f75eac5b81a043168df96b2f34aa600e311eecce.png",
+  "original_sha256": "50c1e0b592392a119a6267d4f75eac5b81a043168df96b2f34aa600e311eecce",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d6/d65ec18ce078ebf9d2ebd4576bd22096a91eb372c25780eadfab17acaae25827.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405174516141415,
+  "png_path": "generated/flickr-ffhq-61689.png",
+  "preview_path": "previews/flickr-ffhq-61689.jpg",
+  "png_sha256": "2e7cb45d587773241751b6d0a4b276e85fdf681d5d79046d99813b78bbd76be1",
+  "preview_sha256": "d6111ba9b06b7a354dd5ea87741f6fbb2bfc94373449167963bef955842b52eb",
+  "png_bytes": 1576401,
+  "preview_bytes": 283587,
+  "pixel_std": 58.97438875908472,
+  "created_at": "2026-10-08T08:50:34.018556+00:00"
+}

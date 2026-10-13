@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-13321",
+  "prompt": "A horizontal outdoor photograph of a stocky man with short dark hair and light facial stubble, looking down with a relaxed smile. He wears a shiny charcoal quilted puffer jacket, partly open over a dark shirt. Frame him from the head to the lower torso in bright sunshine. Behind him, softly blurred red and white stadium seating rises above parked vehicles and equipment, with a partially visible person near the left edge.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-205-210.jpg",
+  "reviewed_source_sha256": "48c8f622171e775d3c58faffd8e6cf2afc034124ac871e8243ce396cbf31851d",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

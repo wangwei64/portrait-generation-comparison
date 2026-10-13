@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-07577",
+  "candidate_index": 186,
+  "ffhq_id": 7577,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-07577.jpg",
+  "source_sha256": "6c486fba4b4f842d339c0789c3e10558cfc04b614bf1438c28ad841a96c24e95",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1463,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/inthemomentphotographybyleila/38094419106/",
+    "photo_title": "DSC_2053",
+    "author": "Leila Steffens",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-11-04",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/inthemomentphotographybyleila/38094419106/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "59a3fa4c4961d53698702f11c79faf07",
+  "current_decoded_pixel_md5": "c23412251a0ae14e699cd48b216af65f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.05621113799919248,
+  "fetched_at": 1791367125.9415593,
+  "visual_review": "pending"
+}

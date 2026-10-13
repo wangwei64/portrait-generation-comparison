@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-30475",
+  "prompt": "A horizontal flash portrait of a man with short dark hair graying at the temples, rectangular black glasses and a subtle closed-mouth smile. He faces the camera wearing an open-neck black collared shirt. Frame his head and upper chest against a muted gray interior with a tiled wall panel, a small pale square decoration and indistinct objects. Direct frontal light brightens his face while the background remains subdued.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-331-336.jpg",
+  "reviewed_source_sha256": "19847da85747ec25fd3c6fde387e95e31bfe0e071abe7f9812db8d80d0cce86d",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

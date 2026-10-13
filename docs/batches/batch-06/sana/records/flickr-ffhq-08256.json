@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-08256",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    832,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid photograph of a woman with light brown hair braided over one shoulder, making a playful face by crossing her eyes and sticking out her tongue. She wears large ornate gold hoop earrings, a wide geometric gold necklace and a black off-the-shoulder top with patterned fabric near the bottom. Frame her head and upper torso from slightly above. Warm light falls across her face against pale wooden boards and small wall decorations.",
+  "prompt_sha256": "e5581348bf2c59a9eaec2c362ef895e65f75b9a9e7064c6112cc1346d5132d4e",
+  "seed": 42,
+  "token_count": 291,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.8330975770950317,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.893195152282715,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 7,
+  "pixel_std": 60.094050061755446,
+  "generated_at": "2026-10-07T12:49:10.090926+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-08256.png",
+  "sha256": "848fde16a3417a9acc2ae16133b2a8742f33fd6522bbb0b6f70a771680d73e6a",
+  "bytes": 1211617
+}

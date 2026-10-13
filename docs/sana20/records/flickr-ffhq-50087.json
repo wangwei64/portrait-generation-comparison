@@ -1,0 +1,37 @@
+{
+  "index": 296,
+  "image_id": "flickr-ffhq-50087",
+  "prompt": "A horizontal candid portrait of an older woman with short tousled silver hair and narrow red-framed sunglasses. Her mouth is open as if speaking, and her arms bend outward at her hips. She wears a bright red short-sleeved top with a black, white and red patterned front panel, a large dark floral pendant and a small white name badge. Strong sunlight lights her upper body against a broad dark tree trunk and distant hazy landscape.",
+  "prompt_sha256": "b9b46fa309a4d1c93061f0ad1befc4389255dcc011991f95cb2b37f649cef59a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fb/fb41ad43763d0f1080c1dcedd28e00c8328c47e45e13a41a5591f8f5fd1f9c97.png",
+  "original_sha256": "fb41ad43763d0f1080c1dcedd28e00c8328c47e45e13a41a5591f8f5fd1f9c97",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b9/b9000992b7a4d703f30f1718ad2a5740a798870a52e74209a1772045a8398b0e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9436331130564213,
+  "png_path": "generated/flickr-ffhq-50087.png",
+  "preview_path": "previews/flickr-ffhq-50087.jpg",
+  "png_sha256": "4a2ab3b458a33611bf36edea43a75287682eea118c9f03e7163066d623f8fa78",
+  "preview_sha256": "69a40455cff7e5501183c65b6fb58f83c8ec8d0d5840ba4bb9d1869438b9ad8f",
+  "png_bytes": 1553403,
+  "preview_bytes": 382945,
+  "pixel_std": 90.28547430709453,
+  "created_at": "2026-10-08T08:52:17.694074+00:00"
+}

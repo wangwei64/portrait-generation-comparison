@@ -1,0 +1,37 @@
+{
+  "index": 211,
+  "image_id": "flickr-ffhq-30608",
+  "prompt": "A vertical flash photograph of a baby with very fine short brown hair, sitting upright while adult hands support the shoulders and lower body. The baby stares toward the camera with wide eyes and a small closed mouth. A white fleece sleeper is printed with brown cartoon monkeys and has a small yellow chest label. Frame the head and body to the lap, with a blue adult shirt and dark interior forming the background.",
+  "prompt_sha256": "df0dbdf58eafa45df3c9a2b4c2b197dd68eee262f8dd48d98ccbd6bd174e29ad",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c1/c16a7c53e2bd5f7eb00ee27c8a8343e6b1defccb5fe28286f3e9d7596374d6a5.png",
+  "original_sha256": "c16a7c53e2bd5f7eb00ee27c8a8343e6b1defccb5fe28286f3e9d7596374d6a5",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f8/f80e168c5eee4ec0e4d32cd9b1bb44a3024d63f574d009918997dd399167acdf.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405714385211468,
+  "png_path": "generated/flickr-ffhq-30608.png",
+  "preview_path": "previews/flickr-ffhq-30608.jpg",
+  "png_sha256": "848254a54240c225ec3fb54b8c6b23e33572fdf6877f18b0833c463c40c4cb1f",
+  "preview_sha256": "6f760285efb715b3e47681d1950efa9a83cf9d2941b0f731d07a5e814f14c2e3",
+  "png_bytes": 1689215,
+  "preview_bytes": 294211,
+  "pixel_std": 75.75278310662428,
+  "created_at": "2026-10-08T08:50:23.090577+00:00"
+}

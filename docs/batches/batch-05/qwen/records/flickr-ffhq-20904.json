@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-20904",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical outdoor portrait of a smiling child with dark textured hair loosely pulled back. The child looks toward the camera with a playful toothy expression, head slightly lowered and body turned at an angle. An olive green patterned cardigan is worn over a dark checked button-front garment and a pale ribbed neckline. Bright sunlight creates a strong diagonal shadow across the forehead and face, against a softly blurred earthy background.",
+  "prompt_sha256": "7833c48e71e3fbdbe89d7896b2a6b56c185106eb759a4a308f0457c9d85fabb1",
+  "seed": 42,
+  "token_count": 105,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.331537991762161,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59612417221069,
+  "peak_reserved_gib": 43.287109375,
+  "nvidia_smi_peak_gib": 43.7978515625,
+  "nvidia_smi_sample_count": 40,
+  "pixel_std": 53.413046475691495,
+  "generated_at": "2026-10-07T12:07:19.802504+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-20904.png",
+  "sha256": "c6fbfbe57d3de329ef545e01bd7fd3ee45e1f9a908a32329899fbd685d32da2b",
+  "bytes": 1341616
+}

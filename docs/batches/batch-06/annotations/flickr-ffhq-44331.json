@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-44331",
+  "prompt": "A horizontal candid photograph with a noticeably tilted camera angle of a laughing woman with shoulder-length blonde hair. She leans toward the camera with her mouth open in a wide smile, wearing round pale earrings, a long thin necklace and a dark gray T-shirt with small printed lettering. Flash lights her face against a dim event interior with several background people, a projection screen and a glowing red exit sign.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-355-360.jpg",
+  "reviewed_source_sha256": "02419890632a3cc716460aa6e36ad41decffdb8d1a178ca7648087957a98c4a5",
+  "framing": "upper_body",
+  "environment": "lowlight",
+  "tags": [
+    "upper_body",
+    "lowlight"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

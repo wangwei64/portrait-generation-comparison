@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-41434",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical close portrait of a man with thick wavy salt-and-pepper hair, wearing a dark navy suit, white shirt and diagonally striped navy and gray tie. He looks toward the camera with a serious expression and his mouth partly open. Frame his head and upper chest tightly. A soft gray-white indoor background is heavily blurred, with a small dark microphone edge near the bottom. Use diffuse light and visible natural facial lines.",
+  "prompt_sha256": "24efa8aad8e7bf85eb99490f27a7178be40606589dedda8264bc6502b79a3933",
+  "seed": 42,
+  "token_count": 293,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.672128725796938,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 78.11710492349498,
+  "generated_at": "2026-10-07T10:53:13.006565+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-41434.png",
+  "sha256": "5bb2d2493e13c0329bab1e96d3be56c5606aa21666f42bcdca2a90808f191e7b",
+  "bytes": 899189
+}

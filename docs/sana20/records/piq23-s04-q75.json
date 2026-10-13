@@ -1,0 +1,37 @@
+{
+  "index": 5,
+  "image_id": "piq23-s04-q75",
+  "prompt": "A curly dark-haired man sits behind a wooden table, facing the camera in a navy blazer and an open-neck white shirt. His right hand is raised beside his face, palm forward with fingers spread, while his left hand rests flat on the table. His upper body occupies the center-right of the horizontal frame. Tall orange and purple glass bottles stand in the left foreground, a pale blue bottle is cut off at the right edge, and green foliage and a string of small lights cross the table. A black metal shelf, an OPEN sign and part of a dartboard appear against the pale wall behind him.",
+  "prompt_sha256": "80a89ccf2eda43a3b6c18b8f9974a9a6ff9e177d1ad2162d83941107e95e3027",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0a/0a8d0bc72bcbd63ed97a802e98b65c9a27913dafdd559de8b7422f695008fabb.png",
+  "original_sha256": "0a8d0bc72bcbd63ed97a802e98b65c9a27913dafdd559de8b7422f695008fabb",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/79/79d2c08f028036ad2f8522649f409cd1e4b41143c698c59f88bb4f2c75615133.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 331,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401447400450706,
+  "png_path": "generated/piq23-s04-q75.png",
+  "preview_path": "previews/piq23-s04-q75.jpg",
+  "png_sha256": "66e7ea3f06203942e33d4616e61f46d3363530fac5a5245914c3b12fb2c1f665",
+  "preview_sha256": "8ac254da7e620b4f20426f00fbf6b29cc51bb688ca8d59493a54e3d368114967",
+  "png_bytes": 1610288,
+  "preview_bytes": 312754,
+  "pixel_std": 83.36367105229267,
+  "created_at": "2026-10-08T08:45:46.828568+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-46627",
+  "candidate_index": 332,
+  "ffhq_id": 46627,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-46627.jpg",
+  "source_sha256": "1018b89521e5ed2bdcf9bd8b8a067687952752dab98a7f2cf9af8988436d8436",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/devleermuis/7567365190/",
+    "photo_title": "",
+    "author": "De Vleermuis 200ste",
+    "country": "Belgium",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-07-14",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/devleermuis/7567365190/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "91eefed776377d592600dfd2c096985d",
+  "current_decoded_pixel_md5": "6f8fd4510c3a51eb35b07bb2f8ac9bab",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.16987911522633745,
+  "fetched_at": 1791367496.6405926,
+  "visual_review": "pending"
+}

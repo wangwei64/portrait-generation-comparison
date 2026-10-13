@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-34682",
+  "candidate_index": 67,
+  "ffhq_id": 34682,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-34682.jpg",
+  "source_sha256": "f41534fb9e189a6706986e1341b7dc078f7d872bcb802cc7100be76d0af61f26",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3872,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/shanntastic/4122234381/",
+    "photo_title": "Ya, What Of It?",
+    "author": "Shannon",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-11-21",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/shanntastic/4122234381/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "9d1ae4133e6fa0db3ecb30f376cbab57",
+  "current_decoded_pixel_md5": "9d1ae4133e6fa0db3ecb30f376cbab57",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.0548576835271911,
+  "fetched_at": 1791365119.354929,
+  "visual_review": "pending"
+}

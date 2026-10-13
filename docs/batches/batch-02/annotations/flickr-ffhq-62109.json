@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-62109",
+  "prompt": "A vertical candid photograph of a child in a teal long-sleeved shirt with tan elbow patches, wearing a very large woven straw sombrero with a colorful pink band and blue brim edge. The child rests one cheek on a hand and looks up at the camera. The other hand holds a white plastic spoon above a tray containing red-sauced food, folded flatbread and a green apple. Other seated children are partly visible behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-043-048.jpg",
+  "reviewed_source_sha256": "5c5073ddb6895059ff5edff7abc1d6b8bbc30c989f9a33ea10d774867cfa374e",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

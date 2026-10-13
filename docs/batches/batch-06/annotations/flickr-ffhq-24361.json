@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-24361",
+  "prompt": "A horizontal candid portrait of a bald man wearing a dark button-front shirt with thin pale blue vertical stripes. He raises one arm and rests his hand behind his head, looking directly at the camera with a neutral expression and deep horizontal forehead lines. Frame his head, chest and bent elbow. Bright daylight filters through closely spaced horizontal window blinds behind him, leaving his face and shirt softly shaded.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-361-366.jpg",
+  "reviewed_source_sha256": "a992c28c8ea7bd34d28443dc0400e352f9e40242402fc87ee45787d251c5f1db",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

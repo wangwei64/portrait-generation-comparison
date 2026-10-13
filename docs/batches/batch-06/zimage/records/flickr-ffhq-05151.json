@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-05151",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    736,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical graduation photograph of a young man with dark hair wearing a royal blue square mortarboard and matching gown. Orange honor cords hang over the gown, with a white shirt and pale tie visible at the neck. He looks toward the camera with a faint smile, his face partly shaded beneath the cap. Frame him from head to waist, with a large sunlit crowd and other graduates softly blurred behind.",
+  "prompt_sha256": "8a02a46b65ab990a8de04fd9493385afe143a522e497698bd3eb7c10002f1db2",
+  "seed": 42,
+  "token_count": 88,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 28.24018259346485,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.002174377441406,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 94,
+  "pixel_std": 82.63754712115706,
+  "generated_at": "2026-10-07T12:25:37.407602+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-05151.png",
+  "sha256": "c74eae70a4a53635374134a8e0f36e893fca3a7c1bfaf44e296c132eb3b54e96",
+  "bytes": 1065316
+}

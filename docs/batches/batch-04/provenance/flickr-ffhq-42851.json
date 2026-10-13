@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42851",
+  "candidate_index": 175,
+  "ffhq_id": 42851,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42851.jpg",
+  "source_sha256": "54d80e9f29af99cd7e4ee0a73281c1c2145a1f0b0a6245ede2e0c20311eb61ac",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4256,
+    2832
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/goodwillwm/34696350575/",
+    "photo_title": "Achiever of the Year Luncheon",
+    "author": "Goodwill Industries of West Michigan",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2017-05-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/goodwillwm/34696350575/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "2c1d76bef73d62c574431eddc2343632",
+  "current_decoded_pixel_md5": "2c1d76bef73d62c574431eddc2343632",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06601381632046217,
+  "fetched_at": 1791365524.5450876,
+  "visual_review": "pending"
+}

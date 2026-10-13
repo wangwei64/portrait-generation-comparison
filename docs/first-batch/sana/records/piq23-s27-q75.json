@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s27-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with short swept-back brown hair and dark rectangular glasses sits on a wooden slatted bench at night. He wears a black coat and a loosely looped brown scarf. Looking downward, he holds a black smartphone upright in both hands in front of his abdomen. Light from below illuminates his face and reflects in his glasses. He occupies the right half of a horizontal upper-body composition, while the empty bench extends to the left. Dark bushes, tree branches and the facade of a residential building with rows of windows form the background.",
+  "prompt_sha256": "fc7fa5380fac36a4b9bd50fa98938e501ebb59f1b07ff1197da9f3e9b1a30ffd",
+  "seed": 42,
+  "token_count": 314,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.694173876196146,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 55.54397486378115,
+  "generated_at": "2026-10-07T09:28:46.828975+00:00",
+  "image_path": "sana/generated/piq23-s27-q75.png",
+  "sha256": "4f078baa68083a081ba50480dabcd5c2d231e5408998f698328a649219431f7c",
+  "bytes": 843345
+}

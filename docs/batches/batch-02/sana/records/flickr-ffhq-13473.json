@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-13473",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical chest-up portrait of a bald man with light stubble and a relaxed slightly open smile, facing the camera. He wears a bright red outdoor jacket unzipped to reveal a yellow fleece lining and a black T-shirt with a white-and-red printed design. Soft natural daylight lights his face evenly. Keep the face and jacket clear against a strongly blurred background of green trees and pale sunlit foliage.",
+  "prompt_sha256": "d21717b13a455d71ba9d10925f1cb8a1c8843f7eec2c9916de34687c8ddd7807",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.664430160075426,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 83.37247307027229,
+  "generated_at": "2026-10-07T10:13:12.984460+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-13473.png",
+  "sha256": "230db2508431dc47ec1c2a3db1e58a2ac648689eebbc7b19d65cb8d1b6842a31",
+  "bytes": 948071
+}

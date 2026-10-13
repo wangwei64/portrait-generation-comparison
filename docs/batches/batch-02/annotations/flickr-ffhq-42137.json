@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42137",
+  "prompt": "A horizontal portrait of a smiling woman with short tightly curled dark hair and thick black rectangular glasses. She wears dark red lipstick and a beige knitted cardigan over a dark top. Bright sunlight illuminates her face and teeth, casting distinct shadows along her cheek and neck. Frame her head and shoulders against a large black-and-white mural of people with clothing folds and small red accents, slightly out of focus.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-067-072.jpg",
+  "reviewed_source_sha256": "e0f1d3a8003fed98adfda42b4d512fd408c4ffb11bdbddf073c02d69bc6746b8",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

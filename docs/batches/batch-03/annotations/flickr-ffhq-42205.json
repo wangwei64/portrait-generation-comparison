@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42205",
+  "prompt": "A vertical waist-up studio portrait of a young woman with dark brown hair pulled into a ponytail over one shoulder. She faces the camera with a small smile and keeps her hands behind her back. She wears a bright yellow sports jersey covered with black sponsor lettering, logos and a large number 25 at the chest. Even frontal lighting separates her from a plain white background, with natural facial shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-127-132.jpg",
+  "reviewed_source_sha256": "984e7b23ef7a37685c0060ea7246cb1e9cafb0c0b16985dcd3f0299947bcdd25",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

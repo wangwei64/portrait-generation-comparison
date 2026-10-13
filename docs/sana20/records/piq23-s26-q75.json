@@ -1,0 +1,37 @@
+{
+  "index": 27,
+  "image_id": "piq23-s26-q75",
+  "prompt": "A bearded man with short brown hair stands partway down an outdoor station stairway at night, facing upward toward the camera. He wears a beige hooded jacket, dark trousers and dark shoes, with a black crossbody strap; both hands are tucked into his pockets. His full body appears near the center of a horizontal composition viewed from the top of the stairs. White tiled walls with green border strips slope downward on either side, carrying black handrails. Round lamps glow above the lower entrance, while dark metal railings and parked bicycles border the sidewalk at the top.",
+  "prompt_sha256": "5b449424bfb9fc7559e5c9a8d7608c4de3353b2d42894903d9778b89a1794d5e",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c6/c6c656ee2ce0420b9e1610dd2f20860675a61ac2f47fc60577823662e16d0519.png",
+  "original_sha256": "c6c656ee2ce0420b9e1610dd2f20860675a61ac2f47fc60577823662e16d0519",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/72/72e29e5649c409b2ab126eacfd857e4d7bffa333e5442755938d2e2f887f43a2.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 317,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406644739210606,
+  "png_path": "generated/piq23-s26-q75.png",
+  "preview_path": "previews/piq23-s26-q75.jpg",
+  "png_sha256": "15484c0dc201176ddc6ab66c38885c3de9d6298d1817339f3d7fcd985c9b5721",
+  "preview_sha256": "a7fb15b5b897e9c19725cdfd7a0bf11d97c6ff824c6aa9f35a270874b47eb893",
+  "png_bytes": 1731364,
+  "preview_bytes": 389151,
+  "pixel_std": 65.05450346127054,
+  "created_at": "2026-10-08T08:46:16.428867+00:00"
+}

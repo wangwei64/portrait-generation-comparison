@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s47-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with short light-brown hair styled upward and light facial stubble looks directly toward the camera. He wears a pale gray crew-neck sweatshirt over a darker neckline. The horizontal portrait frames his head, shoulders and upper chest, slightly left of center. Dense narrow green leaves fill the entire background. Sunlight catches the top and left side of his hair and creates small bright patches in the foliage, while his face remains evenly visible with a neutral closed-mouth expression.",
+  "prompt_sha256": "b4516ecf503b255f2173eb5a1b7fe7522bd7891204e3f67f96d3305f8296d6e8",
+  "seed": 42,
+  "token_count": 102,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.388846296817064,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.07752752304077,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 71.99115647703944,
+  "generated_at": "2026-10-07T09:13:46.312033+00:00",
+  "image_path": "zimage/generated/piq23-s47-q75.png",
+  "sha256": "4d836bcd9dc404131e0583eb48cfa23879ed7a7f887b9462d46f0217f8014dbc",
+  "bytes": 1259919
+}

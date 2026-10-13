@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-49005",
+  "prompt": "A vertical front-facing costume portrait of a young person wearing a glossy black chin-length bob wig with straight bangs and a wide pale headband patterned with small dark marks. The subject looks directly at the camera with a serious expression, pale face makeup, dark eye makeup and bright red lipstick. A black velvet-like garment has a white lace collar and small pearl-like buttons. Direct flash casts a shadow on the horizontal brown wooden boards behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-277-282.jpg",
+  "reviewed_source_sha256": "8b48cc361b8469842906667f65d86a3189d65511c3f36e9c69a9f2d5c0841161",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

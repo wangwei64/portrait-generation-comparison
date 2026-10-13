@@ -1,0 +1,37 @@
+{
+  "index": 271,
+  "image_id": "flickr-ffhq-53611",
+  "prompt": "A horizontal stage photograph of an older man with short white hair and rimless glasses, playing a slim silver-colored vertical flute held to his mouth. He wears a dark formal jacket, white shirt and white bow tie. Both hands are visible with fingers positioned along the instrument. Frame his head, chest and hands against a vivid purple-blue illuminated screen. Focused stage light brightens his face and the reflective instrument.",
+  "prompt_sha256": "0b33762e717b76893773ed61a6b02fa6651ec4213e1736c21d46b289947eb28a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c4/c425fcfec76f9a4f111544387438f0429c365ce4940fe4b199e8c68daad5ec09.png",
+  "original_sha256": "c425fcfec76f9a4f111544387438f0429c365ce4940fe4b199e8c68daad5ec09",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e6/e6036a7d8c84211e9d0149cdbb3a86134c9c98f95d86a1ab696668f78df6365c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407913573086262,
+  "png_path": "generated/flickr-ffhq-53611.png",
+  "preview_path": "previews/flickr-ffhq-53611.jpg",
+  "png_sha256": "444311e8cd5a36275c24cd1e7e1ffac3fc5cf7167c7ffb8151f999e914969eeb",
+  "preview_sha256": "4b66dc438e59ab7fc97af0f5ada4f1d7609df64cf01a7d1f6fa9e5129448b4f1",
+  "png_bytes": 1179740,
+  "preview_bytes": 244288,
+  "pixel_std": 98.07154899838989,
+  "created_at": "2026-10-08T08:51:44.174897+00:00"
+}

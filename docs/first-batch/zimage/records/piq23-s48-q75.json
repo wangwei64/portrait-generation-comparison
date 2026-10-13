@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s48-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A person with light-brown hair pulled back stands on a curving brick-paved walkway between modern buildings, one foot slightly ahead of the other. They wear a long dark coat, a bulky dark scarf, dark slim trousers and dark shoes, with their arms down by their sides. Their full body is visible near the center of a vertical frame. The face and clothing are shadowed against a bright sky and pale buildings. Shrubs and a low white wall line the left side, while large windows run down the building on the right beside a curved red paving strip.",
+  "prompt_sha256": "76f34167a961e9b61f9e0a7982c231c946be1c8a218c1f4c9b2c2bc75a257b14",
+  "seed": 42,
+  "token_count": 123,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.209887105971575,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077627658843994,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 96,
+  "pixel_std": 80.70507211632767,
+  "generated_at": "2026-10-07T09:14:15.871735+00:00",
+  "image_path": "zimage/generated/piq23-s48-q75.png",
+  "sha256": "579b21252ab83b3ed1bf73b431e32b16514157d3f0bf3b3ad29eb164205e0d2c",
+  "bytes": 1160277
+}

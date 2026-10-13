@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-69377",
+  "candidate_index": 299,
+  "ffhq_id": 69377,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-69377.jpg",
+  "source_sha256": "6b6952d326a496f9271ecfae221ab3264cb609f1e75fb0b5c05ab01281ddf01b",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1249,
+    1874
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/ssc_liaison/5720899694/",
+    "photo_title": "2000_38A",
+    "author": "Peter Macdonald",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-05-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/ssc_liaison/5720899694/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "476e46c42e9be88832ae12aa8e165600",
+  "current_decoded_pixel_md5": "9843a1d4bc24cce187e3c98e1ceb7638",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.17609135333880765,
+  "fetched_at": 1791365573.5230048,
+  "visual_review": "pending"
+}

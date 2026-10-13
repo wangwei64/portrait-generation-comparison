@@ -1,0 +1,37 @@
+{
+  "index": 22,
+  "image_id": "piq23-s21-q75",
+  "prompt": "A tall young man with curly dark hair stands facing the camera with his feet apart, holding a pale green ball in both hands in front of his abdomen. He wears a black and red sports jacket with pale piping over a gray hood, tan trousers and black shoes. His full body is visible in a horizontal room view. A large round wall clock hangs to his left, a closed white door stands behind him, and his shadow falls on the pale wall to the right. A low wooden shelf with bottles and small plants is partly visible on the left above the parquet floor.",
+  "prompt_sha256": "1a59ea41a14296dd5aeb16cc9e1dcbae1ee5efc3700202f7d2e431b9d007f88c",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1c/1c58c1ffaab95ab0b0110a96291de1d3b484a196e48cdcf9519de43842501d38.png",
+  "original_sha256": "1c58c1ffaab95ab0b0110a96291de1d3b484a196e48cdcf9519de43842501d38",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f2/f2776ed70d4d1f12e24c1843337b9cf9dc19d24365ca64e1e78660479dafb559.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 321,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9460509233176708,
+  "png_path": "generated/piq23-s21-q75.png",
+  "preview_path": "previews/piq23-s21-q75.jpg",
+  "png_sha256": "cf6fcd6aca8268a6e1789862384747d86692bc2d2b0358af2dff53a9b93584c5",
+  "preview_sha256": "111270d0dfa77d876cbd308f45d40ac5af0dba82068bda2b686024972ab1fcf9",
+  "png_bytes": 1550562,
+  "preview_bytes": 269747,
+  "pixel_std": 81.80691912264096,
+  "created_at": "2026-10-08T08:46:09.889393+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 287,
+  "image_id": "flickr-ffhq-55790",
+  "prompt": "A horizontal conference photograph of a man with short upright gray hair and rectangular glasses, speaking into a handheld microphone while looking toward the left. He wears a dark suit, white shirt, pale blue tie and blue lanyard, with a small multicolored circular lapel pin. A ring is visible on the hand holding the microphone. Frame his head and chest against a purple-blue backdrop patterned with repeated white conference logos under even stage lighting.",
+  "prompt_sha256": "235e2b50baa5df11c2dcacfc202b22f825bcdadf1ca91e700da7ded638e64bf8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/67/67020b7e07bc90a1c68864ab39ed42e172c250d759b1637dda2bd388eaab876a.png",
+  "original_sha256": "67020b7e07bc90a1c68864ab39ed42e172c250d759b1637dda2bd388eaab876a",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fe/fe8c51cbafd9f14ccb8ea7e3a485aa795715ac7b1992bc9960fabf521c8e1fbf.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9436509199440479,
+  "png_path": "generated/flickr-ffhq-55790.png",
+  "preview_path": "previews/flickr-ffhq-55790.jpg",
+  "png_sha256": "4b6b5a107777556cc7d19c9cdc94f71e78a42c24c6ec5dd46e0e586af4650db5",
+  "preview_sha256": "570c75e2b73039bb5ac1d537de2b50f5bca71add7b4e470b7b2b1e9b59bb6e40",
+  "png_bytes": 1699029,
+  "preview_bytes": 332808,
+  "pixel_std": 79.56823682014299,
+  "created_at": "2026-10-08T08:52:05.611061+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-36896",
+  "prompt": "A horizontal close portrait of a woman with a short dark brown bob and wispy bangs. She faces the camera with a relaxed closed-mouth expression and slightly narrowed eyes. She wears tiny stud earrings, a fine chain necklace and a red top decorated with small pale spiral and circular details near the shoulders. Frame her head and shoulders against a softly blurred street or walkway with pale walls and dark vertical fixtures in gentle daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-301-306.jpg",
+  "reviewed_source_sha256": "558c5155766ace82a20afb6ebf1acc8f6bfc063eb91c3e3ef00d5029e836ded5",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

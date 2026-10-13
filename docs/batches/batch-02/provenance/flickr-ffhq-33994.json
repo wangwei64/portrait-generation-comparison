@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-33994",
+  "candidate_index": 34,
+  "ffhq_id": 33994,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-33994.jpg",
+  "source_sha256": "aa6862565b10951b0c42467df8ab414c6907b5692f56c8bac629f60a2c4c45b5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3648,
+    2736
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/thejs/3223671037/",
+    "photo_title": "P1111371",
+    "author": "Jason Nelms",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-01-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/thejs/3223671037/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "35d399f9115f7fb0bf77b9aad1df4f09",
+  "current_decoded_pixel_md5": "dd3b12df413d87e22c245e67b5406dca",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.055459372114496766,
+  "fetched_at": 1791365044.814454,
+  "visual_review": "pending"
+}

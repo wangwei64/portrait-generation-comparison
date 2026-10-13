@@ -1,0 +1,37 @@
+{
+  "index": 205,
+  "image_id": "flickr-ffhq-45758",
+  "prompt": "A horizontal photograph of a smiling woman with a straight brown bob tucked behind one ear. She faces the camera with teeth visible, wearing dark dangling earrings, an oval black beaded necklace and a black top patterned with blue and cream leaves. Yellow apron straps pass over her shoulders. Frame her head and upper chest in a warmly lit kitchen, with wooden cabinets and a stainless steel refrigerator softly blurred behind.",
+  "prompt_sha256": "bda8ec46932983be80a85d1bbb804232ee85e6481f2eafbaae07a705f199a5b1",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/65/651d3f95900cf7f455fdeb337bf405db86acb9b9abcdd65976f5950151907d59.png",
+  "original_sha256": "651d3f95900cf7f455fdeb337bf405db86acb9b9abcdd65976f5950151907d59",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/78/782f6990ff82d944f0ee458a5d06ea3855a020272912774308f88dbcaf762e06.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9413697607815266,
+  "png_path": "generated/flickr-ffhq-45758.png",
+  "preview_path": "previews/flickr-ffhq-45758.jpg",
+  "png_sha256": "6c597c0498460ba835f43d222fc37be93906bd37deab07a73090596a4f50dedb",
+  "preview_sha256": "0c2b428e5e6d8aacec09dbaaa9994a1f81f19fc271254354d9a40ef7bbd6e81b",
+  "png_bytes": 1497337,
+  "preview_bytes": 259128,
+  "pixel_std": 67.92689023330382,
+  "created_at": "2026-10-08T08:50:14.846145+00:00"
+}

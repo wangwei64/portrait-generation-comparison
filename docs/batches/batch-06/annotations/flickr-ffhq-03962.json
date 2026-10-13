@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-03962",
+  "prompt": "A horizontal candid photograph of a young woman with brown hair loosely pulled back, wearing a thick black scarf. She looks toward the camera with a slight smile while gloved hands enter from the top and right, moving hair aside and holding a small white rectangular handheld instrument near her ear. Frame her head and shoulders against bright windows and horizontal ceiling beams. Strong backlight leaves her face partly in shadow.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-337-342.jpg",
+  "reviewed_source_sha256": "058ae741ef304a6db9070f473577d6ce434650678021f34b28abab62ece7c150",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

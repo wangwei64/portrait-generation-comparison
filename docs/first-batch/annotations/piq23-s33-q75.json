@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s33-q75",
+  "source_sha256": "a9e2b03b51e77ed80bcc44cdea101f2e3821c7ce9cdd610daa43e741f6ffe1a1",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "standing",
+    "mask",
+    "three_quarter"
+  ],
+  "prompt": "A man with short brown hair and light facial stubble stands on a dirt path in a small urban park. He faces the camera in a dark navy hooded coat and dark trousers, with both hands in his coat pockets. A pale blue disposable mask hangs below his chin. The vertical image frames him from the head to around the knees. A thick tree trunk borders the right foreground, while bare-branched trees, patches of grass, shrubs and black park fencing occupy the background. Apartment buildings are visible beyond the trees.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

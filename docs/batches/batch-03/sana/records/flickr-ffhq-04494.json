@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-04494",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical head-and-shoulders portrait of a woman with straight shoulder-length blonde hair, darker roots and a side part. She looks toward the camera with a slight open-lipped smile. A washed charcoal denim jacket lies over a gray top, with several silver necklaces, including a small heart-shaped pendant, around her neck. Frame the upper chest against a plain white indoor wall in soft diffuse light, retaining gentle facial shadows.",
+  "prompt_sha256": "36903c64ce8a92904362f1acd45976b8822bab8bf9795582574aca59ccbf8244",
+  "seed": 42,
+  "token_count": 296,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.465924993157387,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 8.198065757751465,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 12,
+  "pixel_std": 66.47698998898598,
+  "generated_at": "2026-10-07T10:51:40.419089+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-04494.png",
+  "sha256": "05c5d7002d8d236d14598f38b22f29897efad763fecd148f44d1d1c77c0e5813",
+  "bytes": 1773591
+}

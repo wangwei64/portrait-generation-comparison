@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-26336",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of a smiling young woman in a swimming pool, resting her folded wet arms along the reddish-brown tiled pool edge. Her shoulder-length brown hair is soaked and strands cling to her forehead and cheeks. She looks directly toward the camera with teeth visible. Only her head, shoulders and forearms rise above the water. Sunlight creates bright turquoise and white ripples across the pool behind her.",
+  "prompt_sha256": "c7a3cc7c0b71f05f44127f08b4d71254bb2ae0099418cd54f2b40153620d9273",
+  "seed": 42,
+  "token_count": 287,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7006921581923962,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 76.23652579113171,
+  "generated_at": "2026-10-07T10:52:00.484021+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-26336.png",
+  "sha256": "e78dd37bb5a626134dc939cd699b52e588c84e98e83660014117b13128174022",
+  "bytes": 1028831
+}

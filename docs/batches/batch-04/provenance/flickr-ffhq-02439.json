@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-02439",
+  "candidate_index": 256,
+  "ffhq_id": 2439,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-02439.jpg",
+  "source_sha256": "8042036f614a05bf385852ee1045c5d7ad29ba1b8fde82a415bb4db0972dcf91",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2832,
+    3952
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/wonderlane/19131257623/",
+    "photo_title": "Team Portrait 4",
+    "author": "Wonderlane",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2015-07-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/wonderlane/19131257623/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "53f41bccd55951b1956561092492815e",
+  "current_decoded_pixel_md5": "f5e87468613f487b9e44536a249ddd7f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14730580525629589,
+  "fetched_at": 1791365563.192671,
+  "visual_review": "pending"
+}

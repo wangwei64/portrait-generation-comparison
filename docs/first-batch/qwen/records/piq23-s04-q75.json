@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s04-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A curly dark-haired man sits behind a wooden table, facing the camera in a navy blazer and an open-neck white shirt. His right hand is raised beside his face, palm forward with fingers spread, while his left hand rests flat on the table. His upper body occupies the center-right of the horizontal frame. Tall orange and purple glass bottles stand in the left foreground, a pale blue bottle is cut off at the right edge, and green foliage and a string of small lights cross the table. A black metal shelf, an OPEN sign and part of a dartboard appear against the pale wall behind him.",
+  "prompt_sha256": "80a89ccf2eda43a3b6c18b8f9974a9a6ff9e177d1ad2162d83941107e95e3027",
+  "seed": 42,
+  "token_count": 144,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.84195602312684,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.247159481048584,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 76.16119785408627,
+  "generated_at": "2026-10-07T09:16:53.708675+00:00",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s04-q75.png",
+  "sha256": "81a70ac9dbb4c6186475200346ad134112d8477938acfed44f577d1a9a8b3c32",
+  "bytes": 1229945
+}

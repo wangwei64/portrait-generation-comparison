@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-49005",
+  "candidate_index": 279,
+  "ffhq_id": 49005,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-49005.jpg",
+  "source_sha256": "8b48cc361b8469842906667f65d86a3189d65511c3f36e9c69a9f2d5c0841161",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/tomhaines/2576848005/",
+    "photo_title": "Queen of the Zombies!",
+    "author": "Tom Haines",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-06-14",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/tomhaines/2576848005/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "71d88f06163ad5accac76f400efe1ede",
+  "current_decoded_pixel_md5": "e4f18848aa4ce9d4a90df3373799971e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1535432887819877,
+  "fetched_at": 1791367362.2243094,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 182,
+  "image_id": "flickr-ffhq-30799",
+  "prompt": "A vertical portrait of a smiling young woman with blonde hair swept back into a loose updo. She leans one shoulder against a pale peach stucco column, wearing a sleeveless magenta blouse with a large tied bow at the neckline. Frame her head and upper torso at a slight angle, looking directly at the camera. Soft warm light illuminates her face, with shaded green lawn and trees blurred at the left.",
+  "prompt_sha256": "46e2816b5838266032e5deeabf3a16f7cc82fab006662a3d6727433ea2079b0a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/af/af7d29e45a67718c05c4d479d07d036df5ad0405447c822db75dbcf2176f6d9c.png",
+  "original_sha256": "af7d29e45a67718c05c4d479d07d036df5ad0405447c822db75dbcf2176f6d9c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/05/05f58848cc64cd78143849c4fd5782951e51c309d68b69677334f613c14b4461.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403380490839481,
+  "png_path": "generated/flickr-ffhq-30799.png",
+  "preview_path": "previews/flickr-ffhq-30799.jpg",
+  "png_sha256": "0a2283fcb63b4563bddba191516f24666651cecb10481b7e59207f184042a2df",
+  "preview_sha256": "f8cbf008bf867d80a7237aaa51fbdfc1f9d6976793a54ba841cd91ffae1f7c61",
+  "png_bytes": 1613670,
+  "preview_bytes": 273425,
+  "pixel_std": 75.31960204468425,
+  "created_at": "2026-10-08T08:49:43.736977+00:00"
+}

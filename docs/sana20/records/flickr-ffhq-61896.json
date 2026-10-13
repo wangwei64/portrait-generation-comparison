@@ -1,0 +1,37 @@
+{
+  "index": 267,
+  "image_id": "flickr-ffhq-61896",
+  "prompt": "A horizontal candid photograph of an older man reclining on a sofa with his eyes closed and his head resting against a gold patterned cushion. He has short gray hair and wears a navy T-shirt with large yellow and white collegiate-style lettering and an animal emblem. His hands rest together over his upper chest, showing a ring and fine skin lines. Warm direct indoor light reveals the surrounding brown upholstery and pale cushions.",
+  "prompt_sha256": "990980f4b90c48e4ab021bc178ffa50f63481d95f092a6dfb6e99cee734aec0e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6b/6b577876a532ca29082a164d674ef14d95fc4da3535e90b6349e357ce62697c4.png",
+  "original_sha256": "6b577876a532ca29082a164d674ef14d95fc4da3535e90b6349e357ce62697c4",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b3/b3200bd4de025426d573fd88b2520ee4c7d8a36025cb0a3abf5d9af0c6590370.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403231292963028,
+  "png_path": "generated/flickr-ffhq-61896.png",
+  "preview_path": "previews/flickr-ffhq-61896.jpg",
+  "png_sha256": "7ffe0e2c7c2e90848b8ba10d30354831b2f1ba3d53f2b38b8329ec39ca17b24c",
+  "preview_sha256": "f28df804dccb4802a9f8ac83e36dd55f08fcea9892763da479a8f28fce452f9c",
+  "png_bytes": 1837474,
+  "preview_bytes": 413808,
+  "pixel_std": 62.42248962782966,
+  "created_at": "2026-10-08T08:51:38.817560+00:00"
+}

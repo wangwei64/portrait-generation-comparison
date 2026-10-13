@@ -1,0 +1,37 @@
+{
+  "index": 288,
+  "image_id": "flickr-ffhq-21184",
+  "prompt": "A vertical candid portrait of a man with thinning short brown hair and a small goatee, looking downward with a gentle toothy smile. He wears a pale blue and white checked button-front shirt. The corner of a dark red booklet appears near his chest, partly obscured by another person's light striped shoulder in the lower right foreground. Soft indoor light separates his face from several blurred seated people behind him.",
+  "prompt_sha256": "fec8e6047c0ddc2f45be21aa2c0f40c4c24c1e0bbacb057d34db6c4151e48f04",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/67/67109ffbbbb722cc79b028b158cbe36024fedf9c1243a82094930a3200a9277a.png",
+  "original_sha256": "67109ffbbbb722cc79b028b158cbe36024fedf9c1243a82094930a3200a9277a",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/cb/cbf8cb0d75fb7239d0f48dc636942b851978f4f3b862e2ee9bc0cc6b15a83e5d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403563290834427,
+  "png_path": "generated/flickr-ffhq-21184.png",
+  "preview_path": "previews/flickr-ffhq-21184.jpg",
+  "png_sha256": "aedbc32a470a1087c405c50e50ecff7a8e1afc9f5d8e607b578fcc60c8c70423",
+  "preview_sha256": "d6e7e18990e2ea848eb00af4a03ed8047baf3bf63d2eddc60f4fce0530fe43b5",
+  "png_bytes": 1600033,
+  "preview_bytes": 263061,
+  "pixel_std": 62.88373103195904,
+  "created_at": "2026-10-08T08:52:06.987000+00:00"
+}

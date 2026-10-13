@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-01897",
+  "prompt": "A vertical portrait of a man with very closely cropped hair and a short salt-and-pepper beard, smiling warmly at the camera. His shoulders are turned slightly to one side. He wears a blue chambray button-front shirt with chest pockets and buttoned shoulder tabs. Frame his head and upper torso against an uncluttered off-white background, using soft even illumination to retain natural skin texture and subtle facial shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-301-306.jpg",
+  "reviewed_source_sha256": "e781dc9f803cc7f0872796ae4598190e9bb3631d75eddcda408fbd127f64dc95",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

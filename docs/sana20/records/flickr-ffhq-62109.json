@@ -1,0 +1,37 @@
+{
+  "index": 77,
+  "image_id": "flickr-ffhq-62109",
+  "prompt": "A vertical candid photograph of a child in a teal long-sleeved shirt with tan elbow patches, wearing a very large woven straw sombrero with a colorful pink band and blue brim edge. The child rests one cheek on a hand and looks up at the camera. The other hand holds a white plastic spoon above a tray containing red-sauced food, folded flatbread and a green apple. Other seated children are partly visible behind.",
+  "prompt_sha256": "5430b985a60a8ea2ed8636782453a171ec139742acd3c3dfdae16b07df316269",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0e/0e698afc785c570121f944509c71a0adb143cd4deea80e94920defee3fc79250.png",
+  "original_sha256": "0e698afc785c570121f944509c71a0adb143cd4deea80e94920defee3fc79250",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/72/7263e7989be35dd4e4dd9230ee3eb98a4de2fc1d37970b0e545f79e49c6979dc.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9395279660820961,
+  "png_path": "generated/flickr-ffhq-62109.png",
+  "preview_path": "previews/flickr-ffhq-62109.jpg",
+  "png_sha256": "1698d2388b2c5ee88fc2356001dcbaa80faec513747c8bd7f2442ecc59541c43",
+  "preview_sha256": "e0914c10dab608a18b7eb5a57fcf8fcd1d83ce468ec99b24b24d2abae84b2847",
+  "png_bytes": 1725209,
+  "preview_bytes": 387379,
+  "pixel_std": 68.40834065036321,
+  "created_at": "2026-10-08T08:47:21.943295+00:00"
+}

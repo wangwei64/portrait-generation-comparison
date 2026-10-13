@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-12223",
+  "prompt": "A vertical studio portrait of a smiling woman with voluminous shoulder-length curly blonde hair and bangs. She sits at a slight angle while turning her face toward the camera, wearing a shiny blouse patterned with broad purple, black and white shapes and short gathered sleeves. A thin gold necklace rests at the neckline. Frame her head and torso against a mottled blue-gray backdrop, with soft frontal light and gentle shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-067-072.jpg",
+  "reviewed_source_sha256": "95952b4cd3dcd4013012f33a484319f50a631a441c2423c23750e3e8af294d7f",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

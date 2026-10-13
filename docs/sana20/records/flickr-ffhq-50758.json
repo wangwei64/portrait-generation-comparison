@@ -1,0 +1,37 @@
+{
+  "index": 111,
+  "image_id": "flickr-ffhq-50758",
+  "prompt": "A horizontal playful portrait of a boy with short spiky light brown hair, facing the camera and sticking out his tongue. He raises both open hands beside his ears with the fingers spread. He wears a white button-down shirt with the cuffs open and a dark red patterned tie. Frame his head, shoulders and bent arms from slightly above, against a simple sunlit green lawn, keeping the face and fingers clearly visible.",
+  "prompt_sha256": "c9a962a43e6f16e333280d9c258b9baae2c3bad6e941c85a7319145a621a0c0c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5f/5f7b6578da5e9582b4e6c0670916d8ca2bfb2bd322126732f9406b7242bd445d.png",
+  "original_sha256": "5f7b6578da5e9582b4e6c0670916d8ca2bfb2bd322126732f9406b7242bd445d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9f/9f83fccc387a778bc001c41cfadea175ba04a6a47fba2c7378d91feb6dcfcaab.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940196119248867,
+  "png_path": "generated/flickr-ffhq-50758.png",
+  "preview_path": "previews/flickr-ffhq-50758.jpg",
+  "png_sha256": "dac8b21f0437b2c9ed5b9f4498723b10890bfa1cf727a9f6eb7a274b9b8e0f36",
+  "preview_sha256": "153350fe56b65709c7efc7ab2d579416def3256873d4aad9dc7391446e7c7141",
+  "png_bytes": 1909713,
+  "preview_bytes": 400884,
+  "pixel_std": 75.44844371911284,
+  "created_at": "2026-10-08T08:48:07.831815+00:00"
+}

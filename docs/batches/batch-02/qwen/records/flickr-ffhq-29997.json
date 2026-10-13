@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-29997",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal candid photograph of a man with short dark wavy hair wearing a pale blue open-collar shirt. Leaning sideways from the right side of the frame, he looks to the left with a playful closed-mouth smile. Frame his head and chest in a dim technical or stage interior. Blue-lit metal framework, a dark display and a pale looping cable fill the background and lower foreground, with brighter light on his face.",
+  "prompt_sha256": "c5dc6b5e3264670114874069ef53e66166e0b6c11c4909f831c1cc7cb9e32a12",
+  "seed": 42,
+  "token_count": 107,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.281466092914343,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.597115993499756,
+  "peak_reserved_gib": 41.59375,
+  "nvidia_smi_peak_gib": 42.1044921875,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 58.71711561330951,
+  "generated_at": "2026-10-07T10:07:45.547231+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-29997.png",
+  "sha256": "fc5af906d9f535f5ae84ef3e68f5b76070f10c0b6d7d24f60303c88d2364f804",
+  "bytes": 925049
+}

@@ -1,0 +1,37 @@
+{
+  "index": 125,
+  "image_id": "flickr-ffhq-61858",
+  "prompt": "A vertical sunlit photograph of a toddler with short wavy light brown hair, decorated with a large cream flower clip and a small pink barrette. The child looks to the right with lips parted, wearing a pale yellow patterned sleeveless dress with a multicolored bow and a tan waist sash. One arm reaches beyond the edge. Patio chairs, paving and plants sit behind, with part of an adult cropped at the far left.",
+  "prompt_sha256": "8112842a5f6d6e6e6f26dc0b31f9be9b65d2fbec35983f081da287812f53e8a4",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a5/a548ab97beaed2484df0c9a80b7ebe3e646c5aa0d19ebe115e69af68e373defb.png",
+  "original_sha256": "a548ab97beaed2484df0c9a80b7ebe3e646c5aa0d19ebe115e69af68e373defb",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/60/60baa0e10bcbbcfb2b6ee8d3371553452c3e31ea1752856aa919bfed1cb9b9b8.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404032155871391,
+  "png_path": "generated/flickr-ffhq-61858.png",
+  "preview_path": "previews/flickr-ffhq-61858.jpg",
+  "png_sha256": "acc021331a6c1e9ea8061bf2fbd93bff49d92b61c8cb37eda76b15fe846ba72e",
+  "preview_sha256": "8c0cf61e6856a766000c0ae0c980fb2536789fda1af2ceab228d680302be0336",
+  "png_bytes": 1870729,
+  "preview_bytes": 391601,
+  "pixel_std": 68.2128065503835,
+  "created_at": "2026-10-08T08:48:26.732608+00:00"
+}

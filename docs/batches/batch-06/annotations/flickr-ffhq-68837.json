@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-68837",
+  "prompt": "A vertical close photograph of a small child wearing an oversized blue-and-white striped engineer-style cap with a short bill. The child looks directly into the camera with wide eyes and slightly parted lips. A blue T-shirt with large yellow lettering is crossed by bright red apron straps. Frame the head and chest in a warm home interior with wooden dining chairs, a fireplace and a pale child seat blurred behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-325-330.jpg",
+  "reviewed_source_sha256": "6b7b66550775233afb941600c34a7a86255d2c26a26485d76e5ea752082af183",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

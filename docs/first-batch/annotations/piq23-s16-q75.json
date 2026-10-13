@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s16-q75",
+  "source_sha256": "5355fc46d6c2d28d19ed54d17e13459e85ffe59dc41b2a8368507cb195da542b",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "beard",
+    "table",
+    "lowlight"
+  ],
+  "prompt": "A short-haired bearded man in a light gray hoodie sits facing the camera at the far end of a dining table. His forearms rest on the tabletop with his hands near each other behind a round plate. The vertical view includes a large amount of foreground table. A tall translucent red bottle stands on the left and a gold-colored stemmed cup on the right. Two small lit tealights sit on a dark geometric placemat between them, with cutlery and additional place settings farther back. A black shelving unit with two round potted plants and white glazed double doors stand against a pale wall behind the man.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-66242",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal seated portrait of an older man with short silver-white hair brushed back, looking directly into the camera with a composed closed-mouth expression. He wears a navy polo shirt with a small red embroidered emblem, and reading glasses hang from the open neckline. Frame his head and shoulders against a plain pale gray indoor wall with a dark vertical door edge at the right. Use soft balanced light.",
+  "prompt_sha256": "53c42f19390f5c8603365525998e59db6d37665945f529205e123cb82c29e275",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6931780092418194,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 73.50887136170321,
+  "generated_at": "2026-10-07T10:52:09.829478+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-66242.png",
+  "sha256": "2bdc033c2497200971ed00b6fa0caef3728cdaac8e0967bd67b954a341de03e6",
+  "bytes": 856478
+}

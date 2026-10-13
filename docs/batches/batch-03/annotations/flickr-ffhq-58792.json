@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-58792",
+  "prompt": "A vertical high-angle selfie of a smiling woman with short tousled brown hair and thin rimless glasses, her eyes nearly closed in the bright light. She wears a black sleeveless top, a necklace and a brown shoulder strap. Her face occupies the lower foreground. Red railings, brick parapets, sloping tile roofs and an old stone building with tall windows extend below and behind her. Use natural daylight and a casual handheld composition.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-085-090.jpg",
+  "reviewed_source_sha256": "7888185197c529be9eaa65bbbe88948ee5705db1dd5ea7d67619f0c458ee19b2",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

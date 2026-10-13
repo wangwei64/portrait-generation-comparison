@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-17635",
+  "prompt": "A horizontal photograph of a man with side-parted brown hair, rectangular glasses and a short gray goatee, speaking on a stage. He wears a black suit, striped shirt, dotted dark tie and purple lanyard. One hand is raised beside his head with loosely curled fingers, and he looks upward with his mouth open. Behind him is a large blurred blue-gray event banner with red and white lettering. Use directional indoor stage lighting.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-145-150.jpg",
+  "reviewed_source_sha256": "185f56abb4139e97cd30b7caf252387bab06281392f390fc1dbc9598cd0382d1",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

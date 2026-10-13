@@ -1,0 +1,37 @@
+{
+  "index": 184,
+  "image_id": "flickr-ffhq-35567",
+  "prompt": "A vertical head-and-shoulders portrait of a smiling woman with thick black curly hair gathered loosely on top while curls spread around both sides of her face. She has a small nose stud and small earrings, and wears a pale gray crew-neck shirt. Her eyes look directly at the camera and her teeth are visible. Bright diffuse studio lighting reveals natural skin texture against a clean white background.",
+  "prompt_sha256": "9d8ceae0a5484b704a6131322135808fd24c0cc471bbec642e5b6857fb1a73eb",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "closeup",
+  "original_dimensions": [
+    832,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a3/a322897f8e670ba2e3f8dd581fafa61c4b40f39ca10137acbff7ace36724f9e0.png",
+  "original_sha256": "a322897f8e670ba2e3f8dd581fafa61c4b40f39ca10137acbff7ace36724f9e0",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/34/34926cc6920c9fa4ea47cbd4013082bd3fb52e870d5fd2436c930efae54436b5.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399149119853973,
+  "png_path": "generated/flickr-ffhq-35567.png",
+  "preview_path": "previews/flickr-ffhq-35567.jpg",
+  "png_sha256": "08e66a2cef404be14425ae0720e3ca97a7408858278918779679c92182828297",
+  "preview_sha256": "4e741f962e63049c7afb82a26c431cf745bde9edbe71112acb3ff67360e5b245",
+  "png_bytes": 1152190,
+  "preview_bytes": 245337,
+  "pixel_std": 91.68651471061327,
+  "created_at": "2026-10-08T08:49:46.301934+00:00"
+}

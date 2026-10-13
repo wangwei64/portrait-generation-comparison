@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-47612",
+  "candidate_index": 348,
+  "ffhq_id": 47612,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-47612.jpg",
+  "source_sha256": "89cfb3eaf766659d750b2eb0925ba157ddf864082f0bbe6f9f2368bae29517e9",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4000,
+    3000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/cluttercup/18707503533/",
+    "photo_title": "Me two",
+    "author": "Jane Dickson",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2015-07-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/cluttercup/18707503533/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "fc0398dcf1b011a6148ce32d0df1be86",
+  "current_decoded_pixel_md5": "490ab9d69f7e344b7fd7bb0901e664ae",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.137388,
+  "fetched_at": 1791365587.637466,
+  "visual_review": "pending"
+}

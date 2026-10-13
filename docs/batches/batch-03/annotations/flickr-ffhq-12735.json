@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-12735",
+  "prompt": "A vertical chest-up portrait of a boy with very short black hair, facing the camera with a serious expression and slightly narrowed eyes. He wears a zipped navy athletic jacket with bright yellow inserts, small embroidered lettering and a red-and-gold crest on the chest. Strong sunlight brightly illuminates the center of his face. A plain muted coral-red wall fills the background, with a tightly centered composition.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-169-174.jpg",
+  "reviewed_source_sha256": "82be67e322c85ffd8fa5ba2f742e5f7a414012c468c91d545c55bd8c4c52dbd7",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

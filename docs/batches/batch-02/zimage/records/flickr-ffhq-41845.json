@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-41845",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph of a man with short tousled gray-brown hair and light stubble, smiling gently toward the camera. His torso is turned slightly sideways. He wears a bright green button-front collared shirt with white buttons and shoulder tabs. Frame his head and upper torso against an almost white outdoor background, with a small patch of foliage at the lower left. Soft daylight reveals natural facial lines.",
+  "prompt_sha256": "8bf2b780787b36c1f4170f66c1d581603d2c901d661db50652fe1d73e202782c",
+  "seed": 42,
+  "token_count": 88,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.8595135435462,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854163646697998,
+  "peak_reserved_gib": 23.44140625,
+  "nvidia_smi_peak_gib": 23.9501953125,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 74.13699231365298,
+  "generated_at": "2026-10-07T09:36:32.053317+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-41845.png",
+  "sha256": "23e80fa92b0dc5210f15797b32aaf95891e347622aae8d3e940459a8d70e0158",
+  "bytes": 834051
+}

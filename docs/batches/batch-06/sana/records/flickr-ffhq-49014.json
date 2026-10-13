@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-49014",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal flash portrait of a young woman with short side-swept brown hair tied into two low short pigtails. She looks calmly at the camera with closed lips and a small lip piercing. She wears dangling round earrings, a large silver pendant on a cord and a blue short-sleeved top with a pale abstract graphic. Frame her head and upper torso against warm vertical wood paneling beneath a white wall and cropped framed decorations.",
+  "prompt_sha256": "26343a9360fbce59f7d18896807f90d8bebe4dea1bab2999c68e3a609607292c",
+  "seed": 42,
+  "token_count": 293,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.679627738893032,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 62.153812031539985,
+  "generated_at": "2026-10-07T12:49:45.213638+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-49014.png",
+  "sha256": "28f10419d2ebd96e5b5471229a8d3bdc1d843bbb4156ddb57938f67766c4bd80",
+  "bytes": 1081779
+}

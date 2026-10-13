@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-30799",
+  "prompt": "A vertical portrait of a smiling young woman with blonde hair swept back into a loose updo. She leans one shoulder against a pale peach stucco column, wearing a sleeveless magenta blouse with a large tied bow at the neckline. Frame her head and upper torso at a slight angle, looking directly at the camera. Soft warm light illuminates her face, with shaded green lawn and trees blurred at the left.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-217-222.jpg",
+  "reviewed_source_sha256": "cdaa4a9c4506fe8ee12b83f2dfa20feca8fb18f88abbb8545476b9c0133511cd",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

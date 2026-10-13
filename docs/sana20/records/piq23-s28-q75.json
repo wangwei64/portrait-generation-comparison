@@ -1,0 +1,37 @@
+{
+  "index": 29,
+  "image_id": "piq23-s28-q75",
+  "prompt": "A smiling dark-skinned woman with dark hair tied up stands on a garden path at night. She wears a black padded coat over a tan ribbed turtleneck, black trousers and a small black crossbody bag in front of her hip. Her hands are held behind her back. The vertical view frames her from the head to the upper legs. Dense green and yellow foliage fills the background beneath a dark sky. A bright streetlamp stands above her on the left, and part of a green bench is visible at the right edge.",
+  "prompt_sha256": "727df8cd78ce1955b75b581752869464ce71051dfbc69929ca68d7eb7529d5fd",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4d/4de39e04345e22a97169c6bec1f6b681aecc8a45381c31e1a92aeb82b9089c34.png",
+  "original_sha256": "4de39e04345e22a97169c6bec1f6b681aecc8a45381c31e1a92aeb82b9089c34",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/16/1626dccd24e0ff83c3eebad2fdf44acf5a3e6507f5d478dd10bfd5b76bd936cd.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 310,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404881559312344,
+  "png_path": "generated/piq23-s28-q75.png",
+  "preview_path": "previews/piq23-s28-q75.jpg",
+  "png_sha256": "a57f44bc8e929699cc8d5c93b74dd7bdff70b022b958a9ffcdfc7c53bd68cc88",
+  "preview_sha256": "9292463d9c9848d3ce49b37cb74def4a12c29569d15dd6ff97ad7a17cafd9282",
+  "png_bytes": 1588632,
+  "preview_bytes": 336285,
+  "pixel_std": 45.66145576790369,
+  "created_at": "2026-10-08T08:46:19.052370+00:00"
+}

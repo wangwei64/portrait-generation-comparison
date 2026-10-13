@@ -1,0 +1,37 @@
+{
+  "index": 86,
+  "image_id": "flickr-ffhq-02331",
+  "prompt": "A horizontal sunlit portrait of a woman with short layered reddish-blonde hair and dark oval sunglasses. She wears a crisp white open-collar shirt and a delicate necklace, facing the camera with a gentle closed-mouth smile. Frame her head and upper torso beside a white-framed glass door. Strong golden sunlight illuminates one side of her hair and face, while a dark interior and outdoor reflections appear in the glass behind.",
+  "prompt_sha256": "d9c72a1b140ec16d46235d6e5ae422e389bc3e773f81c01ac539cd126a95fdf5",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/75/7523c8a81a95f81c4c09d3f45a1026874d548ffd9805b54ecdcc11aa3b0f2393.png",
+  "original_sha256": "7523c8a81a95f81c4c09d3f45a1026874d548ffd9805b54ecdcc11aa3b0f2393",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/29/29a570f9ac0786fba21fe59e40988a211144c515173f4ce3f2c8922c91573b49.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399403110146523,
+  "png_path": "generated/flickr-ffhq-02331.png",
+  "preview_path": "previews/flickr-ffhq-02331.jpg",
+  "png_sha256": "2b301b6b8062991d19476a2a6c80d2a867cc3c85932785b895b8937eb0c9bb34",
+  "preview_sha256": "d949e3e210b43f993531cc50722c5d16934d9ef927c323e57c8022bcdecb695a",
+  "png_bytes": 1627120,
+  "preview_bytes": 294823,
+  "pixel_std": 81.71420481886128,
+  "created_at": "2026-10-08T08:47:33.993258+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 137,
+  "image_id": "flickr-ffhq-17635",
+  "prompt": "A horizontal photograph of a man with side-parted brown hair, rectangular glasses and a short gray goatee, speaking on a stage. He wears a black suit, striped shirt, dotted dark tie and purple lanyard. One hand is raised beside his head with loosely curled fingers, and he looks upward with his mouth open. Behind him is a large blurred blue-gray event banner with red and white lettering. Use directional indoor stage lighting.",
+  "prompt_sha256": "b7277f7ce9080f1500db2e24e13de268c378edd3e3eb8ef213b27cb6ba935f02",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b1/b1f2d6c8fcc53d2cc68867ab2700289525656f26433833e220b249a118f0a91e.png",
+  "original_sha256": "b1f2d6c8fcc53d2cc68867ab2700289525656f26433833e220b249a118f0a91e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/75/75a87f9e04ac58d05afdc34b0214b96e27c0423b0167aaf24610a60d815df228.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400635734200478,
+  "png_path": "generated/flickr-ffhq-17635.png",
+  "preview_path": "previews/flickr-ffhq-17635.jpg",
+  "png_sha256": "4e95eb9a615ad33818bd69d022b3ab5ece76b4033bfd5c8a40c420b1438e0104",
+  "preview_sha256": "44cf52700b17001056727dedc6da8e3797489048c991108b1460f78ced024a94",
+  "png_bytes": 1488638,
+  "preview_bytes": 278495,
+  "pixel_std": 73.53035007597941,
+  "created_at": "2026-10-08T08:48:42.690623+00:00"
+}

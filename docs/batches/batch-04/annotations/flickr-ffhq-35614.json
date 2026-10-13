@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-35614",
+  "prompt": "A vertical photograph of a man with short curly brown hair and rectangular metal glasses, speaking into a handheld microphone with a blue band. He wears a dark suit, pale blue shirt, patterned navy tie and a red conference lanyard with a badge. One hand holds the microphone while the other is raised in a small gesture. He looks slightly right, mouth open, against a softly lit cream wall and dark doorway.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-247-252.jpg",
+  "reviewed_source_sha256": "fb36fb9f7a9fe47871eb2414d80ecd6c0460ca45232dbd368772907229a74a40",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

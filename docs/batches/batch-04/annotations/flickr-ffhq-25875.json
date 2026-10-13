@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-25875",
+  "prompt": "A horizontal close portrait of a woman with pale blonde hair pulled into a high ponytail, looking toward the camera with a faint closed-mouth smile. She wears red lipstick, dark eye makeup and a blue gathered neckline. White powder and small pale marks are visible on her forehead, cheeks, neck and shoulders. Soft directional light catches the hair and face against a nearly black background, leaving gentle shadows around the eyes.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-277-282.jpg",
+  "reviewed_source_sha256": "32d0fcde13735e1291e55b82e47a38278516ebf5170da655b89a6c363a1a5975",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

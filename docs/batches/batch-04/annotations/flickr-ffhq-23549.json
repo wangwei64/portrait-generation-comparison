@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-23549",
+  "prompt": "A vertical outdoor portrait of a woman with long wavy dark brown hair, smiling broadly with teeth visible and looking at the camera over a slightly turned shoulder. She wears a light floral top beneath a brown floral lace cardigan and a fine necklace. Warm low sunlight rims her hair and lights the tall golden grasses around her. Frame her head and upper torso against softly blurred trees and meadow, with a bright patch of sky near the top.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-199-204.jpg",
+  "reviewed_source_sha256": "41113a8899f637f8e6b8833447ceb122957a2f71fa5849d2e6f0ea0ce72ec264",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

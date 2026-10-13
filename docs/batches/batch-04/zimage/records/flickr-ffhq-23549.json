@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-23549",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical outdoor portrait of a woman with long wavy dark brown hair, smiling broadly with teeth visible and looking at the camera over a slightly turned shoulder. She wears a light floral top beneath a brown floral lace cardigan and a fine necklace. Warm low sunlight rims her hair and lights the tall golden grasses around her. Frame her head and upper torso against softly blurred trees and meadow, with a bright patch of sky near the top.",
+  "prompt_sha256": "37360ca4b6231be7786a0aca906b2287ec8b237c3b16facac0a1d6de17cf50e1",
+  "seed": 42,
+  "token_count": 97,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.368437718600035,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854206562042236,
+  "peak_reserved_gib": 26.26953125,
+  "nvidia_smi_peak_gib": 26.7783203125,
+  "nvidia_smi_sample_count": 89,
+  "pixel_std": 78.08566176930708,
+  "generated_at": "2026-10-07T11:02:04.622609+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-23549.png",
+  "sha256": "095a1d71aae61e7123baca071e4774fdc216f4ef9f549c2da24d08dbedb8a8f2",
+  "bytes": 990363
+}

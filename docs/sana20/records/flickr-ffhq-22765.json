@@ -1,0 +1,37 @@
+{
+  "index": 172,
+  "image_id": "flickr-ffhq-22765",
+  "prompt": "A vertical studio portrait of a young man with very short upright black hair and narrow rectangular glasses, facing the camera with a slight closed-mouth smile. His shoulders turn gently to one side. He wears a white subtly striped collared dress shirt and a plain dark gray tie. Frame his head and upper torso against an evenly colored gray backdrop, using soft light that preserves skin texture and creates mild shading along one side of his face.",
+  "prompt_sha256": "982b04a658d663b155ecee30c28f9a4c93312e87e3349ff4eaedb44a423a24dd",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/45/4557abdf0d7db6e42bc8534735a6cfb336dbb8bcb82ce39d9239819e46b2113f.png",
+  "original_sha256": "4557abdf0d7db6e42bc8534735a6cfb336dbb8bcb82ce39d9239819e46b2113f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f1/f184ff7c169dc946956b05f71396fa9704ad9c02417fddcf6a588198c4c894f0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400345087051392,
+  "png_path": "generated/flickr-ffhq-22765.png",
+  "preview_path": "previews/flickr-ffhq-22765.jpg",
+  "png_sha256": "c4a5e2a04ff6ade3bb9449b64ccafe0e8367adf31f7a6eb0a74fcb9db035c6da",
+  "preview_sha256": "9da9246f8b0afa67cee7e060df1c2772da84137e20400b1355afc4c7fa0375b4",
+  "png_bytes": 1502098,
+  "preview_bytes": 221013,
+  "pixel_std": 60.030931332087924,
+  "created_at": "2026-10-08T08:49:30.087199+00:00"
+}

@@ -1,0 +1,111 @@
+{
+  "input_manifest_sha256": "b57f1fbe0f91b1e0e363069bf7f3454418b030ac16e55a1b9f34fe7c1bfa0686",
+  "modules": {
+    "musiq": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "c10c0bb3078041bc0039d5c413309fad7252eecd17d306908911b863fa86e8d2"
+    },
+    "niqe": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "9e8ec10b0761dfc89aa24d2fceae0086b7f33b456865d2817abe6efbed9399b5"
+    },
+    "brisque": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "f25bdff93fc2148426c47caf0dbc01705ccbc9524c7c88cbdfa190b75e68ad1c"
+    },
+    "community_forensics": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "f13735701738e752ca99062da517221a1f52fa297dc3b98793d0a8cffdf7d8fb"
+    },
+    "longclip": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "4ee7446aafbb0dc39eb7c22526858a1489bd6392a4e8bd266c7bb48e3c82cdbf"
+    },
+    "dinov2": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "8542f08125845c5aed4c252df9c911fead6e367b0c1814809a9ed74936c1f84e"
+    },
+    "maniqa": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "8f9d495fa093ccdc5a2dcef13514e5e16fd6dd62abc9227d60e4d266276e31b4"
+    },
+    "hpsv21": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "d8ac0dca3485b479b60bd42932a6605c72e11ecbc57401c19a9c5fe262c85ced"
+    },
+    "omniaid_robust": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "a4a00a20b3f01ec158a6f1dd2e1be9c5cc6fdd251ecbdd95674e7a73892b5272"
+    },
+    "pickscore": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "00a2e1ef276cbd079f43498b55a5f9686771ddf2fe68651a7354ba2d22b9ec84"
+    },
+    "clipiqa": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "3149fc557013815677759e1c169e3a90882154776eb01ff3096be8b54e09218b"
+    },
+    "forensic_chat": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "fd1e9edab6b553cfd31e8ecb28db0f8f7f62a0db5fd87e15bbf2eff3ef476d7b"
+    },
+    "hpsv3": {
+      "records": 1200,
+      "input_hashes_match": true,
+      "runner_hash_match": true,
+      "record_manifest_match": true,
+      "feature_hashes_match": true,
+      "manifest_sha256": "af72781dc09696bd3d018cb35c878b142acb1e5064cd934e2aa084cd81c9086e"
+    }
+  },
+  "all_planned_complete": true,
+  "updated_at": "2026-10-08T04:19:01.193485+00:00"
+}

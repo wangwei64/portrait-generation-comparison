@@ -1,0 +1,37 @@
+{
+  "index": 59,
+  "image_id": "flickr-ffhq-57046",
+  "prompt": "A horizontal indoor snapshot of a smiling man with short dark hair and a neatly trimmed goatee. He wears a light gray sweatshirt and raises one arm over his head, holding a stemmed glass of dark red liquid directly above his hair. Frame his upper body with the hand partly cut by the top edge. Frontal flash brightens the face against a dim warm room with pictures, plants and ceiling lights.",
+  "prompt_sha256": "0e16b3d260d88e1177368c218caf916b1094563d709b4f95a7ed2af8cf1caab8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/55/55e6a32ebd5e2a73781ed603c7706a95d7c421080ff21e629a6922133f188656.png",
+  "original_sha256": "55e6a32ebd5e2a73781ed603c7706a95d7c421080ff21e629a6922133f188656",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2e/2e58983a28a33863496f63c76b72c782aa6fe7181208d12dd3680fb72a328f50.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402470849454403,
+  "png_path": "generated/flickr-ffhq-57046.png",
+  "preview_path": "previews/flickr-ffhq-57046.jpg",
+  "png_sha256": "53eb62bcf5c28c64df7c42d627c76af094ee2f865c0f96c040ac4735ebb37c86",
+  "preview_sha256": "7e8cd300b3ddf443e79da5c191f50dee0d4e706f12a0705932a2c3431aa6f7b1",
+  "png_bytes": 1714770,
+  "preview_bytes": 321485,
+  "pixel_std": 57.37527403369504,
+  "created_at": "2026-10-08T08:46:57.947981+00:00"
+}

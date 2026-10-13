@@ -1,0 +1,37 @@
+{
+  "index": 31,
+  "image_id": "piq23-s30-q75",
+  "prompt": "A woman with straight chin-length brown hair stands in left-facing profile against a red brick wall. She wears a black quilted hooded coat and pale trousers, with both hands tucked into the coat pockets. A dark camera hangs from a strap against the front of her coat near her waist. The vertical composition frames her from the head to the upper thighs and places her toward the right, leaving open brickwork on the left. Pale mortar lines and faint chalk marks cross the wall, with her shadow falling to the left.",
+  "prompt_sha256": "2253722c158f0a26615fa99d5dda1d383a820935631e911ecf7f080351a2495a",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ee/eeaaa3572a11fd77d38d53ea3ccab24821bd271c509a5a6c7396945199a874fa.png",
+  "original_sha256": "eeaaa3572a11fd77d38d53ea3ccab24821bd271c509a5a6c7396945199a874fa",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4f/4f9ad159f184c776898a4a225d2484862bd2ec82fb84962c0685a4f72e8a23bb.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 311,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940473161637783,
+  "png_path": "generated/piq23-s30-q75.png",
+  "preview_path": "previews/piq23-s30-q75.jpg",
+  "png_sha256": "11dbe9802f6239a453a9d26b1fef596538ddf5e6be9a4429777c6699175ecd4f",
+  "preview_sha256": "66c2e1d3eda1487a4137ada6d8641c8afd3a017f620547815af606ce8e2edd11",
+  "png_bytes": 1990394,
+  "preview_bytes": 510339,
+  "pixel_std": 72.60282854316522,
+  "created_at": "2026-10-08T08:46:21.485580+00:00"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-07861",
+  "candidate_index": 235,
+  "ffhq_id": 7861,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-07861.jpg",
+  "source_sha256": "bb2ab6fd743d20fd83a9135af94ad202a763ceb38312f4b70e0bb74e2e63c53c",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/chriseden/4469823458/",
+    "photo_title": "Knarlhofen 2010 187",
+    "author": "Christopher Eden",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-03-28",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/chriseden/4469823458/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "01af7e73f3080efb5d6a9e8f6ff11cdc",
+  "current_decoded_pixel_md5": "b4bbcf3c3613504ca51fbec59c68c29b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.16359453589391862,
+  "fetched_at": 1791367247.14761,
+  "visual_review": "pending"
+}

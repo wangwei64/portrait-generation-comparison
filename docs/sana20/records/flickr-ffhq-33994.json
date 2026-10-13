@@ -1,0 +1,37 @@
+{
+  "index": 71,
+  "image_id": "flickr-ffhq-33994",
+  "prompt": "A horizontal home snapshot of a laughing toddler seated in a padded high chair with a small circular pattern. The child has short light brown hair, wears a red-and-white patterned top and holds a small spoon upright. White food smears the mouth, chin, hands and pale tray. The other hand rests on the tray. Direct flash illuminates the face against a darker kitchen counter, cabinets and a glass-fronted background.",
+  "prompt_sha256": "ff1bdf280311e661df9ea6075ea4181eb11d36b6d88e8d3d66a4deb038b5bdd9",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e1/e1c0849dbc4bc70f26a6d6438d5eebff433573fafa384a7ac9989f359137d12d.png",
+  "original_sha256": "e1c0849dbc4bc70f26a6d6438d5eebff433573fafa384a7ac9989f359137d12d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5d/5d10497e85fccdd461bb5b32af453e307fcfe23992b3a8fd52f3732472ff64c9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9396479651331902,
+  "png_path": "generated/flickr-ffhq-33994.png",
+  "preview_path": "previews/flickr-ffhq-33994.jpg",
+  "png_sha256": "b9029d607d11a788a545a6d80968e6916a14e5e10cdd388be0e1c63cdf138df3",
+  "preview_sha256": "f646bc36dbb1aabb49caa96d1c3846750b0f59506fb9d841581d8d899ad45981",
+  "png_bytes": 1492892,
+  "preview_bytes": 283723,
+  "pixel_std": 82.06442486984835,
+  "created_at": "2026-10-08T08:47:13.986101+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 96,
+  "image_id": "flickr-ffhq-16619",
+  "prompt": "A vertical photograph of a young girl with pulled-back dark hair, looking directly at the camera with her lips slightly parted. A yellow headband crosses her forehead with a large pink-and-blue sequined decoration at one side. She wears a white high-neck long-sleeved shirt beneath a shiny blue costume with yellow trim. Frame her head and upper torso against a bright blue backdrop decorated with red-and-white festive figures, using soft frontal light.",
+  "prompt_sha256": "3f63d915b6e8a4c3439c2cbacb3c4d7c2276acf5cc70530e5df86daa5b1b62fc",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2e/2e8d99c0f4f47101a0c5c9906e42be56f440d7bda3b9b7b15e0bddd9499bff7b.png",
+  "original_sha256": "2e8d99c0f4f47101a0c5c9906e42be56f440d7bda3b9b7b15e0bddd9499bff7b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b7/b7b98cace3baa2cfe58869743abd35a4a6af87ac0820eba20a9cd2d5d60b891c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 300,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398123547434807,
+  "png_path": "generated/flickr-ffhq-16619.png",
+  "preview_path": "previews/flickr-ffhq-16619.jpg",
+  "png_sha256": "2d03bbd40df3dc16f224ec0bac439c29e13c74446adaee0747506636a94c3bd3",
+  "preview_sha256": "fe153cdbeb01d8b20c2252c9e4c207be5152ce25a67b94748ce1a378e6b1c0ad",
+  "png_bytes": 1713642,
+  "preview_bytes": 344487,
+  "pixel_std": 83.34424678592988,
+  "created_at": "2026-10-08T08:47:47.501991+00:00"
+}

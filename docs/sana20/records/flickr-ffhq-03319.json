@@ -1,0 +1,37 @@
+{
+  "index": 88,
+  "image_id": "flickr-ffhq-03319",
+  "prompt": "A horizontal portrait of a broad-shouldered man with very short light brown hair and a neatly shaped goatee. He wears a charcoal jacket over a black textured shirt and looks off to the right with his lips slightly parted. Frame his head and upper chest. Soft daylight illuminates his face in a bright interior, with large windows, pale structural columns and out-of-focus bare trees behind.",
+  "prompt_sha256": "2c8bf4ad6ad6636f5394e45bb35fa7e91ea8d0d71b8625b1052e513ade5e9c5d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/db/db37f156a96fb42b813725971e63354a2d87966530403700b8c4fa4b673cc574.png",
+  "original_sha256": "db37f156a96fb42b813725971e63354a2d87966530403700b8c4fa4b673cc574",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fb/fbabda413827ccd1e3c7365d3510ebf83d45735dcba666c84c1341c9253fed6f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.94155602902174,
+  "png_path": "generated/flickr-ffhq-03319.png",
+  "preview_path": "previews/flickr-ffhq-03319.jpg",
+  "png_sha256": "762b30e86da746832800848967a2278c598a78b35d07ca8951c66bb64a8c5614",
+  "preview_sha256": "edc4715b94107ca93d22a7ab7e713df132f891a4d1cd993db9401f2f25fdb9cc",
+  "png_bytes": 1583501,
+  "preview_bytes": 233648,
+  "pixel_std": 81.93498974374653,
+  "created_at": "2026-10-08T08:47:36.730200+00:00"
+}

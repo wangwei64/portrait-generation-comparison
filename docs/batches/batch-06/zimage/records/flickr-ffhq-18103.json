@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-18103",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    832,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid portrait of a woman with shoulder-length straight black hair, seated sideways and looking back toward the camera with a small smile. She rests her chin on one hand, with a thin black band around the wrist, and wears a blue sleeveless top. Frame her head, bare shoulder and bent forearm. A paved residential courtyard, young tree, apartment buildings and a few distant people appear behind in soft daylight.",
+  "prompt_sha256": "55fbb421c08c64b952ddd9a27412dbf9e1d1214f22f2509482e76859759a7e74",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 32.502170480787754,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.225485801696777,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 107,
+  "pixel_std": 69.8948668406178,
+  "generated_at": "2026-10-07T12:18:51.557475+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-18103.png",
+  "sha256": "7b881686258733b8a45e8f62cc461b07d481368efedcb4393956a6fd1fda34db",
+  "bytes": 1221410
+}

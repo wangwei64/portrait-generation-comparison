@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-45758",
+  "candidate_index": 228,
+  "ffhq_id": 45758,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-45758.jpg",
+  "source_sha256": "d82b8a921bd81a8ffe6f4840d1d359776d725820476386a28213baf62e18faf3",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/24763767@N03/4477473435/",
+    "photo_title": "Passover 2010",
+    "author": "Ben Freedman",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-03-31",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/24763767@N03/4477473435/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "33874b9e2fff9d2eaa8835ad1a1174e6",
+  "current_decoded_pixel_md5": "2ef06332f5238b627bcee290efd8d5e7",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791367225.7004058,
+  "visual_review": "pending"
+}

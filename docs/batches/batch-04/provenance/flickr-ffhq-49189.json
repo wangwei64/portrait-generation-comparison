@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-49189",
+  "candidate_index": 304,
+  "ffhq_id": 49189,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-49189.jpg",
+  "source_sha256": "54f60ae0f4e0c57578ecff8c9b6de33b70254a0de64e56461d48e1004207f7d5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2000,
+    3000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/scubabix/29894178456/",
+    "photo_title": "Lakien_Baby_Shower_8-28-16-3058",
+    "author": "Rob Bixby",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-09-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/scubabix/29894178456/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "3a4e4fc718e5a96be8fe6235a09be51b",
+  "current_decoded_pixel_md5": "1a5c10f5b080bf964e09c85b8d089e95",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13261066666666665,
+  "fetched_at": 1791365575.714372,
+  "visual_review": "pending"
+}

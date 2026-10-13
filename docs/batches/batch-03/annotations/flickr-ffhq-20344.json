@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20344",
+  "prompt": "A vertical photograph of a young girl with dark hair tied into two low bunches, leaning forward and smiling at the camera. She wears small pink earrings and a muted brown short-sleeved top with gathered shoulders and a rounded neckline. Frame her head, torso and forearms against a dark wooden headboard and a bright blue-and-yellow blanket. Soft light from the right leaves one side of her face in gentle shadow.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-121-126.jpg",
+  "reviewed_source_sha256": "8bb366f864761c5ce0355db87ba3e20fda8fcc8d30f05f21a42eb075e2446bc8",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

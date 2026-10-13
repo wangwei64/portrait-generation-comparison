@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-12735",
+  "candidate_index": 173,
+  "ffhq_id": 12735,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-12735.jpg",
+  "source_sha256": "82be67e322c85ffd8fa5ba2f742e5f7a414012c468c91d545c55bd8c4c52dbd7",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1594,
+    2391
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/gwangjufc/15259821426/",
+    "photo_title": "GJFC0754",
+    "author": "광주시민프로축구단 (주)",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2014-09-19",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/gwangjufc/15259821426/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "8e220153708b93c716a12934c0626716",
+  "current_decoded_pixel_md5": "13970df4d1a7de6ec80aefb11b4f7541",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15576762923699128,
+  "fetched_at": 1791365523.4749804,
+  "visual_review": "pending"
+}

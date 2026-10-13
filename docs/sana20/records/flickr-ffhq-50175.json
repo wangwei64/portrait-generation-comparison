@@ -1,0 +1,37 @@
+{
+  "index": 195,
+  "image_id": "flickr-ffhq-50175",
+  "prompt": "A vertical portrait of a woman with dark hair gathered into a tall rounded bun secured with a dark clip. She wears large silver hoop earrings with small dangling ornaments, a navy jacket with magenta edging and a pale pink shirt. She looks at the camera with a gentle smile. Frame her head and upper torso in soft outdoor light against leafy green plants, a wooden railing and a small reddish structure.",
+  "prompt_sha256": "2007c1b801c64b77f9e27e9bcb3ba4f29e427c5948a1ca989295c14274353dfc",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bb/bb9dbb2402beef2f8b3f62d7cf66c1c94f536c364833313b680a3d6060fcee4c.png",
+  "original_sha256": "bb9dbb2402beef2f8b3f62d7cf66c1c94f536c364833313b680a3d6060fcee4c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/60/608509a82523692ec132c155a347cd188f5279bd0a85a9c7773858c31010c6e3.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9417014308273792,
+  "png_path": "generated/flickr-ffhq-50175.png",
+  "preview_path": "previews/flickr-ffhq-50175.jpg",
+  "png_sha256": "6ea98c0b61e225a1a6d8275ce2080c31f98fa9c1bb6958b2b233a45b8eb66513",
+  "preview_sha256": "6358ff725fe5904110848f79cfd66a5a2b57823148247dda8fe60caf4d653de8",
+  "png_bytes": 1586986,
+  "preview_bytes": 259274,
+  "pixel_std": 72.8020754684178,
+  "created_at": "2026-10-08T08:50:01.114517+00:00"
+}

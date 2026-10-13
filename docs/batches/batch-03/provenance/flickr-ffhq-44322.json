@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-44322",
+  "candidate_index": 161,
+  "ffhq_id": 44322,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-44322.jpg",
+  "source_sha256": "c23d25a69332e0d44718f34f4e79a9d8a1714ecf8c3f106f09071a2790257f6d",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4668,
+    3112
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/145074316@N05/34289627663/",
+    "photo_title": "IMG_5446",
+    "author": "Sander Rademaker",
+    "country": "",
+    "license": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "date_uploaded": "2017-06-04",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 10,
+  "photo_url": "https://www.flickr.com/photos/145074316@N05/34289627663/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "4a2ace857e5f553aeb85a06d8c53138b",
+  "current_decoded_pixel_md5": "36b2fdcaabeb9c877325eb3c6476ad88",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.11349052676099153,
+  "fetched_at": 1791365515.2420576,
+  "visual_review": "pending"
+}

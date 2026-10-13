@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-26026",
+  "prompt": "A horizontal outdoor portrait of a smiling child with a closely shaved head, looking directly at the camera. The child raises one bent arm beside the head with a clenched fist, while the other hand pulls back the sleeve of a dark T-shirt to reveal the upper arm. Frame the head and torso against a vivid green grassy slope and a bright pale sky. Warm daylight gives the scene a candid playful feeling.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-277-282.jpg",
+  "reviewed_source_sha256": "e955eeaf70e04bb0b573d23592c373b463f593ac19ecb8945d24f311d90d6fe5",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

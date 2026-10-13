@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s22-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with tousled light brown hair and dark rectangular glasses stands on a city sidewalk at night. He wears a black coat with a thick brown scarf wrapped around his neck. The horizontal portrait frames his head, shoulders and chest, with his face turned toward the right in three-quarter profile. Behind him are large shop windows with metal shutters, red lettering above them and white lettering on the glass. Reflections of streetlights and traffic appear in the windows, and a parked bicycle is visible beside the storefront on the right.",
+  "prompt_sha256": "be93917024bf1138e95081aecea94f31bb2b4ad8a33f41890dcfe1f40fb703f9",
+  "seed": 42,
+  "token_count": 115,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.196432072669268,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077589511871338,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 96,
+  "pixel_std": 55.726513690062106,
+  "generated_at": "2026-10-07T09:01:19.731858+00:00",
+  "image_path": "zimage/generated/piq23-s22-q75.png",
+  "sha256": "7d47bb06b2f7a1030ea436b75150f9e1a068a650176ef8f01b507642b9d40461",
+  "bytes": 1219351
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-00695",
+  "candidate_index": 42,
+  "ffhq_id": 695,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-00695.jpg",
+  "source_sha256": "b0060546349cd0bae0f46d1a385a5e5a5ee0e692bb9d8f95bf7a13c20393db7c",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3052,
+    3815
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/mdgovpics/27076452033/",
+    "photo_title": "PTECH Press Conference",
+    "author": "Maryland GovPics",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-06-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/mdgovpics/27076452033/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "614e1af11b26759575aa5ad0c0829772",
+  "current_decoded_pixel_md5": "9b529788f234e6f9e362cedff89bd74b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.047413036420695706,
+  "fetched_at": 1791365059.2940297,
+  "visual_review": "pending"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-56966",
+  "prompt": "A vertical photograph of a young girl with dark hair in a high ponytail and loose strands around her face. She wears a pink short-sleeved shirt with bold yellow stripes and holds up a slice of bread topped with corn, peas and carrot pieces using both hands. She looks toward the camera across a bright blue classroom table. A wooden chair, another blue table and pale cupboards fill the softly lit room behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-067-072.jpg",
+  "reviewed_source_sha256": "6dd4c82fd775d43bd221c03004703d909e15b9642af984abd65d977cba5dbff9",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

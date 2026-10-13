@@ -1,0 +1,37 @@
+{
+  "index": 97,
+  "image_id": "flickr-ffhq-42445",
+  "prompt": "A vertical waist-up portrait of a woman wearing a draped red, cream and teal geometric-patterned headscarf with fringed ends. Her long-sleeved brown dress has delicate floral embroidery and beadwork across the chest. She stands slightly sideways beside tall green bamboo stems, turns toward the camera and gives a small smile with pink lips. Soft daylight illuminates her face against a blurred garden wall and green foliage.",
+  "prompt_sha256": "76fea6a3583f0fd093ede1eb32f5a4bc26b6f501da70cad010c57877f334c2bf",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/66/66a1c4eb314c4b6923737b889e2a927f49b4183043ea4c2afef4e0e5cc1f71d7.png",
+  "original_sha256": "66a1c4eb314c4b6923737b889e2a927f49b4183043ea4c2afef4e0e5cc1f71d7",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9b/9b7505b93241cdc569e5ecb56c0278383bad9ec8ff2dbd0c025267e03ec41a13.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402522407472134,
+  "png_path": "generated/flickr-ffhq-42445.png",
+  "preview_path": "previews/flickr-ffhq-42445.jpg",
+  "png_sha256": "0c10d2aa61463e78e9c081b1ea1ca0549e4f36c7e41d2d73b3eacdee1fa267cd",
+  "preview_sha256": "9717981fe0dec9ac63b264b1591870aaa5686e5f5f3ac893eb2476fd7ccec0f4",
+  "png_bytes": 1704968,
+  "preview_bytes": 391339,
+  "pixel_std": 56.871283553362545,
+  "created_at": "2026-10-08T08:47:48.900412+00:00"
+}

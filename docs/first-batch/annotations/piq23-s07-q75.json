@@ -1,0 +1,19 @@
+{
+  "image_id": "piq23-s07-q75",
+  "source_sha256": "bc6f25e71ddbdfca0c64610cebbef5b76756c882ca508559f3e9e3bed3bb4a33",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "book",
+    "hands",
+    "standing",
+    "indoor"
+  ],
+  "prompt": "A man with short brown hair and a trimmed beard stands indoors wearing a burgundy hoodie. His body is angled toward the right, and he lowers his gaze toward an open dark-covered book held in both hands around waist height. He occupies the left-center of a horizontal waist-up composition. A pale wooden grid bookshelf spans the background, containing upright and leaning books, a small green plant and a woven basket. The open shelving reveals another room with windows, tables and a pale ceiling. The hands and open pages are visible in front of his torso.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

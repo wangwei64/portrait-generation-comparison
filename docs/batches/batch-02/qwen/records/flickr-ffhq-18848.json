@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-18848",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal close portrait of a young child with wispy reddish brown hair and a small tuft standing up. The child looks directly at the camera with a serious expression and slightly parted glossy lips, wearing a dark brown sleeveless garment over a small floral-patterned shirt. Warm indoor light and direct frontal illumination reveal the face. Behind are blurred people, furniture, a television and yellow lights in a lived-in room.",
+  "prompt_sha256": "2fde186022dfc9d1761917990471e83ff238e7a005ac52b67ca0494a6495835d",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.429489977657795,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.596620082855225,
+  "peak_reserved_gib": 37.44140625,
+  "nvidia_smi_peak_gib": 37.9521484375,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 49.17540002913913,
+  "generated_at": "2026-10-07T10:02:22.874400+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-18848.png",
+  "sha256": "36ebe15232b442716e81bd080c6c1187cd57ad54417393bd265560fb3284bf65",
+  "bytes": 1021718
+}

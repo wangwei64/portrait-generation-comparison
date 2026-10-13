@@ -1,0 +1,37 @@
+{
+  "index": 297,
+  "image_id": "flickr-ffhq-58230",
+  "prompt": "A horizontal close photograph of a smiling baby with very fine short brown hair, seated among colorful plastic activity toys. The baby looks directly at the camera and wears a navy fleece garment with small red stitching near the collar. A pale blanket covers the lower body. Bright blue flower-shaped toys and a small transparent rattle stand at the right, with yellow and orange pieces at the left. Direct flash lights the face against a dim domestic background.",
+  "prompt_sha256": "e1c84d36b2fc822c9e78bfccb6d597420b3228f32989a2a257915614fff16cc2",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f9/f9a8eeb50a78c01961b8553f208e031cac96c546d4f7aac94e6a4a5d7134ca22.png",
+  "original_sha256": "f9a8eeb50a78c01961b8553f208e031cac96c546d4f7aac94e6a4a5d7134ca22",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f0/f0a092730cffa3cf5a2649ee0606ff74d87bfe9b42533cb82ea1f53a973e2b70.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9418882504105568,
+  "png_path": "generated/flickr-ffhq-58230.png",
+  "preview_path": "previews/flickr-ffhq-58230.jpg",
+  "png_sha256": "fe4ea58aa61016568dad83de50e9426887b50c00cb208e57459427b14c8a7a5e",
+  "preview_sha256": "fa3c094e37b9db22d07b75d1fb44d77755b89e6cbc918f400d7c3e6bddd34b28",
+  "png_bytes": 1431351,
+  "preview_bytes": 237324,
+  "pixel_std": 71.15971248416263,
+  "created_at": "2026-10-08T08:52:19.096719+00:00"
+}

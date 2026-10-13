@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-17772",
+  "prompt": "A vertical selfie-style close portrait of a man with very short receding dark hair and large gray rectangular glasses. He raises his eyebrows slightly and smiles with closed lips, looking straight into the lens. He wears a purple button-front shirt with fine white checks. Soft window light brightens his face. Frame his head and shoulders against a pale room with a white doorway, dark stacked objects and a blue container blurred behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-271-276.jpg",
+  "reviewed_source_sha256": "0fbbbbfc8ae586f3763188e8f078ffa548c8fd2b870b80cd31f75a617bc347fc",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

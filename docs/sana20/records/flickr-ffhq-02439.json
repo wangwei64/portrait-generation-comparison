@@ -1,0 +1,37 @@
+{
+  "index": 187,
+  "image_id": "flickr-ffhq-02439",
+  "prompt": "A vertical portrait of a smiling man with short salt-and-pepper hair, rectangular brown glasses and a neatly trimmed gray mustache and beard. He wears a pale blue polo shirt with a subtle vertical stripe texture and an open collar. Frame his head and upper chest, looking straight into the camera. Soft daylight illuminates his face, with dense green leaves and circular sunlit highlights blurred behind him.",
+  "prompt_sha256": "6e771f0544dbb5c1dd235995d9e44d2100783f48f1169dc393413d68a8aa3f7a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    736,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2f/2f896487630316a592af4475d127d160320c0f8f99a7301aa4d3a76abb434607.png",
+  "original_sha256": "2f896487630316a592af4475d127d160320c0f8f99a7301aa4d3a76abb434607",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ca/cadefb1575bcdeac1c3180e1101a69a37ecb349cf689c3451ef5a16102cef532.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9393060393631458,
+  "png_path": "generated/flickr-ffhq-02439.png",
+  "preview_path": "previews/flickr-ffhq-02439.jpg",
+  "png_sha256": "1b538775c3b57e318fa3f237c584d1c03a8bbf898be86167c9a1bb18e2bc74ef",
+  "preview_sha256": "9072843b8343bee77a762b9f9af4a526f2438e9f730b737eed87e09a9e14741b",
+  "png_bytes": 1796458,
+  "preview_bytes": 342412,
+  "pixel_std": 73.78904282653565,
+  "created_at": "2026-10-08T08:49:50.334801+00:00"
+}

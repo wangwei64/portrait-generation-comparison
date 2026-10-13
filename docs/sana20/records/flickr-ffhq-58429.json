@@ -1,0 +1,37 @@
+{
+  "index": 119,
+  "image_id": "flickr-ffhq-58429",
+  "prompt": "A vertical studio photograph of a woman with short voluminous curly dark hair and large black sunglasses, smiling broadly. She wears a dark blue one-shoulder dress, a chunky multicolored necklace and an oversized red fabric rose near her bare shoulder. She holds a burgundy canvas high-top sneaker upright in front of her chest, showing white laces and a white rubber toe. Directional light models her face against a plain dark gray backdrop.",
+  "prompt_sha256": "a4f7d691c30f8dc051f7edeb2f85c4cd706f7a9f97b1626df443b2fc210e6377",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    704,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7a/7a1c7960edd0042ba569d426ca704b49d2c10d4d6b7c930c88ba8367dcfd83df.png",
+  "original_sha256": "7a1c7960edd0042ba569d426ca704b49d2c10d4d6b7c930c88ba8367dcfd83df",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f5/f5ed717cda0b86a1dde36fb1ed9bf2d2eaac3d696cfc9b42e293dc0dad02b739.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401609338819981,
+  "png_path": "generated/flickr-ffhq-58429.png",
+  "preview_path": "previews/flickr-ffhq-58429.jpg",
+  "png_sha256": "dadf120baa02673d5f59acaab9144c6cb40897974abe4ffa498923c8a5f92ac1",
+  "preview_sha256": "fa57940cb03d50466aacb3779c84d62742607be99280d47803c36caa5ee2bd8e",
+  "png_bytes": 1471267,
+  "preview_bytes": 229214,
+  "pixel_std": 49.95679643521241,
+  "created_at": "2026-10-08T08:48:18.748586+00:00"
+}

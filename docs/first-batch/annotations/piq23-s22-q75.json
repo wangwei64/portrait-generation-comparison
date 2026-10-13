@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s22-q75",
+  "source_sha256": "36340687303b0e3740c7c0afb04ae474379490f91659f6e553368ccd197ea25e",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "profile",
+    "glasses",
+    "night"
+  ],
+  "prompt": "A man with tousled light brown hair and dark rectangular glasses stands on a city sidewalk at night. He wears a black coat with a thick brown scarf wrapped around his neck. The horizontal portrait frames his head, shoulders and chest, with his face turned toward the right in three-quarter profile. Behind him are large shop windows with metal shutters, red lettering above them and white lettering on the glass. Reflections of streetlights and traffic appear in the windows, and a parked bicycle is visible beside the storefront on the right.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

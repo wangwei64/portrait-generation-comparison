@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s23-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A man with swept-back brown hair and dark rectangular glasses leans against a large tree trunk on a city sidewalk at night. He is on the right of a horizontal composition, shown from the head to around the waist in profile, looking left along the street. He wears a black coat, a thick brown scarf and a small black crossbody bag at his hip. The tree bark forms the right edge. The sidewalk recedes to the left past more trees, parked motorcycles, traffic signs and distant pedestrians. Cars and a white bus travel along the lit roadway, with building windows and streetlights in the background.",
+  "prompt_sha256": "c2037408cb41cd3c77094496e0cc3e0fe1f4974a755b35a0b262ca40cc69717f",
+  "seed": 42,
+  "token_count": 143,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.81980661302805,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.247159481048584,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 52.46586583760399,
+  "generated_at": "2026-10-07T09:21:22.502803+00:00",
+  "alpha_extrema": [
+    250,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s23-q75.png",
+  "sha256": "6acca7cd4aa7e95a043c79e5a1d8f9819afabc43c7c5f7c527bf5a4c0ce216b2",
+  "bytes": 1562517
+}

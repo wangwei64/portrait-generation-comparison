@@ -1,0 +1,37 @@
+{
+  "index": 38,
+  "image_id": "piq23-s37-q75",
+  "prompt": "A dark-skinned man with closely cropped hair stands in front of a dense green hedge by a river. He faces the camera in a charcoal zippered jacket with a light gray hood and narrow horizontal chest pockets. His right arm is raised on the left side of the image, with the open palm facing forward and fingers spread. His other arm stays down. The horizontal composition frames him from the head to the hips. Beyond the hedge are a broad river, a long boat and a wooded hillside with green and yellow foliage beneath a pale overcast sky.",
+  "prompt_sha256": "44f8b0f1411a3a3112c565cc25c67e3c58834d193d0a2b78297bbf2123d1ceda",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f2/f207932eede7cf701e35ae31c6e9e5d2ef790cd99febac95fb1788e4d4fcf346.png",
+  "original_sha256": "f207932eede7cf701e35ae31c6e9e5d2ef790cd99febac95fb1788e4d4fcf346",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1a/1a881d68e80321803a49ed8231e3d24d8fc84e049c362437ff023d3b27ea9797.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 316,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939921997487545,
+  "png_path": "generated/piq23-s37-q75.png",
+  "preview_path": "previews/piq23-s37-q75.jpg",
+  "png_sha256": "13afa05195d2754519fd5233d6ed384c6b6b53e2f7a24a64e8ed0c6d53a2490a",
+  "preview_sha256": "ecab7517b69f63ca6fbca5c9498bf49c4c55c4a7f248f6eb9e00775b97770c52",
+  "png_bytes": 1182195,
+  "preview_bytes": 272026,
+  "pixel_std": 99.27725349402161,
+  "created_at": "2026-10-08T08:46:30.794888+00:00"
+}

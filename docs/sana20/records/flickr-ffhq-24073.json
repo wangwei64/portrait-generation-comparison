@@ -1,0 +1,37 @@
+{
+  "index": 278,
+  "image_id": "flickr-ffhq-24073",
+  "prompt": "A horizontal flash photograph of a smiling woman with a short glossy black side-swept pixie haircut. She looks directly at the camera with teeth visible and wears a dark top with pale trim along the shoulder. Strong frontal flash makes her face bright against the dim room. Frame her head and upper torso on the left, with a seated person in a striped shirt and pale patterned curtains in the background.",
+  "prompt_sha256": "83243312a03fbb5b7892763b32021c3a505dcf8a67fd59a47b594253f83bf6d7",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c7/c73ad914956bb5543ddc38d29fcf51d04bebc9374193af79d72dd960c8b2564d.png",
+  "original_sha256": "c73ad914956bb5543ddc38d29fcf51d04bebc9374193af79d72dd960c8b2564d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/66/6620b02ae59b338acd665ad4fae62c3b76bdf8f4b87807693ed27ffb6d865dff.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939669705927372,
+  "png_path": "generated/flickr-ffhq-24073.png",
+  "preview_path": "previews/flickr-ffhq-24073.jpg",
+  "png_sha256": "b08b45279f822769a823ecc00243e9dab54b72aa38b3bb1e060b6f1104c6297d",
+  "preview_sha256": "93d375e8e51a32d28533e3ddda9053fea3c5e4e710f7da49d934e66d864cd2d2",
+  "png_bytes": 1636005,
+  "preview_bytes": 267100,
+  "pixel_std": 51.99076030221827,
+  "created_at": "2026-10-08T08:51:53.447232+00:00"
+}

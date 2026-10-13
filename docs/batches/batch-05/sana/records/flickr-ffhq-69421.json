@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-69421",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical flash portrait of a smiling child with long straight reddish blonde hair and a blue flower clip near the temple. The child looks directly at the camera, showing small teeth with a gap. A turquoise sleeveless crocheted top is paired with several colorful necklaces, including purple beads and a small blue pendant. Frame the head and upper torso against a dark indoor background with a few indistinct warm lights.",
+  "prompt_sha256": "f88e630807675c9886010d1235be2209969800e306964793404dd6101f0b6a4a",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6904132440686226,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 72.70519693156338,
+  "generated_at": "2026-10-07T12:10:33.657628+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-69421.png",
+  "sha256": "c64b4e6a46cb675b291ab6d7e850697736aa76ed3edac2c62a106788400ee288",
+  "bytes": 1089684
+}

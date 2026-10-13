@@ -1,0 +1,85 @@
+{
+  "metric": "pickscore",
+  "native_preprocessing": true,
+  "weights": {
+    "README.md [81751657aa]": {
+      "sha256": "f8c96727315b6912b69f515d8e694f8da238a7b83549425e52bfc4c1ba16f257",
+      "bytes": 3227
+    },
+    "config.json [0df4dcf377]": {
+      "sha256": "bfa2a8243d3f82ad7c4746a0b62817e895f9f225926e6caecfc9dbb9171647ce",
+      "bytes": 4514
+    },
+    "merges.txt [e84c6cf8a9]": {
+      "sha256": "9fd691f7c8039210e0fced15865466c65820d09b63988b0174bfe25de299051a",
+      "bytes": 524619
+    },
+    "model.safetensors [a0260401de]": {
+      "sha256": "ef31ef6fc5ff4d9bb90dd232df4e145887ba62c5a03aa2841415f8c25f18d52e",
+      "bytes": 3944552236
+    },
+    "preprocessor_config.json [c06bc15c92]": {
+      "sha256": "6652117bf1702428f09a2eabb0fe985f7582b46ef22f9cac789034a86da128f3",
+      "bytes": 556
+    },
+    "special_tokens_map.json [57ae94ecab]": {
+      "sha256": "c4864a9376a8401918425bed71fc14fc0e81f9b59ec45c1cf96cccb2df508eac",
+      "bytes": 472
+    },
+    "tokenizer.json [35498de954]": {
+      "sha256": "f7f3b7af117d467b58374797691a6438d3e6b9e9cef800dfd5dced7f697a90cd",
+      "bytes": 2224119
+    },
+    "tokenizer_config.json [25d37e4c53]": {
+      "sha256": "60ba2912bc6344c94bc16bbdec27fa1209409167b6f2fdf3cfe9e65462ea3967",
+      "bytes": 775
+    },
+    "vocab.json [674538b968]": {
+      "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363",
+      "bytes": 862328
+    },
+    "README.md [c6428a5987]": {
+      "sha256": "14db420f00ddf78a07194dc4cdc57977d979e0f2c34994137679046defdf6577",
+      "bytes": 8209
+    },
+    "config.json [a9f55819b4]": {
+      "sha256": "50150597fccadc90f3198d1c2caf2c41d88a40908c38fb428ea56c249b501d85",
+      "bytes": 4725
+    },
+    "merges.txt [5b35b293a8]": {
+      "sha256": "f1cd414c2d113a28b296afc0fd66ae854c0e0c34d5de373a2f5b7f62e0c02344",
+      "bytes": 524618
+    },
+    "open_clip_config.json [d7d3a95147]": {
+      "sha256": "42736e39d52321d5cb6a6c21250669f942411f4732a7eb9011f83de7d781c1c5",
+      "bytes": 637
+    },
+    "preprocessor_config.json [7ef4994234]": {
+      "sha256": "910e70b3956ac9879ebc90b22fb3bc8a75b6a0677814500101a4c072bd7857bd",
+      "bytes": 316
+    },
+    "special_tokens_map.json [88a2813561]": {
+      "sha256": "f8c0d6c39aee3f8431078ef6646567b0aba7f2246e9c54b8b99d55c22b707cbf",
+      "bytes": 389
+    },
+    "tokenizer.json [c371ffdfd1]": {
+      "sha256": "b556ac8c99757ffb677208af34bc8c6721572114111a6e0aaf5fa69ff0b8d842",
+      "bytes": 2224041
+    },
+    "tokenizer_config.json [df7a318aa4]": {
+      "sha256": "e19f34ef773563fb695f96cfcae1e4c7b112ab6ad532f6962061df5242d924f0",
+      "bytes": 904
+    },
+    "vocab.json [6ba614dbdf]": {
+      "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363",
+      "bytes": 862328
+    }
+  },
+  "semantics": "exp(logit_scale) × normalized CLIP image/text cosine; raw PickScore, not pairwise probability.",
+  "input_manifest_sha256": "b57f1fbe0f91b1e0e363069bf7f3454418b030ac16e55a1b9f34fe7c1bfa0686",
+  "runner_sha256": "3eb61d77eb590f5cbb0a4ea1196a0debc5823775cf46fe0b88a8776b13135915",
+  "started_at": "2026-10-08T02:22:12.453416+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0
+}

@@ -1,0 +1,37 @@
+{
+  "index": 231,
+  "image_id": "flickr-ffhq-11864",
+  "prompt": "A horizontal close photograph of a man with short spiky blond hair and narrow rectangular metal glasses, making a playful face with his tongue pushed sideways over his lower lip. His eyebrows draw together and he glances toward the right. He wears an open beige shirt over a charcoal T-shirt. Frame his head and shoulders with a slight camera tilt, against white walls, a lace curtain and a dark open doorway in an indoor room.",
+  "prompt_sha256": "fc7a5037fa6f0c8cd30bdb0cdd1e3660d3d20bc2bc1d7e00c209e5dd2fd67e62",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f0/f0c2eb9eea84f3683c4b05152b9f8cd5d223bfe009f9a5569997a7cc2f757dcf.png",
+  "original_sha256": "f0c2eb9eea84f3683c4b05152b9f8cd5d223bfe009f9a5569997a7cc2f757dcf",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/29/297c51d2cd399fce11e11db2f826db4a52da586246b11a9f08fb2a59bf064c4d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940291278064251,
+  "png_path": "generated/flickr-ffhq-11864.png",
+  "preview_path": "previews/flickr-ffhq-11864.jpg",
+  "png_sha256": "76c4cc500187d2fd141a8208df451758d18bc05ac28807729102d52322a1c5e4",
+  "preview_sha256": "99ed3e75ecb874fdfc4a332b7f64ca0d7e2f153a4f98657ab82c3f3f4ad798dc",
+  "png_bytes": 1667237,
+  "preview_bytes": 271339,
+  "pixel_std": 61.99738441731889,
+  "created_at": "2026-10-08T08:50:50.392636+00:00"
+}

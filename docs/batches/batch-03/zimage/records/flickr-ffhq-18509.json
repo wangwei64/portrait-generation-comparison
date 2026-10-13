@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-18509",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical waist-up portrait of a smiling young woman with very long blonde curls, leaning beside a red brick wall. She wears a bright pink short-sleeved blouse with a central pleat, a layered white pearl necklace and a black waistband. She faces the camera with her teeth visible. Soft outdoor light evenly illuminates her face and hair; a dark vertical window frame occupies the right background.",
+  "prompt_sha256": "2ea0fa0ee5e70d8a6b5a190c1eaad86078a1e6f8ba40b119fa978e1eb140e61d",
+  "seed": 42,
+  "token_count": 88,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 41.26932567358017,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.672919750213623,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 137,
+  "pixel_std": 58.361832711756016,
+  "generated_at": "2026-10-07T10:26:35.576710+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-18509.png",
+  "sha256": "cbd4d15f663d301a159b8cd56a5e230c02912cf4f2cbeb792467108aa486f863",
+  "bytes": 1665086
+}

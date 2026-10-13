@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s35-q75",
+  "source_sha256": "3a45175955e66672c8183e43f34a4481cb2d97f1511b316d9f5dad0f03b39a34",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "beard",
+    "side_gaze"
+  ],
+  "prompt": "A man with short receding brown hair, blue-gray eyes and a full beard is shown in a close horizontal head-and-shoulders portrait. He wears a brown outdoor jacket over a dark scarf, with straps visible on his shoulders. His head faces nearly forward but his eyes glance toward the left. He stands beneath a dark building overhang beside a pale tiled exterior wall on the right. Green hedges, a paved path and a tree with yellow-green leaves appear in the brighter outdoor background on the left.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

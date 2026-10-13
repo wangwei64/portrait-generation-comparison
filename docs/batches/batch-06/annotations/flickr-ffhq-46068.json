@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-46068",
+  "prompt": "A horizontal photograph of an older man with curly gray hair and small round wire glasses, playing a black clarinet held vertically to his mouth. He looks toward the camera with lifted eyebrows, wearing a bright red T-shirt, black neck strap and a small yellow name badge. A silver microphone on a diagonal black stand enters from the left foreground. Frame his head and upper torso against dark blue stage curtains under even indoor lighting.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-355-360.jpg",
+  "reviewed_source_sha256": "20615df53058419372bf5e7991239f3ec7310cbe4755a76c0c4e8fe69a897ac9",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

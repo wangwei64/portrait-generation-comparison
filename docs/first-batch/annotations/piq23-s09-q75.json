@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s09-q75",
+  "source_sha256": "3a1ef11f1e7e7dc7886be46d9981208261fef2a68723cd9246b3a85f41c0b466",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "seated",
+    "clasped_hands",
+    "wide_portrait"
+  ],
+  "prompt": "A stocky bearded man with short brown hair and glasses sits on a wooden bench in a cafe-like seating area. He wears a white graphic T-shirt, black trousers, a black lanyard and a wristwatch. Facing the camera, he clasps his hands in his lap with his knees apart. The horizontal composition includes his head, torso and upper legs. Empty tables, chairs and a long blue upholstered bench recede along the left wall beneath framed prints and large woven pendant lamps. Broad windows fill the right background, with a dark piano near them.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

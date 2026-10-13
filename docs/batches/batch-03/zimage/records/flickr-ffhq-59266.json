@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-59266",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor photograph of a girl with blonde hair pulled back, wearing a large handmade metallic-green headpiece shaped like pointed ears with dark circular centers. Green straps cross her black printed T-shirt. She looks ahead with her mouth open as if singing. Frame her head and upper torso, with other similarly costumed children partially visible at both sides. Strong sunshine highlights the shiny headpiece and loose hair.",
+  "prompt_sha256": "b61ba66a6798c55e1b181a32d93c011b767ce1bc5fc9cf4bad374b7f4934ce5e",
+  "seed": 42,
+  "token_count": 88,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.23883778974414,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854163646697998,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 80.41927384264689,
+  "generated_at": "2026-10-07T10:28:54.741164+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-59266.png",
+  "sha256": "d94fdd47c2e2d49928c71951758f30463c42ccea7ec928bac3ff55610cacd541",
+  "bytes": 984634
+}

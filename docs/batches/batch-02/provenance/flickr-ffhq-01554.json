@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-01554",
+  "candidate_index": 37,
+  "ffhq_id": 1554,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-01554.jpg",
+  "source_sha256": "2a15e433781e1798014607a36246732dad4341b01229a565cb79c1a149305623",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3280,
+    4928
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/eppofficial/14988075383/",
+    "photo_title": "EPP Summit, Brussels; October 2014",
+    "author": "European People's Party",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-10-23",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/eppofficial/14988075383/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "a211ef4f95f54af5149f46432392b4e3",
+  "current_decoded_pixel_md5": "4292062a836366ac87e17a8d8d9e4811",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.04900444448843839,
+  "fetched_at": 1791365051.304626,
+  "visual_review": "pending"
+}

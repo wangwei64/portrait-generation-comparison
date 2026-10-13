@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-23659",
+  "prompt": "A vertical waist-up garden portrait of a young woman with light brown hair styled in loose pinned curls. She wears a coral pink satin halter dress with gathered fabric and a broad fitted waistband, plus small sparkling earrings. Her body is slightly angled while she looks toward the camera with a subtle smile. Bright sunlight rims the hair, with green and burgundy shrubs, yellow foliage and a pale roof softly blurred behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-025-030.jpg",
+  "reviewed_source_sha256": "bf361f0066860ed57bee5286e61487a43c76d5d7a2936760d16f7499439c989f",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

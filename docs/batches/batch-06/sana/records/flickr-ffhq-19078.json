@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-19078",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal flash portrait of a man with short spiky dark hair and light stubble, facing the camera with a mild smile. A brown plush chicken with a yellow beak and orange feet sits on one shoulder beside a black backpack strap. He wears an open olive-gray shirt over a dark graphic T-shirt. Frame his head and upper torso in a warm shop interior, with stuffed toys, counters and a distant seated person behind.",
+  "prompt_sha256": "f8202a3e07e4cbf35a0bd05532ec6cd912bf4a60591cca6b5b97bb207d513715",
+  "seed": 42,
+  "token_count": 293,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7298552691936493,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 60.66777944190229,
+  "generated_at": "2026-10-07T12:49:21.730442+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-19078.png",
+  "sha256": "b63faec0cca06098cb533db8617a10d4f94ee55c7bfd5d25d0d52df1c0fb2b39",
+  "bytes": 1105917
+}

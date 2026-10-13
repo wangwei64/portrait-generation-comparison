@@ -1,0 +1,37 @@
+{
+  "index": 257,
+  "image_id": "flickr-ffhq-68558",
+  "prompt": "A vertical candid portrait of a man with short straight black hair, rectangular glasses and a faint mustache, looking directly at the camera with a neutral expression. He wears a dark graphic T-shirt and a black shoulder strap. Frame his head and upper torso inside an eyeglass shop, with rows of sunglasses mounted on a white display wall, boxed products, overhead lights, partial signs and two small background figures.",
+  "prompt_sha256": "fc72634433190ddf8c1e04600f39ad4c8bc5875bf9c1b6fee58852fe322ff303",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bd/bd6d89158d6838d50d13fbdfbc283638fd0b2aae1ff79f8eef381274c09838a1.png",
+  "original_sha256": "bd6d89158d6838d50d13fbdfbc283638fd0b2aae1ff79f8eef381274c09838a1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f2/f2bc7a182aea7ffb4732929e9b348a2ab4cb450bf924ef4e089d101eb862a2bc.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400770030915737,
+  "png_path": "generated/flickr-ffhq-68558.png",
+  "preview_path": "previews/flickr-ffhq-68558.jpg",
+  "png_sha256": "5b9301c744eaa31a6311e541c4e1c2f4d36f52b9ac3fc1a293567f04baf4d809",
+  "preview_sha256": "58f48ecdc0502c696633f134c965b06d5d76dd1401eeb52f6d15b2f27a254b84",
+  "png_bytes": 1635573,
+  "preview_bytes": 310932,
+  "pixel_std": 79.53281741513183,
+  "created_at": "2026-10-08T08:51:25.059546+00:00"
+}

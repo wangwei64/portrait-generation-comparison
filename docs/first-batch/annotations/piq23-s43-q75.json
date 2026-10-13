@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s43-q75",
+  "source_sha256": "5894d1baed09d11ef84dc7d3c4883a5a651d151fb72adc6c7b0103c375c8aba7",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "profile",
+    "railing",
+    "outdoor"
+  ],
+  "prompt": "A young man with medium-length brown hair stands on an elevated riverside walkway wearing an olive-brown hooded jacket. Positioned on the left of a horizontal composition, he turns his face to the right and extends his left arm across the frame, resting his hand on a silver horizontal railing. His upper body is visible while his lower body is cropped out. A broad river fills the middle distance behind the railing, with long boats along the far bank, dense green trees and buildings on the hillside. Large dark and pale clouds cover the sky.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

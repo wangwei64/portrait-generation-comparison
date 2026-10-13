@@ -1,0 +1,37 @@
+{
+  "index": 232,
+  "image_id": "flickr-ffhq-14473",
+  "prompt": "A vertical close outdoor photograph of a woman with dark hair pulled back, smiling at the camera with teeth visible. She wears a gray zip jacket with its collar raised and a small blue cartoon-shaped zipper pull. Bright sunlight falls across her face while parts of her hair remain shaded. Frame her head and upper chest, with a paved path, dark green tropical foliage and tree trunks receding behind her.",
+  "prompt_sha256": "df08c604a7a9965447227cf925311debcd16f8d7f7cf00e6180ca6dd694a7464",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    864,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5a/5a15479d7eef5811c274b2cfba83efdd0ff7fae8aeea701983bcb92347c22252.png",
+  "original_sha256": "5a15479d7eef5811c274b2cfba83efdd0ff7fae8aeea701983bcb92347c22252",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/87/87b9f59c27db3db4f90e0b753e06720c43627d9d087de9a88b33e0d70ab8cd8e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9410133063793182,
+  "png_path": "generated/flickr-ffhq-14473.png",
+  "preview_path": "previews/flickr-ffhq-14473.jpg",
+  "png_sha256": "e933d19840b94dd905a68e5c7d89a04e65f8c9a9c8c9c9057d407108da092565",
+  "preview_sha256": "16aa8b6e3babb646ea3fee73715cac645ebf5ff4cf03a355f3c8222e4c297659",
+  "png_bytes": 1990689,
+  "preview_bytes": 508880,
+  "pixel_std": 69.10898393877261,
+  "created_at": "2026-10-08T08:50:51.700450+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s13-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A smiling dark-skinned woman with dark hair pulled back stands facing the camera in an open doorway. She wears a fitted brown sleeveless top tucked into pale beige high-waisted trousers. Her arms hang loosely by her sides. The horizontal composition places her on the right and frames her from the head to the upper legs. A cork noticeboard with a pinned white sheet and a small color chart occupies the pale wall on the left. White doorframes, another doorway and a bright ceiling light are visible behind her in the corridor.",
+  "prompt_sha256": "f9e9aaa874b8c71cc4a4b507461d5449d25dd5c5dd5e4a1553b43796296a0105",
+  "seed": 42,
+  "token_count": 114,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.554562490433455,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077584743499756,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 99,
+  "pixel_std": 54.12912812464909,
+  "generated_at": "2026-10-07T08:56:48.875647+00:00",
+  "image_path": "zimage/generated/piq23-s13-q75.png",
+  "sha256": "1fcf7208d7c154736faae5b2426d9f2fcd24606ee218b5c3868a752a94262ff5",
+  "bytes": 814042
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-49014",
+  "candidate_index": 378,
+  "ffhq_id": 49014,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-49014.jpg",
+  "source_sha256": "3850aa230cd1f7cab668518ef244bc38137693ef4fdaf24fc9169b2bb31c41d6",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/comatoseslideshow/3610831950/",
+    "photo_title": "DSCF0382.JPG",
+    "author": "Comatose Slide Show",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-06-09",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/comatoseslideshow/3610831950/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "6f9f60041c7a3648187f5121aea8d644",
+  "current_decoded_pixel_md5": "90c38b99d54386bc1c7d9a83c3d0d8e5",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.05531028778085565,
+  "fetched_at": 1791367626.476089,
+  "visual_review": "pending"
+}

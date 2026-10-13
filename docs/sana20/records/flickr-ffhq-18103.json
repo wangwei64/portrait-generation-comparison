@@ -1,0 +1,37 @@
+{
+  "index": 265,
+  "image_id": "flickr-ffhq-18103",
+  "prompt": "A vertical candid portrait of a woman with shoulder-length straight black hair, seated sideways and looking back toward the camera with a small smile. She rests her chin on one hand, with a thin black band around the wrist, and wears a blue sleeveless top. Frame her head, bare shoulder and bent forearm. A paved residential courtyard, young tree, apartment buildings and a few distant people appear behind in soft daylight.",
+  "prompt_sha256": "55fbb421c08c64b952ddd9a27412dbf9e1d1214f22f2509482e76859759a7e74",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    832,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5a/5a2c12a24829ff94c060fb9201c46d487bc2a95773155e5f7e1fd277a701a976.png",
+  "original_sha256": "5a2c12a24829ff94c060fb9201c46d487bc2a95773155e5f7e1fd277a701a976",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8c/8c904c49f20e9808f9c12387d65d088bfab13ce37a83e733ed78de7a3d38133a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402018077671528,
+  "png_path": "generated/flickr-ffhq-18103.png",
+  "preview_path": "previews/flickr-ffhq-18103.jpg",
+  "png_sha256": "648672d3330434e7260e4b6d25d75b995a18c2a0a0e0695b1e13f0bc780c43da",
+  "preview_sha256": "fe975259efc2787c764953aa59bd99b7e1a59ce18c7bbc7ca0e58f5fb377b442",
+  "png_bytes": 1435939,
+  "preview_bytes": 212816,
+  "pixel_std": 69.89561307959193,
+  "created_at": "2026-10-08T08:51:36.104689+00:00"
+}

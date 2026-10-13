@@ -1,0 +1,37 @@
+{
+  "index": 64,
+  "image_id": "flickr-ffhq-35476",
+  "prompt": "A horizontal photograph of a girl with long brown hair pulled back by large gray over-ear headphones. She sits behind the pale upper edge of a laptop, wearing a bright blue short-sleeved top. Her forearms spread toward the lower corners as she looks at the camera with a small closed-mouth smile. Frame her head and shoulders against softly blurred cream-colored classroom tables and chairs in even indoor light.",
+  "prompt_sha256": "dea45ab07fef5393238a22378ffe8fe09360b68825f0f74f6addfab511695012",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/35/3522d4216c8a831c8662168196840f48c014e8775f4d47600745605705e6bd1a.png",
+  "original_sha256": "3522d4216c8a831c8662168196840f48c014e8775f4d47600745605705e6bd1a",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a0/a06f3debe045961caebca647d9b46964ea7918ab7f5d3bc73ad4374bd3a75728.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940666526556015,
+  "png_path": "generated/flickr-ffhq-35476.png",
+  "preview_path": "previews/flickr-ffhq-35476.jpg",
+  "png_sha256": "5361988c90cb1c9e2bb9b01c39e6b8c3d3f2f3d3cad219fa04844b3633d9d00e",
+  "preview_sha256": "b5564a05c3ab7297cf1d0123042e413281d11da80eb9587a4237c2b8aacf8137",
+  "png_bytes": 1572369,
+  "preview_bytes": 257772,
+  "pixel_std": 64.20382184240518,
+  "created_at": "2026-10-08T08:47:04.566071+00:00"
+}

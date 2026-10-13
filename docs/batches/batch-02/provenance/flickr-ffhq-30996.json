@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-30996",
+  "candidate_index": 66,
+  "ffhq_id": 30996,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-30996.jpg",
+  "source_sha256": "041023e52d7b2d9b312e51a841a64b92de6092ca2450342a6e83c8d6859a6475",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3342,
+    3390
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/joanjr/9340625932/",
+    "photo_title": "Tippi and friend",
+    "author": "Hell in a Handbag Productions",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-07-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/joanjr/9340625932/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "74abf6aef855dce4bd4d53965383fe4b",
+  "current_decoded_pixel_md5": "9fd81df430ad172702e9071d889fdcde",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.048727114811225325,
+  "fetched_at": 1791365101.5039713,
+  "visual_review": "pending"
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s17-q75",
+  "source_sha256": "d393679d3c95386a79e26ad2766f2916d9bd840323578e9b67b560c62985dfec",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "laptop",
+    "seated",
+    "lowlight"
+  ],
+  "prompt": "A woman with dark hair tied back sits on a simple black chair with an open black laptop across her lap. She wears a teal graphic T-shirt and black trousers, with her legs angled toward the lower left of the horizontal frame. Her hands rest near the keyboard, and she looks at the screen, which casts cool light on her face. A patterned curtain fills the left background. A low wooden cube shelf on the right holds a green ball and storage baskets, with speakers, flowers and small glowing lamps on top beneath a large tree-patterned wall picture.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

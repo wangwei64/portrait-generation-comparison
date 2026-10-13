@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-18848",
+  "candidate_index": 14,
+  "ffhq_id": 18848,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-18848.jpg",
+  "source_sha256": "e4dfd74d13341a69f50cb5498560b3548fe9a45105a508591e115c548321559b",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4928,
+    3264
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/jimphoto/6570520729/",
+    "photo_title": "DSC_0473",
+    "author": "Jim Erlinger",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-12-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/jimphoto/6570520729/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "4842ce5f14862c727ccdde6c5ea9a819",
+  "current_decoded_pixel_md5": "04be6c2c118dad29c0907ffdcaf9794c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14763327205882354,
+  "fetched_at": 1791365010.7125497,
+  "visual_review": "pending"
+}

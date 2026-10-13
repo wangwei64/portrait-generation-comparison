@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-04494",
+  "prompt": "A vertical head-and-shoulders portrait of a woman with straight shoulder-length blonde hair, darker roots and a side part. She looks toward the camera with a slight open-lipped smile. A washed charcoal denim jacket lies over a gray top, with several silver necklaces, including a small heart-shaped pendant, around her neck. Frame the upper chest against a plain white indoor wall in soft diffuse light, retaining gentle facial shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-085-090.jpg",
+  "reviewed_source_sha256": "65beedf10ead77cd66b5d96d55adb5345ac12201b60d9a46f696d886f1f80e5a",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

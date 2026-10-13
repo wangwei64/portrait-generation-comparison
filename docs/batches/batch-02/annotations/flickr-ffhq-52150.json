@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-52150",
+  "prompt": "A vertical candid portrait of a smiling man with short brown hair and dark aviator sunglasses. He wears a charcoal T-shirt with bold white lettering and two thin red and blue lanyards around his neck. One arm extends toward someone cropped at the right edge. A hand holding a small dark recorder enters the lower foreground. Warm sunlight lights his face against a nearly black shaded doorway behind him.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-073-078.jpg",
+  "reviewed_source_sha256": "c53144ba142d6b0501411cfbcf66236c5e1842d396bebad4b54e756d3168e07b",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

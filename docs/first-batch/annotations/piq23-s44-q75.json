@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s44-q75",
+  "source_sha256": "410b321861312ed4ddba0cf0533904b2e13ca8aba8078a607593e6a41ad5b4ec",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "full_body",
+    "profile",
+    "river"
+  ],
+  "prompt": "A young man with thick curly dark hair stands in side profile on an elevated walkway beside a river. He wears a navy and red sports jacket, light blue jeans and black shoes, with his hands in his pockets. His full body is visible near the center of a wide horizontal frame, facing right with his head slightly turned toward the camera. A metal railing runs behind him, overlooking the river and a wooded hillside with scattered buildings. Dark broken clouds surround a bright opening in the sky, and a large pale chalk curve is drawn on the paved foreground.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

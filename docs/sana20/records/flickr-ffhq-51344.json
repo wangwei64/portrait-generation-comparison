@@ -1,0 +1,37 @@
+{
+  "index": 206,
+  "image_id": "flickr-ffhq-51344",
+  "prompt": "A vertical close photograph of a blonde baby seated in a padded lime-green stroller, secured by a dark gray harness with a large plastic buckle across the chest. The baby looks attentively off to the right with lips slightly open, holding a small pale piece of food in both hands. A pale green bib rests over a white shirt. Soft natural light reveals the fine hair and rounded cheeks, with green seat fabric filling the background.",
+  "prompt_sha256": "66e84088a5a339366e0ddd84061e1bbb914199b9e79aa7e1c181f8edd4eb1e7c",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2c/2c58d4b276e83371abb2379c0654c9876f15643b0cdf8d4fbfae9a3fd26809cc.png",
+  "original_sha256": "2c58d4b276e83371abb2379c0654c9876f15643b0cdf8d4fbfae9a3fd26809cc",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d7/d7b2c8f9b257936adec730fce83b4e0d64e4cc66d845615a5115abb3942892e7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404534138739109,
+  "png_path": "generated/flickr-ffhq-51344.png",
+  "preview_path": "previews/flickr-ffhq-51344.jpg",
+  "png_sha256": "30c6fac807aaaf21b74fb30bd714a121af522d02e3cc7296c646759ab6d5256c",
+  "preview_sha256": "45a342132ae52e30a7840b67c8e1f8489faeda1dcc9268544da565f0870524c0",
+  "png_bytes": 1550408,
+  "preview_bytes": 258142,
+  "pixel_std": 72.85939480871035,
+  "created_at": "2026-10-08T08:50:16.232294+00:00"
+}

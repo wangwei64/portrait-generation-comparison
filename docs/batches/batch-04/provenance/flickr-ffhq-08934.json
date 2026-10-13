@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-08934",
+  "candidate_index": 187,
+  "ffhq_id": 8934,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-08934.jpg",
+  "source_sha256": "a68b8eb040a85d116d0d27b49e5ea5ebf2350897c0fb23b898c4d260bc716b5d",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/tukulti/29742945762/",
+    "photo_title": "SummerSdP 16 Set 2016 -5 Cena – Parco di Levante",
+    "author": "Francesco Pierantoni",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-09-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/tukulti/29742945762/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "b01d7fcce83a272151009f6244b40ca3",
+  "current_decoded_pixel_md5": "4fbe71e427d222eca2e9ed516af63f8a",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1594368780137478,
+  "fetched_at": 1791367128.9610004,
+  "visual_review": "pending"
+}

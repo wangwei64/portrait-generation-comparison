@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s15-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A woman with shoulder-length blonde hair sits sideways on a sofa in a dim room, facing right and looking down at a glowing white-framed tablet held in both hands. She wears a dark navy long-sleeved top. The horizontal view shows her head, torso and bent arms, with the tablet tilted diagonally toward her face. Black-and-white geometric cushions and a mustard cushion surround her. A mustard-colored wall with a large abstract print and a short string of warm lights occupies the left background. A round floor lamp stands above her shoulder, and a pale curtain with dense black dots fills the right background.",
+  "prompt_sha256": "b911660ff08be05e722514c2f7aa5eba3aeb59383ae2c824664a20d5fdd50bf9",
+  "seed": 42,
+  "token_count": 144,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.793747205287218,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.247159481048584,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 55.29464256173309,
+  "generated_at": "2026-10-07T09:19:29.987827+00:00",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s15-q75.png",
+  "sha256": "052e2372570f8b3a2f59e678321824d54d067ebd082e75e8e7b7f73c85cd93f7",
+  "bytes": 1450013
+}

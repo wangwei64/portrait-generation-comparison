@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-60230",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal sunlit photograph of a young boy with tousled medium-brown hair, smiling with his front teeth visible. He wears a white T-shirt and looks up toward the camera. Frame his head and shoulders beside an adult whose gray-green shirt, torso and hand are cropped along the right edge, with the hand resting near the boy's shoulder. Behind is a grassy sports field with bare trees and a low pale building.",
+  "prompt_sha256": "741308f4b621eb9fef0fe0a4b56c64e9cc47308906f364eac19bb6313b606371",
+  "seed": 42,
+  "token_count": 108,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.448728084564209,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59761190414429,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 61.55903588308245,
+  "generated_at": "2026-10-07T10:49:07.205939+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-60230.png",
+  "sha256": "d4eec774e81925876e062335ff32a821bce3d5121442dcc6fa8786d3a21b9ec3",
+  "bytes": 1149103
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s37-q75",
+  "source_sha256": "53cdb87a8d8732638360732f957b5591d33d78e136e74b81907d7d0c28987aed",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "raised_hand",
+    "waterfront",
+    "outdoor"
+  ],
+  "prompt": "A dark-skinned man with closely cropped hair stands in front of a dense green hedge by a river. He faces the camera in a charcoal zippered jacket with a light gray hood and narrow horizontal chest pockets. His right arm is raised on the left side of the image, with the open palm facing forward and fingers spread. His other arm stays down. The horizontal composition frames him from the head to the hips. Beyond the hedge are a broad river, a long boat and a wooded hillside with green and yellow foliage beneath a pale overcast sky.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-69488",
+  "candidate_index": 232,
+  "ffhq_id": 69488,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-69488.jpg",
+  "source_sha256": "d4b5f4ee85be60d0e513753db3a3296d6c9734f3ce8cd0cc50ff072d68a79ffa",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3987,
+    2848
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/peiphotos/941553379/",
+    "photo_title": "MASTER2006-11-15 09-03-30",
+    "author": "peiflickr",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2007-07-29",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/peiphotos/941553379/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "edc2bb8197ce2277017a9c61199f9104",
+  "current_decoded_pixel_md5": "0af0bb7ae5f9720d5a2cc7c7c9fa7348",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14519238085575875,
+  "fetched_at": 1791365557.513493,
+  "visual_review": "pending"
+}

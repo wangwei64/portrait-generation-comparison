@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-45853",
+  "prompt": "A horizontal candid photograph of a boy with short brown hair and flushed cheeks, concentrating on painting a small rounded stone. He wears a blue-gray T-shirt, holds a slender red paintbrush in one raised hand and steadies a green-painted stone with the other. A second decorated red stone and colored marks lie on white paper on the table. Frame his face, arms and hands closely in soft window light against a pale indoor background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-139-144.jpg",
+  "reviewed_source_sha256": "dfaf1e150c320d83160dba317a86d55e3fc28649efe75ad2b3780e3bab6ff392",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

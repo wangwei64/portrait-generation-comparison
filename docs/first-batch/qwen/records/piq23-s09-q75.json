@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s09-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A stocky bearded man with short brown hair and glasses sits on a wooden bench in a cafe-like seating area. He wears a white graphic T-shirt, black trousers, a black lanyard and a wristwatch. Facing the camera, he clasps his hands in his lap with his knees apart. The horizontal composition includes his head, torso and upper legs. Empty tables, chairs and a long blue upholstered bench recede along the left wall beneath framed prints and large woven pendant lamps. Broad windows fill the right background, with a dark piano near them.",
+  "prompt_sha256": "a60d412cbb5d82a0d35add51506a8e1aee3712ee03ff7e867014526971a83861",
+  "seed": 42,
+  "token_count": 136,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.815104566514492,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22358465194702,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 83.25041355147239,
+  "generated_at": "2026-10-07T09:18:04.805652+00:00",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s09-q75.png",
+  "sha256": "aebb78e06c8d9958ab4d0951ecff7496b085d847430d6642b92abc8e3d7affe6",
+  "bytes": 1265695
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-45351",
+  "candidate_index": 324,
+  "ffhq_id": 45351,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-45351.jpg",
+  "source_sha256": "1ee85bec5c8d0ef3fe3fff5d0b4717f6bfefb6493526654def52a44f462b9896",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/asplund/5185347996/",
+    "photo_title": "IMG_8706",
+    "author": "Garik Asplund",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2010-11-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/asplund/5185347996/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "b2d3f341f66d66fec772196f93e39b1f",
+  "current_decoded_pixel_md5": "9119a8da114fcc562ad3bbfec145c285",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1577406004489338,
+  "fetched_at": 1791367470.104458,
+  "visual_review": "pending"
+}

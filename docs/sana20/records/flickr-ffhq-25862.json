@@ -1,0 +1,37 @@
+{
+  "index": 242,
+  "image_id": "flickr-ffhq-25862",
+  "prompt": "A horizontal close photograph of a man with long wavy brown hair, a thick full beard and rectangular dark-framed glasses. He sits in a black high-backed chair and looks to the left with a serious expression. He wears a bright red sports jersey with darker patterned sleeves. Frame his head and upper chest against a dark interior crossed by two luminous horizontal blue and purple light strips, with subdued light on his face.",
+  "prompt_sha256": "916f2b467141185e055d543882173cc7370df7a9ecf5700c5d04a6d455201503",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "lowlight",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a3/a30fb92f779dfecbe61e80785974c8a323715432922ce714551482ff0da30db3.png",
+  "original_sha256": "a30fb92f779dfecbe61e80785974c8a323715432922ce714551482ff0da30db3",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1f/1f0aa27fdcdded8bf0df72caa6b95953dd00580124cbc8d6abec5805a827b97f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404151067137718,
+  "png_path": "generated/flickr-ffhq-25862.png",
+  "preview_path": "previews/flickr-ffhq-25862.jpg",
+  "png_sha256": "f05cadbe82f4da524623f696e23fc18b85751780062a0928bc7ffa70141b49c2",
+  "preview_sha256": "100961333003032ead37fa7dfd05011d5f4b338977d0e117132bf0113b5df2cb",
+  "png_bytes": 1423382,
+  "preview_bytes": 292420,
+  "pixel_std": 63.98335704140257,
+  "created_at": "2026-10-08T08:51:04.963332+00:00"
+}

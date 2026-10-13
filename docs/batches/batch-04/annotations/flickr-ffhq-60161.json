@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-60161",
+  "prompt": "A horizontal candid street portrait of a young man with straight medium-length black hair, wearing a deep blue V-neck T-shirt and a black backpack strap over one shoulder. He faces the camera while squinting tightly in bright sunshine, with his teeth slightly visible. Frame his head and chest amid a crowd of people seen mostly from behind, with a blurred shop frontage and signs in the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-181-186.jpg",
+  "reviewed_source_sha256": "74554148d25b44841f8dfd43fd1e3274f1211b97a7988501ec31a5e5bb75cfff",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

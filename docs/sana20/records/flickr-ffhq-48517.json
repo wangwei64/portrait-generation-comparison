@@ -1,0 +1,37 @@
+{
+  "index": 87,
+  "image_id": "flickr-ffhq-48517",
+  "prompt": "A horizontal seated portrait of a man with short black hair, oval metal-framed glasses and a gentle closed-mouth smile. He wears a red short-sleeved polo shirt with the collar open, leaning slightly toward the camera. Show his head and upper torso against a wall made of horizontal honey-colored wooden planks with visible grain and knots. Soft light from the left creates mild shadows across his face and shirt.",
+  "prompt_sha256": "876b4bdf55b71f97c1d821cbcef5d6178281cd5f02777940bfadda9f046c387d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f0/f0f08f8cb6fc133151614a9816bcf92afa92b4d5cde139581d7b7018f4aa2c74.png",
+  "original_sha256": "f0f08f8cb6fc133151614a9816bcf92afa92b4d5cde139581d7b7018f4aa2c74",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/32/322aedc6494b214782bbd200c74a83d080d9b6ba82cb2a6de6fd5e934de3a57c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9397899508476257,
+  "png_path": "generated/flickr-ffhq-48517.png",
+  "preview_path": "previews/flickr-ffhq-48517.jpg",
+  "png_sha256": "ee25a13ecaaec7c0b3ccbaf24c9b127d45aa7e8484a88af895d55dddcabae115",
+  "preview_sha256": "172d61edd24a28e0fc9cb53fe245cb9fefc3e82b5a37445112be74da7ed702d7",
+  "png_bytes": 1656645,
+  "preview_bytes": 320901,
+  "pixel_std": 80.26984715942251,
+  "created_at": "2026-10-08T08:47:35.324850+00:00"
+}

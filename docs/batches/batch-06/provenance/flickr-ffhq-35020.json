@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-35020",
+  "candidate_index": 323,
+  "ffhq_id": 35020,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-35020.jpg",
+  "source_sha256": "e79ad212db0bb4786f1060506d958975dfdf06e096d7f022cc25b053036be386",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/highlander411/11362161703/",
+    "photo_title": "Kim's Graduation",
+    "author": "highlander411",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-12-14",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/highlander411/11362161703/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "758cf2e48a2dfe8aad0b4ec2d8b2d58b",
+  "current_decoded_pixel_md5": "aea18407b52267052335a909b3007523",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1776441758116141,
+  "fetched_at": 1791367466.765298,
+  "visual_review": "pending"
+}

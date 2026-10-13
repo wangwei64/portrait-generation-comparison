@@ -1,0 +1,37 @@
+{
+  "index": 283,
+  "image_id": "flickr-ffhq-52763",
+  "prompt": "A horizontal outdoor close portrait of a baby carried against an adult's chest in a vivid red padded front carrier. The baby wears a pale pink knitted hat with small crocheted flowers and a dark navy outfit, looking directly at the camera with a calm expression. The adult's lower face and navy coat are partly cropped behind. Sunlight softly brightens the baby's face against green foliage and a pale blurred path.",
+  "prompt_sha256": "def8ce6cdd2d2009cff3e7d2c3f8c80afb3e1d47ff1a1f990740a34ac52e948b",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c3/c3d84f135b1ba191d71b84c43838fa4e641317201386f4392e1a23614048b0fa.png",
+  "original_sha256": "c3d84f135b1ba191d71b84c43838fa4e641317201386f4392e1a23614048b0fa",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ea/eaeee9fc50e9aee8487d16e25953b952d8c84b8deb018b2bb4242f16350314b7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.94022511318326,
+  "png_path": "generated/flickr-ffhq-52763.png",
+  "preview_path": "previews/flickr-ffhq-52763.jpg",
+  "png_sha256": "a42b97fad479f2adc09aa14d1abd510c0ad0e5448b4a30a44da59432e48b8c6b",
+  "preview_sha256": "a81a66b370a70cb990b19d7e1392d96d3868156aaab8f343b6537bde8bdfdfd3",
+  "png_bytes": 1469439,
+  "preview_bytes": 288707,
+  "pixel_std": 81.40487666352207,
+  "created_at": "2026-10-08T08:52:00.239026+00:00"
+}

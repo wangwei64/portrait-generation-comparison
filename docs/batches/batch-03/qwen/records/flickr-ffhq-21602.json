@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-21602",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal travel selfie of a man with long dark hair tied back, thin oval glasses and a mustache and goatee. He wears a plain brown T-shirt and looks toward the camera with a neutral expression. His head and shoulders occupy the right foreground. A gray brick parapet winds away toward a square watchtower on a steep green mountain ridge beneath a hazy blue sky. Natural sunlight creates mild facial shadows.",
+  "prompt_sha256": "e95c94b83181cf997a2e15423e6116f6911ede1934b997b480293359a18e67f7",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.807868428528309,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.208707332611084,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 62.49012267639413,
+  "generated_at": "2026-10-07T10:48:14.680014+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-21602.png",
+  "sha256": "50a6a4a8dab8d553373d4dc2c1cc03114ba77226fb1a1d1336a29fc09f2badf8",
+  "bytes": 1445699
+}

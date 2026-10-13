@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-26026",
+  "candidate_index": 280,
+  "ffhq_id": 26026,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-26026.jpg",
+  "source_sha256": "e955eeaf70e04bb0b573d23592c373b463f593ac19ecb8945d24f311d90d6fe5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/fmsc/8045027066/",
+    "photo_title": "FMSC Distribution Partner - City of Dreams",
+    "author": "Feed My Starving Children (FMSC)",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2012-10-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/fmsc/8045027066/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "041edbb5b56543bcee2aec5c8d14810c",
+  "current_decoded_pixel_md5": "24959f8ade9372dd5b0de30d59588baa",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1441480684530324,
+  "fetched_at": 1791367365.4742196,
+  "visual_review": "pending"
+}

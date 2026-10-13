@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-13473",
+  "prompt": "A vertical chest-up portrait of a bald man with light stubble and a relaxed slightly open smile, facing the camera. He wears a bright red outdoor jacket unzipped to reveal a yellow fleece lining and a black T-shirt with a white-and-red printed design. Soft natural daylight lights his face evenly. Keep the face and jacket clear against a strongly blurred background of green trees and pale sunlit foliage.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-043-048.jpg",
+  "reviewed_source_sha256": "df643d365f129e861ed97cc3a86c076e0ba971bb1212f36a345e2e9fd456adc4",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

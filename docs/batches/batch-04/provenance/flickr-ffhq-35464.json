@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-35464",
+  "candidate_index": 177,
+  "ffhq_id": 35464,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-35464.jpg",
+  "source_sha256": "6e917a28f11293aefa02c55367c941154c25c469b3524cb8b45fc5e50d252f72",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1500,
+    2102
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/halina_wawzyniak/4343066513/",
+    "photo_title": "Offizielles Portraitfoto",
+    "author": "Halina Wawzyniak",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-02-09",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/halina_wawzyniak/4343066513/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "6df6a9bf10f981e21fb5b22f923c0be4",
+  "current_decoded_pixel_md5": "6df6a9bf10f981e21fb5b22f923c0be4",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.18804313352362828,
+  "fetched_at": 1791365533.2255595,
+  "visual_review": "pending"
+}

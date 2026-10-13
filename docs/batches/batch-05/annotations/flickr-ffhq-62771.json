@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-62771",
+  "prompt": "A vertical portrait of a man with short thick curly dark brown hair, smiling broadly at the camera. He wears a black suit jacket, a white collared shirt and a pale pink, gray and white diagonally striped tie. Frame his head and upper torso in bright sunshine, with small curly hair shadows across his forehead. Behind him is a wooden-framed outdoor information board displaying a green and blue landscape map, with foliage near the edges.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-277-282.jpg",
+  "reviewed_source_sha256": "0ab04ade1c0a29d803363902b0a00942d85a53de2e46befbf36ddb9740e64390",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-35112",
+  "prompt": "A horizontal candid portrait of an older man with thinning white hair, seated and leaning forward. He wears a pale blue and purple fine-check button-down shirt and looks off to the left with raised eyebrows and a restrained smile. Frame his head and upper torso closely. Warm indoor light gives the face a soft reddish cast, with a plain beige wall and part of another person's white shirt at the right edge.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-175-180.jpg",
+  "reviewed_source_sha256": "efb91fffb461f08499c798c704d77cfe056bdd3e1aa6e56e38d5324630d8e8dc",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

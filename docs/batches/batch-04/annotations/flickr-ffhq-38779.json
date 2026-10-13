@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-38779",
+  "prompt": "A vertical close snapshot of a smiling young woman wearing a black baseball cap backward, with short brown hair curling out near her ears. She wears a bright red T-shirt and black backpack straps and looks directly toward the camera. Strong sunshine illuminates her face. Behind her are wooden benches, a chain-link fence and part of another smiling person's face cropped at the upper left, all less prominent than the main subject.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-247-252.jpg",
+  "reviewed_source_sha256": "e0a98f183456f2b4820f05581005a1517fe0166ed50694a6c109d0dd318ceb5b",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

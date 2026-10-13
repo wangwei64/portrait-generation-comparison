@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-26249",
+  "prompt": "A horizontal flash photograph of a small child with fine blonde hair wearing an oversized orange-and-white baseball cap tilted sideways. The child leans toward the camera and raises an open hand near the upper right of the frame. A white long-sleeved shirt sits beneath a colorful fruit-patterned top. Include the head and upper body, slightly reddish flash reflections in the eyes, and a cluttered kitchen counter with bottles and a dark appliance behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-031-036.jpg",
+  "reviewed_source_sha256": "4dc6acc4797f7e39a3ec31b682df1ab82fd359b86d2f8c7417550dfd7e2bfee4",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

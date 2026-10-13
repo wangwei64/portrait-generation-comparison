@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-53125",
+  "prompt": "A horizontal outdoor head-and-shoulders photograph of a man with short dark hair wearing wraparound black sunglasses. He faces the camera with his mouth slightly open in a relaxed smile. His gray crew-neck shirt has narrow dark horizontal stripes. Bright sun creates pronounced shadows under his chin and around his neck. A softly blurred wooden fence and bare branches fill the warm brown background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-283-288.jpg",
+  "reviewed_source_sha256": "a9121011e849d9faa74e3ab0c8aefa921d17d5321776e47b2559a54c3e42b8ae",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

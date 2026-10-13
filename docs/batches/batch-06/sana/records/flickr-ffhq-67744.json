@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-67744",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical formal portrait of a young man with thick black hair swept upward and to one side, smiling at the camera with teeth visible. He wears a crisp pale blue collared shirt and a navy tie with small gold dots. His shoulders are angled slightly while his face remains forward. Frame his head and chest against a mottled charcoal-gray studio backdrop, with warm even frontal light and soft shadows.",
+  "prompt_sha256": "eed29be229b6ebd585087b87e9d804ac951903be9e0438aec63344d9a7802255",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6994911842048168,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 9.001953125,
+  "nvidia_smi_peak_gib": 7.6474609375,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 72.56431316353347,
+  "generated_at": "2026-10-07T12:48:07.737238+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-67744.png",
+  "sha256": "6e5dd1a99f034ee4295d40a68d48489f1a6a00ef886b4969da8321ad01969ea5",
+  "bytes": 887797
+}

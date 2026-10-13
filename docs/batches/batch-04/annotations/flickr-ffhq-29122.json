@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-29122",
+  "prompt": "A vertical candid photograph of a seated man with short salt-and-pepper hair and a dark beard, looking downward at papers with a serious expression. He wears a charcoal suit jacket, a pale pink checked shirt and a dark red tie. A thin microphone rises in front of him beside a black desk console and white documents. Frame his head and upper torso at a wooden table, with other seated people softly blurred in the warm interior behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-187-192.jpg",
+  "reviewed_source_sha256": "14d930c23701d3a09ffaa97e35260036109b3ba787124de5bf80f1f8090d070f",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

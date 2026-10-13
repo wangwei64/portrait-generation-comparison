@@ -1,0 +1,37 @@
+{
+  "index": 170,
+  "image_id": "flickr-ffhq-32706",
+  "prompt": "A horizontal close portrait of a young woman with long dark hair pulled back, glancing toward the left with slightly parted lips. She wears a dark purple top and dangling cream-colored earrings made of beads and open oval shapes. Her face fills the center, with other people's turquoise and pale blue shirt-covered shoulders cropped at either side. Soft green foliage and a wooden post form the shaded outdoor background.",
+  "prompt_sha256": "0430c1b046f4431769971e6edae2d07f4367adc931381a5c63b52ca0a5396990",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/39/398d5cc68faec2f9920c97933672506062311382b25849f772e75eed4dc8c0be.png",
+  "original_sha256": "398d5cc68faec2f9920c97933672506062311382b25849f772e75eed4dc8c0be",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bb/bbe6e744e499203d13f13d4753f3643dc735aea8d8207a004217e764acfb1156.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402437955141068,
+  "png_path": "generated/flickr-ffhq-32706.png",
+  "preview_path": "previews/flickr-ffhq-32706.jpg",
+  "png_sha256": "7b7300b9d701e4767b6e030b0b3085921566ea3b99f27801cdc54e911df33b96",
+  "preview_sha256": "284638ac3f7b35b6eed2a85e44c33d7f05c304f01f8886e5ed49048a8984b589",
+  "png_bytes": 1567175,
+  "preview_bytes": 294163,
+  "pixel_std": 62.86081681396583,
+  "created_at": "2026-10-08T08:49:27.364359+00:00"
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s11-q75",
+  "source_sha256": "173a8ca590860e40bb506695032d2bbe27d18f381f705f95f46c6a474c4bd5af",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "seated",
+    "turned_head",
+    "desk"
+  ],
+  "prompt": "A dark-skinned man with short upright black hair sits sideways at a white desk wearing a light gray T-shirt and matching pale trousers. His body faces right, while he turns his head toward the camera with a slight smile. His bent forearms and hands rest near each other on the desk. The horizontal frame includes his head, torso and lap. The desk holds a small lamp, a framed picture, multicolored cards and upright bright plastic cups. A color chart and patterned test boards lean against the wall, with tiny potted plants on a shelf above and an open doorway on the left.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

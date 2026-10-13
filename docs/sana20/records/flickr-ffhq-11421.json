@@ -1,0 +1,37 @@
+{
+  "index": 91,
+  "image_id": "flickr-ffhq-11421",
+  "prompt": "A vertical chest-up photograph of a man with short brown hair and a serious expression, looking off to the left. He wears a dark suit jacket, pale blue shirt and a loosely patterned brown tie, with a dark shoulder strap crossing near one shoulder. The outdoor light is soft and even. Keep his face in focus against a blurred backdrop of leafy green trees and a pale overcast sky.",
+  "prompt_sha256": "fda59d2f1f189bdafb077dd16c19bd4f44b76ea318663c2b2592444dd50b8c8e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c1/c1d6f54453226e7afd60057dd9f07f96104f298750565e5d68ac498e43cd1688.png",
+  "original_sha256": "c1d6f54453226e7afd60057dd9f07f96104f298750565e5d68ac498e43cd1688",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bd/bd51223d3f3330e7b6c0b02192258b2f594037839b4cc41a107b7715573748c5.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9420315027236938,
+  "png_path": "generated/flickr-ffhq-11421.png",
+  "preview_path": "previews/flickr-ffhq-11421.jpg",
+  "png_sha256": "cfc6f15ee5ada6927ebdc65b2af871719585fd896722bc65ebe4d8d707994bc5",
+  "preview_sha256": "3a27c83cb21d5959e220f2797f33aac615ac43b2b7891801957b3ad39bc5c6c1",
+  "png_bytes": 1670448,
+  "preview_bytes": 243261,
+  "pixel_std": 69.85078383384105,
+  "created_at": "2026-10-08T08:47:40.825740+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42445",
+  "prompt": "A vertical waist-up portrait of a woman wearing a draped red, cream and teal geometric-patterned headscarf with fringed ends. Her long-sleeved brown dress has delicate floral embroidery and beadwork across the chest. She stands slightly sideways beside tall green bamboo stems, turns toward the camera and gives a small smile with pink lips. Soft daylight illuminates her face against a blurred garden wall and green foliage.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-079-084.jpg",
+  "reviewed_source_sha256": "5ccaffabb8e98690312873961eb63a161b5af83784232951d6f6c9a29c87f0f5",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

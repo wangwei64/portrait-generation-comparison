@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-19558",
+  "candidate_index": 169,
+  "ffhq_id": 19558,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-19558.jpg",
+  "source_sha256": "fff4a370caaf6d0bee0c15bd257997567efcfec983c87161859fb97697887886",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4288,
+    2848
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/61642799@N03/27271377380/",
+    "photo_title": "DSC_5419",
+    "author": "BCcampus_News",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2016-06-08",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/61642799@N03/27271377380/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "17671403875d1e6ce2a9d2851d17ada2",
+  "current_decoded_pixel_md5": "26bf6888fce4b53e845a6c8ba6959cd4",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06500699626865672,
+  "fetched_at": 1791365541.7989268,
+  "visual_review": "pending"
+}

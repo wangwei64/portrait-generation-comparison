@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s43-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A young man with medium-length brown hair stands on an elevated riverside walkway wearing an olive-brown hooded jacket. Positioned on the left of a horizontal composition, he turns his face to the right and extends his left arm across the frame, resting his hand on a silver horizontal railing. His upper body is visible while his lower body is cropped out. A broad river fills the middle distance behind the railing, with long boats along the far bank, dense green trees and buildings on the hillside. Large dark and pale clouds cover the sky.",
+  "prompt_sha256": "2606a236e9364f48b709043813b79715f73f40cd2663a8bf1c9d4832b2499a12",
+  "seed": 42,
+  "token_count": 118,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.40080164000392,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077603816986084,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 62.28216882818577,
+  "generated_at": "2026-10-07T09:11:46.642369+00:00",
+  "image_path": "zimage/generated/piq23-s43-q75.png",
+  "sha256": "902153eba9ba49c06d608a441bc0d9f9b1ccbc4df95057c942ae5ffe32e27620",
+  "bytes": 1011907
+}

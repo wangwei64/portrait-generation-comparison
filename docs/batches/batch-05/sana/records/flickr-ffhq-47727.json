@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-47727",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor close portrait of a woman with shoulder-length dark brown hair, turned slightly sideways and smiling at the camera with teeth visible. A green halter-style strap rests at her neck, with her shoulders in frame. Strong sunlight gives her face warm tones and casts distinct shadows. Behind her are a vivid blue sky, part of a boat or poolside structure, white rope barriers and a thatched roof.",
+  "prompt_sha256": "0eca54f4fb18363e7f540bad346e6090d10c9c761ad14a11582e3d32f5ba01e9",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6701980866491795,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 88.14621624031896,
+  "generated_at": "2026-10-07T12:10:37.616602+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-47727.png",
+  "sha256": "d2c37c7d8c811cdc6f6ddee0d2f7d10ec65b5adaff9304fd8c38c11868f3765c",
+  "bytes": 753643
+}

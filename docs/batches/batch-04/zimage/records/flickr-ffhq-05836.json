@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-05836",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal travel photograph of a man with short dark hair smiling toward the camera beside a dark wooden boat. He wears a black zip jacket with thin white piping over a yellow shirt. His extended left arm rests on a curved wooden railing. Frame his head and chest on the right, with carved wood, a yellow geometric decorative band, windows and a few green leaves behind him in soft daylight.",
+  "prompt_sha256": "4530a02db29135ff0e4aff6a47565c43113c07189ae6b37e4d10ec178e31d872",
+  "seed": 42,
+  "token_count": 86,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.190638333559036,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854154109954834,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 66.7866010562239,
+  "generated_at": "2026-10-07T10:57:27.343590+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-05836.png",
+  "sha256": "fb5257614895405d380b1aea567bdea89fec18328710a50176a5f10201f92e41",
+  "bytes": 1051166
+}

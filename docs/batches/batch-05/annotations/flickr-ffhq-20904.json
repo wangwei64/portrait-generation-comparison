@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20904",
+  "prompt": "A vertical outdoor portrait of a smiling child with dark textured hair loosely pulled back. The child looks toward the camera with a playful toothy expression, head slightly lowered and body turned at an angle. An olive green patterned cardigan is worn over a dark checked button-front garment and a pale ribbed neckline. Bright sunlight creates a strong diagonal shadow across the forehead and face, against a softly blurred earthy background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-301-306.jpg",
+  "reviewed_source_sha256": "37872939912a63b6869a0f082d92940fbb84176e6167294a1b40a8b8679005c4",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

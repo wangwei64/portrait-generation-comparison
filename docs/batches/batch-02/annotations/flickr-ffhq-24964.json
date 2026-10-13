@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-24964",
+  "prompt": "A vertical indoor photograph of an older woman with short gray hair and wispy bangs. She wears rectangular glasses on a decorative chain, pink lipstick and a multicolored orange, green and brown patterned top. One hand rests beside her neck. Long necklaces and pale branching decorative strands lie across her chest, with a small name badge on the garment. Frame her upper body against a dark interior with patterned fabric, using direct frontal light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-019-024.jpg",
+  "reviewed_source_sha256": "1bd250ad7d92e459363fdadb1409ff1c067884b6782917e7755b04e36a0ff441",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

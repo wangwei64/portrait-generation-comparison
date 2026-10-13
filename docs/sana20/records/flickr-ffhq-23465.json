@@ -1,0 +1,37 @@
+{
+  "index": 181,
+  "image_id": "flickr-ffhq-23465",
+  "prompt": "A horizontal outdoor photograph of a young boy with closely cropped dark hair and dusty marks on his cheeks. He squints toward the camera with a small tight-lipped smile, wearing a gray zip-neck jacket with red stripes and embroidered red letters. Another child's pink sleeveless top and arm are cropped at the right, with a hand near his shoulder. Strong sunlight lights the main face against a softly blurred pale patterned background.",
+  "prompt_sha256": "76b1e35364bf0f73f924b10c53dd53ffa3768e3b9f8017a480716731194a7435",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/23/235552429c9cd38f895897e6b2b51d4e2f5b4e1c59eb36e74d4e76b31138ffe8.png",
+  "original_sha256": "235552429c9cd38f895897e6b2b51d4e2f5b4e1c59eb36e74d4e76b31138ffe8",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/56/56e18f8eab577a91a773449f2c92efc7742c6175bd35d386f2a43f34661d0763.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399469345808029,
+  "png_path": "generated/flickr-ffhq-23465.png",
+  "preview_path": "previews/flickr-ffhq-23465.jpg",
+  "png_sha256": "9b6077650941d7cd03677cdc1927c21a9ab068b84f62ef3605443d86e539ab56",
+  "preview_sha256": "79658b51dc98ae3326c22c5cc3c16f6697974cff6266ee49fa2db3d6a8588fc8",
+  "png_bytes": 1594618,
+  "preview_bytes": 245163,
+  "pixel_std": 87.00407408246075,
+  "created_at": "2026-10-08T08:49:42.352134+00:00"
+}

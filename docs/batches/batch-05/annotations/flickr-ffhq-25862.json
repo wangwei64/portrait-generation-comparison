@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-25862",
+  "prompt": "A horizontal close photograph of a man with long wavy brown hair, a thick full beard and rectangular dark-framed glasses. He sits in a black high-backed chair and looks to the left with a serious expression. He wears a bright red sports jersey with darker patterned sleeves. Frame his head and upper chest against a dark interior crossed by two luminous horizontal blue and purple light strips, with subdued light on his face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-295-300.jpg",
+  "reviewed_source_sha256": "4aa0513cb2daae17bb7bc5beaf9c2a72f85d62ba2c1dbb81fafa84abe987a68a",
+  "framing": "closeup",
+  "environment": "lowlight",
+  "tags": [
+    "closeup",
+    "lowlight"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

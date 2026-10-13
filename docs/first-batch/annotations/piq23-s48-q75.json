@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s48-q75",
+  "source_sha256": "87f779a13a35a8485d383fa4df5e7cd7bcd3a87c16881e7b3be670c10d116f75",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "full_body",
+    "backlight",
+    "walking"
+  ],
+  "prompt": "A person with light-brown hair pulled back stands on a curving brick-paved walkway between modern buildings, one foot slightly ahead of the other. They wear a long dark coat, a bulky dark scarf, dark slim trousers and dark shoes, with their arms down by their sides. Their full body is visible near the center of a vertical frame. The face and clothing are shadowed against a bright sky and pale buildings. Shrubs and a low white wall line the left side, while large windows run down the building on the right beside a curved red paving strip.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

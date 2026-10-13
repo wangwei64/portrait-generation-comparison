@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-56966",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph of a young girl with dark hair in a high ponytail and loose strands around her face. She wears a pink short-sleeved shirt with bold yellow stripes and holds up a slice of bread topped with corn, peas and carrot pieces using both hands. She looks toward the camera across a bright blue classroom table. A wooden chair, another blue table and pale cupboards fill the softly lit room behind.",
+  "prompt_sha256": "07dd01057f6a3b8d651f40a795dcfcbd46552171800db7728b19ec618bff620b",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6993013210594654,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 71.88257979792905,
+  "generated_at": "2026-10-07T10:13:44.924106+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-56966.png",
+  "sha256": "9f800f8c071ff36812537732b2f672c94ccbe5f15adbc2ab66afb1fc4f7218b2",
+  "bytes": 925607
+}

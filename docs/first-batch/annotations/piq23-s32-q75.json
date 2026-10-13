@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s32-q75",
+  "source_sha256": "0eb306ea9631820ac6c3f919212510be570ec11bb6a010c440421f85625f7a1e",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "long_hair",
+    "front_view",
+    "night"
+  ],
+  "prompt": "A woman with long loose brown hair stands upright facing the camera on a narrow brick-paved path at night. She wears a plain dark green short-sleeved T-shirt and a fine necklace, with her arms hanging straight beside her body. Her head and upper body are centered in a vertical composition. A tall dark wooden wall recedes along the left side of the path, while dense narrow-leaved shrubs occupy the right. The background is mostly dark, with a few small illuminated patches on a building. Her face and shirt are much brighter than the surrounding nighttime setting.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

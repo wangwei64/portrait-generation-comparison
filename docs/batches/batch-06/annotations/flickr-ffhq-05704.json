@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-05704",
+  "prompt": "A nearly square portrait of a bald man with a short gray goatee, smiling at the camera while holding a silver-and-black compact camera beside his face in one raised hand. Its black wrist strap hangs down. Reading glasses rest on top of his head, and his gray long-sleeved shirt has large dark letters across the chest. Frame his head and upper torso against warm vertical wooden cupboard doors under direct indoor flash.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-385-390.jpg",
+  "reviewed_source_sha256": "1d47b9477e9d088f450115d9cec007c4c80901bab0daa79475e033011ce86b15",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

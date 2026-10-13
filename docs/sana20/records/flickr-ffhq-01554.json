@@ -1,0 +1,37 @@
+{
+  "index": 73,
+  "image_id": "flickr-ffhq-01554",
+  "prompt": "A vertical candid photograph of a blonde woman seated at a conference table, looking to the left with a thoughtful closed-mouth expression. She wears a beige button-front blouse, a gold necklace, small earrings and a pale lanyard. Strong window light catches her hair and face. Water glasses, papers and a blurred name card occupy the foreground, while a dark-suited person standing behind is cropped at the shoulders. Include her upper body and folded forearms.",
+  "prompt_sha256": "549a7c4ab75c3d5d16a5c56bbc097d9407da286cc998503980b04dd71b9681c0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/85/856105ea6e8ac1bbe5ebc4a3f480237efc3826020afe465c90a71164e62506ae.png",
+  "original_sha256": "856105ea6e8ac1bbe5ebc4a3f480237efc3826020afe465c90a71164e62506ae",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/34/34284bf540af2995f4b5d61c4c5dd9cd6a07e1f2ca4225794d25b44da8b37b0d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 298,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398868270218372,
+  "png_path": "generated/flickr-ffhq-01554.png",
+  "preview_path": "previews/flickr-ffhq-01554.jpg",
+  "png_sha256": "209e70a9e2652e49793dcb54052cab4e3441aad487365cd6522a5a81ede86140",
+  "preview_sha256": "85c95c0be9bc0ecc523ce4f5a507f3f8c6e2934f7387568dd78678758d23f28d",
+  "png_bytes": 1561639,
+  "preview_bytes": 254306,
+  "pixel_std": 88.75707733652077,
+  "created_at": "2026-10-08T08:47:16.675824+00:00"
+}

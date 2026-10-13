@@ -1,0 +1,37 @@
+{
+  "index": 277,
+  "image_id": "flickr-ffhq-04916",
+  "prompt": "A horizontal travel portrait of a woman with straight shoulder-length black hair and lightly tinted rectangular sunglasses, smiling at the camera. She wears a red quilted sleeveless vest over a teal long-sleeved top, with black backpack straps. One hand rests on a dark railing along the lower left. Frame her from head to waist beside a waterfront, with rippling water, a low pier, a large pale windowed building and part of a bicycle behind.",
+  "prompt_sha256": "2c5f886728dc2e15ed7c9a7bf5f8aad20f5025ba89b5d6902ddb0c603682585a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d2/d2fdeb714bef1387a73770c03b7bd49c435f017b6cbbd54282888f7bfcc6f1d1.png",
+  "original_sha256": "d2fdeb714bef1387a73770c03b7bd49c435f017b6cbbd54282888f7bfcc6f1d1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/87/877fbe20b74be3b39058c329255734d655867daa7a38a146dd2582b14d503256.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 297,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9414127953350544,
+  "png_path": "generated/flickr-ffhq-04916.png",
+  "preview_path": "previews/flickr-ffhq-04916.jpg",
+  "png_sha256": "a56504664abd7cb8830e04eb7a57eae0ac54aa9f088fb62ff8aa4e7bac6dd906",
+  "preview_sha256": "6dd8d82ba265e1b05968722a3e3a034be98447639d6200aef1e6e803c751f21e",
+  "png_bytes": 1400752,
+  "preview_bytes": 260990,
+  "pixel_std": 92.45122478681215,
+  "created_at": "2026-10-08T08:51:52.139919+00:00"
+}

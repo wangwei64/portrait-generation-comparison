@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-43713",
+  "prompt": "A horizontal close photograph of a brown-haired child looking directly at the camera with wide eyes and a serious closed-mouth expression. The child wears a bright pink sleeveless top with tied shoulder straps and yellow stitching, and a pink wristband. Both arms are raised, holding a thick silver metal chain above the forehead between vertical posts. Direct flash brightens the face, hands and chain against a dark indoor background, with the upper arms partly cropped.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-205-210.jpg",
+  "reviewed_source_sha256": "8595dbf0c5579b4aa3c92c197e48eb63c836d77017efee1a6c3372036fdd09bb",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

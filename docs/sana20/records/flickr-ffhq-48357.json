@@ -1,0 +1,37 @@
+{
+  "index": 239,
+  "image_id": "flickr-ffhq-48357",
+  "prompt": "A horizontal low-angle photograph of a baby being held up toward the camera beneath a leafy tree. The baby has wispy dark hair with a tiny pink clip, wide dark eyes and an open cheerful mouth, wearing a pale pink short-sleeved button-front top. Both small hands are curled near the chest while adult hands support the torso from below. Dark green branches and patches of blue-white sky fill the sunlit background.",
+  "prompt_sha256": "fa06599acbb052a374b6414c65c984b47a6219eef27a4b7bc8f5375d04f92520",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9f/9f564ef5ab960eb30f90be701cf80f941ecb6d23ad75d77481f36fd35f263579.png",
+  "original_sha256": "9f564ef5ab960eb30f90be701cf80f941ecb6d23ad75d77481f36fd35f263579",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/43/4309db98891cea1622e35805df1e982044458e1560859a8d2621a7ed91e56a87.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406965598464012,
+  "png_path": "generated/flickr-ffhq-48357.png",
+  "preview_path": "previews/flickr-ffhq-48357.jpg",
+  "png_sha256": "8e6247a2e09739e8322679bb991ac7dabcf06c4d9b5af9599c6bd74e264c10db",
+  "preview_sha256": "8fccccdaeb2760137c23582dfcfa6c8dbf85cc7aa867c8232831a4b9fbe2e9bf",
+  "png_bytes": 1743338,
+  "preview_bytes": 414531,
+  "pixel_std": 70.23736487860172,
+  "created_at": "2026-10-08T08:51:00.953952+00:00"
+}

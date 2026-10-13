@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-11315",
+  "prompt": "A horizontal outdoor photograph of a boy with short light brown hair, holding a small silver-yellow fish upside down by its tail beside his head. He has bare shoulders and chest and looks toward the camera with a slightly squinting smile. Frame his head, upper torso and raised arm. Softly blurred white dock posts and pale blue water occupy the sunny background, with a small dark obstruction at the lower right.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-133-138.jpg",
+  "reviewed_source_sha256": "f2275fa26d09879efbad2fe593b4a695cfa960e0016a8ddcd40681d0d0b79a24",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

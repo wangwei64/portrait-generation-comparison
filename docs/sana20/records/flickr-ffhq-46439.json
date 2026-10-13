@@ -1,0 +1,37 @@
+{
+  "index": 118,
+  "image_id": "flickr-ffhq-46439",
+  "prompt": "A horizontal street portrait of a smiling young man with short spiky brown hair, looking directly at the camera. He wears an orange zip-neck fleece beneath a dark navy coat. Strong daylight highlights his face. Frame his head and shoulders in the foreground of a crowded outdoor event, with people in winter jackets, bare tree branches, low buildings and white tents behind, rendered less sharply than the main subject.",
+  "prompt_sha256": "61e67a775cc27ee3cb17967261a7203fe2081808c61fff6d6afa84899e51f2e4",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/77/7726daf459d44fad3c252cb5b9b153c75dcaeaa128e0809f787e3a9b828eebd1.png",
+  "original_sha256": "7726daf459d44fad3c252cb5b9b153c75dcaeaa128e0809f787e3a9b828eebd1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ed/ed5d597b024f7c3f566678f1a46ab47183b6fa72f4660d8097567e3bfbaee3d0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407936632633209,
+  "png_path": "generated/flickr-ffhq-46439.png",
+  "preview_path": "previews/flickr-ffhq-46439.jpg",
+  "png_sha256": "1b60a6ff93b01c193d48f3f90b66a13d230e617adb3e7569b307bd19ba7b8885",
+  "preview_sha256": "02b47a7e2b9d577b7b4945ed364bd50106bdcd90fba73ad3d94e9543d2b77db4",
+  "png_bytes": 1563433,
+  "preview_bytes": 273718,
+  "pixel_std": 89.14757774532885,
+  "created_at": "2026-10-08T08:48:17.367846+00:00"
+}

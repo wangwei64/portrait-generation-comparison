@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-23505",
+  "candidate_index": 212,
+  "ffhq_id": 23505,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-23505.jpg",
+  "source_sha256": "b03b774324bf4697b4729cea3308fd72511553d1fb2429fa035096a5f0379594",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4928,
+    3280
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/websummit/38189319622/",
+    "photo_title": "SD1_5545",
+    "author": "Web Summit",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-11-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/websummit/38189319622/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "9db92bd0894b978d03330342a224f949",
+  "current_decoded_pixel_md5": "d967d3ff56ae1d8d1b16b539f218545d",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07083094116249604,
+  "fetched_at": 1791365551.499234,
+  "visual_review": "pending"
+}

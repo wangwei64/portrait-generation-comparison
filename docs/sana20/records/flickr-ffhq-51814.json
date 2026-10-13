@@ -1,0 +1,37 @@
+{
+  "index": 104,
+  "image_id": "flickr-ffhq-51814",
+  "prompt": "A vertical portrait of an older woman with short reddish brown hair and rectangular dark-rimmed glasses. She faces the camera and smiles with her teeth visible. A cream cardigan with irregular black spots is worn over a black blouse decorated with glossy dark beads near the neckline. Frame her head and upper torso against a softly textured gray background, with even studio light revealing natural facial lines and gentle shadows.",
+  "prompt_sha256": "f9a9cd770a4f43ed43c85679974cd03fede8fc86ee1cfefaa4cbf08221e120c1",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fb/fbd5a72b25b41a69b3d0b550053dce32b24481870876643e3eb6cab7b23ec1a8.png",
+  "original_sha256": "fbd5a72b25b41a69b3d0b550053dce32b24481870876643e3eb6cab7b23ec1a8",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bf/bf89ad32f29ede996db1a3143650686d596bc6878a7b848de1e97de1f1dbc14e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9443325623869896,
+  "png_path": "generated/flickr-ffhq-51814.png",
+  "preview_path": "previews/flickr-ffhq-51814.jpg",
+  "png_sha256": "ce3e90a4b69c228560c736b4c2012235d6a74aa23a29b311910864cfc34610d2",
+  "preview_sha256": "5b48acd848fc1a42b80e4486b0f9eecf156adc140b5f5706e05f744dce9f72e4",
+  "png_bytes": 1515987,
+  "preview_bytes": 246365,
+  "pixel_std": 62.16413494022963,
+  "created_at": "2026-10-08T08:47:58.417079+00:00"
+}

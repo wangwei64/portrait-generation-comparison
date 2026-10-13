@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-51344",
+  "candidate_index": 229,
+  "ffhq_id": 51344,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-51344.jpg",
+  "source_sha256": "d4d3b802a589df58f12be71852a9b19b52d3cf5613173e766773a44f73a3b1b4",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/jaygooby/246361680/",
+    "photo_title": "Staring into the distance",
+    "author": "Jay Gooby",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2006-09-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/jaygooby/246361680/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "f209ca66ab8662590f9e5220a6122d26",
+  "current_decoded_pixel_md5": "bec003a1d40febd84ac53c1686ce4d21",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15314525061165113,
+  "fetched_at": 1791367229.0913367,
+  "visual_review": "pending"
+}

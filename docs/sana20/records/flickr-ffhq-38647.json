@@ -1,0 +1,37 @@
+{
+  "index": 223,
+  "image_id": "flickr-ffhq-38647",
+  "prompt": "A horizontal close photograph taken from a slightly low angle of an older man with very short thinning gray hair. He looks down toward the right with parted lips and a thoughtful expression. He wears a vivid blue outer jacket over a black high collar, with another blue collar folded outward. Soft daylight comes through a series of slanted high windows, forming bright diagonal shapes in the pale modern interior behind his head.",
+  "prompt_sha256": "329932ee083a8075865e4c119988feb491e7803c936653e977b1ac9ce156e555",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/14/149dd2d68d69730c27497f56a21ef26e016b3e64c92764b583a0c6590300cf41.png",
+  "original_sha256": "149dd2d68d69730c27497f56a21ef26e016b3e64c92764b583a0c6590300cf41",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ea/eadca51d20b264c0fc0049768d2fba2f5c809e1f2c850d2b48051850db9db151.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406104497611523,
+  "png_path": "generated/flickr-ffhq-38647.png",
+  "preview_path": "previews/flickr-ffhq-38647.jpg",
+  "png_sha256": "64f5900378acc1b920bcc728acacb8cad2586265fb83b43a2862683d07315682",
+  "preview_sha256": "c31d4ada412c1f869884d222aed5aff73c8628fe541b0484a701223a611f039e",
+  "png_bytes": 1593898,
+  "preview_bytes": 267540,
+  "pixel_std": 81.44005438754382,
+  "created_at": "2026-10-08T08:50:39.451498+00:00"
+}

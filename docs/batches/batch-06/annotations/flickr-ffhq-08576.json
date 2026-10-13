@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-08576",
+  "prompt": "A horizontal candid photograph of a woman seated in the front passenger seat of a car, turning back toward the camera with a broad toothy smile. She has shoulder-length light brown hair and oversized dark sunglasses, and wears an orange and white striped sleeveless top. Gray fabric seats, the dark dashboard and a rearview mirror surround her. Bright daylight through the windshield reveals a flat roadside and distant trees.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-373-378.jpg",
+  "reviewed_source_sha256": "d5967cf614d633c6e235eae22f5b6e5ffb5335f213482eb729f48631fbd9bd6c",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

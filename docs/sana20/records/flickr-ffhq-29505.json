@@ -1,0 +1,37 @@
+{
+  "index": 194,
+  "image_id": "flickr-ffhq-29505",
+  "prompt": "A vertical close travel portrait of a girl with long brown hair, including two thin front braids tied with bright yellow and green bands. She turns her face toward the camera with a slight closed-mouth smile. Her head fills the lower left of the frame. Behind her stretches a mostly empty paved street with a white lane marking, colorful facades, palm trees, decorative lamps and a distant pointed blue roof in bright daylight.",
+  "prompt_sha256": "7cde0a759b24fa9037a6948f342ab8f4943e52e897beadcec1b7c1d5ba8dd949",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/68/68d3525d8e0820c969eb93c72be6c66b902b05a901185313ef277c2111b951b1.png",
+  "original_sha256": "68d3525d8e0820c969eb93c72be6c66b902b05a901185313ef277c2111b951b1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/85/852bb7b6a65f8401d6b7671eee1534e2fa1dbeb040aad1e844417d94e105fca2.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940916869789362,
+  "png_path": "generated/flickr-ffhq-29505.png",
+  "preview_path": "previews/flickr-ffhq-29505.jpg",
+  "png_sha256": "a2d8d4440c2effe2e75358d90ff46e5457026ce82785486c4460fb812adbdb01",
+  "preview_sha256": "a8392b126c22680b8d15d6513b1d53a9452d203ee01e2e90fcaa4cf14fb7fa0b",
+  "png_bytes": 1727569,
+  "preview_bytes": 357768,
+  "pixel_std": 64.42760507866001,
+  "created_at": "2026-10-08T08:49:59.729889+00:00"
+}

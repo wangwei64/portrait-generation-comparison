@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-29482",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph of a cheerful older man with closely cropped gray hair, a thick gray mustache and narrow tinted rectangular glasses. He leans toward the camera with a broad toothy smile, wearing a dark suit jacket, pale striped shirt and a loosened diagonally striped dark tie. His forearms rest near the lower edge beside a small drinking glass. Dappled greenery and a bright building blur behind him beneath an outdoor trellis.",
+  "prompt_sha256": "dae7fbb2b3c868656c881771038fa9dddf3d29743ba0c8a2d45b372a5f8e4f5c",
+  "seed": 42,
+  "token_count": 98,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.234746530652046,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.85421133041382,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 79.06306884604228,
+  "generated_at": "2026-10-07T12:15:26.659956+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-29482.png",
+  "sha256": "ef13caad1136ebbb3e649f31729a8c600bfa72af17e45d9a65756ec7d1d0e66e",
+  "bytes": 989772
+}

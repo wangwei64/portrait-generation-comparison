@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-13321",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    800
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor photograph of a stocky man with short dark hair and light facial stubble, looking down with a relaxed smile. He wears a shiny charcoal quilted puffer jacket, partly open over a dark shirt. Frame him from the head to the lower torso in bright sunshine. Behind him, softly blurred red and white stadium seating rises above parked vehicles and equipment, with a partially visible person near the left edge.",
+  "prompt_sha256": "043bcf3fce39945917f9c5c9cd37342b2a9214edbd4664d8fef12faa61ef2287",
+  "seed": 42,
+  "token_count": 288,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.1721159778535366,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.84238338470459,
+  "peak_reserved_gib": 11.63671875,
+  "nvidia_smi_peak_gib": 12.1533203125,
+  "nvidia_smi_sample_count": 11,
+  "pixel_std": 86.04821948710988,
+  "generated_at": "2026-10-07T11:31:09.051761+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372598535841839",
+  "image_path": "sana/generated/flickr-ffhq-13321.png",
+  "sha256": "484a241fea2e5d22aabd2d05f3e5a68d1434087f599bcb8b9778acdfe47e1712",
+  "bytes": 1035962
+}

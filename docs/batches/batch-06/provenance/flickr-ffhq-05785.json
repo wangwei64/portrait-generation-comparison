@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-05785",
+  "candidate_index": 382,
+  "ffhq_id": 5785,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-05785.jpg",
+  "source_sha256": "e0465f7a98cb0641657bdc675387e013409e35905225d58d911a8c5030c86a37",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1433,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/smarotta/34520441332/",
+    "photo_title": "IMG_2813e",
+    "author": "Marotta Photography",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-05-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/smarotta/34520441332/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "1bc6a8d2365151a868d8503b517a778f",
+  "current_decoded_pixel_md5": "71c257a1e0afead5b18b45f8963efda8",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07079301808463265,
+  "fetched_at": 1791367638.7366512,
+  "visual_review": "pending"
+}

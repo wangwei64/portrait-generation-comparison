@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s32-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with long loose brown hair stands upright facing the camera on a narrow brick-paved path at night. She wears a plain dark green short-sleeved T-shirt and a fine necklace, with her arms hanging straight beside her body. Her head and upper body are centered in a vertical composition. A tall dark wooden wall recedes along the left side of the path, while dense narrow-leaved shrubs occupy the right. The background is mostly dark, with a few small illuminated patches on a building. Her face and shirt are much brighter than the surrounding nighttime setting.",
+  "prompt_sha256": "1007316ca312b390a262c8aed17fb2cd3f38a84b59d170ea763c6b4c81471377",
+  "seed": 42,
+  "token_count": 123,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.654693879187107,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077627658843994,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 99,
+  "pixel_std": 47.0730828202336,
+  "generated_at": "2026-10-07T09:06:19.569503+00:00",
+  "image_path": "zimage/generated/piq23-s32-q75.png",
+  "sha256": "582661e67618de25a71bf7e3bec216246417c1dab9b8de707613197dbf1b2c08",
+  "bytes": 1185918
+}

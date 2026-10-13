@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s28-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A smiling dark-skinned woman with dark hair tied up stands on a garden path at night. She wears a black padded coat over a tan ribbed turtleneck, black trousers and a small black crossbody bag in front of her hip. Her hands are held behind her back. The vertical view frames her from the head to the upper legs. Dense green and yellow foliage fills the background beneath a dark sky. A bright streetlamp stands above her on the left, and part of a green bench is visible at the right edge.",
+  "prompt_sha256": "727df8cd78ce1955b75b581752869464ce71051dfbc69929ca68d7eb7529d5fd",
+  "seed": 42,
+  "token_count": 115,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.226970728486776,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077589511871338,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 59.04648777007479,
+  "generated_at": "2026-10-07T09:04:20.172385+00:00",
+  "image_path": "zimage/generated/piq23-s28-q75.png",
+  "sha256": "fc7e6d1cda681567bca35e02e009a4a1ba308b5ed7418511f58150b6ad4f942c",
+  "bytes": 1337497
+}

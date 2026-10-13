@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-13653",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid photograph of a woman with long straight brown hair, playing a long decorated tubular wind instrument with a small blue mouthpiece at her lips. She holds it in both hands as the tube extends toward the lower foreground, and glances to the right with a concentrated expression. She wears a pale floral T-shirt and a blue patterned scarf. Soft daylight lights her face against a pale blurred architectural background.",
+  "prompt_sha256": "54541ca7e2a4edac2631d2f9dde4699d187cf6da47b65664a97295595098d178",
+  "seed": 42,
+  "token_count": 287,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6772812008857727,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 68.00558495735248,
+  "generated_at": "2026-10-07T12:10:23.780922+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-13653.png",
+  "sha256": "a58b1cdfac01dbb6b3ad6835b296a3a6b5c3b23b67c69db7f96698eed3ca6928",
+  "bytes": 922582
+}

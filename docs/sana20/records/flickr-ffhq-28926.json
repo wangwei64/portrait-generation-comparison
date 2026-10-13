@@ -1,0 +1,37 @@
+{
+  "index": 69,
+  "image_id": "flickr-ffhq-28926",
+  "prompt": "A horizontal outdoor selfie of a man with medium-length tousled dark hair, a short beard and large gold-rimmed aviator sunglasses. He looks into the camera with a neutral expression, wearing a dark collared shirt. His head and shoulders dominate the foreground. Behind him are a wooden railing, water, leafy trees with exposed roots and a palm frond; a smaller person in sunglasses stands farther back to the right. Use dappled daylight.",
+  "prompt_sha256": "baa879ce74173082198131e86dc36f686b8126d97b509c1e6b860614432c41cf",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e4/e4a63fc592928fd26498faf9abd517073135171f5177e8a0473ac344eaf920e2.png",
+  "original_sha256": "e4a63fc592928fd26498faf9abd517073135171f5177e8a0473ac344eaf920e2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/28/28c3badf3eee3b1963282f5be52c31a61eb8f0624ca8f544f515cc8525e256c1.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 296,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406055957078934,
+  "png_path": "generated/flickr-ffhq-28926.png",
+  "preview_path": "previews/flickr-ffhq-28926.jpg",
+  "png_sha256": "5b725d3b244d5345545855abcb97df22b729363e865a879a2383f69dc1772214",
+  "preview_sha256": "41a0be0e987b51bd9233923501a3f28ae1520049b28a1aff656ff41adc058fca",
+  "png_bytes": 1897262,
+  "preview_bytes": 473208,
+  "pixel_std": 80.31346586795797,
+  "created_at": "2026-10-08T08:47:11.290409+00:00"
+}

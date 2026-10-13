@@ -1,0 +1,37 @@
+{
+  "index": 176,
+  "image_id": "flickr-ffhq-23505",
+  "prompt": "A horizontal stage photograph of a woman with short silver-gray hair, speaking with both hands lifted and fingers spread. She wears a black long-sleeved top patterned with large red and cream flowers, small earrings and a thin headset microphone along her cheek. Her body faces left and her mouth is open. Frame her head, shoulders and hands against vivid blurred pink and purple illuminated panels, under warm focused stage light.",
+  "prompt_sha256": "25f692d39ff03658ce969405d1c18e3489c33a2682aaf6e271d4284ff778d03e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3c/3c97f09a6176d4728858757b63bba3012a549ba2df4df74aea168a6c2d29cb91.png",
+  "original_sha256": "3c97f09a6176d4728858757b63bba3012a549ba2df4df74aea168a6c2d29cb91",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/53/533a436cfa9eeb19c0f7a2b38e6fa08dc30076bc9df51f6d738a9f8922ab26b9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401753805577755,
+  "png_path": "generated/flickr-ffhq-23505.png",
+  "preview_path": "previews/flickr-ffhq-23505.jpg",
+  "png_sha256": "3d91ed9cd3da52aaa2666a45b1f00ee34a6130e3c17580cad1bc531d44712d36",
+  "preview_sha256": "4a0329b0e4f475b84f4bd1e01bfee2f68f0ce4804376017905d797f0f318dafe",
+  "png_bytes": 1490081,
+  "preview_bytes": 304169,
+  "pixel_std": 91.14581457360303,
+  "created_at": "2026-10-08T08:49:35.527013+00:00"
+}

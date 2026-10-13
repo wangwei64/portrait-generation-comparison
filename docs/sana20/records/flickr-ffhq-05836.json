@@ -1,0 +1,37 @@
+{
+  "index": 157,
+  "image_id": "flickr-ffhq-05836",
+  "prompt": "A horizontal travel photograph of a man with short dark hair smiling toward the camera beside a dark wooden boat. He wears a black zip jacket with thin white piping over a yellow shirt. His extended left arm rests on a curved wooden railing. Frame his head and chest on the right, with carved wood, a yellow geometric decorative band, windows and a few green leaves behind him in soft daylight.",
+  "prompt_sha256": "4530a02db29135ff0e4aff6a47565c43113c07189ae6b37e4d10ec178e31d872",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bb/bb79a77e85fc6b074dff7c0707979760334b431260b63494a308dc05b972f973.png",
+  "original_sha256": "bb79a77e85fc6b074dff7c0707979760334b431260b63494a308dc05b972f973",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/56/561e984fc8eebd6750cc782547945e927f7af2b31c2102a8e58a8b4e8b044c2d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402076117694378,
+  "png_path": "generated/flickr-ffhq-05836.png",
+  "preview_path": "previews/flickr-ffhq-05836.jpg",
+  "png_sha256": "488af4691b34fb12f7dfb9a7283dd9c2cb247a4da60d2feb62e02038bdc06b76",
+  "preview_sha256": "e28604bab21df6ebc5e85d649ba4f2065fc9e94d9749a57247b5553fdcae7ba7",
+  "png_bytes": 1553058,
+  "preview_bytes": 279003,
+  "pixel_std": 79.02627416440534,
+  "created_at": "2026-10-08T08:49:09.613122+00:00"
+}

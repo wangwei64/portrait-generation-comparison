@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-17635",
+  "candidate_index": 149,
+  "ffhq_id": 17635,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-17635.jpg",
+  "source_sha256": "185f56abb4139e97cd30b7caf252387bab06281392f390fc1dbc9598cd0382d1",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4928,
+    3280
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/afge/8480696728/",
+    "photo_title": "2013 Legislative Conference - Monday",
+    "author": "AFGE",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-02-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/afge/8480696728/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "0200b39590fc51aa550169dca482a740",
+  "current_decoded_pixel_md5": "dc585af0a1cffa825f4340b1f923f0c6",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07083094116249604,
+  "fetched_at": 1791365479.6016963,
+  "visual_review": "pending"
+}

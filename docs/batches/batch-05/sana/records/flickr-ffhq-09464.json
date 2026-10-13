@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-09464",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    640
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close photograph of a man with wavy dark hair streaked with gray, turning his face toward the left as he speaks with rounded open lips. He wears a dark jacket over a pale collared shirt, mostly cropped below the neck. A small black recording device appears near the far right edge. Soft subdued light falls across his face against a heavily blurred dark background with broad turquoise, white and red areas.",
+  "prompt_sha256": "172a6743ff6f13ba589a129f89ed89ac65a3887d9d976563f0afcb04149238e9",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.0782161243259907,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.587409019470215,
+  "peak_reserved_gib": 10.830078125,
+  "nvidia_smi_peak_gib": 11.3466796875,
+  "nvidia_smi_sample_count": 11,
+  "pixel_std": 56.71698490564171,
+  "generated_at": "2026-10-07T12:09:14.204707+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-09464.png",
+  "sha256": "7eb432da982dd345d04d1d3a54b6b5cc9331a72802ddf261856f85c3f79ccf5d",
+  "bytes": 614125
+}

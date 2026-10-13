@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-36571",
+  "candidate_index": 266,
+  "ffhq_id": 36571,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-36571.jpg",
+  "source_sha256": "3b49d690c2a3e799a267c55da7adf9da913e375d04113c0e1936087f25cb2ef2",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1936,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bolevasse/5659356091/",
+    "photo_title": "St. Johns USVI Trip (26)",
+    "author": "Rob Bole",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-04-27",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/bolevasse/5659356091/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "98212803b8984babd19a72ccc565f8c4",
+  "current_decoded_pixel_md5": "ebecc1f3f89297ef50a4c126aefde252",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15855843791449853,
+  "fetched_at": 1791365565.495439,
+  "visual_review": "pending"
+}

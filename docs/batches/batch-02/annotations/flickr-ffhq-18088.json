@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-18088",
+  "prompt": "A horizontal close portrait of a woman with voluminous tightly curled black hair, looking downward and smiling broadly. Small metallic dental braces are visible. She wears a red scoop-neck top, a cream patterned choker with large red decorative stones and matching dangling earrings. Warm light catches her face and gold-toned eye makeup. Softly blurred white flowers and a warm brown interior fill the background. Crop near the shoulders and top of the hair.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-013-018.jpg",
+  "reviewed_source_sha256": "6fdedc2348560410c0716279b655d75241dae72c30d1530dd1696e234af7d343",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-19167",
+  "candidate_index": 287,
+  "ffhq_id": 19167,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-19167.jpg",
+  "source_sha256": "98d3679013d73db5c07723374c2324940018e78313326f8078e9556da2a8cdc5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4032,
+    3024
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/noneck/24294351246/",
+    "photo_title": "IMG_0152",
+    "author": "Noel Hidalgo",
+    "country": "Argentina",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2016-01-11",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/noneck/24294351246/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "43b1223559c7ee3e709fbe0f57c8074e",
+  "current_decoded_pixel_md5": "617ec0eee1dfef38bb29911ef73fa818",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13521589191232047,
+  "fetched_at": 1791365570.9941375,
+  "visual_review": "pending"
+}

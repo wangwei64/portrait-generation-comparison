@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-56124",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal night portrait of a boy with short dark hair, smiling gently at the camera with teeth visible. He wears a dark shirt with a red collar. Frame his head and shoulders close to the lens, slightly left of center. Behind him is a parking lot with illuminated storefronts, a white vehicle and four very tall narrow smokestacks lit red-orange against a black sky, with the foreground face more softly illuminated.",
+  "prompt_sha256": "c1d3ba6c7ce37150577d1d16762bc151be0c83d392e9f4aea933ed7439a1c25f",
+  "seed": 42,
+  "token_count": 106,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.579017218202353,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.208707332611084,
+  "peak_reserved_gib": 39.12890625,
+  "nvidia_smi_peak_gib": 39.6396484375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 65.84487871020993,
+  "generated_at": "2026-10-07T12:47:33.248155+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791376530505287358",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-56124.png",
+  "sha256": "dd6fabd4d065b11a0b1772898482fcab8bdefea7d6f98f82040b3a4764a265d8",
+  "bytes": 1046236
+}

@@ -1,0 +1,37 @@
+{
+  "index": 36,
+  "image_id": "piq23-s35-q75",
+  "prompt": "A man with short receding brown hair, blue-gray eyes and a full beard is shown in a close horizontal head-and-shoulders portrait. He wears a brown outdoor jacket over a dark scarf, with straps visible on his shoulders. His head faces nearly forward but his eyes glance toward the left. He stands beneath a dark building overhang beside a pale tiled exterior wall on the right. Green hedges, a paved path and a tree with yellow-green leaves appear in the brighter outdoor background on the left.",
+  "prompt_sha256": "73b9440511c5ac48272aba146115feab885a132ed89363e222428bf12d9783f9",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f9/f95091330b4e301d3f8dc9b5acebe96dd814adeacd1d54cf504e8be2dd3488dd.png",
+  "original_sha256": "f95091330b4e301d3f8dc9b5acebe96dd814adeacd1d54cf504e8be2dd3488dd",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3d/3d81a20654edf854ffc46d007f95c8d831ed6a35948466b47ea0a13e4194596a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 309,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.94088951125741,
+  "png_path": "generated/piq23-s35-q75.png",
+  "preview_path": "previews/piq23-s35-q75.jpg",
+  "png_sha256": "151706a82af9912826e7cfd895f4a1fa93751f059a05a22b1e95083f0af59dfc",
+  "preview_sha256": "c384ca0af89e8f9560c28f94a9104cb43952fb2bdc163daad534fa38f5eb5dd9",
+  "png_bytes": 1357932,
+  "preview_bytes": 233939,
+  "pixel_std": 77.86418639846649,
+  "created_at": "2026-10-08T08:46:28.232025+00:00"
+}

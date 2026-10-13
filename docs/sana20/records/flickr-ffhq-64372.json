@@ -1,0 +1,37 @@
+{
+  "index": 261,
+  "image_id": "flickr-ffhq-64372",
+  "prompt": "A horizontal flash portrait of a smiling young woman with heavily layered straight blonde and light brown hair, long side-swept bangs and darker strands at the ends. She looks directly at the camera with teeth visible and wears a teal short-sleeved top. Frame her head and shoulders in a dim interior. Dark wood paneling, a reddish counter edge and a long blue padded object occupy the background.",
+  "prompt_sha256": "09bc61c884ad766a91d724ea21f45bf0bd011a1451eb9d53149d2c99db6cbd70",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "lowlight",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/77/778575f5dd50fa5e519986b953b8e5eb36f185a3ec94d8616966a7290ac9df27.png",
+  "original_sha256": "778575f5dd50fa5e519986b953b8e5eb36f185a3ec94d8616966a7290ac9df27",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b2/b270c468234ce5fd199c2ec88982ffbef3ea7fa7a71a1553de417f081dee7863.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.945483073592186,
+  "png_path": "generated/flickr-ffhq-64372.png",
+  "preview_path": "previews/flickr-ffhq-64372.jpg",
+  "png_sha256": "cb40bb9d38179736d49fa97695c02ba99a645c457d4cd0ec6b04ddabb486dfb1",
+  "preview_sha256": "afde4b36bfb2d2e699ce1e95401ffdf7959b54a6f3e1c21a323d263c3f551868",
+  "png_bytes": 1521034,
+  "preview_bytes": 285076,
+  "pixel_std": 51.28956000010605,
+  "created_at": "2026-10-08T08:51:30.584616+00:00"
+}

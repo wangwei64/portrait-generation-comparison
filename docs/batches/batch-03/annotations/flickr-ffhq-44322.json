@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-44322",
+  "prompt": "A horizontal playful portrait of a young boy with short blonde hair wearing a navy baseball cap backward and a dark purple T-shirt. He extends one arm toward the lens, pointing directly at the camera, and squints with a mischievous smile. His hand is enlarged and slightly blurred in the foreground while the face stays clearer. Sunlit branches, pink-purple flowers and a light-colored building form the softly blurred garden background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-157-162.jpg",
+  "reviewed_source_sha256": "c23d25a69332e0d44718f34f4e79a9d8a1714ecf8c3f106f09071a2790257f6d",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

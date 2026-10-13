@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-51344",
+  "prompt": "A vertical close photograph of a blonde baby seated in a padded lime-green stroller, secured by a dark gray harness with a large plastic buckle across the chest. The baby looks attentively off to the right with lips slightly open, holding a small pale piece of food in both hands. A pale green bib rests over a white shirt. Soft natural light reveals the fine hair and rounded cheeks, with green seat fabric filling the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-229-234.jpg",
+  "reviewed_source_sha256": "d4d3b802a589df58f12be71852a9b19b52d3cf5613173e766773a44f73a3b1b4",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

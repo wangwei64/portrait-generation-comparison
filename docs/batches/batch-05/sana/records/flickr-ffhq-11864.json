@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-11864",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close photograph of a man with short spiky blond hair and narrow rectangular metal glasses, making a playful face with his tongue pushed sideways over his lower lip. His eyebrows draw together and he glances toward the right. He wears an open beige shirt over a charcoal T-shirt. Frame his head and shoulders with a slight camera tilt, against white walls, a lace curtain and a dark open doorway in an indoor room.",
+  "prompt_sha256": "fc7a5037fa6f0c8cd30bdb0cdd1e3660d3d20bc2bc1d7e00c209e5dd2fd67e62",
+  "seed": 42,
+  "token_count": 292,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6734635159373283,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.705078125,
+  "nvidia_smi_peak_gib": 12.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 62.832543208336624,
+  "generated_at": "2026-10-07T12:09:56.453507+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-11864.png",
+  "sha256": "f0c2eb9eea84f3683c4b05152b9f8cd5d223bfe009f9a5569997a7cc2f757dcf",
+  "bytes": 961719
+}

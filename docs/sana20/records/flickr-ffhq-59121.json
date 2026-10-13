@@ -1,0 +1,37 @@
+{
+  "index": 189,
+  "image_id": "flickr-ffhq-59121",
+  "prompt": "A vertical portrait of a smiling woman with reddish brown hair pulled back, wearing thick dark rectangular glasses and small dangling earrings. She wears a white sleeveless scoop-neck top and a silver necklace with a round flat pendant. Frame her head and upper torso against lush green shrubs and narrow palm-like leaves, with a pale blue building partly visible above. Bright natural daylight lights the face and bare shoulders.",
+  "prompt_sha256": "e079f63a2a80af353c9b4ab06d081aa7ef45f6a43872d77b1d991fd2767eb3fa",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    960,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/73/73958395f28396ffda58b80ff46cfc300932f71466e764ae6588ed158a3106a5.png",
+  "original_sha256": "73958395f28396ffda58b80ff46cfc300932f71466e764ae6588ed158a3106a5",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c3/c314a2b0233d12b035c14c00438a531430d1272cd64f79d986152c112d3434ef.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405331015586853,
+  "png_path": "generated/flickr-ffhq-59121.png",
+  "preview_path": "previews/flickr-ffhq-59121.jpg",
+  "png_sha256": "de3fb79aa4774440ceaa18ea0ba2921621fb9398435a83f3a7c3e1d9b19a3312",
+  "preview_sha256": "73f93d368f11584c60c650df3f92153d2dc15806c1de59cc74017df0d9aff997",
+  "png_bytes": 1683969,
+  "preview_bytes": 319920,
+  "pixel_std": 80.74038977081528,
+  "created_at": "2026-10-08T08:49:53.036164+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 4,
+  "image_id": "piq23-s03-q75",
+  "prompt": "A man with closely cropped brown hair and a full dark beard faces the camera in a light gray crew-neck T-shirt. His head, shoulders and upper chest occupy the center of a horizontal portrait. He has a calm expression with his mouth closed. A large window behind him shows a bare tree, a pale courtyard wall and rows of windows on apartment buildings. The right side of the view is bordered by a white window frame, and the facade of a nearby building recedes diagonally into the distance.",
+  "prompt_sha256": "c2f023c4fc57b05e774dee06cdc5a63d7e4fbd2728f70be5752ccf3c0101c34b",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ac/ac8aa4a06e1e4723497d777671e2c5ad85bd78ee76aa7d7d0fd54f46763962f4.png",
+  "original_sha256": "ac8aa4a06e1e4723497d777671e2c5ad85bd78ee76aa7d7d0fd54f46763962f4",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b5/b59194cf7869c964e2cd74651fe90008a85d34bb935c61d882ca14735bab4cc4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 308,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 1.0484327711164951,
+  "png_path": "generated/piq23-s03-q75.png",
+  "preview_path": "previews/piq23-s03-q75.jpg",
+  "png_sha256": "98f075034a151fecbdce8d57e0e6fbd14e1e6e6614833e46b061612c17df53d0",
+  "preview_sha256": "12cc07f3afdf554fc2a75c913d6ac24bcd58584171f1418aa531cc8da451b387",
+  "png_bytes": 1666767,
+  "preview_bytes": 279853,
+  "pixel_std": 60.66688060317702,
+  "created_at": "2026-10-08T08:45:45.445715+00:00"
+}

@@ -1,0 +1,40 @@
+{
+  "metric": "community_forensics",
+  "native_preprocessing": true,
+  "weights": {
+    "README.md [3e544f3311]": {
+      "sha256": "47fc83b44bdc02e73e0c0497598668c8cf4a9fb03842a6f64849eb8736644485",
+      "bytes": 605
+    },
+    "config.json [a3dca0a227]": {
+      "sha256": "877416e73aac0fdbc1be723f5ddf674e78a2350305865ad9031564b287b60147",
+      "bytes": 116
+    },
+    "model.safetensors [549f5b7cf7]": {
+      "sha256": "b89f36275f3bf5e2b040eee36597a8f19db051bff9a473a9cf7b2466284fb387",
+      "bytes": 87262324
+    }
+  },
+  "official_config": {
+    "device": "cuda",
+    "freeze_backbone": false,
+    "input_size": 384,
+    "model_size": "small",
+    "patch_size": 16
+  },
+  "semantics": "1 − sigmoid(fake logit); class real=0,fake=1. Official ImageNet normalization, Resize(short edge440) and CenterCrop384.",
+  "source": "https://github.com/JeongsooP/Community-Forensics",
+  "initialization_change": "Skip redundant pretrained backbone; full detector state loaded strictly.",
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "runner_sha256": "5a21c64f5de41f15ee7b9576a33346e56672c5a6313589857d8325d08aeff70a",
+  "rescore_runner_sha256": "226c0d89ef7068cb8f1a385f5c7970529597ed7435e5f94b588939e5ca7c26ed",
+  "started_at": "2026-10-08T09:22:22.909800+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0,
+  "newly_scored": 300,
+  "reused_unchanged": 900,
+  "reuse_manifest_sha256": "3354a6c7d157e833ab89cb0ced26d4c284fc18ffd2e53602dfe4b0b1df42c7f3",
+  "random_seed": 42,
+  "random_stream_note": "Same metric initialization seed; score only the changed Sana inputs in original order. Native stochastic crop draws need not match the earlier 1200-image pass."
+}

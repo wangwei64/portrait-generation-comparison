@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42985",
+  "prompt": "A vertical portrait of a smiling woman with very long wavy hair, reddish brown at the top and blonde at the ends. She wears a black blazer over a blue-and-navy striped top and looks directly at the camera. Frame her head and upper torso with the long curls filling both sides of her chest. Behind her are a low hedge, green lawn, tree trunks and a light-colored building in soft outdoor daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-103-108.jpg",
+  "reviewed_source_sha256": "38a20f393112415384297916422e8e57086579ec50df5eaaae93f51c91ba7e12",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

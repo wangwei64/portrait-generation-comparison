@@ -1,0 +1,37 @@
+{
+  "index": 39,
+  "image_id": "piq23-s38-q75",
+  "prompt": "A woman with shoulder-length brown hair stands on a paved pedestrian path between buildings. She wears a dark blue textured sweater and faces the camera with a neutral expression. Her right hand is raised beside her head on the left of the image, palm forward and fingers spread; her other arm hangs down. The horizontal frame shows her head and upper torso. A glass-fronted office building recedes along the left, a pale wall runs along the right, and patches of grass, low greenery and a small tree border the curving pathway behind her.",
+  "prompt_sha256": "75dfdfb37b0f5cfdee278c28ded0d4e032245967c835542a23e0a23a1805ad4c",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d9/d9d01662c8d4473a54f4b8403df305ddf06a7ee3fc6c3a4aa2d2db03e0701700.png",
+  "original_sha256": "d9d01662c8d4473a54f4b8403df305ddf06a7ee3fc6c3a4aa2d2db03e0701700",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b7/b74ef2db1c4b3c529f269002386f630c7881c8e6a7f1a38e72bc87552396a52c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 316,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402287527918816,
+  "png_path": "generated/piq23-s38-q75.png",
+  "preview_path": "previews/piq23-s38-q75.jpg",
+  "png_sha256": "d494e9f6e9c13b130c46d393a5d18404b9a89d9b0028dda7a30984844490d114",
+  "preview_sha256": "c114bd8266ed90689264121c38cf18703fecf3c9baf0d46ecbf0fcd58ffd450c",
+  "png_bytes": 1700051,
+  "preview_bytes": 400962,
+  "pixel_std": 88.11159128337283,
+  "created_at": "2026-10-08T08:46:32.063916+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42445",
+  "candidate_index": 79,
+  "ffhq_id": 42445,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42445.jpg",
+  "source_sha256": "5ccaffabb8e98690312873961eb63a161b5af83784232951d6f6c9a29c87f0f5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3264,
+    4928
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/dustylens_7/9475859654/",
+    "photo_title": "DSC_9286",
+    "author": "SyafiqSahail",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-08-09",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/dustylens_7/9475859654/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "5fc2e1809e21fc68a5cde752007055ba",
+  "current_decoded_pixel_md5": "8d6d956da1422c3ab2b06311527c62df",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.04946623535777948,
+  "fetched_at": 1791365140.64858,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 240,
+  "image_id": "flickr-ffhq-54806",
+  "prompt": "A vertical portrait of a man with short tousled brown hair and a receding hairline, smiling gently toward the camera with closed lips. He wears a bright blue tropical-print button-front shirt with green and yellow details and a white lanyard around his neck. Frame his head and upper chest against an out-of-focus exhibition backdrop with pink, red, yellow and white areas. Even soft light reveals fine lines around his eyes.",
+  "prompt_sha256": "7bbf640480d695d12c8feed6741e9ec854e0f42991c7340aaaa9bddbde069117",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6b/6b16aecc3606413f50c28b49206ee2e81b1994f1bc91483bf84ec69df8e35e2c.png",
+  "original_sha256": "6b16aecc3606413f50c28b49206ee2e81b1994f1bc91483bf84ec69df8e35e2c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/63/630de8d2eb192cf87d8aa257a9da53350892612f0d22007fc9fd6ebf2d23dd6e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9395637363195419,
+  "png_path": "generated/flickr-ffhq-54806.png",
+  "preview_path": "previews/flickr-ffhq-54806.jpg",
+  "png_sha256": "f0b939b68f5c0fbd85ba6367e3615a413e1adee3a694cb4301111398ab131fff",
+  "preview_sha256": "937e61294d983b19ccbe6810a6074be2c8c762ad068e5d16c5249595c5a07e58",
+  "png_bytes": 1641854,
+  "preview_bytes": 346270,
+  "pixel_std": 81.63632257696399,
+  "created_at": "2026-10-08T08:51:02.284193+00:00"
+}

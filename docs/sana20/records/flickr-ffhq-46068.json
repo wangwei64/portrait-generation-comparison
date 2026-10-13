@@ -1,0 +1,37 @@
+{
+  "index": 280,
+  "image_id": "flickr-ffhq-46068",
+  "prompt": "A horizontal photograph of an older man with curly gray hair and small round wire glasses, playing a black clarinet held vertically to his mouth. He looks toward the camera with lifted eyebrows, wearing a bright red T-shirt, black neck strap and a small yellow name badge. A silver microphone on a diagonal black stand enters from the left foreground. Frame his head and upper torso against dark blue stage curtains under even indoor lighting.",
+  "prompt_sha256": "b9de2f30219485014ba5ce83c83f3a2ae466fdf23486aed0965408ee2b0f8aef",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/63/63cfb9cd0b730c796a37850b081a1df72af29db29c4e5c791f804493e7a6f5b1.png",
+  "original_sha256": "63cfb9cd0b730c796a37850b081a1df72af29db29c4e5c791f804493e7a6f5b1",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/04/0471a43556e1bc219ad7cc6c66143b88212e6fc0df3702dbf38a92a6c744d193.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407221600413322,
+  "png_path": "generated/flickr-ffhq-46068.png",
+  "preview_path": "previews/flickr-ffhq-46068.jpg",
+  "png_sha256": "d2eda5ea28b32719ce29e948a74d9dba7e7bf0c34a243464a39f4d04f1afcbac",
+  "preview_sha256": "cdd2f5810002aaabb10370234e0ac42ac83b20f657ce7475e6df4b600716f810",
+  "png_bytes": 1526180,
+  "preview_bytes": 315472,
+  "pixel_std": 70.7032838541584,
+  "created_at": "2026-10-08T08:51:56.176601+00:00"
+}

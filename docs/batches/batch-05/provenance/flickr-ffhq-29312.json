@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-29312",
+  "candidate_index": 231,
+  "ffhq_id": 29312,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-29312.jpg",
+  "source_sha256": "717653ff3c5f703edba01d79204dfcc0717379ec4268512265ea287a590e06f1",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/anuncio/28996410241/",
+    "photo_title": "IMG_6199",
+    "author": "Anuncio publicidad",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-08-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/anuncio/28996410241/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "1aa1baf730ca69e04f52be609619d86a",
+  "current_decoded_pixel_md5": "421c3591ed27281473025a6e5e17700c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13261066666666665,
+  "fetched_at": 1791367237.2446012,
+  "visual_review": "pending"
+}

@@ -1,0 +1,25 @@
+{
+  "metadata_md5": "425ae20f06a4da1d4dc0f46d40ba5fd6",
+  "eligible": 40925,
+  "candidate_count": 550,
+  "seed": 20261007,
+  "unique_authors": 550,
+  "framing_buckets": {
+    "close": 175,
+    "upper": 375
+  },
+  "selection": "Original in-the-wild images only; one candidate per credited author; unique original image MD5 and Flickr URL; exclude originals used for multiple aligned faces. Geometric face-size and source-resolution eligibility only, followed by direct GPT visual review. No inferred personal identity; authors are photographers, not subjects.",
+  "max_selected": 250,
+  "source": "https://github.com/NVlabs/ffhq-dataset",
+  "license": "Preserve individual original Flickr license and author. FFHQ metadata CC BY-NC-SA 4.0. Current local research only.",
+  "extension": "First 350 candidates immutable; appended distinct authors from the same seeded shuffled pool to compensate unavailable and visually excluded photographs.",
+  "current_download_policy": "Current public Flickr photo-page listed files only. Cached early acquisitions retain the largest publicly listed size; subsequent acquisitions prefer the largest non-original rendition with long edge <=2048, short edge >=800 and long edge >=1024. No crops or aligned FFHQ images. The original-size endpoint often returned HTTP429; publicly listed high-resolution renditions were available. Single worker with 2-second spacing, honoring Retry-After on 429.",
+  "acquisition_stopped_after_sufficient_visual_acceptance": true,
+  "downloaded_files": 332,
+  "visual_decisions": {
+    "accept": 252,
+    "reject": 58
+  },
+  "new_selected_count": 250,
+  "unused_accepted_reserves": 2
+}

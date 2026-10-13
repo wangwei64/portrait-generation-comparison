@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s45-q75",
+  "source_sha256": "0a26ac23efb1fe05cc0993b6f81b1f9d2e795fa519e8314658d444a5830bad8c",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "hand_contact",
+    "coat",
+    "outdoor"
+  ],
+  "prompt": "A woman with shoulder-length brown hair stands beside a large round pale column outdoors. She looks toward the camera wearing an olive-green hooded pullover jacket with a large front pocket, a rectangular chest label and a small flag patch. Her left arm is bent outward, with her fingertips touching the column at shoulder height on the right edge of the image. The vertical composition frames her from the head to around the hips. A paved plaza, roadside greenery, parked vehicles, distant low buildings and a tree with yellow foliage appear behind her beneath a gray sky.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

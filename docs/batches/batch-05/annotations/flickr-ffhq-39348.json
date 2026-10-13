@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-39348",
+  "prompt": "A horizontal outdoor photograph of a woman with shoulder-length dark hair held back by a pale blue fabric headband. She wears oversized black sunglasses and a black zip sports jacket with white stripes on the shoulders, its collar raised around her neck. She turns slightly toward the camera with a closed-mouth expression. Frame her head and shoulders on the right against softly blurred blue water and a distant shoreline in strong sunshine.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-253-258.jpg",
+  "reviewed_source_sha256": "1db0b01fcee1cce65dd7bb937395f9e2e2191b83e9d7267a8aa42ffbc73232b2",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

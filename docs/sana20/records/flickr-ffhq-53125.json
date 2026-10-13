@@ -1,0 +1,37 @@
+{
+  "index": 237,
+  "image_id": "flickr-ffhq-53125",
+  "prompt": "A horizontal outdoor head-and-shoulders photograph of a man with short dark hair wearing wraparound black sunglasses. He faces the camera with his mouth slightly open in a relaxed smile. His gray crew-neck shirt has narrow dark horizontal stripes. Bright sun creates pronounced shadows under his chin and around his neck. A softly blurred wooden fence and bare branches fill the warm brown background.",
+  "prompt_sha256": "bc4a19bfa3b8d5bba8508f09b7e499dad7a9d1c13118817ce94d2d70d5640d17",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/85/85c0b439c28669db0c300fc941c47dd9bd765ee717193d48d06b80e1bb8d2422.png",
+  "original_sha256": "85c0b439c28669db0c300fc941c47dd9bd765ee717193d48d06b80e1bb8d2422",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e0/e06ec91e49ae6bc4eb23a4732066c908dda6e9abc27b1829a4dd678417de6c5f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400322400033474,
+  "png_path": "generated/flickr-ffhq-53125.png",
+  "preview_path": "previews/flickr-ffhq-53125.jpg",
+  "png_sha256": "812164a69a56bb321609efacd0e28f39638adac8e8825f8fcc5340c9dc36804a",
+  "preview_sha256": "314a362866df531cb1c797160fe451f4d154f29fdc184959bb8a027542cf0129",
+  "png_bytes": 1638059,
+  "preview_bytes": 301692,
+  "pixel_std": 75.66033031441282,
+  "created_at": "2026-10-08T08:50:58.284465+00:00"
+}

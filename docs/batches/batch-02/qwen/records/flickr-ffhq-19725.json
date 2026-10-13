@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-19725",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal candid photograph of an older man with neatly combed white hair and thin rectangular glasses, seated at a table. He wears a dark navy jacket, a striped shirt and a green lanyard. Looking slightly sideways with a serious expression, he gestures with both open hands. Glasses and tableware cross the lower foreground. Other seated people and tables appear softly blurred behind him in a bright indoor gathering.",
+  "prompt_sha256": "11bb64826ea66c7abe5c83acb53f85437b1ecc9ba05fa30d9a0b285e7cc464b3",
+  "seed": 42,
+  "token_count": 103,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.430699408054352,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59513235092163,
+  "peak_reserved_gib": 39.341796875,
+  "nvidia_smi_peak_gib": 39.8525390625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 76.74610798196753,
+  "generated_at": "2026-10-07T10:04:34.587740+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    244,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-19725.png",
+  "sha256": "59776eab4cb3a34e5636a819f2558a52b2730193ec93ed4573b20fb566d8703b",
+  "bytes": 1087782
+}

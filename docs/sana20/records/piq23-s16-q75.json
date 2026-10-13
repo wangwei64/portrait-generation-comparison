@@ -1,0 +1,37 @@
+{
+  "index": 17,
+  "image_id": "piq23-s16-q75",
+  "prompt": "A short-haired bearded man in a light gray hoodie sits facing the camera at the far end of a dining table. His forearms rest on the tabletop with his hands near each other behind a round plate. The vertical view includes a large amount of foreground table. A tall translucent red bottle stands on the left and a gold-colored stemmed cup on the right. Two small lit tealights sit on a dark geometric placemat between them, with cutlery and additional place settings farther back. A black shelving unit with two round potted plants and white glazed double doors stand against a pale wall behind the man.",
+  "prompt_sha256": "a84e24caff1fe719d1be202997e2a1a38eadee62e683e337fc4537b46fe0890c",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/75/75155ea4af3760f5f872e2f81433504bcc3c2a4bdae282a037c7bdd401fd796b.png",
+  "original_sha256": "75155ea4af3760f5f872e2f81433504bcc3c2a4bdae282a037c7bdd401fd796b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e8/e8240fece30dca11f550f14e2c6ae2bf314e7d515a12d50809bb313bd2e44999.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 327,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406956769526005,
+  "png_path": "generated/piq23-s16-q75.png",
+  "preview_path": "previews/piq23-s16-q75.jpg",
+  "png_sha256": "4dece3e7222eaf2dbcf3203043267510c6166afb837893669ec83a0ca63f181e",
+  "preview_sha256": "da2006bab4658a100c93376599a048371c50c31a3a66e7d181ffd7c94a25509c",
+  "png_bytes": 1338657,
+  "preview_bytes": 233677,
+  "pixel_std": 68.61346970126512,
+  "created_at": "2026-10-08T08:46:03.106069+00:00"
+}

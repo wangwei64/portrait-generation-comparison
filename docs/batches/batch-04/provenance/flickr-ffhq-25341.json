@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-25341",
+  "candidate_index": 213,
+  "ffhq_id": 25341,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-25341.jpg",
+  "source_sha256": "e5343828f98727ab0a77cc36adb84023ed69dcbcf015d6e5234d9979918db696",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1361,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/prettytonee/2965218600/",
+    "photo_title": "DSC_5360",
+    "author": "Tonee Zaide",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-10-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/prettytonee/2965218600/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "3a778718dc0d7c7a1b7176542a902bab",
+  "current_decoded_pixel_md5": "b04c00bfd7fe2fad9739a07072c7ed2c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07329469563214862,
+  "fetched_at": 1791367191.4354155,
+  "visual_review": "pending"
+}

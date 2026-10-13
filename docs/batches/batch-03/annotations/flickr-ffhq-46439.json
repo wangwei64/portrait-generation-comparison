@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-46439",
+  "prompt": "A horizontal street portrait of a smiling young man with short spiky brown hair, looking directly at the camera. He wears an orange zip-neck fleece beneath a dark navy coat. Strong daylight highlights his face. Frame his head and shoulders in the foreground of a crowded outdoor event, with people in winter jackets, bare tree branches, low buildings and white tents behind, rendered less sharply than the main subject.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-109-114.jpg",
+  "reviewed_source_sha256": "79210ac776bb8d8f4eedda6c3a9f4ba41f32f25b61af77729f63f86024cc5b37",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

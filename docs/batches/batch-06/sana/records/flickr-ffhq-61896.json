@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-61896",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of an older man reclining on a sofa with his eyes closed and his head resting against a gold patterned cushion. He has short gray hair and wears a navy T-shirt with large yellow and white collegiate-style lettering and an animal emblem. His hands rest together over his upper chest, showing a ring and fine skin lines. Warm direct indoor light reveals the surrounding brown upholstery and pale cushions.",
+  "prompt_sha256": "990980f4b90c48e4ab021bc178ffa50f63481d95f092a6dfb6e99cee734aec0e",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7002928033471107,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 64.91001751349806,
+  "generated_at": "2026-10-07T12:48:49.097478+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-61896.png",
+  "sha256": "6b577876a532ca29082a164d674ef14d95fc4da3535e90b6349e357ce62697c4",
+  "bytes": 1049713
+}

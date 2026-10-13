@@ -1,0 +1,63 @@
+{
+  "metric": "omniaid_robust",
+  "native_preprocessing": true,
+  "weights": {
+    "config.json [ec06e1d499]": {
+      "sha256": "c679440b475b12329aad9768d9f45b598f8abe910bb777cd2fc6c3984f39b72c",
+      "bytes": 577
+    },
+    "checkpoint-0.pth [adf5579bbe]": {
+      "sha256": "1e78b0c2a0006eae92d90d89e647c44277563aef28e66b38c69b83c02ddc26fe",
+      "bytes": 2027323802
+    },
+    "README.md [768eea6675]": {
+      "sha256": "ca4e766becfc53bafde7807bc1029315b7044e5b43f981353dc0de1ab420a4a8",
+      "bytes": 1045
+    },
+    "config.json [167283c5a0]": {
+      "sha256": "51b1c14aabcdf639c4a0370eeda1010b773bbe1df78319c7d0f5882c22ac0ac0",
+      "bytes": 4757
+    },
+    "merges.txt [1cb6b87d37]": {
+      "sha256": "f526393189112391ce6f9795d4695f704121ce452c3aad1f5335cc41337eba85",
+      "bytes": 524657
+    },
+    "preprocessor_config.json [e0f68e7bd0]": {
+      "sha256": "d253881f65322dc546df59cf925a408e5538b8ecb5a1b496cdd36af9992686d4",
+      "bytes": 316
+    },
+    "pytorch_model.bin [44b3512d29]": {
+      "sha256": "c6032c2e0caae3dc2d4fba35535fa6307dbb49df59c7e182b1bc4b3329b81801",
+      "bytes": 1711974081
+    },
+    "special_tokens_map.json [e1c1e22066]": {
+      "sha256": "f8c0d6c39aee3f8431078ef6646567b0aba7f2246e9c54b8b99d55c22b707cbf",
+      "bytes": 389
+    },
+    "tokenizer.json [fbfdbae3cb]": {
+      "sha256": "b556ac8c99757ffb677208af34bc8c6721572114111a6e0aaf5fa69ff0b8d842",
+      "bytes": 2224041
+    },
+    "tokenizer_config.json [35be874f00]": {
+      "sha256": "83cef1a5979147985887a84eda9cb13bae5f3f5413c74c92360f310a35361755",
+      "bytes": 844
+    },
+    "vocab.json [2d5e29524b]": {
+      "sha256": "5047b556ce86ccaf6aa22b3ffccfc52d391ea4accdab9c2f2407da5b742d4363",
+      "bytes": 862328
+    }
+  },
+  "semantics": "Softmax class0(real); same frozen RealGen implementation as clean evaluation.",
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "runner_sha256": "3eb61d77eb590f5cbb0a4ea1196a0debc5823775cf46fe0b88a8776b13135915",
+  "rescore_runner_sha256": "226c0d89ef7068cb8f1a385f5c7970529597ed7435e5f94b588939e5ca7c26ed",
+  "started_at": "2026-10-08T09:26:19.968409+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0,
+  "newly_scored": 300,
+  "reused_unchanged": 900,
+  "reuse_manifest_sha256": "2343fa84038b9f3d48e4e6d14b0acdd59a204ab4cf9f758f6c7a8941ffc8be07",
+  "random_seed": 42,
+  "random_stream_note": "Same metric initialization seed; score only the changed Sana inputs in original order. Native stochastic crop draws need not match the earlier 1200-image pass."
+}

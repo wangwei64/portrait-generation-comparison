@@ -1,0 +1,37 @@
+{
+  "index": 256,
+  "image_id": "flickr-ffhq-45351",
+  "prompt": "A horizontal portrait of a smiling woman with curly auburn hair gathered over one shoulder. A small white bridal headpiece supports a fine diamond-mesh birdcage veil across her forehead, eyes and nose. She wears dangling pearl-like earrings, red lipstick and a cream sleeveless dress. Frame her head and shoulders under warm direct indoor light, with wooden cabinets, shelves, doorframes and small wall decorations behind her.",
+  "prompt_sha256": "6a0c85ca7ce6ce15c0da745b9dc206f1138a1438a7dc6ecf38e38c2813fdca79",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/cb/cb8543fd8be459458d5dedb9389580daedcffbd940d3d6799e9d8405b6bb5d8f.png",
+  "original_sha256": "cb8543fd8be459458d5dedb9389580daedcffbd940d3d6799e9d8405b6bb5d8f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/30/3027a98ffb4bf32711de18bbfd3a0e735590cdca9b6d0044cc5f06a34cb31793.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409076236188412,
+  "png_path": "generated/flickr-ffhq-45351.png",
+  "preview_path": "previews/flickr-ffhq-45351.jpg",
+  "png_sha256": "776815163e3d4ae5e848bbb798414f2cd221f1986124c29a7794ba27ba45ec12",
+  "preview_sha256": "b9a48543a2ff56e14a7862b858e00ead7322e5af7df1043e79905f7758d52d9d",
+  "png_bytes": 1768785,
+  "preview_bytes": 363907,
+  "pixel_std": 72.68163091859006,
+  "created_at": "2026-10-08T08:51:23.718742+00:00"
+}

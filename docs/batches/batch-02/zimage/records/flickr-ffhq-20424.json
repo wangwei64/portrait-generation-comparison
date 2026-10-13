@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-20424",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal press-conference photograph of a man with short neatly combed reddish brown hair and thin rectangular glasses. He wears a dark suit, white shirt and pale blue tie, speaking with his mouth open while looking forward. A slender black microphone with a glowing red ring angles toward him from the right. Frame him at chest level behind a table, against a muted blue-gray wall patterned with small white emblems.",
+  "prompt_sha256": "bdcd46730a856c8f381188470c53896b95f7fd7f6da568e4294ae3cb398e414e",
+  "seed": 42,
+  "token_count": 92,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.02330679818988,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854182720184326,
+  "peak_reserved_gib": 25.603515625,
+  "nvidia_smi_peak_gib": 26.1123046875,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 45.31911526607372,
+  "generated_at": "2026-10-07T09:49:58.004286+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-20424.png",
+  "sha256": "13779c5887b3753065e7884258c4ef8bcd33a6bf060b4f4a1974888121858602",
+  "bytes": 848019
+}

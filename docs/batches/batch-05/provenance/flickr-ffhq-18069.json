@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-18069",
+  "candidate_index": 238,
+  "ffhq_id": 18069,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-18069.jpg",
+  "source_sha256": "75fee85d3d7a36cd30f1725eb8e1b2555228d5c14429bf17cc5f9350afda8bcd",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/iheartphoto/540158264/",
+    "photo_title": "_MG_3655.jpg",
+    "author": "Josh",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2007-06-11",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/iheartphoto/540158264/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "367644b8c8772c6b354f789dd8d9abd1",
+  "current_decoded_pixel_md5": "5f8f7306c0349ddfe3501f88a353bfe4",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791367256.5109737,
+  "visual_review": "pending"
+}

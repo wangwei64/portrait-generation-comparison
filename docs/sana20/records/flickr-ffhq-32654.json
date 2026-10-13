@@ -1,0 +1,37 @@
+{
+  "index": 294,
+  "image_id": "flickr-ffhq-32654",
+  "prompt": "A horizontal photograph of an older woman with a neat short blonde bob and thin rectangular glasses, speaking at a wooden lectern. She looks toward the left while raising a thick bundle of printed papers in one hand. She wears a navy blazer, pale floral top, fine necklace and a small round lapel pin. Two black gooseneck microphones frame her upper body against a dark background with bright vertical strips.",
+  "prompt_sha256": "e864cd638e27db3985d325d71bad6695a31ceb800024fa709be1095dbdb22cea",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1d/1dcb26fb79d942f38f09b50a45d6be7db0e8e6fcd7853fddc5daa673e584ae50.png",
+  "original_sha256": "1dcb26fb79d942f38f09b50a45d6be7db0e8e6fcd7853fddc5daa673e584ae50",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c3/c34a9b9ec7c7318aaed335db4fd90201c1d96597de5e3aef8e789f29e524399b.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407293610274792,
+  "png_path": "generated/flickr-ffhq-32654.png",
+  "preview_path": "previews/flickr-ffhq-32654.jpg",
+  "png_sha256": "fb1b71d1b22a484404942db298f3a7b7f983bdd95a555cef4c29e77b9c9ae055",
+  "preview_sha256": "be554116ab00cbc762b412993a352fc71e61348f3a61bdaf7dfdbc4737974f98",
+  "png_bytes": 1433410,
+  "preview_bytes": 251617,
+  "pixel_std": 52.28667918316947,
+  "created_at": "2026-10-08T08:52:15.064632+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-69026",
+  "prompt": "A horizontal close portrait of a young child with short curly reddish hair beneath a large bright red cowboy hat. White hat cords hang beside the face. The child looks directly into the camera with wide eyes and slightly parted lips, wearing a dark navy hooded top with part of a red design at the bottom. Bright soft light illuminates the face against a blurred colorful indoor background with indistinct party decorations.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-217-222.jpg",
+  "reviewed_source_sha256": "e10deca522e191d5f1e1dc70d6eb05b980e5a7d457fb2cbd4aece98661f833fa",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

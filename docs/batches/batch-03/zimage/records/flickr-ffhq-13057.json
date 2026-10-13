@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-13057",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of a man with short dark hair, light stubble and black rectangular glasses. He wears a muted burgundy crew-neck sweater and a long dark blue scarf, turning slightly to the right with a faint smile. Frame his head and upper torso under direct frontal light. An intricate arrangement of curved silver-gray metal ribs and railings fills the dim interior behind him, with small warm lights in the distance.",
+  "prompt_sha256": "6edb619c9ae3f66482ee3261dee26a77bdd8b01c5821463400aaa93f895ec75c",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.977388065308332,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854177951812744,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 67.1257133973183,
+  "generated_at": "2026-10-07T10:35:41.979191+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-13057.png",
+  "sha256": "e1c3aeafe56e3375fde0a6b0536bd79b5d79e801871079da229a58e4281464ca",
+  "bytes": 1084082
+}

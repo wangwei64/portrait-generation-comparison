@@ -1,0 +1,37 @@
+{
+  "index": 203,
+  "image_id": "flickr-ffhq-48725",
+  "prompt": "A vertical candid photograph of a small child with straight short dark hair and a long fringe, looking quietly toward the camera with closed lips. A conspicuous round dark spot is visible on one cheek. The child wears a plain loose white T-shirt and sits against a brown wooden chair. Frame the head and torso under soft side light, with wooden furniture, pale upright poles and a shaded open interior blurred behind.",
+  "prompt_sha256": "09378f38b91a4c8e2ecadc177f2a22966e9113cdabcca0a4bd0912c498c69777",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2a/2af03ee7a346eba878e739fd54d525036e995408b880a84585b3f6feaddfe111.png",
+  "original_sha256": "2af03ee7a346eba878e739fd54d525036e995408b880a84585b3f6feaddfe111",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/17/1705fdca25b32154c1f3a07524cb3e3ac8dee2d2152487f767f5b577df2fe020.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9413671940565109,
+  "png_path": "generated/flickr-ffhq-48725.png",
+  "preview_path": "previews/flickr-ffhq-48725.jpg",
+  "png_sha256": "266d70e6e7cd34b4df2ef648121d54440b0db4ee4830623a64deee0aa190d5fc",
+  "preview_sha256": "cf35d20aeaba76575aa55998a54d51965d92ef95daac4a4952ebc16f27e236c4",
+  "png_bytes": 1506079,
+  "preview_bytes": 232095,
+  "pixel_std": 67.442904724096,
+  "created_at": "2026-10-08T08:50:12.047198+00:00"
+}

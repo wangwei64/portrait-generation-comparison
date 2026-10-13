@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-15843",
+  "prompt": "A horizontal indoor photograph of a baby sitting inside a pale unfinished wooden crib or playpen. The baby looks directly at the camera with wide eyes and a serious expression, wearing a fluffy pale pink hat, a white long-sleeved shirt and a turquoise embroidered sleeveless outfit. Wooden rails cross the foreground, with dark letters on the nearest rail. A glossy dark brown upright piano and its pale keyboard fill the softly focused background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-193-198.jpg",
+  "reviewed_source_sha256": "02033cb5c4578a5fc7578c144b1ca3d38394f4a39348ca4cb577dd80d46894cb",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

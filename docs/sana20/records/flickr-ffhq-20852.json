@@ -1,0 +1,37 @@
+{
+  "index": 99,
+  "image_id": "flickr-ffhq-20852",
+  "prompt": "A vertical studio portrait of a young woman with brown hair braided back and loose wisps beside her face. She wears a pale cream lace top with three-quarter sleeves and holds her hands together just below one shoulder, a thin ring visible on a finger. Her body angles slightly sideways while she looks calmly at the camera. Soft directional light highlights her face and the lace texture against a dark mottled blue-gray backdrop.",
+  "prompt_sha256": "2fd8a2b4b7a7351cc399a4058224f35142165a51bf8624e3dfeddf8775ad8cb8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/96/96276c68d0e1b591a3f44c462f3e2616607f55e3e2a60650a0119f20f6c21496.png",
+  "original_sha256": "96276c68d0e1b591a3f44c462f3e2616607f55e3e2a60650a0119f20f6c21496",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6c/6cb645e72b57aceb0f87c181e4f0e1bc4a98a3b4384df7b9def37e25ce4fe27d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409619756042957,
+  "png_path": "generated/flickr-ffhq-20852.png",
+  "preview_path": "previews/flickr-ffhq-20852.jpg",
+  "png_sha256": "9a59be1d0049387593f862bac21e36f6d2b825a7ae969ca52fc29d80a1ab5daf",
+  "preview_sha256": "ade6db918e826cbf130793ec4a4184280e40886d45cb5856196b41b91084dccd",
+  "png_bytes": 1709803,
+  "preview_bytes": 293851,
+  "pixel_std": 52.263902548477304,
+  "created_at": "2026-10-08T08:47:51.625693+00:00"
+}

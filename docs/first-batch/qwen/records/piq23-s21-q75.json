@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s21-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A tall young man with curly dark hair stands facing the camera with his feet apart, holding a pale green ball in both hands in front of his abdomen. He wears a black and red sports jacket with pale piping over a gray hood, tan trousers and black shoes. His full body is visible in a horizontal room view. A large round wall clock hangs to his left, a closed white door stands behind him, and his shadow falls on the pale wall to the right. A low wooden shelf with bottles and small plants is partly visible on the left above the parquet floor.",
+  "prompt_sha256": "1a59ea41a14296dd5aeb16cc9e1dcbae1ee5efc3700202f7d2e431b9d007f88c",
+  "seed": 42,
+  "token_count": 137,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.681223537772894,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22408056259155,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 50.81304028509465,
+  "generated_at": "2026-10-07T09:20:54.082155+00:00",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s21-q75.png",
+  "sha256": "f6673c03c8b8a861a860e1f6797a34bc40ab54f9329506e231cb4051ce7b596b",
+  "bytes": 1043447
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-01332",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical candid portrait of a woman with shoulder-length reddish brown hair and thin rectangular glasses, seated at a table with her arms folded. She wears a bright red fleece sweater and smiles gently toward the camera. Frame her head and torso with the wooden table visible below. Other seated people and chair backs are softly blurred behind her in a warmly lit indoor gathering.",
+  "prompt_sha256": "75d94f45af5ab0528b88d3d024c9a08203e1a1e7b38b920f6287aac10b5b35b7",
+  "seed": 42,
+  "token_count": 94,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.432702127844095,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59066915512085,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 67.6165781891381,
+  "generated_at": "2026-10-07T10:44:35.333506+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-01332.png",
+  "sha256": "264ed643f9c313fb5ad0280ed7a4e1c2b8cde55421e288dd8be9460141cea901",
+  "bytes": 1194939
+}

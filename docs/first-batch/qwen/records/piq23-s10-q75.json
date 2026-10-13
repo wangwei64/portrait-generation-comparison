@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s10-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A young man with swept-back brown hair sits at a white table beside a window. He wears a brown and gray knitted sweater with patterned bands across the chest and upper arms. His head turns downward toward an open illustrated book on the tabletop. One forearm rests beside the book and the nearer hand extends into the lower foreground near the table edge. The vertical composition includes his head, torso and arms. A black-and-white patterned curtain and window stand behind him on the left, while a tall green potted plant sits above a white radiator on the right. Small colored counters and a patterned textile appear on the table.",
+  "prompt_sha256": "c2e01e66077c998530a17efb7a998df1cee13bba9ac2c8f9e8e8f0d0198c56ab",
+  "seed": 42,
+  "token_count": 148,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.853171851485968,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.247159481048584,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 47,
+  "pixel_std": 73.27914969802872,
+  "generated_at": "2026-10-07T09:18:19.065373+00:00",
+  "alpha_extrema": [
+    233,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s10-q75.png",
+  "sha256": "aac7906b58077e6c98b7f8da3a5d418cbbbc56ce9314ce8dd5dfe458ee454929",
+  "bytes": 1618108
+}

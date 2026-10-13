@@ -1,0 +1,37 @@
+{
+  "index": 56,
+  "image_id": "flickr-ffhq-39233",
+  "prompt": "A vertical garden portrait of a woman with straight shoulder-length gray-blonde hair and a side fringe. She wears thin rectangular metal glasses, a blue openwork knitted V-neck top and a fine necklace. She faces the camera with a restrained closed-mouth smile. Show her head and upper torso, with sunlight on the hair and forehead, dense green leaves, white blossoms and part of a wooden fence behind.",
+  "prompt_sha256": "fd2796220ed41555ecca74302b07063ae4c4696bfb0417bf8f111b0e80fb2931",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a5/a59670deea81dfd627ca91b28c947430980ef740520ed96b3411ffb014d68484.png",
+  "original_sha256": "a59670deea81dfd627ca91b28c947430980ef740520ed96b3411ffb014d68484",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5b/5b20b1a4a9678abfdeb228307be589565385c2dd4ee17b381ef647cfe1ee095c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416757486760616,
+  "png_path": "generated/flickr-ffhq-39233.png",
+  "preview_path": "previews/flickr-ffhq-39233.jpg",
+  "png_sha256": "8602ab48c44e24e4ed78dca34994eb0776cf1dfc7690b2c09d286d2ff678da64",
+  "preview_sha256": "a7dea4ea19dfa9b3fef39a23308cc99cc070f8bc1d46dead74e50e00e43a0844",
+  "png_bytes": 1943110,
+  "preview_bytes": 488188,
+  "pixel_std": 65.11319179045731,
+  "created_at": "2026-10-08T08:46:53.855310+00:00"
+}

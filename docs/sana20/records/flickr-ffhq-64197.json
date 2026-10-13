@@ -1,0 +1,37 @@
+{
+  "index": 207,
+  "image_id": "flickr-ffhq-64197",
+  "prompt": "A horizontal close photograph of a red-haired toddler sitting in a pale green patterned child seat. The toddler looks toward the right with a quiet, slightly uncertain expression and parted lips. A bright blue bib with pale rounded motifs and a black restraint strap cover the front of a green and pale blue top. Strong sunlight from the left highlights the hair and one cheek, leaving the other side shaded against a dim home interior.",
+  "prompt_sha256": "ff4e9f57a2e9f71d2aa921d0088d2199b78861882e6f49f0ce74692654a94cf6",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/26/26828caa9f0cbc23eb7ae89d628817c4ffcb05ebe9836626b0dc6f622ee23ae8.png",
+  "original_sha256": "26828caa9f0cbc23eb7ae89d628817c4ffcb05ebe9836626b0dc6f622ee23ae8",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c7/c732e180e56826eafda231a5243e54d6d8e5dbf6d20d8f2f26e765f2f3a9b500.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9434353075921535,
+  "png_path": "generated/flickr-ffhq-64197.png",
+  "preview_path": "previews/flickr-ffhq-64197.jpg",
+  "png_sha256": "e13fc6d94a8dcaa614ae58cc08dcf5cbe96b55725e7ee84d6bbbc3b568c7b638",
+  "preview_sha256": "108564b2a7e4c131fda56bbff05feb5858eab5c89a20b57ae543cd51583d5620",
+  "png_bytes": 1733373,
+  "preview_bytes": 352213,
+  "pixel_std": 72.83206097884438,
+  "created_at": "2026-10-08T08:50:17.566879+00:00"
+}

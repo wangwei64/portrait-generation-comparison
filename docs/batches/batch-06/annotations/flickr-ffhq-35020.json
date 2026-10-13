@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-35020",
+  "prompt": "A horizontal close portrait of a boy with short tightly curled reddish brown hair, facing the camera with a serious neutral expression and closed lips. He wears a teal collared shirt, visible only near the bottom edge. Warm direct light reveals small natural skin blemishes. The back of another person's brown hair partly obscures the right foreground, while dark foliage or a shaded interior fills the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-319-324.jpg",
+  "reviewed_source_sha256": "e79ad212db0bb4786f1060506d958975dfdf06e096d7f022cc25b053036be386",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-02439",
+  "prompt": "A vertical portrait of a smiling man with short salt-and-pepper hair, rectangular brown glasses and a neatly trimmed gray mustache and beard. He wears a pale blue polo shirt with a subtle vertical stripe texture and an open collar. Frame his head and upper chest, looking straight into the camera. Soft daylight illuminates his face, with dense green leaves and circular sunlit highlights blurred behind him.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-253-258.jpg",
+  "reviewed_source_sha256": "8042036f614a05bf385852ee1045c5d7ad29ba1b8fde82a415bb4db0972dcf91",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

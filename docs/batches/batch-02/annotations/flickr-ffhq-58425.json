@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-58425",
+  "prompt": "A vertical hiking selfie of a man with light stubble and rectangular dark glasses, squinting slightly in strong sunlight. He wears a black knitted hat with red and white stripes, a pompom and a large orange-and-white emblem, plus a black zip-neck sweater and backpack straps. His head and shoulders occupy the right foreground. Behind him stretches a rocky mountain valley with sparse vegetation under a blue sky streaked with white clouds.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-055-060.jpg",
+  "reviewed_source_sha256": "36a8fa8d094bb96cd02f54ee143bbc7c8b46a662e2fc8988c1fba632bcbd7412",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 251,
+  "image_id": "flickr-ffhq-67744",
+  "prompt": "A vertical formal portrait of a young man with thick black hair swept upward and to one side, smiling at the camera with teeth visible. He wears a crisp pale blue collared shirt and a navy tie with small gold dots. His shoulders are angled slightly while his face remains forward. Frame his head and chest against a mottled charcoal-gray studio backdrop, with warm even frontal light and soft shadows.",
+  "prompt_sha256": "eed29be229b6ebd585087b87e9d804ac951903be9e0438aec63344d9a7802255",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6e/6e5dd1a99f034ee4295d40a68d48489f1a6a00ef886b4969da8321ad01969ea5.png",
+  "original_sha256": "6e5dd1a99f034ee4295d40a68d48489f1a6a00ef886b4969da8321ad01969ea5",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b6/b68b8498a1d1d43961a8ca0ef8ee42f4d408bbc21fc1c04b84ecd499a9b0d6ad.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9421696662902832,
+  "png_path": "generated/flickr-ffhq-67744.png",
+  "preview_path": "previews/flickr-ffhq-67744.jpg",
+  "png_sha256": "1a5a5415c55cf8dd580a8261b21e7b45bf3202dcbf01d76ac317948d92d04561",
+  "preview_sha256": "1d74520d1ef4ca7f449cf55ada1b1a6941f55dd1b6436c50f752103c4e13c27c",
+  "png_bytes": 1544978,
+  "preview_bytes": 228639,
+  "pixel_std": 63.04297800129578,
+  "created_at": "2026-10-08T08:51:16.941898+00:00"
+}

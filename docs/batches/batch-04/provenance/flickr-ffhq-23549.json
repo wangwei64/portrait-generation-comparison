@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-23549",
+  "candidate_index": 201,
+  "ffhq_id": 23549,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-23549.jpg",
+  "source_sha256": "41113a8899f637f8e6b8833447ceb122957a2f71fa5849d2e6f0ea0ce72ec264",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2047
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/andyswim96/15388389247/",
+    "photo_title": "Katherine",
+    "author": "Andrew Dai",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2014-10-19",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/andyswim96/15388389247/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "aa0320df7408ad4f98215904eb8f3b2c",
+  "current_decoded_pixel_md5": "371558afb471d8bfe36ebd6e954f579a",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.0825903162511542,
+  "fetched_at": 1791367160.4841833,
+  "visual_review": "pending"
+}

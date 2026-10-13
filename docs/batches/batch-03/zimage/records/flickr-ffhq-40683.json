@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-40683",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal portrait of a man with medium-length wavy gray hair brushed back, turning his head toward the camera with a neutral expression. He wears a bright blue athletic T-shirt with gray shoulder seams. Show his head and upper torso at a slight angle in a cool gray interior with mirrors, glass partitions and bright fluorescent ceiling fixtures behind. The face is evenly lit with gentle shadows beneath the eyes and chin.",
+  "prompt_sha256": "e6141cfddfba56d3d98bcab80d2b28a330b3d79242bb1e980625d60f63e3ab70",
+  "seed": 42,
+  "token_count": 89,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.21844856068492,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.85416841506958,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 53.866684500272704,
+  "generated_at": "2026-10-07T10:33:57.158010+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-40683.png",
+  "sha256": "80ec960403c53f4345d0bd0749a61cec1841ac72b380c6eb01cddcc478e558d3",
+  "bytes": 772370
+}

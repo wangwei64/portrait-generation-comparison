@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-42137",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal portrait of a smiling woman with short tightly curled dark hair and thick black rectangular glasses. She wears dark red lipstick and a beige knitted cardigan over a dark top. Bright sunlight illuminates her face and teeth, casting distinct shadows along her cheek and neck. Frame her head and shoulders against a large black-and-white mural of people with clothing folds and small red accents, slightly out of focus.",
+  "prompt_sha256": "fe606aceb677af2ede666da422fc0a2cf737a7e8d424c3805836b6f25dec1ee0",
+  "seed": 42,
+  "token_count": 103,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.428087025880814,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59513235092163,
+  "peak_reserved_gib": 41.595703125,
+  "nvidia_smi_peak_gib": 42.1064453125,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 65.00161890462894,
+  "generated_at": "2026-10-07T10:10:32.479313+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-42137.png",
+  "sha256": "f92c2231cee82684942c31ab8fa1b0e79a8fa3e701ee8cf99d05003f08df2c9d",
+  "bytes": 1290343
+}

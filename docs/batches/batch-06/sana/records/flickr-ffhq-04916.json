@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-04916",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal travel portrait of a woman with straight shoulder-length black hair and lightly tinted rectangular sunglasses, smiling at the camera. She wears a red quilted sleeveless vest over a teal long-sleeved top, with black backpack straps. One hand rests on a dark railing along the lower left. Frame her from head to waist beside a waterfront, with rippling water, a low pier, a large pale windowed building and part of a bicycle behind.",
+  "prompt_sha256": "2c5f886728dc2e15ed7c9a7bf5f8aad20f5025ba89b5d6902ddb0c603682585a",
+  "seed": 42,
+  "token_count": 297,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6953182183206081,
+  "baseline_allocated_gib": 6.565810203552246,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 92.7081843932289,
+  "generated_at": "2026-10-07T12:49:12.213335+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-04916.png",
+  "sha256": "d2fdeb714bef1387a73770c03b7bd49c435f017b6cbbd54282888f7bfcc6f1d1",
+  "bytes": 795470
+}

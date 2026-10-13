@@ -1,0 +1,37 @@
+{
+  "index": 124,
+  "image_id": "flickr-ffhq-20344",
+  "prompt": "A vertical photograph of a young girl with dark hair tied into two low bunches, leaning forward and smiling at the camera. She wears small pink earrings and a muted brown short-sleeved top with gathered shoulders and a rounded neckline. Frame her head, torso and forearms against a dark wooden headboard and a bright blue-and-yellow blanket. Soft light from the right leaves one side of her face in gentle shadow.",
+  "prompt_sha256": "50c0fc281303be3fba712f90332e1193b3a27af8d4675d5f34e3a97f625ee633",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e4/e4eb727567b18858d1b79f93d2182f70d4c03fddafc1889f46d41c88dae67d99.png",
+  "original_sha256": "e4eb727567b18858d1b79f93d2182f70d4c03fddafc1889f46d41c88dae67d99",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/58/585d730a6532d850a364ba3ad2ffe35d3b0369376a7ee3a5a18644654a12e726.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9395670406520367,
+  "png_path": "generated/flickr-ffhq-20344.png",
+  "preview_path": "previews/flickr-ffhq-20344.jpg",
+  "png_sha256": "40d2b6597fe35862d66f64db9e8c6331d443460f9f6129c95fc7f3d3dad5e84b",
+  "preview_sha256": "a3103c9c6f3a5ad4bedd3fabbc3835fbe43b0a3ed8011e878425f76d140dc378",
+  "png_bytes": 1431108,
+  "preview_bytes": 263942,
+  "pixel_std": 55.72785561497097,
+  "created_at": "2026-10-08T08:48:25.460515+00:00"
+}

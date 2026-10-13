@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-58429",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    704,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical studio photograph of a woman with short voluminous curly dark hair and large black sunglasses, smiling broadly. She wears a dark blue one-shoulder dress, a chunky multicolored necklace and an oversized red fabric rose near her bare shoulder. She holds a burgundy canvas high-top sneaker upright in front of her chest, showing white laces and a white rubber toe. Directional light models her face against a plain dark gray backdrop.",
+  "prompt_sha256": "a4f7d691c30f8dc051f7edeb2f85c4cd706f7a9f97b1626df443b2fc210e6377",
+  "seed": 42,
+  "token_count": 99,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 27.368346713483334,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.927794456481934,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 89,
+  "pixel_std": 63.52314524471162,
+  "generated_at": "2026-10-07T10:24:29.529940+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-58429.png",
+  "sha256": "d0618f8430e2865e55e9a9f1d4ae0b82516f461ac6a15e361b9f21b8e6175926",
+  "bytes": 950757
+}

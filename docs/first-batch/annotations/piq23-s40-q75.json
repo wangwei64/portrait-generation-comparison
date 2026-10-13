@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s40-q75",
+  "source_sha256": "2e6af19057ffd5884a1cfdfa638b24188a16f4dab6301ab0c9f8fe15e6160ec5",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "glasses",
+    "tree"
+  ],
+  "prompt": "A young man with short straight brown hair and thick black rectangular glasses looks directly toward the camera with a slight closed-mouth smile. He wears a bright blue hoodie beneath a navy quilted jacket. The vertical close portrait frames his head, shoulders and chest. A large rough-barked tree trunk fills almost the entire background immediately behind him, with small green ivy leaves growing between the deep bark crevices. His head is slightly left of center, and the blue hood bunches around his neck.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

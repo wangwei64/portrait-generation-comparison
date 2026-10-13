@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-26075",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait of a man with short dark brown hair and light stubble, looking directly at the camera with a slight closed-mouth smile. He wears a dark gray crew-neck sweater with evenly spaced thin white horizontal stripes. Frame his head and upper torso with his shoulders nearly square to the lens. A pale rough stone wall fills the softly receding background, under diffuse natural light with gentle shadows on his face.",
+  "prompt_sha256": "ae392f50394734d655e508f660bf1a873a6e84e94338a89cfa499bf55241e7a2",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6842575781047344,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 59.798159996531815,
+  "generated_at": "2026-10-07T12:10:25.788896+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-26075.png",
+  "sha256": "d90a26cec7d810fc64794eaaef4c908ec00e27b4e427e7cf6576091058b2a2f7",
+  "bytes": 1122010
+}

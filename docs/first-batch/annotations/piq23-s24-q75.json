@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s24-q75",
+  "source_sha256": "cb321acfd2370ca201ecd26ec6e0f6e56c6228d22e5390456a27afac44f88c64",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "smile",
+    "coat",
+    "night"
+  ],
+  "prompt": "A smiling woman with short dark twists stands facing the camera in the center of a horizontal waist-up portrait. She wears a bulky black padded coat over a tan ribbed turtleneck, with a dark crossbody bag and narrow strap. A broad flight of concrete steps rises directly behind her between pale sloped side walls and railings. Tall office and apartment buildings with illuminated windows surround the steps under a dark night sky. Her arms hang down beside her body, and the lower coat and bag are cropped by the bottom edge. A rounded high-rise tower stands prominently behind her left shoulder.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

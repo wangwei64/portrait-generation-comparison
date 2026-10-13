@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s17-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with dark hair tied back sits on a simple black chair with an open black laptop across her lap. She wears a teal graphic T-shirt and black trousers, with her legs angled toward the lower left of the horizontal frame. Her hands rest near the keyboard, and she looks at the screen, which casts cool light on her face. A patterned curtain fills the left background. A low wooden cube shelf on the right holds a green ball and storage baskets, with speakers, flowers and small glowing lamps on top beneath a large tree-patterned wall picture.",
+  "prompt_sha256": "5debfb97f29995830b6510fcde354bd44c960bf9b0346b42f134534ed05b33aa",
+  "seed": 42,
+  "token_count": 320,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7076704874634743,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 62.95793878192215,
+  "generated_at": "2026-10-07T09:28:26.734105+00:00",
+  "image_path": "sana/generated/piq23-s17-q75.png",
+  "sha256": "b32b231fc5206fe91ce7a91da384338692697eb5251ecaf7296c6ad0a388bc3b",
+  "bytes": 983263
+}

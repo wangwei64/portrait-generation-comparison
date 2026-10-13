@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s24-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A smiling woman with short dark twists stands facing the camera in the center of a horizontal waist-up portrait. She wears a bulky black padded coat over a tan ribbed turtleneck, with a dark crossbody bag and narrow strap. A broad flight of concrete steps rises directly behind her between pale sloped side walls and railings. Tall office and apartment buildings with illuminated windows surround the steps under a dark night sky. Her arms hang down beside her body, and the lower coat and bag are cropped by the bottom edge. A rounded high-rise tower stands prominently behind her left shoulder.",
+  "prompt_sha256": "ff0eaedeb4fff81296782e61500b0878205c2e6b81572e89c551fb809687b17d",
+  "seed": 42,
+  "token_count": 321,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7026467733085155,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 69.76491184754993,
+  "generated_at": "2026-10-07T09:28:40.781272+00:00",
+  "image_path": "sana/generated/piq23-s24-q75.png",
+  "sha256": "ed97d2421973f2e87d22212bee6a6618b66e75567958c07c0249bb71102377e6",
+  "bytes": 1102174
+}

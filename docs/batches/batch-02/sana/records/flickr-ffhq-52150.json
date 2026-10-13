@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-52150",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid portrait of a smiling man with short brown hair and dark aviator sunglasses. He wears a charcoal T-shirt with bold white lettering and two thin red and blue lanyards around his neck. One arm extends toward someone cropped at the right edge. A hand holding a small dark recorder enters the lower foreground. Warm sunlight lights his face against a nearly black shaded doorway behind him.",
+  "prompt_sha256": "7e955bbce7153aef9ad5297a06fa176d6f534d36b24eff8fbe43b0f1a4cbb68d",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6783115714788437,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 85.87640398229237,
+  "generated_at": "2026-10-07T10:13:50.792227+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-52150.png",
+  "sha256": "0ea8213fcbc4f79c07df800f54a5a6cfbf0378c50813f39781cc91833b432019",
+  "bytes": 840578
+}

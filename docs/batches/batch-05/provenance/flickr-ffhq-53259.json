@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-53259",
+  "candidate_index": 244,
+  "ffhq_id": 53259,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-53259.jpg",
+  "source_sha256": "5356406db5751f1e1c38761469396b130fd536a1614b3ff46fc04d57a52ce9cf",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1362
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/dshack/2567373156/",
+    "photo_title": "Satomi",
+    "author": "David Shackelford",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-06-10",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/dshack/2567373156/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "625ed382a96a5b30507a140d325b8467",
+  "current_decoded_pixel_md5": "30ba2b5dc0945a2ddfc2e176344b9059",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1903091755319149,
+  "fetched_at": 1791367275.4284744,
+  "visual_review": "pending"
+}

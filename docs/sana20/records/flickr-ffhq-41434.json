@@ -1,0 +1,37 @@
+{
+  "index": 144,
+  "image_id": "flickr-ffhq-41434",
+  "prompt": "A vertical close portrait of a man with thick wavy salt-and-pepper hair, wearing a dark navy suit, white shirt and diagonally striped navy and gray tie. He looks toward the camera with a serious expression and his mouth partly open. Frame his head and upper chest tightly. A soft gray-white indoor background is heavily blurred, with a small dark microphone edge near the bottom. Use diffuse light and visible natural facial lines.",
+  "prompt_sha256": "24efa8aad8e7bf85eb99490f27a7178be40606589dedda8264bc6502b79a3933",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5b/5bb2d2493e13c0329bab1e96d3be56c5606aa21666f42bcdca2a90808f191e7b.png",
+  "original_sha256": "5bb2d2493e13c0329bab1e96d3be56c5606aa21666f42bcdca2a90808f191e7b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4a/4a05d3f6a1bd32a3b3508dc03634ec1cd3af1633e73088725f88a2b41ffd7961.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.94019565731287,
+  "png_path": "generated/flickr-ffhq-41434.png",
+  "preview_path": "previews/flickr-ffhq-41434.jpg",
+  "png_sha256": "2ba5e1efbe3b6fa3af6c45dacf25d6b04d7f9701fab22cbd46a1ce5883d97cd0",
+  "preview_sha256": "f1f44c64fc58e75c6742e0ea8e5c3b24f0260712115393e85db95332f237df55",
+  "png_bytes": 1762618,
+  "preview_bytes": 289749,
+  "pixel_std": 63.39214725255192,
+  "created_at": "2026-10-08T08:48:52.106084+00:00"
+}

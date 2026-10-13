@@ -1,0 +1,37 @@
+{
+  "index": 229,
+  "image_id": "flickr-ffhq-61141",
+  "prompt": "A vertical flash photograph of a man wearing an oversized novelty hat shaped like a hot dog in a bun, with reddish sausage and green and red condiment details. He looks toward the camera with slightly parted lips, resting two fingers against his temple. He wears an olive-gray jacket over a pale shirt. Frame his head and torso against a dim social interior, with a partially obscured seated person behind one shoulder.",
+  "prompt_sha256": "347d6c0ebacb33856180e0bced32b5d92fec123ff82a295d4e749992bacad743",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "lowlight",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2c/2c3564e7cf56ffb7f3d1977a04aa935c4879b9aa5089e127ea9ee40d34cf5f21.png",
+  "original_sha256": "2c3564e7cf56ffb7f3d1977a04aa935c4879b9aa5089e127ea9ee40d34cf5f21",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a3/a3fe72b426609ca1eaafb248341decafe199c514081d4ca8664ad1488082bb29.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404281191527843,
+  "png_path": "generated/flickr-ffhq-61141.png",
+  "preview_path": "previews/flickr-ffhq-61141.jpg",
+  "png_sha256": "c90b05b71f32fe0a524c45d3149bc0ec33b66597d4c713a181b9c85dc350459f",
+  "preview_sha256": "d34625eae1a4e1ca6781e7944cc08013bc2b6883775ab7ab3ce688737421ed6e",
+  "png_bytes": 1696674,
+  "preview_bytes": 312572,
+  "pixel_std": 50.0398206018624,
+  "created_at": "2026-10-08T08:50:47.696020+00:00"
+}

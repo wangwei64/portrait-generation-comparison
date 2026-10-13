@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s20-q75",
+  "source_sha256": "697be3007d5c9c17b40e2c4618114b700d751c6180c7f8f82fe95b059fa307bd",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "glasses",
+    "blue_light"
+  ],
+  "prompt": "A bearded man with short dark hair and large thin-framed glasses is shown in a tight horizontal close-up from below. His face occupies most of the right side, and he looks upward toward the left with his mouth closed. Blue-cyan light covers his face, glasses, pale shirt and the wall. A large round clock with a dark rim, white face and black numerals is partly cropped at the left edge beside his head. Only a small portion of his shoulders and dark lanyard is visible along the bottom.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

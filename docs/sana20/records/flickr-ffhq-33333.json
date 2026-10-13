@@ -1,0 +1,37 @@
+{
+  "index": 72,
+  "image_id": "flickr-ffhq-33333",
+  "prompt": "A horizontal photograph of a woman with short side-parted wavy light brown hair, leaning toward the camera with both arms extended outward beyond the image edges. Her mouth is open as if speaking and her gaze meets the lens. She wears a dark blouse covered in tiny red, blue and white flowers. Frame her head, shoulders and upper chest against a plain pale blue wall, with bright frontal light and mild shadow falloff.",
+  "prompt_sha256": "e9ab43c0d711240df30b0f618c6715e5e6552ee1834e780a183b0b724d2bc886",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/01/010f86937e373730d8c89615cbccf1ee088bc6b32f93e1c1dadfd5a457a6d1d3.png",
+  "original_sha256": "010f86937e373730d8c89615cbccf1ee088bc6b32f93e1c1dadfd5a457a6d1d3",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c7/c725f5efdb994817cdea665f8b087aac089bb6d8aabda59a28fe24e1974e2419.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402809254825115,
+  "png_path": "generated/flickr-ffhq-33333.png",
+  "preview_path": "previews/flickr-ffhq-33333.jpg",
+  "png_sha256": "2e73ebb72ad8e186dcaec505d78284ae9f3b3832897ebd3766313e922798caed",
+  "preview_sha256": "cd09cf448597ceb98ec7b622b2ff25cfde3ce6de4d969aa912dbad4291cfa830",
+  "png_bytes": 1758053,
+  "preview_bytes": 301200,
+  "pixel_std": 64.85198867669934,
+  "created_at": "2026-10-08T08:47:15.284041+00:00"
+}

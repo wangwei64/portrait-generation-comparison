@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-52429",
+  "prompt": "A vertical portrait of a bald man with a short neatly trimmed beard along his jaw, smiling widely at the camera with teeth visible. He wears a vivid royal blue V-neck scrub-style shirt. Frame his head and upper torso against a simple warm orange wall, with a slight turn of the shoulders. Soft bright light falls from the left, preserving gentle facial contours and natural skin texture.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-259-264.jpg",
+  "reviewed_source_sha256": "e9954726220ed52bdc45bf7a9186bbebe75060eebdd4b50c091d615b9a96c0d9",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

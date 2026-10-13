@@ -1,0 +1,37 @@
+{
+  "index": 19,
+  "image_id": "piq23-s18-q75",
+  "prompt": "A woman with dark curly hair gathered into a high bun sits at a small white table. She wears hoop earrings, a charcoal knitted cardigan and a gray-purple layer around her neck. Her forearms are crossed on the tabletop, and she tilts her head down with a smile. Two small burning tealights stand in front of her. She occupies the left half of a horizontal frame, with a large pale wall and her cast shadow on the right. White shelves at the left hold books, glass bottles, small plants, a round dark clock and a small tower-shaped ornament.",
+  "prompt_sha256": "d4e899af6675916eea72c66821b19c7cfa044f4804f3a04e0d5296afed4ee7ac",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "lowlight",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fc/fc01e02e045ceeaabeb33833983579c18c7363aa2592445478c470d63786f219.png",
+  "original_sha256": "fc01e02e045ceeaabeb33833983579c18c7363aa2592445478c470d63786f219",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b5/b55f87a357afb7653d51f5c465227d210d83348721f47ce23c79fb27436b90dd.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 324,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9406058862805367,
+  "png_path": "generated/piq23-s18-q75.png",
+  "preview_path": "previews/piq23-s18-q75.jpg",
+  "png_sha256": "b956c0683c3d93c590798101e656c82aff161c91b2ea1c8fecb1116599dd0ec3",
+  "preview_sha256": "40985e9c19fcec99a7ce800c49325fa219704e8671d357b69630b9c1469f1e4b",
+  "png_bytes": 1545913,
+  "preview_bytes": 249808,
+  "pixel_std": 71.29037737449609,
+  "created_at": "2026-10-08T08:46:05.777186+00:00"
+}

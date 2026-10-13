@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20468",
+  "prompt": "A vertical waist-up photograph of a young man in a green camouflage uniform with rolled sleeves, a dark green undershirt and a bright blue beret bearing a white emblem. He faces the camera with a slight smile, hands held behind his back. Include cloth badges and chest pockets. A large white vehicle with bold dark letters and part of a heavy tire stands immediately behind him. Strong sunlight casts crisp shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-025-030.jpg",
+  "reviewed_source_sha256": "bdbd85414dcb8ee29454aa44f99ce92b8195cceaba38a4bcde0fbbe3084156a5",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

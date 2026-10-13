@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-01554",
+  "prompt": "A vertical candid photograph of a blonde woman seated at a conference table, looking to the left with a thoughtful closed-mouth expression. She wears a beige button-front blouse, a gold necklace, small earrings and a pale lanyard. Strong window light catches her hair and face. Water glasses, papers and a blurred name card occupy the foreground, while a dark-suited person standing behind is cropped at the shoulders. Include her upper body and folded forearms.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-037-042.jpg",
+  "reviewed_source_sha256": "2a15e433781e1798014607a36246732dad4341b01229a565cb79c1a149305623",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

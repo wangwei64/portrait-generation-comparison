@@ -1,0 +1,9 @@
+{
+  "published_groups": 300,
+  "server_generated_images": 900,
+  "complete": true,
+  "configuration": "sana20",
+  "evaluation_complete": true,
+  "completed_metrics": 13,
+  "previous_summary": "summary-50step-baseline.json"
+}

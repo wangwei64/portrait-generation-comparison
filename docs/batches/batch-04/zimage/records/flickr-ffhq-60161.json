@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-60161",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid street portrait of a young man with straight medium-length black hair, wearing a deep blue V-neck T-shirt and a black backpack strap over one shoulder. He faces the camera while squinting tightly in bright sunshine, with his teeth slightly visible. Frame his head and chest amid a crowd of people seen mostly from behind, with a blurred shop frontage and signs in the background.",
+  "prompt_sha256": "4a37232ecd5783d05dd592425fd3817cc9629fba8a911af5b0c7a7464b25b0bc",
+  "seed": 42,
+  "token_count": 87,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.16748410463333,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854158878326416,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 73.27359524637411,
+  "generated_at": "2026-10-07T10:57:00.838249+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-60161.png",
+  "sha256": "fa0942c57bc5891d6759949563b65f8c25b2adf58142fc0fc4a54f1d9943bae4",
+  "bytes": 967541
+}

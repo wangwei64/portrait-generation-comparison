@@ -1,0 +1,37 @@
+{
+  "index": 266,
+  "image_id": "flickr-ffhq-64353",
+  "prompt": "A horizontal candid close portrait of a boy with very short dark hair, leaning toward the camera with both arms extending toward the lower edges. He looks directly into the lens with a calm closed-mouth expression and wears a black-and-white sleeveless graphic shirt. The bright room has pale upper walls and a blue lower section. A tall black loudspeaker and a blurred person in a colorful costume and straw hat stand behind.",
+  "prompt_sha256": "6c647950c5c657880f96a908460f1777d744aff85e96048b32be38006d8adb43",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/02/025df1467041b408820eb4ece66aa78499ab0ad76bb952e3756aa1f4f9b5674e.png",
+  "original_sha256": "025df1467041b408820eb4ece66aa78499ab0ad76bb952e3756aa1f4f9b5674e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/77/77dfd242a090064098aabd521a44c98c9bb17a0b43b756aec0c1510e7f971cac.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404907822608948,
+  "png_path": "generated/flickr-ffhq-64353.png",
+  "preview_path": "previews/flickr-ffhq-64353.jpg",
+  "png_sha256": "92d8fd76124fa128ad757c6e7f608e40d136d068e202e976ae09cd3cd06c3d7b",
+  "preview_sha256": "9f0b9101939e6f84a3f79d8038ae47f1a1867f0015d71ca3d5737100f4ed1d6e",
+  "png_bytes": 1523590,
+  "preview_bytes": 211544,
+  "pixel_std": 89.80043846831532,
+  "created_at": "2026-10-08T08:51:37.505833+00:00"
+}

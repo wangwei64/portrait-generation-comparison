@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-53148",
+  "prompt": "A vertical photograph of a crying baby with fine reddish-blonde hair, seated in a bright blue padded seat printed with small colorful animals. The baby wears a pale long-sleeved outfit covered in tiny pink flowers, secured by green straps and a yellow plastic buckle. The mouth is open and eyes are narrowed in distress. Strong natural light casts uneven shadows across the face, with a small section of rough stone behind the seat.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-283-288.jpg",
+  "reviewed_source_sha256": "dcfd80ae48f829f0b92bdccdd62b9f5645e6862879f2963efe9a24ab6f03f975",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

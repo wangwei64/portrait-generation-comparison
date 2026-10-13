@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-35464",
+  "prompt": "A vertical head-and-shoulders portrait of a woman with short swept-back blonde hair and small hoop earrings. She looks straight into the camera with a quiet closed-mouth expression. She wears a dark gray crew-neck shirt and two thin black cords, one bearing a small amber-colored pendant. Soft balanced studio lighting reveals freckles and natural skin texture. Center her face against a plain muted gray background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-175-180.jpg",
+  "reviewed_source_sha256": "6e917a28f11293aefa02c55367c941154c25c469b3524cb8b45fc5e50d252f72",
+  "framing": "closeup",
+  "environment": "studio",
+  "tags": [
+    "closeup",
+    "studio"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

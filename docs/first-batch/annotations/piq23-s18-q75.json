@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s18-q75",
+  "source_sha256": "41e7de4eff6e873b5675e86ec5590511b39ee9416d1387e99ceb1d22e746a4ac",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "crossed_arms",
+    "table",
+    "lowlight"
+  ],
+  "prompt": "A woman with dark curly hair gathered into a high bun sits at a small white table. She wears hoop earrings, a charcoal knitted cardigan and a gray-purple layer around her neck. Her forearms are crossed on the tabletop, and she tilts her head down with a smile. Two small burning tealights stand in front of her. She occupies the left half of a horizontal frame, with a large pale wall and her cast shadow on the right. White shelves at the left hold books, glass bottles, small plants, a round dark clock and a small tower-shaped ornament.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

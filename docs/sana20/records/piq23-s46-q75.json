@@ -1,0 +1,37 @@
+{
+  "index": 47,
+  "image_id": "piq23-s46-q75",
+  "prompt": "A man with short dark hair and a trimmed beard reclines on a green metal chair on a grassy lawn. He wears black sunglasses, a fitted dark gray T-shirt and blue jeans. Both hands clasp the shaft of a large rainbow-colored umbrella near his chest, while his legs extend diagonally toward the lower right. His face turns upward and to the right. The vertical image shows most of his body and the umbrella canopy spread behind his head along the left edge. A neatly trimmed hedge, a round-topped tree and a pale cloudy sky form the background.",
+  "prompt_sha256": "384b53a8171d7ef70211ae92602fc6ff2d95acfdd725328f217c23f3e70686fa",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ee/ee62c6d7b3f7bb4e7feb5219b43302fc02f488f59bc21111168aece0758fd8cd.png",
+  "original_sha256": "ee62c6d7b3f7bb4e7feb5219b43302fc02f488f59bc21111168aece0758fd8cd",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/0b/0b462580a3090f80545578fb8c6dd8a70f81933381a2bcdaf514664bdff7f7fb.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 320,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398579224944115,
+  "png_path": "generated/piq23-s46-q75.png",
+  "preview_path": "previews/piq23-s46-q75.jpg",
+  "png_sha256": "a59bd78bfcaeffe8175e655ef8d8eef7d9b127863628ef1bfa9343bd67ece324",
+  "preview_sha256": "1c959213a119a9c0e5f588a8c00736ac0ccaa2cf416257646600116f27ef139f",
+  "png_bytes": 1601076,
+  "preview_bytes": 389825,
+  "pixel_std": 90.40950836905999,
+  "created_at": "2026-10-08T08:46:42.398773+00:00"
+}

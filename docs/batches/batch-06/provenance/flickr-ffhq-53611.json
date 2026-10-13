@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-53611",
+  "candidate_index": 345,
+  "ffhq_id": 53611,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-53611.jpg",
+  "source_sha256": "87fb05e9448133cee1a581d6a40390355b780c462b77f4dd0d95d5a6ca86b75c",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4000,
+    3000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bc_az/8552950121/",
+    "photo_title": "Teun Ramaekers (Fife); 11 Mar 2013; Phoenix, ARIZONA  P1000501",
+    "author": "Bill in Arizona",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-03-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/bc_az/8552950121/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "a02432e1898644efb6326b797e5339b1",
+  "current_decoded_pixel_md5": "2818db1ac53f15f0d4a68ecfbc724239",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.137388,
+  "fetched_at": 1791365585.1154554,
+  "visual_review": "pending"
+}

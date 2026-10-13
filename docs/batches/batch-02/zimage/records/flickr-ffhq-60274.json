@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-60274",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal outdoor portrait of a young man with short curly reddish brown hair and a few freckles. He wears a white collared shirt, black waistcoat and loosely knotted gray striped tie. He turns slightly sideways with raised eyebrows and parted lips, looking toward the camera. Show his head and chest beside a pond, with leafless branches, autumn-colored shrubs and tall narrow trees softly blurred beneath an overcast sky.",
+  "prompt_sha256": "89ba5e1ead84e58cc734b2a7dbf427973ab7d8b9aeec452edc22d02551636ee0",
+  "seed": 42,
+  "token_count": 95,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 41.72451155632734,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.672953128814697,
+  "peak_reserved_gib": 26.60546875,
+  "nvidia_smi_peak_gib": 27.1142578125,
+  "nvidia_smi_sample_count": 138,
+  "pixel_std": 66.5889914786131,
+  "generated_at": "2026-10-07T09:50:40.052751+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-60274.png",
+  "sha256": "8cc837af20e3007a1039371a6d7a0720cbd6473838a71a5fa6a53ccd3c04c10f",
+  "bytes": 1283294
+}

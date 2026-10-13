@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s08-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A young man with thick curly dark hair sits centrally behind a table and looks toward the camera. He wears a black sports jacket with broad red panels and pale piping over a light gray hood. His elbows rest on the table and his hands are clasped above an open magazine. Large windows fill the upper background with trees and modern buildings outside. A leafy potted plant stands on the left and a large wicker basket occupies the right side of the table. A green horizontal frame or ledge crosses the lower foreground above a pale wooden surface with a double electrical outlet. The composition is horizontal and shows his upper body.",
+  "prompt_sha256": "73000851eecb8978ce8f3f48dda0d7816bab1b9181f6152ba51efd610a0b4cd4",
+  "seed": 42,
+  "token_count": 145,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.825511004775763,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.247159481048584,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 71.29144235815929,
+  "generated_at": "2026-10-07T09:17:50.619676+00:00",
+  "alpha_extrema": [
+    250,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s08-q75.png",
+  "sha256": "0dc89921032824ee77ae338984a316e78bee9979965b9c127229898d14401633",
+  "bytes": 1366604
+}

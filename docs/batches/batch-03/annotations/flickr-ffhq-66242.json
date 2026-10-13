@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-66242",
+  "prompt": "A horizontal seated portrait of an older man with short silver-white hair brushed back, looking directly into the camera with a composed closed-mouth expression. He wears a navy polo shirt with a small red embroidered emblem, and reading glasses hang from the open neckline. Frame his head and shoulders against a plain pale gray indoor wall with a dark vertical door edge at the right. Use soft balanced light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-103-108.jpg",
+  "reviewed_source_sha256": "7e54d3c2715f95affc727b51008dc8fe57e6b93d5b49e60714d1f59639b7e626",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

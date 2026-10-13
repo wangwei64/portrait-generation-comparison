@@ -1,0 +1,37 @@
+{
+  "index": 147,
+  "image_id": "flickr-ffhq-19558",
+  "prompt": "A horizontal candid photograph of a smiling woman with short side-parted brown hair held by a thin headband. She wears pink circular earrings, a black cardigan and a red top, seated sideways while turning toward the camera. Frame her head and upper torso in a meeting room. A white-covered table with a blue water bottle and papers, blue upholstered chairs and partially cropped people are visible behind, with a blurred head in the lower foreground.",
+  "prompt_sha256": "3369474d9cc2d2a2b63c3e3685bdf415c114c8e71a978a8834059bb79f04949a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/c1/c1b192216fcd412bf6b613d6ac8abfa62cc1f70ea644db8ceb468adcdfd2d12d.png",
+  "original_sha256": "c1b192216fcd412bf6b613d6ac8abfa62cc1f70ea644db8ceb468adcdfd2d12d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7f/7fb75663faad3d788c75fec5297a2e23798b5ce5d863f047d2b2ae2153043a0b.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404939003288746,
+  "png_path": "generated/flickr-ffhq-19558.png",
+  "preview_path": "previews/flickr-ffhq-19558.jpg",
+  "png_sha256": "0674ec9a3577e5c6294d8b3a63b7d62ef1bb2a2b716d008bda4463f83ca65a04",
+  "preview_sha256": "1281dd00b6f88e0ee36dd1d50b90fe25169e15a407792205e58f53e98902fe08",
+  "png_bytes": 1445266,
+  "preview_bytes": 227154,
+  "pixel_std": 85.806044729391,
+  "created_at": "2026-10-08T08:48:56.119476+00:00"
+}

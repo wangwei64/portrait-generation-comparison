@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-48863",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A nearly square close portrait of a child wearing a tall tan woven straw hat with a broad blue band and blue brim. Short dark hair curls beneath the hat, and blue rectangular eyeglasses frame a serious direct gaze. The child wears a pale sleeveless collared shirt printed with tiny dark palm trees and a blue lanyard. Frame the head and shoulders against softly blurred rough gray stone in gentle outdoor shade.",
+  "prompt_sha256": "845093853796243ba71f1b7715aca25462e8ed6910f47b9f2a185f665cd648b5",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6809390373528004,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 67.10601798231973,
+  "generated_at": "2026-10-07T12:49:39.405568+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-48863.png",
+  "sha256": "4f69ffe57ddeac2642ab8958b656d94a9d9fc8377c296090b208772e51a86c4a",
+  "bytes": 1085397
+}

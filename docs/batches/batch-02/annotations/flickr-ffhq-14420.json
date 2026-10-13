@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-14420",
+  "prompt": "A horizontal outdoor photograph of a child in a red zip-front hooded jacket with a small pink graphic. Short wavy light brown hair lifts in the breeze. The body turns sideways while the face looks back toward the camera, mouth slightly open. Include the head and upper torso with a green park lawn, patches of bare ground, leafy trees, a fence and distant hills behind. Use ordinary daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-007-012.jpg",
+  "reviewed_source_sha256": "9e56995b64c267ad23596d94a8e3a506fb075dab651856068856c30203335e04",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

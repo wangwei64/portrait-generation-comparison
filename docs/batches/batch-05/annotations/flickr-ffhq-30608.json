@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-30608",
+  "prompt": "A vertical flash photograph of a baby with very fine short brown hair, sitting upright while adult hands support the shoulders and lower body. The baby stares toward the camera with wide eyes and a small closed mouth. A white fleece sleeper is printed with brown cartoon monkeys and has a small yellow chest label. Frame the head and body to the lap, with a blue adult shirt and dark interior forming the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-235-240.jpg",
+  "reviewed_source_sha256": "d0e219e56c4bfab18acd709d176d03abe53499e6474b5f461e9b2e95478b92dd",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

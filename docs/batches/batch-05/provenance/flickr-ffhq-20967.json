@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-20967",
+  "candidate_index": 247,
+  "ffhq_id": 20967,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20967.jpg",
+  "source_sha256": "c4589a1372716483463752d3e3657384258284ee1401f95e9c693e11ed34a217",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1360,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/mikelucas/15329558200/",
+    "photo_title": "GJH _2014_09_21_08-28-18_DSC_1375_©LindsayBerger2014",
+    "author": "mlucas",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-10-12",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/mikelucas/15329558200/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "9e281232cdda2c7848eb91e64e48f7a7",
+  "current_decoded_pixel_md5": "657cdac871cdc050d0a064b09318b7ee",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791367281.1998515,
+  "visual_review": "pending"
+}

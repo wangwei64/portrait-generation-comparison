@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-18069",
+  "prompt": "A vertical outdoor portrait of a young woman with short tousled purple and black hair tied with a wide red fabric headband, whose loose ends hang beside her neck. She looks at the camera with a serious expression. Pale theatrical makeup, dark eye makeup and red branching costume markings cover parts of her forehead, neck and upper chest. She wears a red top with large black dots and thin black straps. Sunlit green foliage blurs behind her.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-235-240.jpg",
+  "reviewed_source_sha256": "75fee85d3d7a36cd30f1725eb8e1b2555228d5c14429bf17cc5f9350afda8bcd",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

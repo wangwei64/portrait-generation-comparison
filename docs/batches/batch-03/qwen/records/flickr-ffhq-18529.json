@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-18529",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal portrait of a smiling man with short salt-and-pepper hair, light beard stubble and thin rectangular glasses. He wears a dark gray shirt with a small white rectangular collar insert and a textured gray zip-front jacket. Center his head and upper torso, leaving some space above and to both sides. Pale blue vertically folded curtains fill the background. Soft even indoor light reveals natural skin texture without harsh shadows.",
+  "prompt_sha256": "363ef6b6eac76826fe6c77950b6dc4449dbed8b9c9de77468202e0e46248aa56",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.4447583258152,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59562826156616,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 42,
+  "pixel_std": 49.05911184525005,
+  "generated_at": "2026-10-07T10:42:46.487118+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-18529.png",
+  "sha256": "ac42034f41276ea3bc90360a558c8d1a0772f5a8e25a81560b4c15198f624e59",
+  "bytes": 1047789
+}

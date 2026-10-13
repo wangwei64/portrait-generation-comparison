@@ -1,0 +1,37 @@
+{
+  "index": 50,
+  "image_id": "piq23-s49-q75",
+  "prompt": "A man with short dark hair stands facing the camera in the middle of a narrow brick-paved passage between tall buildings. He wears a black hooded jacket over a dark shirt, dark jeans and brown lace-up shoes with pale soles. His arms hang down at his sides and his feet are close together. His full body appears relatively small near the center of a wide horizontal composition. Low clipped shrubs and young trees line both sides of the path. A pale solid wall rises on the left, rows of office windows extend along the right, and tall facades close the distant end.",
+  "prompt_sha256": "92579214b94ff6e8637bc0811f7130f3039f70d708805d0b2971217c7fbc6af5",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5e/5e4379072ec227d862fb59f2998dbc1778a3c1f347f592dba258680c0df5db72.png",
+  "original_sha256": "5e4379072ec227d862fb59f2998dbc1778a3c1f347f592dba258680c0df5db72",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f7/f738b95c9ec5ab9f31d75474243c426554ab52e873fec036946e76991a6c2df4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 323,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9425733759999275,
+  "png_path": "generated/piq23-s49-q75.png",
+  "preview_path": "previews/piq23-s49-q75.jpg",
+  "png_sha256": "fa8cf02391a1bb9eda722715a00955146cc5c9b26bc751cbb3974cd26643e15a",
+  "preview_sha256": "c2433e9f02e4c6b8cc2e0553594ebaf9caf38451849a02079e0ebda9bfe1ab10",
+  "png_bytes": 1901056,
+  "preview_bytes": 491012,
+  "pixel_std": 65.34567128216369,
+  "created_at": "2026-10-08T08:46:46.123552+00:00"
+}

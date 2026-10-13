@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-54607",
+  "prompt": "A horizontal portrait of an older woman laughing warmly, with her eyes nearly closed and her teeth visible. Her short straight dark hair is heavily streaked with gray, with a loose fringe across her forehead. She wears small gold hoop earrings, a dark ribbed high collar and a pale gray-green jacket. Frame her head and shoulders slightly left of center against a softly blurred pale weathered wall, using gentle natural light that shows deep smile lines.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-211-216.jpg",
+  "reviewed_source_sha256": "de0f82415b8a2214371289222cd4ba1099a5a0474f6455769e3cbdad522f9c93",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

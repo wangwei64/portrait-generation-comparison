@@ -1,0 +1,37 @@
+{
+  "index": 183,
+  "image_id": "flickr-ffhq-69488",
+  "prompt": "A horizontal photograph of a baby with fine tousled light brown hair and wide eyes, seated in a colorful padded activity seat. The baby wears a pale blue long-sleeved top and looks straight at the camera with the mouth slightly open, hands resting on either side. Bright green, yellow and orange plastic toys surround the red checked seat. Soft indoor light keeps the face clear against a blurred home background.",
+  "prompt_sha256": "7f59b2d25833ab2c4aa6a033dcdf16e27549176cda028bbbffbfebe52d80e3b3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    736
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e0/e0965558fbc374c5ae495921058ced687efcbe873d00bae9500185df5a411d37.png",
+  "original_sha256": "e0965558fbc374c5ae495921058ced687efcbe873d00bae9500185df5a411d37",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a6/a636c534b574deec93a19c9e31144b9c2dda3fbc35445318462b7a0733885eaa.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399557299911976,
+  "png_path": "generated/flickr-ffhq-69488.png",
+  "preview_path": "previews/flickr-ffhq-69488.jpg",
+  "png_sha256": "e97115355b321627224d74aee7fbd121cde42dd8e777b2f36b547754eee963e7",
+  "preview_sha256": "6db960853f895f67eefb5756a5f5f1d15839a977a4bcbd33edc12a8d942cb726",
+  "png_bytes": 1477567,
+  "preview_bytes": 253139,
+  "pixel_std": 73.68117695099241,
+  "created_at": "2026-10-08T08:49:45.135257+00:00"
+}

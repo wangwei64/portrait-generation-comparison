@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-12497",
+  "candidate_index": 157,
+  "ffhq_id": 12497,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-12497.jpg",
+  "source_sha256": "a1ad0f6ce7834e527410b9f4be535ee101b57526bde469f82de16327aea4de90",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3499,
+    2294
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/worldwaterweek/6068752369/",
+    "photo_title": "2011 World Water Week Opening Plenary Monday_11",
+    "author": "worldwaterweek",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2011-08-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/worldwaterweek/6068752369/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "7f2ce7a2ebe57d889b8c32246d62ca0a",
+  "current_decoded_pixel_md5": "f8536c7fb8b41cbc378e3672c4f6552e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09890483094808755,
+  "fetched_at": 1791365497.1753364,
+  "visual_review": "pending"
+}

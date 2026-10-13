@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-09764",
+  "prompt": "A horizontal flash photograph of a young child with shoulder-length dark brown curls and a pale gray shirt. The child looks straight at the camera with the mouth slightly open; strong red-eye reflections from the flash are visible. Frame the head and upper chest closely. Dark polished wooden panels and a thick lighter wood post form the home interior behind, with direct frontal illumination and a casual snapshot composition.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-163-168.jpg",
+  "reviewed_source_sha256": "367699934dd34e73c74c14fa9859d432f40d3df236d45a134ca3d03573fe476b",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

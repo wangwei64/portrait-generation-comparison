@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-03319",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal portrait of a broad-shouldered man with very short light brown hair and a neatly shaped goatee. He wears a charcoal jacket over a black textured shirt and looks off to the right with his lips slightly parted. Frame his head and upper chest. Soft daylight illuminates his face in a bright interior, with large windows, pale structural columns and out-of-focus bare trees behind.",
+  "prompt_sha256": "2c8bf4ad6ad6636f5394e45bb35fa7e91ea8d0d71b8625b1052e513ade5e9c5d",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6684052608907223,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.970703125,
+  "nvidia_smi_peak_gib": 12.4892578125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 84.31714753682672,
+  "generated_at": "2026-10-07T10:13:36.511994+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-03319.png",
+  "sha256": "db37f156a96fb42b813725971e63354a2d87966530403700b8c4fa4b673cc574",
+  "bytes": 843262
+}

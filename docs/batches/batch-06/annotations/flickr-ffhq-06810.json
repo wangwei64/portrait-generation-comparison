@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-06810",
+  "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-343-348.jpg",
+  "reviewed_source_sha256": "4b77553ea25fcbf748e210df8db4b1075cbf0813cc44855f2894d2d0bc04caa7",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

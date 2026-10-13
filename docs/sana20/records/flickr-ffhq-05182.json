@@ -1,0 +1,37 @@
+{
+  "index": 228,
+  "image_id": "flickr-ffhq-05182",
+  "prompt": "A horizontal candid photograph of a smiling boy with closely cropped dark hair, seated at a desk and turning toward the camera. He wears a plain heather gray T-shirt, with one forearm stretched across the lower left. Frame his head and upper body in an everyday room. A tissue box, clear pump bottle, black organizer, papers, a small plant and a noticeboard occupy the background under soft indoor light.",
+  "prompt_sha256": "a48fdb6831ca3cd2eb74c73ab1a49a8493bb062c6a5aca6fb08a4ea30bf05ad7",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f3/f387920689c0ccb31a78877e6a84e31e537ce284fdae8d2a73cde7ba44a16199.png",
+  "original_sha256": "f387920689c0ccb31a78877e6a84e31e537ce284fdae8d2a73cde7ba44a16199",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d6/d6116c168df9f2e2fb188874a4832e90fb32d2552a6ff1dba226e935ef756d9e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940568346530199,
+  "png_path": "generated/flickr-ffhq-05182.png",
+  "preview_path": "previews/flickr-ffhq-05182.jpg",
+  "png_sha256": "d71a494dcc9b560d6026f967e5971ec1e20e1a7fbe67d9a461c386ed33cf1de9",
+  "preview_sha256": "52f8ee2a4df119069a6f54caa30e382d2c2a2447229cf72f9e86f0cc3f4d4ab2",
+  "png_bytes": 1515311,
+  "preview_bytes": 240234,
+  "pixel_std": 61.95013148502254,
+  "created_at": "2026-10-08T08:50:46.341491+00:00"
+}

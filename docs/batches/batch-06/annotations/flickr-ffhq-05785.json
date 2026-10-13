@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-05785",
+  "prompt": "A vertical portrait of a smiling young child with long light brown hair drawn into a high side ponytail and tied with a blue patterned bandana. The child wears a sleeveless navy and white striped dress with a small white flower decoration near one shoulder. A large white flower is held near the lower left of the frame. Soft side light illuminates the face and dress against a dark brown wooden interior, with the figure visible to the waist.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-379-384.jpg",
+  "reviewed_source_sha256": "e0465f7a98cb0641657bdc675387e013409e35905225d58d911a8c5030c86a37",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

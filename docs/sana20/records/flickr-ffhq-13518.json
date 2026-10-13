@@ -1,0 +1,37 @@
+{
+  "index": 67,
+  "image_id": "flickr-ffhq-13518",
+  "prompt": "A vertical interview photograph of a man with swept-back graying hair and a gray mustache and goatee. He wears a pale blue button-down shirt and looks slightly to the right of the camera with his mouth partly open. A hand entering from below holds a black microphone with a white square logo flag close to his chest. Frame his head and upper torso against a plain muted olive indoor wall under soft side light.",
+  "prompt_sha256": "37c068b5ca6e6bbfadaa9c2cd0b14a13a2cdd3657ece16bc1eefba77074ce6ef",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    704,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/da/da388cde7da023ef1ca51a664b16d13e8d7ce3fc0b9720f2d1ae35f767a2111f.png",
+  "original_sha256": "da388cde7da023ef1ca51a664b16d13e8d7ce3fc0b9720f2d1ae35f767a2111f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/13/137d0eca13b487ca1fae5eea8f722c2f4d8358b91b8b8c56516c056fbf6ec4aa.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941321175545454,
+  "png_path": "generated/flickr-ffhq-13518.png",
+  "preview_path": "previews/flickr-ffhq-13518.jpg",
+  "png_sha256": "6a23fa11193a1948218cbc6af61ee45e20b0c057c2fb78411871f6485e8d97b2",
+  "preview_sha256": "889726671ef2d1805839b197f5cc65b6c18a4324119c37b81984113bea4ff4a8",
+  "png_bytes": 1569464,
+  "preview_bytes": 225220,
+  "pixel_std": 42.7156921226644,
+  "created_at": "2026-10-08T08:47:08.636836+00:00"
+}

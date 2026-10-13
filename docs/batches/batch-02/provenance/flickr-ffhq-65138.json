@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-65138",
+  "candidate_index": 56,
+  "ffhq_id": 65138,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-65138.jpg",
+  "source_sha256": "780624b77e6af8b47cf946465ff1dc7a3c61c4d6a015dfa88c98a7c33f92d895",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2144,
+    1424
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/sangonet/4013972478/",
+    "photo_title": "Ella Maponya",
+    "author": "SANGONeT ICT for NGOs Conference",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-10-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/sangonet/4013972478/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "b957d70c1ecb1a17b8be11c475d0a43d",
+  "current_decoded_pixel_md5": "639454c98d69606f2b229a51d8632346",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.19419886173067247,
+  "fetched_at": 1791365086.7478108,
+  "visual_review": "pending"
+}

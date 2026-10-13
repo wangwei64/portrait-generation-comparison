@@ -1,0 +1,37 @@
+{
+  "index": 270,
+  "image_id": "flickr-ffhq-06810",
+  "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+  "prompt_sha256": "89ce6cdc3a69d2284cce95dcdb44b506add8efac23c5947db98f93a979c475d8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    800,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2d/2daa0970d04d63dbf764b8037ee25f17274a412bec6220b2f30cfbe4c4975278.png",
+  "original_sha256": "2daa0970d04d63dbf764b8037ee25f17274a412bec6220b2f30cfbe4c4975278",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6e/6eefcf42cc234df5ca1d2d37f0a9da33ff482e6b323ef17eaade2edff10ca845.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404713623225689,
+  "png_path": "generated/flickr-ffhq-06810.png",
+  "preview_path": "previews/flickr-ffhq-06810.jpg",
+  "png_sha256": "551deccbb47297f7637f93e55799734718abe10eb76ac76370f6eedabc82724f",
+  "preview_sha256": "02ec4bb266aa618bad74addf9e845e1e39a2b6824730e299be1f5a32df099627",
+  "png_bytes": 1700860,
+  "preview_bytes": 383976,
+  "pixel_std": 76.74066764187378,
+  "created_at": "2026-10-08T08:51:42.913502+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-44331",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph with a noticeably tilted camera angle of a laughing woman with shoulder-length blonde hair. She leans toward the camera with her mouth open in a wide smile, wearing round pale earrings, a long thin necklace and a dark gray T-shirt with small printed lettering. Flash lights her face against a dim event interior with several background people, a projection screen and a glowing red exit sign.",
+  "prompt_sha256": "25dd3c6bace7e3a9a5ed46e1afc9ce98c0fd5dfc56c36143569efa94f65dcb95",
+  "seed": 42,
+  "token_count": 87,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.802782583981752,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854158878326416,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 85,
+  "pixel_std": 62.71649511412933,
+  "generated_at": "2026-10-07T12:26:59.603289+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-44331.png",
+  "sha256": "658572e03adfb2077aab75668daf75837ff061969c3a42a2df66e0addc16717e",
+  "bytes": 941013
+}

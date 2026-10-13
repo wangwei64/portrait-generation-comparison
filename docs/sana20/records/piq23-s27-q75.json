@@ -1,0 +1,37 @@
+{
+  "index": 28,
+  "image_id": "piq23-s27-q75",
+  "prompt": "A man with short swept-back brown hair and dark rectangular glasses sits on a wooden slatted bench at night. He wears a black coat and a loosely looped brown scarf. Looking downward, he holds a black smartphone upright in both hands in front of his abdomen. Light from below illuminates his face and reflects in his glasses. He occupies the right half of a horizontal upper-body composition, while the empty bench extends to the left. Dark bushes, tree branches and the facade of a residential building with rows of windows form the background.",
+  "prompt_sha256": "fc7fa5380fac36a4b9bd50fa98938e501ebb59f1b07ff1197da9f3e9b1a30ffd",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "night",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4f/4f078baa68083a081ba50480dabcd5c2d231e5408998f698328a649219431f7c.png",
+  "original_sha256": "4f078baa68083a081ba50480dabcd5c2d231e5408998f698328a649219431f7c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9c/9c9f5ad6afb8e170b3397e4ae1275de2a16540523a255ec26e0bc39ff15b39a2.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 314,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398978687822819,
+  "png_path": "generated/piq23-s27-q75.png",
+  "preview_path": "previews/piq23-s27-q75.jpg",
+  "png_sha256": "f63989aaf0642b17813aaefb603427712b69118322d9a8860ee224fe5ddc77cc",
+  "preview_sha256": "2185c914ae9cf363a3d6626ebcabee8112ec59f0b3a488f9358a9429fa283349",
+  "png_bytes": 1336871,
+  "preview_bytes": 290015,
+  "pixel_std": 45.78518879450278,
+  "created_at": "2026-10-08T08:46:17.691668+00:00"
+}

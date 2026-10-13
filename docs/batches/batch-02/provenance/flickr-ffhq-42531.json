@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42531",
+  "candidate_index": 81,
+  "ffhq_id": 42531,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42531.jpg",
+  "source_sha256": "5f1413b33fff9cc740b3d69485d3966d267a5db85ccdcd236b0fbd3bfe6e9022",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4288,
+    2848
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/hellquist/14432028171/",
+    "photo_title": "_DSC4663b",
+    "author": "Mathias Hellquist",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2014-06-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/hellquist/14432028171/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "6bfa89489dbc71c518b211f22180ac96",
+  "current_decoded_pixel_md5": "c1fc723cd894c3a7c242c108dfbce9a0",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09357509328358209,
+  "fetched_at": 1791365344.654653,
+  "visual_review": "pending"
+}

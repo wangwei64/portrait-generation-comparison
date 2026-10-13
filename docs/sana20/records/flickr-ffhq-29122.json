@@ -1,0 +1,37 @@
+{
+  "index": 163,
+  "image_id": "flickr-ffhq-29122",
+  "prompt": "A vertical candid photograph of a seated man with short salt-and-pepper hair and a dark beard, looking downward at papers with a serious expression. He wears a charcoal suit jacket, a pale pink checked shirt and a dark red tie. A thin microphone rises in front of him beside a black desk console and white documents. Frame his head and upper torso at a wooden table, with other seated people softly blurred in the warm interior behind.",
+  "prompt_sha256": "b85e6f6cf40f6e434356fe265312588f8ade71a6c5b8c90aaf1fbcdd377777f2",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fc/fc96addaec495cf222da2910c0507d3cb2448c08011757c20ff2f901b16fbacb.png",
+  "original_sha256": "fc96addaec495cf222da2910c0507d3cb2448c08011757c20ff2f901b16fbacb",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5d/5df51474283fc7aa9306ff4d7030585edf31db07314ba70bfacac8ef61b35f16.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399673007428646,
+  "png_path": "generated/flickr-ffhq-29122.png",
+  "preview_path": "previews/flickr-ffhq-29122.jpg",
+  "png_sha256": "612653807daa32514bcb65fd7292853426aba9f7451d9a59aa8b53eca759d365",
+  "preview_sha256": "a2446be54d873792dc175d56870f8216bb8c9fee2ee69c5140c8391c4edcffd1",
+  "png_bytes": 1819622,
+  "preview_bytes": 353137,
+  "pixel_std": 61.93314923321795,
+  "created_at": "2026-10-08T08:49:17.814974+00:00"
+}

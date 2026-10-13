@@ -1,0 +1,37 @@
+{
+  "index": 82,
+  "image_id": "flickr-ffhq-29997",
+  "prompt": "A horizontal candid photograph of a man with short dark wavy hair wearing a pale blue open-collar shirt. Leaning sideways from the right side of the frame, he looks to the left with a playful closed-mouth smile. Frame his head and chest in a dim technical or stage interior. Blue-lit metal framework, a dark display and a pale looping cable fill the background and lower foreground, with brighter light on his face.",
+  "prompt_sha256": "c5dc6b5e3264670114874069ef53e66166e0b6c11c4909f831c1cc7cb9e32a12",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5c/5c245fa5e68c1f66b9149ea508cb7720a866a06c5cf1e41a7ccd530c3c83f759.png",
+  "original_sha256": "5c245fa5e68c1f66b9149ea508cb7720a866a06c5cf1e41a7ccd530c3c83f759",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8f/8f247e9f2ee9df8ccc8222fa900237f8635cfd6eef7ca076b1a7fcd15b62149f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941305372864008,
+  "png_path": "generated/flickr-ffhq-29997.png",
+  "preview_path": "previews/flickr-ffhq-29997.jpg",
+  "png_sha256": "039f3f0530e7682a89656831f1abff38f9e0ca3343730f0bba210d59857089db",
+  "preview_sha256": "8c0fee510248b24a43ed3391aaceaffc6b007c6cbc61b7840d822cf3094cc4c4",
+  "png_bytes": 1432008,
+  "preview_bytes": 301918,
+  "pixel_std": 75.66180852364678,
+  "created_at": "2026-10-08T08:47:28.666142+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 262,
+  "image_id": "flickr-ffhq-46627",
+  "prompt": "A vertical selfie-style outdoor portrait of a woman with long blonde hair braided over one shoulder and loose windblown strands rising above her forehead. She smiles at the camera with teeth visible. A gray hooded layer and a dark patterned outer garment are open at the neckline. Frame her head and upper torso from close range against a pale cloudy sky, a large green tree and distant rooftops in soft daylight.",
+  "prompt_sha256": "149fb8ea9c4f039f29f90ed1d735fd36d4dd4bbc346f9a0c42051f57caaf6b64",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/26/26b629e6a459d40eaaaf10417dc4e33af70806504a87d0f8fecdb5a580858f66.png",
+  "original_sha256": "26b629e6a459d40eaaaf10417dc4e33af70806504a87d0f8fecdb5a580858f66",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/63/63e67f3e41f667b6113f8a621a496920505920743dbc2c7bc0ea22e67faae202.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409532509744167,
+  "png_path": "generated/flickr-ffhq-46627.png",
+  "preview_path": "previews/flickr-ffhq-46627.jpg",
+  "png_sha256": "b267e0a3ec2c89b7ac75b363398b0339953b70b585a884c78b97b7f253707067",
+  "preview_sha256": "d49717aa4b881f992fdad0023de712bd4b5af9d453eadb0e00d4275c40ca8b3e",
+  "png_bytes": 1836942,
+  "preview_bytes": 363301,
+  "pixel_std": 76.8273581271187,
+  "created_at": "2026-10-08T08:51:31.899375+00:00"
+}

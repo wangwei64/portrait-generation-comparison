@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s25-q75",
+  "source_sha256": "ed59775152812074a316b07f9d1242933596608848375e942b9963af952c443e",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "glasses",
+    "colored_light",
+    "night"
+  ],
+  "prompt": "A man with swept-back brown hair and black rectangular glasses stands on a paved tree-lined sidewalk at night. He faces the camera in a black coat over a black V-neck top, with a brown scarf wrapped loosely around his neck and a crossbody strap descending over his chest. His upper body fills the left-center of a vertical composition. Red light falls across the left side of his face and clothing. Behind him are dark shrubs, fallen leaves along the curb, a road and apartment buildings. A streetlamp glows above his right shoulder, partly framed by tree branches.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

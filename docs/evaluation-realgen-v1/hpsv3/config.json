@@ -1,0 +1,71 @@
+{
+  "metric": "hpsv3",
+  "native_preprocessing": true,
+  "weights": {
+    "HPSv3.safetensors [1598bd0b7f]": {
+      "sha256": "a13d7ff5a07b7ffa0f7824e60d62e6ae144541ceefd5224b4c08fda7ab39f353",
+      "bytes": 16584387300
+    },
+    "README.md [b51bb4bf94]": {
+      "sha256": "a70d15ecb7f8e5ae13dd0e863c9bdde6a66f29208f85338f6b27f0419e850ed9",
+      "bytes": 17277
+    },
+    "config.json [db6b43efbe]": {
+      "sha256": "77d9ec7321cc572e3579e2c84799c9cadaded63c49ce93b101733349fc330c43",
+      "bytes": 1374
+    },
+    "LICENSE [bebf1de8b0]": {
+      "sha256": "832dd9e00a68dd83b3c3fb9f5588dad7dcf337a0db50f7d9483f310cd292e92e",
+      "bytes": 11343
+    },
+    "README.md [b79871127b]": {
+      "sha256": "9d30300f11d64f1b424c3d07d85139c24d5382e18ba6a3705739e9a36fe0b651",
+      "bytes": 17731
+    },
+    "chat_template.json [469fb6d7bc]": {
+      "sha256": "ad60d90252ed0b0705ba14e2d0ad0fec0beac1ea955642b54059b36052d8bc96",
+      "bytes": 1050
+    },
+    "config.json [1063f7eaff]": {
+      "sha256": "4745aaba24756172765cb804b86512792202df6c65ac28989355971bbb27649c",
+      "bytes": 1197
+    },
+    "generation_config.json [64dd39e44f]": {
+      "sha256": "85fb0349cef993fe7d1cab4baa61c81a42326c3a549dc220fcecb43e6eea3413",
+      "bytes": 244
+    },
+    "merges.txt [bd9a10bdea]": {
+      "sha256": "599bab54075088774b1733fde865d5bd747cbcc7a547c5bc12610e874e26f5e3",
+      "bytes": 1671839
+    },
+    "preprocessor_config.json [8f25ac928c]": {
+      "sha256": "b5eaad0c2815f07631535dcc58f3c462b0d73693638ad21d19f3c50820eae1cc",
+      "bytes": 347
+    },
+    "tokenizer.json [7066d3a25c]": {
+      "sha256": "cb63a0a23eef3d5b01063a9880a1925a65aaf4d1591d519910ee3527852950a0",
+      "bytes": 7029741
+    },
+    "tokenizer_config.json [e390ab283f]": {
+      "sha256": "ff5c4fd898fe8c39591eb70e5d39d2782802d4204d6ae9ba1223252f354842a0",
+      "bytes": 4190
+    },
+    "vocab.json [ec41228c19]": {
+      "sha256": "ca10d7e9fb3ed18575dd1e277a2579c16d108e32f27439684afa0e10b1440910",
+      "bytes": 2776833
+    }
+  },
+  "semantics": "HPSv3 reward head mu; human preference, not AI detection or calibrated probability. Auxiliary raw sigma output retained.",
+  "initialization": "Full official checkpoint loaded strictly into Qwen2VLRewardModelBT built from config; skips redundant base checkpoint download.",
+  "implementation_note": "Exact published model class, FP32 head input cast; native 256 visual-token pixel budget and official instruction. SDPA backend.",
+  "reward_token_id": 151657,
+  "vocab_size": 151658,
+  "adapter_sha256": "b954a4540ddbccffecafc3ac90a965bc30f3398e3dff4ab255664fcb9f12455a",
+  "source_sha256": "9462ef7881493cacea1b82daee8439e1199742f24f5da942c6d9e9f8814d0c57",
+  "input_manifest_sha256": "b57f1fbe0f91b1e0e363069bf7f3454418b030ac16e55a1b9f34fe7c1bfa0686",
+  "runner_sha256": "3eb61d77eb590f5cbb0a4ea1196a0debc5823775cf46fe0b88a8776b13135915",
+  "started_at": "2026-10-08T04:09:53.883331+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0
+}

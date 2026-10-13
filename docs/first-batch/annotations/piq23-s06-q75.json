@@ -1,0 +1,19 @@
+{
+  "image_id": "piq23-s06-q75",
+  "source_sha256": "b2509e8bcf4787c43ddb96b9b876b200c94448b24056ac4e49f5ab35e289eafb",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "glasses",
+    "beard",
+    "seated",
+    "indoor"
+  ],
+  "prompt": "A stocky man with short reddish-brown hair, a full beard and thin metal-framed glasses sits on a sofa, leaning slightly toward the camera. He wears a light gray short-sleeved T-shirt with a small dark chest logo and a black lanyard. His head, shoulders, chest and forearms fill much of a horizontal composition. He looks directly ahead with a slight closed-mouth smile. A dark sofa back and white patterned, burgundy and mustard cushions surround him. Behind him is a muted blue-green wall with circular sunburst mirrors partly cut off along the top edge.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

@@ -1,0 +1,37 @@
+{
+  "index": 281,
+  "image_id": "flickr-ffhq-19078",
+  "prompt": "A horizontal flash portrait of a man with short spiky dark hair and light stubble, facing the camera with a mild smile. A brown plush chicken with a yellow beak and orange feet sits on one shoulder beside a black backpack strap. He wears an open olive-gray shirt over a dark graphic T-shirt. Frame his head and upper torso in a warm shop interior, with stuffed toys, counters and a distant seated person behind.",
+  "prompt_sha256": "f8202a3e07e4cbf35a0bd05532ec6cd912bf4a60591cca6b5b97bb207d513715",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b6/b63faec0cca06098cb533db8617a10d4f94ee55c7bfd5d25d0d52df1c0fb2b39.png",
+  "original_sha256": "b63faec0cca06098cb533db8617a10d4f94ee55c7bfd5d25d0d52df1c0fb2b39",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/10/10c5a6fcb86155341a773216ebcfab5805fdab9536ba1718f5f4c08953dc0873.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.939582247287035,
+  "png_path": "generated/flickr-ffhq-19078.png",
+  "preview_path": "previews/flickr-ffhq-19078.jpg",
+  "png_sha256": "f52fd3036c98da420d15cdf2248948da6eda35a89483eed69d1ace8491d01003",
+  "preview_sha256": "e343477946a6a414c72fdf7f7a20001bf43b216fe190e8c992f51b2ec0d69c26",
+  "png_bytes": 1684720,
+  "preview_bytes": 351867,
+  "pixel_std": 63.608527736409336,
+  "created_at": "2026-10-08T08:51:57.546045+00:00"
+}

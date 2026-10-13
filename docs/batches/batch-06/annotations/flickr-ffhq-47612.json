@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-47612",
+  "prompt": "A horizontal waterfront selfie of a woman with shoulder-length wavy light brown hair blowing in the wind. She wears oversized dark sunglasses and a blue-and-white patterned blouse, facing the camera with a small relaxed smile. Show her head and upper torso beside a pale stone seawall. A road, low buildings, street lamps, bicycle racks and a pale tower recede behind under a clear light blue sky in strong daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-343-348.jpg",
+  "reviewed_source_sha256": "89cfb3eaf766659d750b2eb0925ba157ddf864082f0bbe6f9f2368bae29517e9",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

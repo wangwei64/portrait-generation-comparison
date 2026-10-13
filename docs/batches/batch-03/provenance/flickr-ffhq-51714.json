@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-51714",
+  "candidate_index": 140,
+  "ffhq_id": 51714,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-51714.jpg",
+  "source_sha256": "e559d8239d741b75784b40b962768f538185066d4aba2ce9961e1e9068d24f48",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3504,
+    2336
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/zzoomm-de/5418841074/",
+    "photo_title": "Kind am Straßenrand",
+    "author": "Marcus Schwan",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2011-02-05",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/zzoomm-de/5418841074/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "ea0e5ed421bb48145159284ee93eb151",
+  "current_decoded_pixel_md5": "2002e41ea832cf6216ea0820a94d7be8",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.09698798242321886,
+  "fetched_at": 1791365476.5695724,
+  "visual_review": "pending"
+}

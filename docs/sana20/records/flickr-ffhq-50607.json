@@ -1,0 +1,37 @@
+{
+  "index": 204,
+  "image_id": "flickr-ffhq-50607",
+  "prompt": "A vertical portrait of a seated man with short gray hair combed to one side, thick dark eyebrows and a calm slightly open-mouthed expression. He looks straight at the camera wearing a dark charcoal suit jacket, white shirt and a bright red-orange tie with fine diagonal stripes. Frame his head and chest closely. Soft indoor lighting reveals natural facial lines, while dark clothing and indistinct people form the shallow-focus background.",
+  "prompt_sha256": "fc89ecacdc0b4d1339faf866959b38d277a07d6158d193342e9a543c0ac6e985",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    736,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5d/5d15de9771e012d24eba84f0ab5259d97354da024f86f227469cd5b6f2af587e.png",
+  "original_sha256": "5d15de9771e012d24eba84f0ab5259d97354da024f86f227469cd5b6f2af587e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/12/1287318206d346cc07eddf0dffa195b60944821af3d93a02a650fc315302c78f.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9412521570920944,
+  "png_path": "generated/flickr-ffhq-50607.png",
+  "preview_path": "previews/flickr-ffhq-50607.jpg",
+  "png_sha256": "320d6633a4f8dae1a6c8666c677a5adb17c3df28f87006ea4079c96d2f0ec5ea",
+  "preview_sha256": "c773a3500f96ae39707124117ae82046ebbbfa0990c0a8dd937c242cae74b29e",
+  "png_bytes": 1612990,
+  "preview_bytes": 261124,
+  "pixel_std": 54.198173973912425,
+  "created_at": "2026-10-08T08:50:13.439615+00:00"
+}

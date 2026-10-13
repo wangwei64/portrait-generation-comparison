@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-48671",
+  "prompt": "A horizontal close portrait of a smiling young girl with long dark brown hair, wearing a tall ornate silver rhinestone crown and long sparkling earrings. Bright pink lipstick and blue dental braces stand out as she smiles at the camera. The edge of a white sash with dark trim crosses a pale outfit at the bottom. Direct light illuminates her face and jewelry against a dark outdoor event background with blurred people and lights.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-307-312.jpg",
+  "reviewed_source_sha256": "a7de48a84cfb1e5cfe4af5bd2c97c841b2b4b5cf2d4c895d81ec8fd60529141d",
+  "framing": "closeup",
+  "environment": "night",
+  "tags": [
+    "closeup",
+    "night"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

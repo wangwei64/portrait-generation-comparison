@@ -1,0 +1,37 @@
+{
+  "index": 217,
+  "image_id": "flickr-ffhq-20967",
+  "prompt": "A vertical portrait of a woman with straight shoulder-length blonde hair and black rectangular glasses, looking at the camera with a restrained smile. She wears a black button-front collared jacket, framed from the head to the chest. Even outdoor light reveals small facial lines. A large red inflatable arch with indistinct white lettering spans the blurred background above gray pavement, greenery and a red-and-white traffic marker.",
+  "prompt_sha256": "89dcdb7d83e238b70f18af33c7b639f0120aca96a0e163f7f47a99c5fa1ab76b",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/74/74f5d3dcfe336d1750ec1d42527df248fe0be247bae1bd6c3da58d9c94b8ab93.png",
+  "original_sha256": "74f5d3dcfe336d1750ec1d42527df248fe0be247bae1bd6c3da58d9c94b8ab93",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/81/81546f3b57fda45a98f2b536ab34ae8146fb52cb2302bfcae51e952f994fd2f6.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9444753862917423,
+  "png_path": "generated/flickr-ffhq-20967.png",
+  "preview_path": "previews/flickr-ffhq-20967.jpg",
+  "png_sha256": "02eb8485b6cfacae5141364c50248a8a8d1caf5ce06c9ef3c0ca088db8f6cd8d",
+  "preview_sha256": "97e3ac66c0c467bc0ab795213feb5586d94dd9399061f7e9b5aa6acc29050d96",
+  "png_bytes": 1446915,
+  "preview_bytes": 223629,
+  "pixel_std": 84.68452083264904,
+  "created_at": "2026-10-08T08:50:31.279205+00:00"
+}

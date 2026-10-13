@@ -1,0 +1,37 @@
+{
+  "index": 169,
+  "image_id": "flickr-ffhq-05173",
+  "prompt": "A horizontal photograph of a dark-haired woman seated at a restaurant table beside a bright window. She smiles softly at the camera while resting her cheek in one palm, with the elbow on the table and the other arm folded across it. She wears a sleeveless purple top and a chunky red and brown bracelet. A wineglass is cropped in the foreground; wicker chairs, white tablecloths, glassware and small framed pictures recede into the shaded dining room.",
+  "prompt_sha256": "f740e39f9045730c87222b84dc757fcf0badfc74308d815fc1ce6cac3fb89008",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/87/874235c9da175446975e4cc2d43bb82994361ef7150c95eb48c8343931d92b8c.png",
+  "original_sha256": "874235c9da175446975e4cc2d43bb82994361ef7150c95eb48c8343931d92b8c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6e/6e892baef947b2d8ee31d88b19bb3b717b6a2610809afbec9a8b59ea3af180a5.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 297,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409960620105267,
+  "png_path": "generated/flickr-ffhq-05173.png",
+  "preview_path": "previews/flickr-ffhq-05173.jpg",
+  "png_sha256": "86577fd675316731d2f1c8c4a97f3baea08a3fc6f4e85156aa59d44db9380e11",
+  "preview_sha256": "1a8ae594c317378c69eaa791fc2e70f896991e68cd1c1e10c35b9b8db47ff63d",
+  "png_bytes": 1533908,
+  "preview_bytes": 284401,
+  "pixel_std": 83.8384377547871,
+  "created_at": "2026-10-08T08:49:25.941629+00:00"
+}

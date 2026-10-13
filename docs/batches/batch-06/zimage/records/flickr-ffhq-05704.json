@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-05704",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A nearly square portrait of a bald man with a short gray goatee, smiling at the camera while holding a silver-and-black compact camera beside his face in one raised hand. Its black wrist strap hangs down. Reading glasses rest on top of his head, and his gray long-sleeved shirt has large dark letters across the chest. Frame his head and upper torso against warm vertical wooden cupboard doors under direct indoor flash.",
+  "prompt_sha256": "4e058eaf8f5f5b96f40ce18d48fc4915d4e0f88f5078db4a48f175a0f31d24d3",
+  "seed": 42,
+  "token_count": 92,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 41.79849632456899,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.67293882369995,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 137,
+  "pixel_std": 56.196250406511126,
+  "generated_at": "2026-10-07T12:34:29.627578+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-05704.png",
+  "sha256": "ae24a84b0e046bb60fd83f0b4fe1e564694084290a27df8d49f40b6731aa9b3e",
+  "bytes": 1287546
+}

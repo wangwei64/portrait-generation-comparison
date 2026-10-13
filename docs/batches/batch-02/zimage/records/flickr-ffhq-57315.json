@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-57315",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal arm-length portrait of a man with very short brown hair, a receding hairline and light facial stubble. He looks directly into the camera with a faint closed-mouth smile. He wears a dark navy V-neck sweater over an olive undershirt, with his arms extending toward the lower corners. Frame his head and shoulders against a plain off-white wall and a vertical wooden panel at the left, in soft indoor daylight.",
+  "prompt_sha256": "bca25a5b10e8ac5bbe8d86c51f900c3be3924594afffc8f14340e9b67d063d24",
+  "seed": 42,
+  "token_count": 95,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.200500432401896,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077494144439697,
+  "peak_reserved_gib": 24.7578125,
+  "nvidia_smi_peak_gib": 25.2666015625,
+  "nvidia_smi_sample_count": 96,
+  "pixel_std": 79.44983747696848,
+  "generated_at": "2026-10-07T09:37:56.921546+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-57315.png",
+  "sha256": "c4e2c2593d77c50529565a6b51b1dc353b0dbb29f106ca0815fd637d2aef110e",
+  "bytes": 867227
+}

@@ -1,0 +1,37 @@
+{
+  "index": 289,
+  "image_id": "flickr-ffhq-08576",
+  "prompt": "A horizontal candid photograph of a woman seated in the front passenger seat of a car, turning back toward the camera with a broad toothy smile. She has shoulder-length light brown hair and oversized dark sunglasses, and wears an orange and white striped sleeveless top. Gray fabric seats, the dark dashboard and a rearview mirror surround her. Bright daylight through the windshield reveals a flat roadside and distant trees.",
+  "prompt_sha256": "7b3345bd802d75e989de6318f4f83221cf291e552b9823c321cb71ea4e9f9c67",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5a/5a27cec63e06f28731fe59cdb027035e980411ad4c6ceb1415c570c5cf285f2b.png",
+  "original_sha256": "5a27cec63e06f28731fe59cdb027035e980411ad4c6ceb1415c570c5cf285f2b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/21/21f64d3d39a0d6b043f6114d9a2d3e4e3928c1d66d412c2a76ad5b450c0c6723.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9411519654095173,
+  "png_path": "generated/flickr-ffhq-08576.png",
+  "preview_path": "previews/flickr-ffhq-08576.jpg",
+  "png_sha256": "1e9b482ac9b4e1f9f5c873a0e6d2694267a7e21fa3a1ee2c9f6ad525b47351dd",
+  "preview_sha256": "60a6d5f80e343bbb9dd46913e66b4329a5efd001b88659036711814e606eff51",
+  "png_bytes": 1610906,
+  "preview_bytes": 303955,
+  "pixel_std": 81.3191635991799,
+  "created_at": "2026-10-08T08:52:08.353464+00:00"
+}

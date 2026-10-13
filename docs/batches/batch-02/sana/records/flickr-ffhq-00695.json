@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-00695",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    832,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph of a man with closely cropped dark hair, rectangular dark glasses and a short beard speaking behind a wooden lectern. He wears a charcoal suit, white shirt and purple patterned tie, with his hands resting on opposite lectern edges. Several microphones rise in front of him. His mouth is partly open and his gaze turns slightly sideways. A white backdrop with repeated blue circular emblems fills the bright indoor background.",
+  "prompt_sha256": "35d90a79fca82a3b5eb647435f5435a9e82e3b9f0dad18e399db490ed626a5f4",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.204275958240032,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.893195152282715,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 11,
+  "pixel_std": 94.12316230447071,
+  "generated_at": "2026-10-07T10:13:07.142507+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-00695.png",
+  "sha256": "d5eb3e5f3a4805414896a1c209e34e73efbd99eda9be61ca7340f3bdd54419da",
+  "bytes": 1093657
+}

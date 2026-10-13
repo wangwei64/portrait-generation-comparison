@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-37726",
+  "candidate_index": 190,
+  "ffhq_id": 37726,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-37726.jpg",
+  "source_sha256": "2d08d7dc292d89f97dec1b4710489aad3346034c59c886f04ff99c084f1a269e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3072,
+    2304
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/divb/3607205710/",
+    "photo_title": "2009-05-27-FriendsNFamily (104)",
+    "author": "divb",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-06-08",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/divb/3607205710/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "dbce61590e8c86e6fbef26e108925c28",
+  "current_decoded_pixel_md5": "c45779cc9aba78ac1893667c89dfe12b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07799614800347222,
+  "fetched_at": 1791365545.1779437,
+  "visual_review": "pending"
+}

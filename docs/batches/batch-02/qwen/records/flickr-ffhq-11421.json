@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-11421",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical chest-up photograph of a man with short brown hair and a serious expression, looking off to the left. He wears a dark suit jacket, pale blue shirt and a loosely patterned brown tie, with a dark shoulder strap crossing near one shoulder. The outdoor light is soft and even. Keep his face in focus against a blurred backdrop of leafy green trees and a pale overcast sky.",
+  "prompt_sha256": "fda59d2f1f189bdafb077dd16c19bd4f44b76ea318663c2b2592444dd50b8c8e",
+  "seed": 42,
+  "token_count": 102,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.341739505529404,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.5946364402771,
+  "peak_reserved_gib": 41.595703125,
+  "nvidia_smi_peak_gib": 42.1064453125,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 98.26178763955085,
+  "generated_at": "2026-10-07T10:09:52.836866+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-11421.png",
+  "sha256": "d72d2fb652955d140505b9536ce1f6ebfbd10647b67f9bd769823465be55429c",
+  "bytes": 859485
+}

@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s35-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with short receding brown hair, blue-gray eyes and a full beard is shown in a close horizontal head-and-shoulders portrait. He wears a brown outdoor jacket over a dark scarf, with straps visible on his shoulders. His head faces nearly forward but his eyes glance toward the left. He stands beneath a dark building overhang beside a pale tiled exterior wall on the right. Green hedges, a paved path and a tree with yellow-green leaves appear in the brighter outdoor background on the left.",
+  "prompt_sha256": "73b9440511c5ac48272aba146115feab885a132ed89363e222428bf12d9783f9",
+  "seed": 42,
+  "token_count": 309,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6996307149529457,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 77.89849307280788,
+  "generated_at": "2026-10-07T09:29:02.780317+00:00",
+  "image_path": "sana/generated/piq23-s35-q75.png",
+  "sha256": "f95091330b4e301d3f8dc9b5acebe96dd814adeacd1d54cf504e8be2dd3488dd",
+  "bytes": 1172660
+}

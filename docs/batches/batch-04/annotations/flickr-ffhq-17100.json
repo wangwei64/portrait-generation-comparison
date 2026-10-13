@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-17100",
+  "prompt": "A vertical candid photograph of a man with swept-back dark hair and a full gray beard, seated at a table and looking thoughtfully to the left. He wears a textured dark blue jacket and a gray-beige checked scarf. Both hands hold white papers above a thick stack of documents; a wristwatch and nearby eyeglasses are visible. Blurred bottles and a desk sign cross the foreground against a softly lit pale interior.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-187-192.jpg",
+  "reviewed_source_sha256": "712ab6ac6a131467274d745622173603b683dd77807c97d812e7bb01638fc165",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

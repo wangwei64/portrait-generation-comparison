@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s00-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A man with short brown hair and a beard sits beside a large window in a communal indoor seating area. He wears a loose gray-blue coat over dark clothing and raises his right hand toward the left side of the horizontal frame, palm outward. His other arm hangs down beside his leg. Pale wooden tables, high chairs and a small round potted plant fill the left background. The window runs down the right side, revealing trees and a tall modern building. The wide composition includes the seated man, part of his legs and much of the room.",
+  "prompt_sha256": "95923c620b8ce54bf3aa9bf050376f429108c755e3dc8bb2f442e1d6ed0594a4",
+  "seed": 42,
+  "token_count": 316,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.750970534980297,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 7.4091796875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 76.05424973429415,
+  "generated_at": "2026-10-07T09:27:50.980906+00:00",
+  "image_path": "sana/generated/piq23-s00-q75.png",
+  "sha256": "330aed9451adad0d2a2115eb82bad0984ee253827522f4e95246f03ff96f9e40",
+  "bytes": 1128501
+}

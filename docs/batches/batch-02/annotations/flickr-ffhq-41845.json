@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-41845",
+  "prompt": "A vertical photograph of a man with short tousled gray-brown hair and light stubble, smiling gently toward the camera. His torso is turned slightly sideways. He wears a bright green button-front collared shirt with white buttons and shoulder tabs. Frame his head and upper torso against an almost white outdoor background, with a small patch of foliage at the lower left. Soft daylight reveals natural facial lines.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-001-006.jpg",
+  "reviewed_source_sha256": "32c910aba171ec8535180fad377095cdc9121a1e7cb9433c4f84d0233ee4e4f5",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

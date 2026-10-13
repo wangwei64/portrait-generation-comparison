@@ -1,0 +1,37 @@
+{
+  "index": 115,
+  "image_id": "flickr-ffhq-42971",
+  "prompt": "A vertical outdoor portrait of a girl with long dark brown hair and colorful decorative face paint: purple curling lines beside the eyes, small dots and a green mark on the forehead. She wears pink lipstick, dangling star earrings, necklaces and a black sleeveless printed top. Looking toward the camera, she holds a book partly visible at the lower right. Dappled sunlight falls on a pale walkway and tree trunks behind.",
+  "prompt_sha256": "9a615ebe1c9c77ad7982fec3f89e89f74b8d6bbb7c4f0cf886271fa716182b66",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b3/b3acb0f69b5702c321525f4ec2a0beeb4bd9d0af47ce87c35dd78ee260278925.png",
+  "original_sha256": "b3acb0f69b5702c321525f4ec2a0beeb4bd9d0af47ce87c35dd78ee260278925",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/cf/cff082ac43934c95523a642c338f0dc904b6f9f820ea8e0087134d34d0cdabce.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400613121688366,
+  "png_path": "generated/flickr-ffhq-42971.png",
+  "preview_path": "previews/flickr-ffhq-42971.jpg",
+  "png_sha256": "477740f52316dfcaab5e55c7f20a0ca76eb3d63487e4d4b36d7ac0c4136b108f",
+  "preview_sha256": "8c3de832f931a94825bcc09264fd6b69edd94306b6b289ce1fc32ea0d832ed26",
+  "png_bytes": 1743464,
+  "preview_bytes": 380113,
+  "pixel_std": 69.87607115577603,
+  "created_at": "2026-10-08T08:48:13.335335+00:00"
+}

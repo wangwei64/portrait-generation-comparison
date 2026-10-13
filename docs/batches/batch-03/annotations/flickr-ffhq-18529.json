@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-18529",
+  "prompt": "A horizontal portrait of a smiling man with short salt-and-pepper hair, light beard stubble and thin rectangular glasses. He wears a dark gray shirt with a small white rectangular collar insert and a textured gray zip-front jacket. Center his head and upper torso, leaving some space above and to both sides. Pale blue vertically folded curtains fill the background. Soft even indoor light reveals natural skin texture without harsh shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-097-102.jpg",
+  "reviewed_source_sha256": "619913f29444fc8fa6a86ee053fbb872dc239a481bfb32da6082eb5cb95e0af3",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

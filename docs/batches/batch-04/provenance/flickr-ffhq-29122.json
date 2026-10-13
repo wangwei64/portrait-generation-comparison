@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-29122",
+  "candidate_index": 192,
+  "ffhq_id": 29122,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-29122.jpg",
+  "source_sha256": "14d930c23701d3a09ffaa97e35260036109b3ba787124de5bf80f1f8090d070f",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1371,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/demokrate/4111419911/",
+    "photo_title": "Željko Brestovački na sednici Skupštine Srbije",
+    "author": "DEMOKRATSKA STRANKA DS",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-11-17",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/demokrate/4111419911/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "15ae6ad981730629cc554a610e6984dd",
+  "current_decoded_pixel_md5": "77f017adc504fa13a423a914f9173beb",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07910146286093256,
+  "fetched_at": 1791367137.3415947,
+  "visual_review": "pending"
+}

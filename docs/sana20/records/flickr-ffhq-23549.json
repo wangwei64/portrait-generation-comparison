@@ -1,0 +1,37 @@
+{
+  "index": 167,
+  "image_id": "flickr-ffhq-23549",
+  "prompt": "A vertical outdoor portrait of a woman with long wavy dark brown hair, smiling broadly with teeth visible and looking at the camera over a slightly turned shoulder. She wears a light floral top beneath a brown floral lace cardigan and a fine necklace. Warm low sunlight rims her hair and lights the tall golden grasses around her. Frame her head and upper torso against softly blurred trees and meadow, with a bright patch of sky near the top.",
+  "prompt_sha256": "37360ca4b6231be7786a0aca906b2287ec8b237c3b16facac0a1d6de17cf50e1",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6d/6db300e81865ebeae728a164e25e0c5d9bc2c8d0328da636e09e2869e99ca800.png",
+  "original_sha256": "6db300e81865ebeae728a164e25e0c5d9bc2c8d0328da636e09e2869e99ca800",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d4/d43084de0f0bc3e337eaf9b5adde84df88955fd79e4bed3b2ade4b05fe0e38dd.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404471442103386,
+  "png_path": "generated/flickr-ffhq-23549.png",
+  "preview_path": "previews/flickr-ffhq-23549.jpg",
+  "png_sha256": "d253f2b9b14c9e6571f388bf630416d70bc308d0a1084acf124f8cfd5246ae70",
+  "preview_sha256": "4481a05ff9ff74f3aa4f9cbfbf0a133c6251f29ea38f3cec1c12c3ccf441a272",
+  "png_bytes": 1685907,
+  "preview_bytes": 342452,
+  "pixel_std": 83.97491593684413,
+  "created_at": "2026-10-08T08:49:23.249866+00:00"
+}

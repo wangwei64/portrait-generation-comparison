@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-10656",
+  "prompt": "A vertical home snapshot of a toddler with short straight black hair, wearing a bright blue long-sleeved shirt with white collar and cuffs and large black-and-white letters on the chest. The child looks up toward the camera with a quiet expression, hands resting on a cream leather sofa. Colorful patterned cushions sit behind. Direct flash brightly lights the face and shirt, with a slightly elevated camera angle.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-193-198.jpg",
+  "reviewed_source_sha256": "cc6f009ce9668b1d6bbe31418c43685b38b32574030087bb21428e5c42f1c407",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

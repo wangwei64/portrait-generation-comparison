@@ -1,0 +1,27 @@
+{
+  "metric": "longclip",
+  "native_preprocessing": true,
+  "weights": {
+    "README.md [a77786dd17]": {
+      "sha256": "4bcf87ecfbbb8e07a01b21415a970c8b53a5283bf6872b657040d3f45c9241f7",
+      "bytes": 31
+    },
+    "longclip-L.pt [ae23d7106e]": {
+      "sha256": "9d2c12ffcbf9099f95bfb9cf8f08f949b695e22fb0018e8895e088f4a88b6afd",
+      "bytes": 1711923133
+    }
+  },
+  "semantics": "Raw unnormalized image/text dot product (RealGen evaluation scale); cosine separately stored; neither is realism.",
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "runner_sha256": "b38131d22fbf0eacfa0af499df67ff6bf7a1ec319467624aa18205e4b302d0c1",
+  "rescore_runner_sha256": "226c0d89ef7068cb8f1a385f5c7970529597ed7435e5f94b588939e5ca7c26ed",
+  "started_at": "2026-10-08T09:24:12.459304+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0,
+  "newly_scored": 300,
+  "reused_unchanged": 900,
+  "reuse_manifest_sha256": "eec29fbb310f57230c684b9f889f6b6ee08af345044a7ca8b52566668bf6fee0",
+  "random_seed": 42,
+  "random_stream_note": "Same metric initialization seed; score only the changed Sana inputs in original order. Native stochastic crop draws need not match the earlier 1200-image pass."
+}

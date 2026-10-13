@@ -1,0 +1,37 @@
+{
+  "index": 226,
+  "image_id": "flickr-ffhq-52429",
+  "prompt": "A vertical portrait of a bald man with a short neatly trimmed beard along his jaw, smiling widely at the camera with teeth visible. He wears a vivid royal blue V-neck scrub-style shirt. Frame his head and upper torso against a simple warm orange wall, with a slight turn of the shoulders. Soft bright light falls from the left, preserving gentle facial contours and natural skin texture.",
+  "prompt_sha256": "3949a505b6664d4d6e50941bc97b71db35f359c3cadd3800cbb25e7a5b1643ac",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    800,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/37/37fb7384155f5f173b2c2c0b39568dd660f8d27d5a0f60f56d9b1d592302cb73.png",
+  "original_sha256": "37fb7384155f5f173b2c2c0b39568dd660f8d27d5a0f60f56d9b1d592302cb73",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/09/09aaf1db922bcec1b994a0ebb84c613c612012a1ecf640c75494a1cfeafcce66.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9405626058578491,
+  "png_path": "generated/flickr-ffhq-52429.png",
+  "preview_path": "previews/flickr-ffhq-52429.jpg",
+  "png_sha256": "3055d7c315467977e828bb2048c645a43556fb22d16e2f8428c1bd45cc9c3c81",
+  "preview_sha256": "5bb0d0b22367c297dd45bcc875da9698abbcedff6743516e05bafb9ab54dd09e",
+  "png_bytes": 1575644,
+  "preview_bytes": 262097,
+  "pixel_std": 76.67628493757593,
+  "created_at": "2026-10-08T08:50:43.559978+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-61689",
+  "prompt": "A horizontal close photograph of a woman with long light brown hair and side-swept bangs, turning toward the camera with a broad toothy smile and slightly raised eyebrows. She wears a small nose stud and tiny earrings, with only a little dark clothing visible at the bottom. Soft outdoor light illuminates her face. Leafy trees, pale globe lamps and a low decorated wall appear behind her, all softly out of focus.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-247-252.jpg",
+  "reviewed_source_sha256": "5a9188a16039e0872ddee92c6a14985ae0632e1bf8e1c6c21f0556488f5bb0d1",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

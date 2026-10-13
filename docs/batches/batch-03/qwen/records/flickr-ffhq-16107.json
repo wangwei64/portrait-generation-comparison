@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-16107",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical indoor snapshot of a man with shoulder-length straight blonde hair and a light reddish beard, resting his chin on his stacked hands. He wears a colorful patterned shirt, a metal wristwatch and a crumpled shiny foil party hat. His head tilts slightly as he looks toward the camera. Warm yellow walls, exposed brick, bookshelves and a glowing wall lamp surround him, with direct flash illuminating the face and fingers.",
+  "prompt_sha256": "42a9a5827aa6bfd2361f436e6591f3784360e9097926c984a00254398a98bbdd",
+  "seed": 42,
+  "token_count": 112,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.822922222316265,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.21168279647827,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 72.61536421573852,
+  "generated_at": "2026-10-07T10:41:09.235934+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    248,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-16107.png",
+  "sha256": "c157e22a9ea924bc972298883cb52e19f0e5578caf0e84bfad1068375558ad46",
+  "bytes": 1456481
+}

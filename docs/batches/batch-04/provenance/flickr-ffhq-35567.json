@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-35567",
+  "candidate_index": 246,
+  "ffhq_id": 35567,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-35567.jpg",
+  "source_sha256": "791c2fed7da6196a6f3a4af2b1eed8e30d97b0446cf8514d986208bacaf52c37",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3930,
+    4912
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/weenigjay/24282043273/",
+    "photo_title": "Eve Make UP-3",
+    "author": "Jay Weenig",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2016-02-09",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/weenigjay/24282043273/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "436a25bb7194bb5abc2b4ae6718ff1a0",
+  "current_decoded_pixel_md5": "8c4e2a30e510096f07472accdf99b8e5",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.16486891944534235,
+  "fetched_at": 1791365561.0272114,
+  "visual_review": "pending"
+}

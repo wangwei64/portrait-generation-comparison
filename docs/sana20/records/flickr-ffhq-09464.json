@@ -1,0 +1,37 @@
+{
+  "index": 212,
+  "image_id": "flickr-ffhq-09464",
+  "prompt": "A horizontal close photograph of a man with wavy dark hair streaked with gray, turning his face toward the left as he speaks with rounded open lips. He wears a dark jacket over a pale collared shirt, mostly cropped below the neck. A small black recording device appears near the far right edge. Soft subdued light falls across his face against a heavily blurred dark background with broad turquoise, white and red areas.",
+  "prompt_sha256": "172a6743ff6f13ba589a129f89ed89ac65a3887d9d976563f0afcb04149238e9",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    640
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7e/7eb432da982dd345d04d1d3a54b6b5cc9331a72802ddf261856f85c3f79ccf5d.png",
+  "original_sha256": "7eb432da982dd345d04d1d3a54b6b5cc9331a72802ddf261856f85c3f79ccf5d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1b/1b9c323ae2207c0a25e2e044036f3a385b93aa7393a8fb34d8caa4dcdefd44c1.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416305311024189,
+  "png_path": "generated/flickr-ffhq-09464.png",
+  "preview_path": "previews/flickr-ffhq-09464.jpg",
+  "png_sha256": "fde43660f2b66adfc9c6ae7ce468cdb9b6d975ab8a258409545c96bd1a8df193",
+  "preview_sha256": "3d4a73f47817151f6fb2f8f66cabd06661096476d31c8f19e1acd75f32aae014",
+  "png_bytes": 1629794,
+  "preview_bytes": 279009,
+  "pixel_std": 52.626475972979655,
+  "created_at": "2026-10-08T08:50:24.422537+00:00"
+}

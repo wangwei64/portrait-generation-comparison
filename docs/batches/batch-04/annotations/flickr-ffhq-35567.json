@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-35567",
+  "prompt": "A vertical head-and-shoulders portrait of a smiling woman with thick black curly hair gathered loosely on top while curls spread around both sides of her face. She has a small nose stud and small earrings, and wears a pale gray crew-neck shirt. Her eyes look directly at the camera and her teeth are visible. Bright diffuse studio lighting reveals natural skin texture against a clean white background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-241-246.jpg",
+  "reviewed_source_sha256": "791c2fed7da6196a6f3a4af2b1eed8e30d97b0446cf8514d986208bacaf52c37",
+  "framing": "closeup",
+  "environment": "studio",
+  "tags": [
+    "closeup",
+    "studio"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

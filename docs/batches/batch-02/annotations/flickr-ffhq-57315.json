@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-57315",
+  "prompt": "A horizontal arm-length portrait of a man with very short brown hair, a receding hairline and light facial stubble. He looks directly into the camera with a faint closed-mouth smile. He wears a dark navy V-neck sweater over an olive undershirt, with his arms extending toward the lower corners. Frame his head and shoulders against a plain off-white wall and a vertical wooden panel at the left, in soft indoor daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-007-012.jpg",
+  "reviewed_source_sha256": "29a73d515575f86c14ec04c6c09bbe703c471bce846d1d4213f9597337327c3c",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

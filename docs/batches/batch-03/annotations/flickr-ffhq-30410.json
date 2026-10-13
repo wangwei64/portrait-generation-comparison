@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-30410",
+  "prompt": "A horizontal candid portrait of a man with short receding brown hair and a small gray-brown goatee. He wears a faded navy T-shirt and looks toward the camera with a raised eyebrow and pursed lips. Frame his head and upper chest at an outdoor table. A wooden railing, red brick wall, green trees and soft white and red flowers appear behind him in natural daylight with a shallow depth of field.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-091-096.jpg",
+  "reviewed_source_sha256": "5332df13f9dfe1464e5cc6160d41275674c7765c3433ce5edf0a5e4c4de642ea",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-48671",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a smiling young girl with long dark brown hair, wearing a tall ornate silver rhinestone crown and long sparkling earrings. Bright pink lipstick and blue dental braces stand out as she smiles at the camera. The edge of a white sash with dark trim crosses a pale outfit at the bottom. Direct light illuminates her face and jewelry against a dark outdoor event background with blurred people and lights.",
+  "prompt_sha256": "d0c67d6cc28e49809566c19325d26e0f52967e8347f51e7b56caa05086b99bca",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6717903204262257,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 75.06038532651837,
+  "generated_at": "2026-10-07T12:10:35.680582+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-48671.png",
+  "sha256": "34cb2984738fa631d498d22a5281c57d6310a2f915f880979f9a98d946cf11c9",
+  "bytes": 826483
+}

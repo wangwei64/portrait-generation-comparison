@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-07861",
+  "prompt": "A horizontal candid close portrait of a man leaning slightly forward and smiling at the camera with raised eyebrows. He has short dark side-parted hair and a neat dark beard, and wears a navy polo shirt with narrow red and white horizontal stripes. Bright direct light makes his face stand out. The domestic background includes white walls, wooden paneling, brass wall lamps and a small green hanging plant above his shoulder.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-235-240.jpg",
+  "reviewed_source_sha256": "bb2ab6fd743d20fd83a9135af94ad202a763ceb38312f4b70e0bb74e2e63c53c",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

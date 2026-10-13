@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-51814",
+  "prompt": "A vertical portrait of an older woman with short reddish brown hair and rectangular dark-rimmed glasses. She faces the camera and smiles with her teeth visible. A cream cardigan with irregular black spots is worn over a black blouse decorated with glossy dark beads near the neckline. Frame her head and upper torso against a softly textured gray background, with even studio light revealing natural facial lines and gentle shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-085-090.jpg",
+  "reviewed_source_sha256": "4518caa6c379b9c9a2917755d37d1cb80cb336e99fd60fc0f18996a245268cab",
+  "framing": "upper_body",
+  "environment": "studio",
+  "tags": [
+    "upper_body",
+    "studio"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

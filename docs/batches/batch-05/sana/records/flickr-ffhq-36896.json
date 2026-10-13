@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-36896",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a woman with a short dark brown bob and wispy bangs. She faces the camera with a relaxed closed-mouth expression and slightly narrowed eyes. She wears tiny stud earrings, a fine chain necklace and a red top decorated with small pale spiral and circular details near the shoulders. Frame her head and shoulders against a softly blurred street or walkway with pale walls and dark vertical fixtures in gentle daylight.",
+  "prompt_sha256": "88e68fc68d30aa4f6f05b0f7da24e538ddc1001afe2d4b712b2e78ad216d27e0",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.697775837033987,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 71.77902152222417,
+  "generated_at": "2026-10-07T12:10:31.602956+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-36896.png",
+  "sha256": "8476522340694138d5a034522acc0e5999045f6ea065ab2668621f802a7cabbf",
+  "bytes": 993401
+}

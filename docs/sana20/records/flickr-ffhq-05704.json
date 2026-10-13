@@ -1,0 +1,37 @@
+{
+  "index": 298,
+  "image_id": "flickr-ffhq-05704",
+  "prompt": "A nearly square portrait of a bald man with a short gray goatee, smiling at the camera while holding a silver-and-black compact camera beside his face in one raised hand. Its black wrist strap hangs down. Reading glasses rest on top of his head, and his gray long-sleeved shirt has large dark letters across the chest. Frame his head and upper torso against warm vertical wooden cupboard doors under direct indoor flash.",
+  "prompt_sha256": "4e058eaf8f5f5b96f40ce18d48fc4915d4e0f88f5078db4a48f175a0f31d24d3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/da/dad08d399366ae1ade3503910a60d540b648279409dbd6f414e6077110300049.png",
+  "original_sha256": "dad08d399366ae1ade3503910a60d540b648279409dbd6f414e6077110300049",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/74/741d435cc4332b0bc8aad277bd85887971377deaf7abeb883a23eae057cd846a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.942176416516304,
+  "png_path": "generated/flickr-ffhq-05704.png",
+  "preview_path": "previews/flickr-ffhq-05704.jpg",
+  "png_sha256": "a5ce8cc9607a36347fd19b73e32df07cf5959e11c98785680cfea101e178e2f0",
+  "preview_sha256": "1a65b2f51c694768b68137d055022a7b0172bd7278a8af85d448e461f736c8cd",
+  "png_bytes": 1883638,
+  "preview_bytes": 406563,
+  "pixel_std": 58.653535663615614,
+  "created_at": "2026-10-08T08:52:20.406347+00:00"
+}

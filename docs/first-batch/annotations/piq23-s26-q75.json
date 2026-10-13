@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s26-q75",
+  "source_sha256": "215ad6a6433cd760f24aea90349f6264ee4002e841d6fe2e315b4ddeeb582568",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "full_body",
+    "stairs",
+    "night"
+  ],
+  "prompt": "A bearded man with short brown hair stands partway down an outdoor station stairway at night, facing upward toward the camera. He wears a beige hooded jacket, dark trousers and dark shoes, with a black crossbody strap; both hands are tucked into his pockets. His full body appears near the center of a horizontal composition viewed from the top of the stairs. White tiled walls with green border strips slope downward on either side, carrying black handrails. Round lamps glow above the lower entrance, while dark metal railings and parked bicycles border the sidewalk at the top.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

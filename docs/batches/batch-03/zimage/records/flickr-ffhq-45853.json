@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-45853",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of a boy with short brown hair and flushed cheeks, concentrating on painting a small rounded stone. He wears a blue-gray T-shirt, holds a slender red paintbrush in one raised hand and steadies a green-painted stone with the other. A second decorated red stone and colored marks lie on white paper on the table. Frame his face, arms and hands closely in soft window light against a pale indoor background.",
+  "prompt_sha256": "c1bc1274bc479cc5028d79016256ecbc86b06462a8ec9ba2d6cf70040f2fa120",
+  "seed": 42,
+  "token_count": 95,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.181870866566896,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077494144439697,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 52.71503433639688,
+  "generated_at": "2026-10-07T10:32:04.610516+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-45853.png",
+  "sha256": "6e4a4d71c317a8d59c725a1f6556ff391d082ae368e684db512867dc91bfbf7e",
+  "bytes": 973165
+}

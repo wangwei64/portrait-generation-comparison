@@ -1,0 +1,37 @@
+{
+  "index": 40,
+  "image_id": "piq23-s39-q75",
+  "prompt": "A dark-skinned man with closely cropped hair sits on a green metal chair in a courtyard. He wears a fitted light gray long-sleeved shirt and blue jeans, with his hands clasped in his lap. His body angles toward the left, and he lifts his chin slightly while looking past the camera. The vertical view shows his head, torso and upper legs. A pale concrete wall and small young trees stand behind him, with a tall apartment building rising along the right side and a patch of blue sky above. Brick paving and grass border the chair.",
+  "prompt_sha256": "6ecb2ce9df73a39eeb8b69d821a086a0014ed6d70e5f886715f249f9a86e0b14",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e8/e82f0d3cf9d156ed672a6274b94de10df7c3590bcaafb7c8fdb1274b8f70a165.png",
+  "original_sha256": "e82f0d3cf9d156ed672a6274b94de10df7c3590bcaafb7c8fdb1274b8f70a165",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5f/5f025325b1b5a5dca4c790677a09fb704448cdb4b969c80ef53e6fb2da760120.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 318,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407232478260994,
+  "png_path": "generated/piq23-s39-q75.png",
+  "preview_path": "previews/piq23-s39-q75.jpg",
+  "png_sha256": "608c1bdd7a12caba66274e32585d32cb65d059453d6c6d5592f7ef595858240c",
+  "preview_sha256": "3f4cc0646c5a77c5756f84797366ff05926735a57acda494841827c216c1e58c",
+  "png_bytes": 1903125,
+  "preview_bytes": 454293,
+  "pixel_std": 68.66242134740517,
+  "created_at": "2026-10-08T08:46:33.325561+00:00"
+}

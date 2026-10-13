@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-63979",
+  "candidate_index": 94,
+  "ffhq_id": 63979,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-63979.jpg",
+  "source_sha256": "39bc5318464594930beedd60eca88164726a646344e8eb58564fa52cd55ad70f",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3672,
+    3710
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bradrobb/33663805231/",
+    "photo_title": "DSC09233",
+    "author": "Moodycamera Photography",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2017-04-02",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/bradrobb/33663805231/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "ca329ab5a0da6c1d35ade4397b0e67ff",
+  "current_decoded_pixel_md5": "98e915fa05d0d46974013104f9b4a9f1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12101897362718672,
+  "fetched_at": 1791365347.1761153,
+  "visual_review": "pending"
+}

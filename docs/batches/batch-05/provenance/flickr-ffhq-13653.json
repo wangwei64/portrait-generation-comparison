@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-13653",
+  "candidate_index": 301,
+  "ffhq_id": 13653,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-13653.jpg",
+  "source_sha256": "e54321f3f0986cd71cbf5e2775d78622919d4cbfbb989f5d6ff1581aa0cf105e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1356,
+    2047
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/jerandsar/6123327669/",
+    "photo_title": "Turkey 448",
+    "author": "JerandSar Gimbel",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2011-09-07",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/jerandsar/6123327669/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "539e1c4f7011586db5ec6f3d2d283509",
+  "current_decoded_pixel_md5": "f7c5ab253c7dad23b8cd50949960f5c9",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14763327205882354,
+  "fetched_at": 1791367412.0950086,
+  "visual_review": "pending"
+}

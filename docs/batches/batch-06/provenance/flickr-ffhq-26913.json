@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-26913",
+  "candidate_index": 320,
+  "ffhq_id": 26913,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-26913.jpg",
+  "source_sha256": "f4d1cd244a5aef8b0cb3ce8bff730e5745f1400ee4e2ecec54d3831015d38859",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/warong_lupaiboon/4394947877/",
+    "photo_title": "",
+    "author": "Warong Lupaiboon",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-02-28",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/warong_lupaiboon/4394947877/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "07a559a0b0bf9227d116f585df968fb9",
+  "current_decoded_pixel_md5": "cd3a5d4f54d037234f0652bb9b9c6105",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1623624894980046,
+  "fetched_at": 1791367460.2761915,
+  "visual_review": "pending"
+}

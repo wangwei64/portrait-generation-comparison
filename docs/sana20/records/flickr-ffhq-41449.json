@@ -1,0 +1,37 @@
+{
+  "index": 253,
+  "image_id": "flickr-ffhq-41449",
+  "prompt": "A nearly square outdoor portrait of a woman with short gray-streaked dark hair and large brown sunglasses, laughing with her mouth open. She wears a black sleeveless top with white horizontal stripes and a black diagonal shoulder strap. Frame her head and upper torso in bright sunlight. Behind her is a broad green lawn with tiny distant visitors, a large upright stone near the right edge and a blue sky scattered with white clouds.",
+  "prompt_sha256": "ce7aa3bccc5107a0c53a8ada702b197ae8a1a6ecf65104bded43141fc1c4906a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/4d/4de4bed2b956f03d77f85eb70fba1dbda5b630b031e4e4ff2c9bd597b25aa433.png",
+  "original_sha256": "4de4bed2b956f03d77f85eb70fba1dbda5b630b031e4e4ff2c9bd597b25aa433",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a1/a1c54072fd279b0affa4032a5c6227dd9da9444844b8a810d55c365c189a0145.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399184212088585,
+  "png_path": "generated/flickr-ffhq-41449.png",
+  "preview_path": "previews/flickr-ffhq-41449.jpg",
+  "png_sha256": "eeee4d7abfdf1bacff4a0205fdab3436cda9bdca692ba0e59f3a48094c0bc255",
+  "preview_sha256": "4a838ca9448ac8ebc5e551ad9ddce3dc48a66dc62ca016cc93b581f32fe5c324",
+  "png_bytes": 1847702,
+  "preview_bytes": 397130,
+  "pixel_std": 82.46282015562706,
+  "created_at": "2026-10-08T08:51:19.587528+00:00"
+}

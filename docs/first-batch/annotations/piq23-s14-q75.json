@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s14-q75",
+  "source_sha256": "9ba9496b8a7fd0ed94d53b96e32ee039e6be31fabc6a92b74cbecbd04ec87460",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "earrings",
+    "lowlight"
+  ],
+  "prompt": "A young man with straight black hair swept across his forehead looks directly at the camera. He has faint facial stubble, small metallic earrings and a plain black crew-neck top. His face, shoulders and upper chest fill the center of a horizontal portrait in a dim room. Behind him is a black metal shelving unit holding tall green glass bottles and a woven container. The lower portion of a large OPEN sign is cropped along the top edge, and another translucent bottle stands at the far left. His face is brighter than his dark clothing.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

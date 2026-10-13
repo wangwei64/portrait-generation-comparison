@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s33-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A man with short brown hair and light facial stubble stands on a dirt path in a small urban park. He faces the camera in a dark navy hooded coat and dark trousers, with both hands in his coat pockets. A pale blue disposable mask hangs below his chin. The vertical image frames him from the head to around the knees. A thick tree trunk borders the right foreground, while bare-branched trees, patches of grass, shrubs and black park fencing occupy the background. Apartment buildings are visible beyond the trees.",
+  "prompt_sha256": "ed11af842a34acb163cb26b30ba5f5dfa47cda117450c127e2396048f0043126",
+  "seed": 42,
+  "token_count": 128,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.818436499685049,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.21961736679077,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 47,
+  "pixel_std": 69.50750770307046,
+  "generated_at": "2026-10-07T09:23:44.550057+00:00",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s33-q75.png",
+  "sha256": "c593a685d51ddbd226de29f74157266fb593e7ed7c7e0a454ae61cb1807cbba1",
+  "bytes": 1876776
+}

@@ -1,0 +1,23 @@
+{
+  "metric": "hpsv21",
+  "native_preprocessing": true,
+  "weights": {
+    "HPS_v2.1_compressed.pt [6f229cdea8]": {
+      "sha256": "c57a38fb4a2f7e7c15bf00da2ea377cdf165448b4dd1052a484c215a998c9837",
+      "bytes": 1972490005
+    }
+  },
+  "semantics": "HPSv2.1 normalized image/text dot × 100; human preference, not real probability. Native 77-token tokenizer.",
+  "input_manifest_sha256": "743d24ce2bf04ac60981f0df502a69f4725191b4d15287fe184aac49fae3de14",
+  "runner_sha256": "3eb61d77eb590f5cbb0a4ea1196a0debc5823775cf46fe0b88a8776b13135915",
+  "rescore_runner_sha256": "226c0d89ef7068cb8f1a385f5c7970529597ed7435e5f94b588939e5ca7c26ed",
+  "started_at": "2026-10-08T09:24:53.737798+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0,
+  "newly_scored": 300,
+  "reused_unchanged": 900,
+  "reuse_manifest_sha256": "579d2d296bdcfea27c7e7998888c28acb048d83ad9586b73cae709de47e77214",
+  "random_seed": 42,
+  "random_stream_note": "Same metric initialization seed; score only the changed Sana inputs in original order. Native stochastic crop draws need not match the earlier 1200-image pass."
+}

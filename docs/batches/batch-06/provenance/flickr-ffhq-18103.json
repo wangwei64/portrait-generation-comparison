@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-18103",
+  "candidate_index": 337,
+  "ffhq_id": 18103,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-18103.jpg",
+  "source_sha256": "fa50d7d619b1f98ea968ec84fa6e6d5661920d7d4e3d75b9dd348d887a0226e3",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1679,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/136483850@N04/30106233385/",
+    "photo_title": "DSC_0092",
+    "author": "H JACQUOT",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-10-04",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/136483850@N04/30106233385/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "8993c78e6eb8f30b57744e2885452a2f",
+  "current_decoded_pixel_md5": "ed4b2386040f280f0e80779e290b7717",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.16600617865166198,
+  "fetched_at": 1791367512.517011,
+  "visual_review": "pending"
+}

@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s05-q75",
+  "source_sha256": "2ec143a050e587b419a745de40185acaf9be2377cae76aa1e9fd82677c49e047",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "pole",
+    "indoor"
+  ],
+  "prompt": "A young man with swept-up brown hair, a short mustache and a small goatee faces the camera with a slight smile. He wears a burgundy crew-neck T-shirt. His head and shoulders fill the right side of a horizontal close portrait. A black telescoping pole runs diagonally from the lower left toward a clamp near his right shoulder. A dense spherical green plant in a salmon-colored pot occupies the left foreground beside his face. A pale wall and indistinct furniture appear behind him.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

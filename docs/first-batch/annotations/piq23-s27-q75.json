@@ -1,0 +1,19 @@
+{
+  "image_id": "piq23-s27-q75",
+  "source_sha256": "6238fd91408fe0e708633f9f9ec7a9d10168167017e165ecae4182b34d9487b4",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "phone",
+    "glasses",
+    "hands",
+    "night"
+  ],
+  "prompt": "A man with short swept-back brown hair and dark rectangular glasses sits on a wooden slatted bench at night. He wears a black coat and a loosely looped brown scarf. Looking downward, he holds a black smartphone upright in both hands in front of his abdomen. Light from below illuminates his face and reflects in his glasses. He occupies the right half of a horizontal upper-body composition, while the empty bench extends to the left. Dark bushes, tree branches and the facade of a residential building with rows of windows form the background.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

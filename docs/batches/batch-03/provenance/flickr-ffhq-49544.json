@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-49544",
+  "candidate_index": 153,
+  "ffhq_id": 49544,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-49544.jpg",
+  "source_sha256": "0efdc35939118cf2dfc1a966069b3d95e52985bc9af4b52ed0e9203f1abe6322",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1609,
+    2151
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/castaway_in_wales/6865885507/",
+    "photo_title": "Robert and his tuque, 12 Feb 12",
+    "author": "Castaway in Scotland",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2012-02-12",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/castaway_in_wales/6865885507/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "d28cd406f58c802805835bc675ed903b",
+  "current_decoded_pixel_md5": "a4d58911924e63c785e87bdddc98cbdc",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.17131089966682644,
+  "fetched_at": 1791365488.871204,
+  "visual_review": "pending"
+}

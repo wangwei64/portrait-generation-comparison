@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s20-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A bearded man with short dark hair and large thin-framed glasses is shown in a tight horizontal close-up from below. His face occupies most of the right side, and he looks upward toward the left with his mouth closed. Blue-cyan light covers his face, glasses, pale shirt and the wall. A large round clock with a dark rim, white face and black numerals is partly cropped at the left edge beside his head. Only a small portion of his shoulders and dark lanyard is visible along the bottom.",
+  "prompt_sha256": "2627918f1185c5f6bb7558910b6c25692af6758caea508264dd25013776762cb",
+  "seed": 42,
+  "token_count": 128,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.674952872097492,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.21961736679077,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 61.124071547975404,
+  "generated_at": "2026-10-07T09:20:40.019178+00:00",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s20-q75.png",
+  "sha256": "66d88b06122472f0e3ad7763158600b4c8f25efd7be81b5f07adfdefb3593c1d",
+  "bytes": 1252063
+}

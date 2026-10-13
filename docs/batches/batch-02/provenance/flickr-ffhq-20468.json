@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-20468",
+  "candidate_index": 25,
+  "ffhq_id": 20468,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20468.jpg",
+  "source_sha256": "bdbd85414dcb8ee29454aa44f99ce92b8195cceaba38a4bcde0fbbe3084156a5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1936,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/dfmagazine/6481323201/",
+    "photo_title": "Pte Adrian Allen",
+    "author": "Óglaigh na hÉireann",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-12-09",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/dfmagazine/6481323201/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "b7d8b623cebeceb76a5fd8306890d62d",
+  "current_decoded_pixel_md5": "f23ec16707ee438b07266fa9d97cb49f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.07610910238751148,
+  "fetched_at": 1791365038.790908,
+  "visual_review": "pending"
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-68558",
+  "candidate_index": 325,
+  "ffhq_id": 68558,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-68558.jpg",
+  "source_sha256": "c5a5209ac62cc68f2d51655022748d7b9cb6fc97c52b34269e06a9092dbdab27",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/124715378@N03/14264512783/",
+    "photo_title": "20130930_194746",
+    "author": "土木 四甲",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2014-05-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/124715378@N03/14264512783/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a6332b30fee19fdb78574c17d51755d1",
+  "current_decoded_pixel_md5": "cb4c80f3bd8baf17ee96048264daeeaa",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1432867366717929,
+  "fetched_at": 1791367473.8387954,
+  "visual_review": "pending"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-64960",
+  "prompt": "A horizontal close portrait of a young girl with light brown hair, straight wispy bangs and loose curls near her neck. A small pink hair tie or clip sits near the crown. She looks directly at the camera with her mouth slightly open, wearing a pale pink top. Frame her head and shoulders against a gray block garden wall, with pink flowers at the lower left and soft green plants behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-343-348.jpg",
+  "reviewed_source_sha256": "08621e783adb09b0e3c05708403d75b171f38e8008e0a7c4bf1d4c807172d742",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

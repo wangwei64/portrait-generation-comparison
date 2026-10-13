@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-23505",
+  "prompt": "A horizontal stage photograph of a woman with short silver-gray hair, speaking with both hands lifted and fingers spread. She wears a black long-sleeved top patterned with large red and cream flowers, small earrings and a thin headset microphone along her cheek. Her body faces left and her mouth is open. Frame her head, shoulders and hands against vivid blurred pink and purple illuminated panels, under warm focused stage light.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-211-216.jpg",
+  "reviewed_source_sha256": "b03b774324bf4697b4729cea3308fd72511553d1fb2429fa035096a5f0379594",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-01554",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical candid photograph of a blonde woman seated at a conference table, looking to the left with a thoughtful closed-mouth expression. She wears a beige button-front blouse, a gold necklace, small earrings and a pale lanyard. Strong window light catches her hair and face. Water glasses, papers and a blurred name card occupy the foreground, while a dark-suited person standing behind is cropped at the shoulders. Include her upper body and folded forearms.",
+  "prompt_sha256": "549a7c4ab75c3d5d16a5c56bbc097d9407da286cc998503980b04dd71b9681c0",
+  "seed": 42,
+  "token_count": 113,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.436604373157024,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.60009145736694,
+  "peak_reserved_gib": 39.341796875,
+  "nvidia_smi_peak_gib": 39.8525390625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 78.46923539106072,
+  "generated_at": "2026-10-07T10:05:41.289140+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-01554.png",
+  "sha256": "7e55e43380335daadbc64404d90bc9ad41f26999aa460f6002d8236557b6a9cb",
+  "bytes": 997446
+}

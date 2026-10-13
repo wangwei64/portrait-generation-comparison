@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-62829",
+  "prompt": "A horizontal close portrait of a young person with short dark hair mostly covered by a tan woven wide-brimmed hat with a black band. The subject looks at the camera with a subtle closed-mouth smile, slightly narrowed eyes and faint freckles on the cheeks. Only the top of a gray shirt is visible. Soft outdoor light falls beneath the brim, with a blurred fence, pale building and another indistinct figure near the right edge behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-211-216.jpg",
+  "reviewed_source_sha256": "4ab04f3284c81d872811475770a52aecb251ea58435966155034012927ca092c",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

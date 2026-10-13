@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-54322",
+  "prompt": "A vertical seated portrait of a smiling woman with blonde hair pinned into a loose curled updo and one curved strand beside her cheek. She wears a simple black sleeveless scoop-neck dress. Her body angles slightly sideways while her face turns toward the camera. Frame her head and torso beside a large white-framed window, with soft daylight and a blurred view of water, greenery and buildings outside.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-037-042.jpg",
+  "reviewed_source_sha256": "bb6072b6ce04955493b5528101be945ddaf59956b51bf7c5ac49bbe2ad78da8a",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

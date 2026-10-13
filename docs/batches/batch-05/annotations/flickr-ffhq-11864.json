@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-11864",
+  "prompt": "A horizontal close photograph of a man with short spiky blond hair and narrow rectangular metal glasses, making a playful face with his tongue pushed sideways over his lower lip. His eyebrows draw together and he glances toward the right. He wears an open beige shirt over a charcoal T-shirt. Frame his head and shoulders with a slight camera tilt, against white walls, a lace curtain and a dark open doorway in an indoor room.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-271-276.jpg",
+  "reviewed_source_sha256": "9630f184e85b572fad2edc67c9d6f16f5b1133a0e27803417d377591c9d12d4a",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

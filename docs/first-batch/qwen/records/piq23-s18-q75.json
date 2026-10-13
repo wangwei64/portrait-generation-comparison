@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s18-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A woman with dark curly hair gathered into a high bun sits at a small white table. She wears hoop earrings, a charcoal knitted cardigan and a gray-purple layer around her neck. Her forearms are crossed on the tabletop, and she tilts her head down with a smile. Two small burning tealights stand in front of her. She occupies the left half of a horizontal frame, with a large pale wall and her cast shadow on the right. White shelves at the left hold books, glass bottles, small plants, a round dark clock and a small tower-shaped ornament.",
+  "prompt_sha256": "d4e899af6675916eea72c66821b19c7cfa044f4804f3a04e0d5296afed4ee7ac",
+  "seed": 42,
+  "token_count": 139,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.588249124586582,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.225072383880615,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 66.18517974609358,
+  "generated_at": "2026-10-07T09:20:12.028592+00:00",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s18-q75.png",
+  "sha256": "81f89e473e19af06818eb923395e198c3ac0f655d63f4f2550ff63f050a7056f",
+  "bytes": 1137737
+}

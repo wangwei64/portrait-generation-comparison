@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-57620",
+  "prompt": "A horizontal close photograph of a sleepy-looking baby reclining in a padded infant seat. The baby has very fine brown hair, half-open eyes and a small closed mouth, and wears a pale green sleeper with thin tan horizontal stripes. A soft brown winged head cushion supports both sides of the head, with a small embroidered animal on one wing. Green patterned seat fabric fills the background under direct indoor flash.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-283-288.jpg",
+  "reviewed_source_sha256": "d9733a36fd76c472859bc3e131947dbd1e0b8dcafb367d45df70095ca60f0959",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 162,
+  "image_id": "flickr-ffhq-17100",
+  "prompt": "A vertical candid photograph of a man with swept-back dark hair and a full gray beard, seated at a table and looking thoughtfully to the left. He wears a textured dark blue jacket and a gray-beige checked scarf. Both hands hold white papers above a thick stack of documents; a wristwatch and nearby eyeglasses are visible. Blurred bottles and a desk sign cross the foreground against a softly lit pale interior.",
+  "prompt_sha256": "8d8dd050c8a4ac909e26775d616e0ea5882747819cc48fc24934a39d0104772b",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/3b/3b333a84665e323628b1bd5c29b63e686b9149fca924321255b67f23a4fe1f56.png",
+  "original_sha256": "3b333a84665e323628b1bd5c29b63e686b9149fca924321255b67f23a4fe1f56",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9a/9a67faf4b800b3c4f9605abcc404ab9c0bf8e56eb35d04ab2615105a2a240cb6.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401247538626194,
+  "png_path": "generated/flickr-ffhq-17100.png",
+  "preview_path": "previews/flickr-ffhq-17100.jpg",
+  "png_sha256": "5a662ed5e05c3232a9613a44392350690545cc8cf715fa690df67a16429be2cf",
+  "preview_sha256": "b998cc195b5243eaad2fb3db0e8939e358c51a498c7e89b28973fe7e71c6e18f",
+  "png_bytes": 1703707,
+  "preview_bytes": 316680,
+  "pixel_std": 65.37470786120505,
+  "created_at": "2026-10-08T08:49:16.506384+00:00"
+}

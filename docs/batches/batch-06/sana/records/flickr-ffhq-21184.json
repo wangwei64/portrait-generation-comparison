@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-21184",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid portrait of a man with thinning short brown hair and a small goatee, looking downward with a gentle toothy smile. He wears a pale blue and white checked button-front shirt. The corner of a dark red booklet appears near his chest, partly obscured by another person's light striped shoulder in the lower right foreground. Soft indoor light separates his face from several blurred seated people behind him.",
+  "prompt_sha256": "fec8e6047c0ddc2f45be21aa2c0f40c4c24c1e0bbacb057d34db6c4151e48f04",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6165059059858322,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 77.40691443503212,
+  "generated_at": "2026-10-07T12:49:35.444155+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-21184.png",
+  "sha256": "67109ffbbbb722cc79b028b158cbe36024fedf9c1243a82094930a3200a9277a",
+  "bytes": 816805
+}

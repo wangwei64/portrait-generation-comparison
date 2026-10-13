@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-29482",
+  "prompt": "A vertical photograph of a cheerful older man with closely cropped gray hair, a thick gray mustache and narrow tinted rectangular glasses. He leans toward the camera with a broad toothy smile, wearing a dark suit jacket, pale striped shirt and a loosened diagonally striped dark tie. His forearms rest near the lower edge beside a small drinking glass. Dappled greenery and a bright building blur behind him beneath an outdoor trellis.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-325-330.jpg",
+  "reviewed_source_sha256": "61446f0f73fd2bb49ebac1cec1b8b6d217f61f7374cbf493c4f9dff476a6e199",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

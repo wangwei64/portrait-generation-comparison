@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-35647",
+  "prompt": "A vertical poolside photograph of a smiling young boy with short wet dark hair and water droplets on his skin. He wears blue-and-white patterned swim shorts, with one arm extended beyond the right edge. Frame him from head to waist as he looks slightly upward at the camera. Strong sunlight creates a diagonal shadow across his bare torso. Behind are wet concrete, adults' cropped lower legs and bright blue swimming-pool water.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-181-186.jpg",
+  "reviewed_source_sha256": "f5439cd4000847cbdd41033319bb52cfb930e63733d4140e93becf636f7bd05d",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

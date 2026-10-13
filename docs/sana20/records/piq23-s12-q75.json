@@ -1,0 +1,37 @@
+{
+  "index": 13,
+  "image_id": "piq23-s12-q75",
+  "prompt": "A woman with very long straight dark hair stands close to a tall window, wearing a loose dark burgundy sweater. She tilts her head toward the window on the left and looks toward the camera with a relaxed closed mouth. Her hair falls over both shoulders and down past her waist, covering much of her torso. The vertical composition frames her from the head to around the hips. A white window frame and handle occupy the left edge, with apartment buildings and green trees visible outside. A pale curtain covered with large dark oval dots hangs immediately behind her on the right.",
+  "prompt_sha256": "33c88f503a70ccb67e42bcda4f19dfb7271464ed654049d0a5bbc2ce026e64e1",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/7a/7a084752be542ee536f1fdbed9744c7f84c4d4acf72353c3e64297e8993da1b5.png",
+  "original_sha256": "7a084752be542ee536f1fdbed9744c7f84c4d4acf72353c3e64297e8993da1b5",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/28/283f31a40d16fe502e9622ce0d89d9c7fc76c2b356dc1a1da9af5c91860ffb37.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 319,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409440346062183,
+  "png_path": "generated/piq23-s12-q75.png",
+  "preview_path": "previews/piq23-s12-q75.jpg",
+  "png_sha256": "9a891ea1bf08372f5e2754d58a366e399c061fa76f85c15f926808507f9fe6ca",
+  "preview_sha256": "e786baf623c5ba06b076940fb3cc206b000dcab0d64811fd846693f4d015ce99",
+  "png_bytes": 1539105,
+  "preview_bytes": 255172,
+  "pixel_std": 85.33539819480143,
+  "created_at": "2026-10-08T08:45:57.605258+00:00"
+}

@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-44322",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal playful portrait of a young boy with short blonde hair wearing a navy baseball cap backward and a dark purple T-shirt. He extends one arm toward the lens, pointing directly at the camera, and squints with a mischievous smile. His hand is enlarged and slightly blurred in the foreground while the face stays clearer. Sunlit branches, pink-purple flowers and a light-colored building form the softly blurred garden background.",
+  "prompt_sha256": "767760cba67318b16624323a883adfe4254621a666d7ceb188a92186cc4f0940",
+  "seed": 42,
+  "token_count": 292,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6830241531133652,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 81.07154459148944,
+  "generated_at": "2026-10-07T10:53:09.115433+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-44322.png",
+  "sha256": "10605503db06d85390af61f2a2788ec3d5d18e28c17f66177c8debfbb8b722f2",
+  "bytes": 837837
+}

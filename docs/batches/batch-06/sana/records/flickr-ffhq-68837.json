@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-68837",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical close photograph of a small child wearing an oversized blue-and-white striped engineer-style cap with a short bill. The child looks directly into the camera with wide eyes and slightly parted lips. A blue T-shirt with large yellow lettering is crossed by bright red apron straps. Frame the head and chest in a warm home interior with wooden dining chairs, a fireplace and a pale child seat blurred behind.",
+  "prompt_sha256": "41f038bc1ff705efce36b2d6ff334ef010fda28106c872d02e557764f9dc4229",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7099380493164062,
+  "baseline_allocated_gib": 6.565810203552246,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 81.85306782193271,
+  "generated_at": "2026-10-07T12:48:33.474224+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-68837.png",
+  "sha256": "6e741963ab14fb571e6d6fe74f2a48f63ad0b78cf3bd40d064958b108e738212",
+  "bytes": 881457
+}

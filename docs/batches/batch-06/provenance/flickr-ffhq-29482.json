@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-29482",
+  "candidate_index": 326,
+  "ffhq_id": 29482,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-29482.jpg",
+  "source_sha256": "61446f0f73fd2bb49ebac1cec1b8b6d217f61f7374cbf493c4f9dff476a6e199",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/anaisronny/9419209600/",
+    "photo_title": "IMG_5587",
+    "author": "Anaïs & Ronny",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-08-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/anaisronny/9419209600/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "3cb9511c64e33dbc94e589913b9e749e",
+  "current_decoded_pixel_md5": "a75dc9809511e8933ddff8cb3578b662",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1776441758116141,
+  "fetched_at": 1791367477.5809405,
+  "visual_review": "pending"
+}

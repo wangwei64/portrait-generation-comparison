@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-63979",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical close portrait of a woman with wavy pink hair fading to purple at the ends, wearing a tall black knit beanie with small colored embroidery. Her mouth is open and her eyes narrow in an animated expression. She has a small nose stud, a lip ring, red lipstick and a heart-shaped necklace above a gray coat with a broad collar. The daylight street background is softly blurred in muted gray and beige.",
+  "prompt_sha256": "e26d31d6cd00015c6f85b4e5e2acbd0029c9c09c8723bea09c547b48aafddddf",
+  "seed": 42,
+  "token_count": 290,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 2.0911748968064785,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 8.198065757751465,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 7,
+  "pixel_std": 65.20818879880947,
+  "generated_at": "2026-10-07T10:51:54.332584+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-63979.png",
+  "sha256": "63d3ff88f534a42d7fe82f1c5b35421609da03bd6c35343929ac8375ff2056c7",
+  "bytes": 1688170
+}

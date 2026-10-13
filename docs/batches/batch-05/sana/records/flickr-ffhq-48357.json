@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-48357",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal low-angle photograph of a baby being held up toward the camera beneath a leafy tree. The baby has wispy dark hair with a tiny pink clip, wide dark eyes and an open cheerful mouth, wearing a pale pink short-sleeved button-front top. Both small hands are curled near the chest while adult hands support the torso from below. Dark green branches and patches of blue-white sky fill the sunlit background.",
+  "prompt_sha256": "fa06599acbb052a374b6414c65c984b47a6219eef27a4b7bc8f5375d04f92520",
+  "seed": 42,
+  "token_count": 295,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 3.422001101076603,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 8.198065757751465,
+  "peak_reserved_gib": 12.705078125,
+  "nvidia_smi_peak_gib": 13.2236328125,
+  "nvidia_smi_sample_count": 12,
+  "pixel_std": 71.124426759351,
+  "generated_at": "2026-10-07T12:10:15.683093+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-48357.png",
+  "sha256": "9f564ef5ab960eb30f90be701cf80f941ecb6d23ad75d77481f36fd35f263579",
+  "bytes": 1748252
+}

@@ -1,0 +1,37 @@
+{
+  "index": 81,
+  "image_id": "flickr-ffhq-60274",
+  "prompt": "A horizontal outdoor portrait of a young man with short curly reddish brown hair and a few freckles. He wears a white collared shirt, black waistcoat and loosely knotted gray striped tie. He turns slightly sideways with raised eyebrows and parted lips, looking toward the camera. Show his head and chest beside a pond, with leafless branches, autumn-colored shrubs and tall narrow trees softly blurred beneath an overcast sky.",
+  "prompt_sha256": "89ba5e1ead84e58cc734b2a7dbf427973ab7d8b9aeec452edc22d02551636ee0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/65/656a52c9861b5923d6c2538954c224da58854b205f379b5363bf9605ce625d9f.png",
+  "original_sha256": "656a52c9861b5923d6c2538954c224da58854b205f379b5363bf9605ce625d9f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/81/81751a6341b1a3c4b15f8ab1c290b508111bee984310c31c248bdb47abdc896e.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9413417316973209,
+  "png_path": "generated/flickr-ffhq-60274.png",
+  "preview_path": "previews/flickr-ffhq-60274.jpg",
+  "png_sha256": "c4a70b0ad8301cbc6a1642a4776cd621afa3ae723a29bbb5f1a2ae29a38d6e7b",
+  "preview_sha256": "1e955fdb57a3176bf0cd34f9a4ed1164a283a9b431e7aed5ce9c188a6b189b2e",
+  "png_bytes": 1828006,
+  "preview_bytes": 336127,
+  "pixel_std": 76.3973670971814,
+  "created_at": "2026-10-08T08:47:27.271566+00:00"
+}

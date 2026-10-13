@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-11315",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal outdoor photograph of a boy with short light brown hair, holding a small silver-yellow fish upside down by its tail beside his head. He has bare shoulders and chest and looks toward the camera with a slightly squinting smile. Frame his head, upper torso and raised arm. Softly blurred white dock posts and pale blue water occupy the sunny background, with a small dark obstruction at the lower right.",
+  "prompt_sha256": "d9385cf8a6c5bcf6e0069a952475bebd533e7d256de8df448ae2ca5f9353d6da",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.37249593436718,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59562826156616,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 47.17559059006971,
+  "generated_at": "2026-10-07T10:47:21.085003+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-11315.png",
+  "sha256": "08be75859996ee3665adbf542869f11ac55c5c866693c928bea5ee72c96718ad",
+  "bytes": 765863
+}

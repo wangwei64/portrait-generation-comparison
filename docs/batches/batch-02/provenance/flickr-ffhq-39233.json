@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-39233",
+  "candidate_index": 10,
+  "ffhq_id": 39233,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-39233.jpg",
+  "source_sha256": "d082d512038018a3477e95a857ac2fd7dee94311fc2a28cd9abcc5829d314711",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1749,
+    2332
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/franziska/6077129169/",
+    "photo_title": "Nachher - after",
+    "author": "Franziska Geiser",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-08-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/franziska/6077129169/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "e86cc57b0cee36938460a4ebc82e4161",
+  "current_decoded_pixel_md5": "6f83c482ebc5e98463f4451b6fc8427c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.2097804969661664,
+  "fetched_at": 1791365003.454419,
+  "visual_review": "pending"
+}

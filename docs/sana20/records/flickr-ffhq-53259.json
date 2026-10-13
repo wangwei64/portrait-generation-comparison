@@ -1,0 +1,37 @@
+{
+  "index": 216,
+  "image_id": "flickr-ffhq-53259",
+  "prompt": "A horizontal outdoor portrait of a woman with shoulder-length straight black hair, turning slightly toward the camera with a small closed-mouth smile. A pale cream scarf is wrapped around her neck above a gray top, with a narrow red strap at one shoulder. Frame her head and shoulders close to the lens. An urban plaza with trees, a covered stall, seated people, a dark blue stroller canopy and a pale bag forms the softly blurred background.",
+  "prompt_sha256": "26444b3ced7fdd1edc239724745b038ef8d0eb89112714c830dba53c1301ecb8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/20/20162f470db3d5bb33de238caa3f44049e45f10c9e2a4d8b07681a819a1e0bf4.png",
+  "original_sha256": "20162f470db3d5bb33de238caa3f44049e45f10c9e2a4d8b07681a819a1e0bf4",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ec/ecdc3d7a220b1ad85c65a7b37ec08c394fd06ccdb063810445b140e275d2d75d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 296,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9395626485347748,
+  "png_path": "generated/flickr-ffhq-53259.png",
+  "preview_path": "previews/flickr-ffhq-53259.jpg",
+  "png_sha256": "9a6a4c4b77585c35537de31a23c747f968bb86d4dfc5c476330db5e1d453c5d0",
+  "preview_sha256": "5e5580b13ab1442025eb692ceaa316193132c5a2432865dd3dcfe505b6553513",
+  "png_bytes": 1483829,
+  "preview_bytes": 249167,
+  "pixel_std": 77.56183745150194,
+  "created_at": "2026-10-08T08:50:29.883203+00:00"
+}

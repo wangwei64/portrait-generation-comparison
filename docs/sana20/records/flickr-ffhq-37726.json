@@ -1,0 +1,37 @@
+{
+  "index": 161,
+  "image_id": "flickr-ffhq-37726",
+  "prompt": "A horizontal indoor portrait of a woman wearing a bright turquoise headscarf with dark blue bands and fine multicolored stripes, draped over a matching top. She turns slightly sideways and looks at the camera with a calm faint smile. Frame her head and upper torso against a plain cream room containing a black sofa, wooden double doors, a small exit sign and wall outlets. Use soft ambient indoor light.",
+  "prompt_sha256": "aa38206abd66e4a3486732eeedfeb32bd2c23f54ca386738b0c36f8e70761036",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bd/bd985a013144db20123d5cf7042d135bac3428c0e1ac293b357522b22a91e747.png",
+  "original_sha256": "bd985a013144db20123d5cf7042d135bac3428c0e1ac293b357522b22a91e747",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/80/80029e32dbafcac20b75dc1143bdb31046fc77c62213c527c156655527a64546.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9407778866589069,
+  "png_path": "generated/flickr-ffhq-37726.png",
+  "preview_path": "previews/flickr-ffhq-37726.jpg",
+  "png_sha256": "775f24218e2c9b579109cc4b92e8c2ac4aeadd9225a0292aea527b0680cae2cd",
+  "preview_sha256": "858f4b2929ac7e5588a528dad9579b4284fdb0ce41025a3dac8b2cb4666fb341",
+  "png_bytes": 1344066,
+  "preview_bytes": 218999,
+  "pixel_std": 71.55100996160647,
+  "created_at": "2026-10-08T08:49:15.179750+00:00"
+}

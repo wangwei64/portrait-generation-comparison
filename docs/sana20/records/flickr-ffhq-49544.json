@@ -1,0 +1,37 @@
+{
+  "index": 138,
+  "image_id": "flickr-ffhq-49544",
+  "prompt": "A vertical indoor snapshot of a smiling man with a short brown beard and rectangular glasses, wearing a chunky pink-and-white knitted beanie. His yellow and purple plaid shirt is open over a gray printed T-shirt. Frame his head and chest closely. Direct frontal light reveals his face and the knit texture against a warm yellow wall, with colorful stuffed toys, including a red dinosaur, and patterned cushions behind.",
+  "prompt_sha256": "4fe693f9c10d1d28fa0b6e057fdb9d7a9ea01986b374b3157b2d543c4d683a2d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2d/2d293ba04af59dc4001189cab5e97f36f62d9457ed11461a9e5ed35856ca677e.png",
+  "original_sha256": "2d293ba04af59dc4001189cab5e97f36f62d9457ed11461a9e5ed35856ca677e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9f/9f17d95fb5ddbb4af477d7ffc900318a17d44258876d0625b7a9762140fee9be.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9396974705159664,
+  "png_path": "generated/flickr-ffhq-49544.png",
+  "preview_path": "previews/flickr-ffhq-49544.jpg",
+  "png_sha256": "2b77785fe2e31a6136284450c0820278619f5552b085ea43b77606928fec20aa",
+  "preview_sha256": "08d2b4185f71ffa5ea770a12bc7c280a527ab081975df6ddb988189f6d2d2ddc",
+  "png_bytes": 1674563,
+  "preview_bytes": 335323,
+  "pixel_std": 82.09717969115289,
+  "created_at": "2026-10-08T08:48:44.027674+00:00"
+}

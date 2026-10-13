@@ -1,0 +1,37 @@
+{
+  "index": 2,
+  "image_id": "piq23-s01-q75",
+  "prompt": "A woman with long brown hair stands facing the camera in an office hallway. She wears a light gray sweatshirt with sleeves pushed up, blue jeans and white sneakers with blue accents. Her right hand is raised beside her head with the palm forward, while her left arm hangs down. Her full body is visible near the center of a wide horizontal frame. A teal accent wall and open glass door are on the left, with a white corner wall immediately behind her and a carpeted corridor receding on the right beneath rectangular ceiling lights.",
+  "prompt_sha256": "6a7747a9a4a4e24f3ef544f2d3961a39141e7c94e48ec4c1761cd3d5129cc8ff",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f3/f3eb57d39d90d79c39e037fc2667b60d78950c55ad72342f47f3599d7852ecc2.png",
+  "original_sha256": "f3eb57d39d90d79c39e037fc2667b60d78950c55ad72342f47f3599d7852ecc2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b8/b81ce333ad15b4a134099c8a2e022bb20b0c0b19e74e01f73984621eb8818f0b.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 311,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9456302039325237,
+  "png_path": "generated/piq23-s01-q75.png",
+  "preview_path": "previews/piq23-s01-q75.jpg",
+  "png_sha256": "1dc4b1ffd06462edc086f73daacc4fc0b43ca0b0c297e8f4b7ab770b753fe62e",
+  "preview_sha256": "29c035013ba9a5ca2555cf9302b220fe65b299a2082968ff3e1d9ec38822738b",
+  "png_bytes": 1651093,
+  "preview_bytes": 293449,
+  "pixel_std": 53.52323051061782,
+  "created_at": "2026-10-08T08:45:42.579119+00:00"
+}

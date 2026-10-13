@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-32706",
+  "candidate_index": 205,
+  "ffhq_id": 32706,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-32706.jpg",
+  "source_sha256": "029fbe438cb6b74651e707ad46ebb59856172092932eaf0522f27892b9e971dd",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1904,
+    1428
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/visionshare/2438218385/",
+    "photo_title": "IMG_3728",
+    "author": "Lou Gold",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-04-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/visionshare/2438218385/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "fe39c9cbf604540b01b17786f51c5588",
+  "current_decoded_pixel_md5": "d45b2d61f2faf5b352a7077b3a6aafc2",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.2183483687592684,
+  "fetched_at": 1791365549.096689,
+  "visual_review": "pending"
+}

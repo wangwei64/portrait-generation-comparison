@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s42-q75",
+  "source_sha256": "27ade1c0ace69e9aba90118e2fdeebf32131d822d2eede3c8c39ba34a762f3a0",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "phone",
+    "glasses",
+    "seated"
+  ],
+  "prompt": "A young man with short brown hair and black rectangular glasses sits on a weathered wooden bench against a red brick wall. He wears a bright blue printed hoodie and blue jeans. Looking down with a slight smile, he holds a black smartphone upright in his right hand in front of his chest, while his left hand rests near his lap. The horizontal image is viewed from a slightly low angle and shows his head, torso and thighs. The empty left side of the bench extends across the foreground, and a small rectangular opening is set high in the brickwork.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

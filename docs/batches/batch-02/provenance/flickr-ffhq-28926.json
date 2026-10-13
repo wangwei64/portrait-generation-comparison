@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-28926",
+  "candidate_index": 32,
+  "ffhq_id": 28926,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-28926.jpg",
+  "source_sha256": "17676b72ac99e234a15f07e34fa50a29943e231492bf8eb1050d93e8ef9e6bd6",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3872,
+    2592
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/hopkinsii/3726218352/",
+    "photo_title": "Us",
+    "author": "Michael",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-07-16",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/hopkinsii/3726218352/",
+  "public_size_key": "4k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "32553a427cfaf9a07b927482983c4ffd",
+  "current_decoded_pixel_md5": "c14207359ec89293ccc5f2942d79d733",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1642705463728191,
+  "fetched_at": 1791365043.283894,
+  "visual_review": "pending"
+}

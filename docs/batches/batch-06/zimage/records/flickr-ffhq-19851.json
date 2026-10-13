@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-19851",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid portrait of an older man with thinning tousled gray hair, oval wire glasses and a gray goatee. He faces the camera with slightly parted lips and wears a peach-orange polo shirt with a small white embroidered chest logo. Frame his head and upper torso beneath a large orange-and-gray striped tent canopy. A woman in an orange shirt and other visitors remain smaller in the background at the outdoor event.",
+  "prompt_sha256": "a86e0f02aeb4074b32f1cbe1150f5e98536ba963da978d1a56088af5cea446da",
+  "seed": 42,
+  "token_count": 91,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.224005922675133,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854177951812744,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 88,
+  "pixel_std": 71.98284984041703,
+  "generated_at": "2026-10-07T12:31:31.511640+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-19851.png",
+  "sha256": "f1436addf9756fef2977e86059f061f9d39967e02d997ee35ff8101c4c8cac2d",
+  "bytes": 893984
+}

@@ -1,0 +1,37 @@
+{
+  "index": 210,
+  "image_id": "flickr-ffhq-07861",
+  "prompt": "A horizontal candid close portrait of a man leaning slightly forward and smiling at the camera with raised eyebrows. He has short dark side-parted hair and a neat dark beard, and wears a navy polo shirt with narrow red and white horizontal stripes. Bright direct light makes his face stand out. The domestic background includes white walls, wooden paneling, brass wall lamps and a small green hanging plant above his shoulder.",
+  "prompt_sha256": "f7bdc2128a32e78e9f99b3f6b0816be931ef1a6dccedc2390a19da9cb2591b43",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/26/262011197ee529f4df1cda6ffed9d7902c5ed7482423fc8e2213857909483473.png",
+  "original_sha256": "262011197ee529f4df1cda6ffed9d7902c5ed7482423fc8e2213857909483473",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/57/5709b2cd67e85e77b6b73bb4237bc488f4d9f163ab9dad2749d69dc31d570184.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404676519334316,
+  "png_path": "generated/flickr-ffhq-07861.png",
+  "preview_path": "previews/flickr-ffhq-07861.jpg",
+  "png_sha256": "493ee1fee2b29fef56a09e4a35a5720f326f077ba7741e1f1e7b8b80d2ade0ad",
+  "preview_sha256": "4e6b348245c0b2967bb0ed20df117dc75da7bf1054c9f680d5d4c9843bb690c4",
+  "png_bytes": 1555760,
+  "preview_bytes": 251990,
+  "pixel_std": 79.46174167136968,
+  "created_at": "2026-10-08T08:50:21.754131+00:00"
+}

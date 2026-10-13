@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s12-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with very long straight dark hair stands close to a tall window, wearing a loose dark burgundy sweater. She tilts her head toward the window on the left and looks toward the camera with a relaxed closed mouth. Her hair falls over both shoulders and down past her waist, covering much of her torso. The vertical composition frames her from the head to around the hips. A white window frame and handle occupy the left edge, with apartment buildings and green trees visible outside. A pale curtain covered with large dark oval dots hangs immediately behind her on the right.",
+  "prompt_sha256": "33c88f503a70ccb67e42bcda4f19dfb7271464ed654049d0a5bbc2ce026e64e1",
+  "seed": 42,
+  "token_count": 319,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7133067585527897,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 79.58069015173179,
+  "generated_at": "2026-10-07T09:28:16.559645+00:00",
+  "image_path": "sana/generated/piq23-s12-q75.png",
+  "sha256": "7a084752be542ee536f1fdbed9744c7f84c4d4acf72353c3e64297e8993da1b5",
+  "bytes": 974262
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-30608",
+  "candidate_index": 236,
+  "ffhq_id": 30608,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-30608.jpg",
+  "source_sha256": "d0e219e56c4bfab18acd709d176d03abe53499e6474b5f461e9b2e95478b92dd",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1363,
+    2047
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/matthewreid/6316886301/",
+    "photo_title": "IMG_1650",
+    "author": "matthewreid",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2011-11-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/matthewreid/6316886301/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "9fcf10dd640ae0a960c6e87678e28865",
+  "current_decoded_pixel_md5": "11d38afe82a1e979f2f4ec6b0d49c386",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13845513481758664,
+  "fetched_at": 1791367250.2959068,
+  "visual_review": "pending"
+}

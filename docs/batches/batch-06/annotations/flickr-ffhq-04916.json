@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-04916",
+  "prompt": "A horizontal travel portrait of a woman with straight shoulder-length black hair and lightly tinted rectangular sunglasses, smiling at the camera. She wears a red quilted sleeveless vest over a teal long-sleeved top, with black backpack straps. One hand rests on a dark railing along the lower left. Frame her from head to waist beside a waterfront, with rippling water, a low pier, a large pale windowed building and part of a bicycle behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-349-354.jpg",
+  "reviewed_source_sha256": "d6dfc8ec2b645b3aceabe977f0531791d311b5b2a4c221721d71871f04653501",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

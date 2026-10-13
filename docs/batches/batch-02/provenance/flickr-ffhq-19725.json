@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-19725",
+  "candidate_index": 29,
+  "ffhq_id": 19725,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-19725.jpg",
+  "source_sha256": "4dbb475309c93988de93764143c9a02c0147b0cad1a1ab7b9786a3143c865dc5",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    5568,
+    3712
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/lemoyne/27887039587/",
+    "photo_title": "D5G_5964",
+    "author": "Iggy Dolphin",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2018-06-12",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/lemoyne/27887039587/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "b125932f065e4084aae1784315c1a740",
+  "current_decoded_pixel_md5": "0d79114ef26de3669f2f223197e046f7",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.051529057669441145,
+  "fetched_at": 1791365047.0137784,
+  "visual_review": "pending"
+}

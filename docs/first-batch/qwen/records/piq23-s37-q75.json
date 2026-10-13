@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s37-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A dark-skinned man with closely cropped hair stands in front of a dense green hedge by a river. He faces the camera in a charcoal zippered jacket with a light gray hood and narrow horizontal chest pockets. His right arm is raised on the left side of the image, with the open palm facing forward and fingers spread. His other arm stays down. The horizontal composition frames him from the head to the hips. Beyond the hedge are a broad river, a long boat and a wooded hillside with green and yellow foliage beneath a pale overcast sky.",
+  "prompt_sha256": "44f8b0f1411a3a3112c565cc25c67e3c58834d193d0a2b78297bbf2123d1ceda",
+  "seed": 42,
+  "token_count": 133,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.582994163036346,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22209692001343,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 91.61043953464863,
+  "generated_at": "2026-10-07T09:24:40.840749+00:00",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s37-q75.png",
+  "sha256": "1e6899579ed9f01366fd87a5bf61b3d6065c83686928b17fbc1b0753256b0c35",
+  "bytes": 1366203
+}

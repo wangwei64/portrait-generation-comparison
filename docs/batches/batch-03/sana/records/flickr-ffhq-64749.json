@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-64749",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid portrait of a young woman with shoulder-length wavy brown hair, seated on a wooden garden bench. She wears a pale blue polo shirt and a thin blue bracelet, resting one cheek on her closed hand while looking off to the right with a thoughtful expression. Her other forearm extends along the foreground. A wire fence, grassy field and leafy trees form a softly focused daylight background.",
+  "prompt_sha256": "cb3ef80f6f1d1ae4663238b3d1f80a0da94deabc72845a999ff561240ad055d2",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6871554367244244,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 73.01568764782054,
+  "generated_at": "2026-10-07T10:52:43.429779+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-64749.png",
+  "sha256": "82ff7b9158f3c7f040e0a2eb3391bdb19c90fb7b702c3cafe98f0b8df75cbac1",
+  "bytes": 869068
+}

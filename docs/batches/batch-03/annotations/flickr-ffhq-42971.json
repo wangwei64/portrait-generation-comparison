@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-42971",
+  "prompt": "A vertical outdoor portrait of a girl with long dark brown hair and colorful decorative face paint: purple curling lines beside the eyes, small dots and a green mark on the forehead. She wears pink lipstick, dangling star earrings, necklaces and a black sleeveless printed top. Looking toward the camera, she holds a book partly visible at the lower right. Dappled sunlight falls on a pale walkway and tree trunks behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-103-108.jpg",
+  "reviewed_source_sha256": "b56cd64a66b8723002fa92a3ba07bda4a340f12809016050cc9f25004b107885",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

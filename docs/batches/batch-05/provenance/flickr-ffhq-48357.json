@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-48357",
+  "candidate_index": 291,
+  "ffhq_id": 48357,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-48357.jpg",
+  "source_sha256": "0a5f7026f6b2c30376f1edf7c702f6784b42aeb9f8dc1b70ee02d4eb6e345d6e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/martapendola/16804460411/",
+    "photo_title": "Con su papa marzo 2015",
+    "author": "Marta Pendola",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2015-03-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/martapendola/16804460411/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "c5faad1f76dc665a93d982a2930a6f72",
+  "current_decoded_pixel_md5": "d56c931b2496a1eeaf19b300b2390d1e",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1910489822290572,
+  "fetched_at": 1791367386.9477122,
+  "visual_review": "pending"
+}

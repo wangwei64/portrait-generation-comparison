@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-12497",
+  "prompt": "A horizontal photograph of a woman with graying dark hair pulled back, rectangular glasses and small hoop earrings, speaking beside a slender black microphone. She wears a beige top, a dark patterned shawl over one shoulder and a bright blue lanyard. Her mouth is open and her gaze points slightly upward. Frame her head and upper chest against a deep blue stage backdrop with soft green shapes, under focused frontal lighting.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-157-162.jpg",
+  "reviewed_source_sha256": "a1ad0f6ce7834e527410b9f4be535ee101b57526bde469f82de16327aea4de90",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

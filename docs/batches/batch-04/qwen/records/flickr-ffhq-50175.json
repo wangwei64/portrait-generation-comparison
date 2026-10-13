@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-50175",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical portrait of a woman with dark hair gathered into a tall rounded bun secured with a dark clip. She wears large silver hoop earrings with small dangling ornaments, a navy jacket with magenta edging and a pale pink shirt. She looks at the camera with a gentle smile. Frame her head and upper torso in soft outdoor light against leafy green plants, a wooden railing and a small reddish structure.",
+  "prompt_sha256": "2007c1b801c64b77f9e27e9bcb3ba4f29e427c5948a1ca989295c14274353dfc",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.32423271983862,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59562826156616,
+  "peak_reserved_gib": 45.25390625,
+  "nvidia_smi_peak_gib": 45.7646484375,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 68.12914207707087,
+  "generated_at": "2026-10-07T11:28:52.696310+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791371871203523541",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-50175.png",
+  "sha256": "07a343fb1264f8a2fe04e7700facfc426cb3a7b45a9384b14a59f1795e8e8bb1",
+  "bytes": 1296649
+}

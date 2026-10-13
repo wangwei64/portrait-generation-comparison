@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-19078",
+  "prompt": "A horizontal flash portrait of a man with short spiky dark hair and light stubble, facing the camera with a mild smile. A brown plush chicken with a yellow beak and orange feet sits on one shoulder beside a black backpack strap. He wears an open olive-gray shirt over a dark graphic T-shirt. Frame his head and upper torso in a warm shop interior, with stuffed toys, counters and a distant seated person behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-355-360.jpg",
+  "reviewed_source_sha256": "b4cb33dad471dd2521ce160b9d8ae0c359a1960507f4c6ffe7b5c6f234d601be",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

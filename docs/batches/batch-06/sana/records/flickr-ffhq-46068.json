@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-46068",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal photograph of an older man with curly gray hair and small round wire glasses, playing a black clarinet held vertically to his mouth. He looks toward the camera with lifted eyebrows, wearing a bright red T-shirt, black neck strap and a small yellow name badge. A silver microphone on a diagonal black stand enters from the left foreground. Frame his head and upper torso against dark blue stage curtains under even indoor lighting.",
+  "prompt_sha256": "b9de2f30219485014ba5ce83c83f3a2ae466fdf23486aed0965408ee2b0f8aef",
+  "seed": 42,
+  "token_count": 291,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7357311472296715,
+  "baseline_allocated_gib": 6.565787315368652,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 66.0374267025119,
+  "generated_at": "2026-10-07T12:49:19.744946+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-46068.png",
+  "sha256": "63cfb9cd0b730c796a37850b081a1df72af29db29c4e5c791f804493e7a6f5b1",
+  "bytes": 922855
+}

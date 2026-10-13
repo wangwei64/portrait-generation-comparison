@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-56705",
+  "prompt": "A horizontal indoor photograph of an older man with thinning gray hair, a narrow gray mustache and thin metal glasses worn low on his nose. He smiles warmly at the camera with his shoulders turned slightly sideways. He wears a muted blue-gray short-sleeved collared shirt. Frame his head and upper torso, using direct warm light. Pale curtains with dark horizontal trim and part of a wooden cupboard fill the background.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-229-234.jpg",
+  "reviewed_source_sha256": "27036d55d71cf2d95d769fa351cb6e95e0cf4913f5247f8b1cb07a62248bba1e",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

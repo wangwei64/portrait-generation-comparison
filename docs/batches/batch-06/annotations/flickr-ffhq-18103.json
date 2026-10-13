@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-18103",
+  "prompt": "A vertical candid portrait of a woman with shoulder-length straight black hair, seated sideways and looking back toward the camera with a small smile. She rests her chin on one hand, with a thin black band around the wrist, and wears a blue sleeveless top. Frame her head, bare shoulder and bent forearm. A paved residential courtyard, young tree, apartment buildings and a few distant people appear behind in soft daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-337-342.jpg",
+  "reviewed_source_sha256": "fa50d7d619b1f98ea968ec84fa6e6d5661920d7d4e3d75b9dd348d887a0226e3",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

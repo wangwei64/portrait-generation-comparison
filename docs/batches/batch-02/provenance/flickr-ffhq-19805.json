@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-19805",
+  "candidate_index": 20,
+  "ffhq_id": 19805,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-19805.jpg",
+  "source_sha256": "a2cfb7265842b541b84ab09b12e2072faec277ae029b92797f257d4eae1df864",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    5184,
+    3456
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/jakintza_ikastola/33920777813/",
+    "photo_title": "IMG_2981",
+    "author": "Ordiziako Jakintza Ikastola",
+    "country": "Spain",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2017-05-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/jakintza_ikastola/33920777813/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "df5b0bd5b292a743d40bafb1cdf99ec8",
+  "current_decoded_pixel_md5": "f46f2575b14cc48575a3ecbe59d2da2f",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12358539094650206,
+  "fetched_at": 1791365038.611466,
+  "visual_review": "pending"
+}

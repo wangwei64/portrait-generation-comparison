@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-59017",
+  "candidate_index": 321,
+  "ffhq_id": 59017,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-59017.jpg",
+  "source_sha256": "0757347027ddf2724bc12bc6188a929ab2f3df0911c00bc3247a9cff111bbdb6",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3264,
+    4928
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/bensutherland/9449874383/",
+    "photo_title": "DSC_2028",
+    "author": "Ben Sutherland",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-08-06",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/bensutherland/9449874383/",
+  "public_size_key": "5k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "5df63593eeb908c1316c97d0720b7493",
+  "current_decoded_pixel_md5": "e721e63a5529c113f6f7d044c597f0ef",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14763327205882354,
+  "fetched_at": 1791365580.29392,
+  "visual_review": "pending"
+}

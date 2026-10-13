@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-51814",
+  "candidate_index": 90,
+  "ffhq_id": 51814,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-51814.jpg",
+  "source_sha256": "4518caa6c379b9c9a2917755d37d1cb80cb336e99fd60fc0f18996a245268cab",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1545,
+    2049
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/worldremit/20442301933/",
+    "photo_title": "Catherine Wines, COO, WorldRemit 2",
+    "author": "WorldRemit Comms",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2015-09-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/worldremit/20442301933/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "9df15273cc69c005d49bc21de998dc2d",
+  "current_decoded_pixel_md5": "dce0547f0963aab796b1b38791f45c58",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.18728845549411585,
+  "fetched_at": 1791365343.5744903,
+  "visual_review": "pending"
+}

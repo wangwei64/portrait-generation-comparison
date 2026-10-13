@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-30621",
+  "candidate_index": 334,
+  "ffhq_id": 30621,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-30621.jpg",
+  "source_sha256": "df31fe595cbdc5055cbc191fe38d73e8759f4343aeeeea046507c974aee58dc0",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1366
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/135444667@N06/24334831975/",
+    "photo_title": "scrutiny6",
+    "author": "Stockport Homes",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2016-01-12",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/135444667@N06/24334831975/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "479e850cb52dd16190aa78f5f3581f85",
+  "current_decoded_pixel_md5": "927d138c64a852218a0d78c4935f3564",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1593752940069621,
+  "fetched_at": 1791367503.1856608,
+  "visual_review": "pending"
+}

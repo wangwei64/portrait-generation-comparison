@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-07645",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal interview photograph of a man with a closely shaved head and short beard, seated in a dark suit jacket over a fine-striped open-collar shirt. A small clip-on microphone is attached near the shirt opening. He looks toward a blonde interviewer whose back and shoulder are cropped on the right. Frame his head and torso with a bottle and glass at the lower edge, against a pink-purple lit stage wall.",
+  "prompt_sha256": "1e9668de6c29b8203ebecce87c5a8b04785db832e3d9f8dff4ae08398c631e31",
+  "seed": 42,
+  "token_count": 292,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.702236969023943,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 87.64964469489284,
+  "generated_at": "2026-10-07T10:53:14.956773+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370277579614774",
+  "image_path": "sana/generated/flickr-ffhq-07645.png",
+  "sha256": "96e1c66bcf9f06b28166357d01d02c103f7412dfacc797b0c0453ce7c9954e9b",
+  "bytes": 1116786
+}

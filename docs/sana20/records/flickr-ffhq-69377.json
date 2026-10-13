@@ -1,0 +1,37 @@
+{
+  "index": 196,
+  "image_id": "flickr-ffhq-69377",
+  "prompt": "A vertical chest-up portrait of an older man with shaggy gray-brown hair and a sandy-gray mustache. He smiles toward the camera, wearing a black button-down shirt and a dark tie with a large pink floral pattern. Bright natural light reveals fine facial lines and slightly flushed cheeks. The background consists of softly blurred sunlit green trees, with the subject centered and both shoulders visible.",
+  "prompt_sha256": "31bcbf08081c147f5cab1e26d468b8495f838fb46e41eeaf9948aa09cfd15d23",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/2a/2a916d1356a25d36b4119cb0f3d9e1ed94dc4154c14dde69c515647d6eccc921.png",
+  "original_sha256": "2a916d1356a25d36b4119cb0f3d9e1ed94dc4154c14dde69c515647d6eccc921",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/a0/a0ec3143619c1dab406cf3e88ebaf9b909c02562c1532545b3a630978efd7c78.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9420196078717709,
+  "png_path": "generated/flickr-ffhq-69377.png",
+  "preview_path": "previews/flickr-ffhq-69377.jpg",
+  "png_sha256": "54a32660945d29b8e90dad86c9505c9041ff480349054bf1d0867f2bf0cada3b",
+  "preview_sha256": "64dc806e34dca912c50677510e86b4401adc7976f784b357f854bcbd3bae87b3",
+  "png_bytes": 1849758,
+  "preview_bytes": 371405,
+  "pixel_std": 73.94316527343766,
+  "created_at": "2026-10-08T08:50:02.448550+00:00"
+}

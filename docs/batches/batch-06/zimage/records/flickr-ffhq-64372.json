@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-64372",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal flash portrait of a smiling young woman with heavily layered straight blonde and light brown hair, long side-swept bangs and darker strands at the ends. She looks directly at the camera with teeth visible and wears a teal short-sleeved top. Frame her head and shoulders in a dim interior. Dark wood paneling, a reddish counter edge and a long blue padded object occupy the background.",
+  "prompt_sha256": "09bc61c884ad766a91d724ea21f45bf0bd011a1451eb9d53149d2c99db6cbd70",
+  "seed": 42,
+  "token_count": 90,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.227857392281294,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854173183441162,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 69.78338541445045,
+  "generated_at": "2026-10-07T12:16:55.867455+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791375038900325733",
+  "image_path": "zimage/generated/flickr-ffhq-64372.png",
+  "sha256": "e00af74c6381cfb224f3f500f9c22846308bfee6293fd19a1cb44e64af480874",
+  "bytes": 1009570
+}

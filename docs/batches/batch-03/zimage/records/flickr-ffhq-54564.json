@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-54564",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical close studio portrait of a woman with light brown hair arranged in loose curls and a voluminous pinned updo. Bright green eyeshadow and fine black eyeliner emphasize her eyes. She faces the camera with a serious closed-mouth expression, wearing a plain black sleeveless scoop-neck top. Frame her head, neck and shoulders against a clean pale gray background with soft even illumination and subtle facial shadows.",
+  "prompt_sha256": "7f398f78d41db44f643817356be278895735a307b593646a3f910a69c90ca3ea",
+  "seed": 42,
+  "token_count": 89,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 25.817539505660534,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.85416841506958,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 67.94971163396245,
+  "generated_at": "2026-10-07T10:31:35.091201+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-54564.png",
+  "sha256": "bb23d7c5970f7ff694f419ba3e2639c5e791719ac3fc341f4229378863b832a4",
+  "bytes": 918732
+}

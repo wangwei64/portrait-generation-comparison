@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s00-q75",
+  "source_sha256": "6f6e7fb9878f4313d55ace2887c2561924df8022b3374fa3b59e66bfa7e48cf2",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "raised_hand",
+    "seated",
+    "wide_portrait"
+  ],
+  "prompt": "A man with short brown hair and a beard sits beside a large window in a communal indoor seating area. He wears a loose gray-blue coat over dark clothing and raises his right hand toward the left side of the horizontal frame, palm outward. His other arm hangs down beside his leg. Pale wooden tables, high chairs and a small round potted plant fill the left background. The window runs down the right side, revealing trees and a tall modern building. The wide composition includes the seated man, part of his legs and much of the room.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

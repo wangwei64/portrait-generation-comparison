@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-33999",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a young man with thick short wavy brown hair, facing the camera with a small asymmetrical closed-mouth smile. He wears a navy and cream striped crew-neck T-shirt. Frame his head and shoulders against a softly blurred green mountainside and pale cloudy sky. Diffuse outdoor light leaves one side of his face more shaded, while the distant landscape remains subdued and out of focus.",
+  "prompt_sha256": "3942abf96dd13ffc5e07c3affdfe355ea665225101048400174558f3241d191f",
+  "seed": 42,
+  "token_count": 288,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7108056396245956,
+  "baseline_allocated_gib": 6.565802574157715,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 11.705078125,
+  "nvidia_smi_peak_gib": 12.2236328125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 77.65575903290258,
+  "generated_at": "2026-10-07T12:09:48.603497+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-33999.png",
+  "sha256": "8015072444257249efa41b37f9a6fb6767ee05262081deb141480daf5a5ce482",
+  "bytes": 875993
+}

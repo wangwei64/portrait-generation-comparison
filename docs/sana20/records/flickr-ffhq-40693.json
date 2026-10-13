@@ -1,0 +1,37 @@
+{
+  "index": 225,
+  "image_id": "flickr-ffhq-40693",
+  "prompt": "A vertical close portrait of a woman with straight light brown hair partly pulled back, shown in left-facing three-quarter profile. Her lips are slightly parted and she looks out of frame. She wears a dark velvet-like top with green satin accents, with a thin turquoise strap visible at one shoulder. Strong direct sunlight illuminates her face and loose hair strands. A dark blue-gray door and rough pale stone wall form the background.",
+  "prompt_sha256": "09635b43bc3d7cce8ddc0025dad7e0c14da0e36d6592ee72bb3824514c57b85f",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5a/5a5761d1e8a76fac7f0558b1216027a1b24e2bdbc0552e42840937ad30ecd431.png",
+  "original_sha256": "5a5761d1e8a76fac7f0558b1216027a1b24e2bdbc0552e42840937ad30ecd431",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/52/527fffcbec81737fd75bf0f5cf7d9788e7f78f1ce537cf301d9fe0b1a323d7e6.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9397524408996105,
+  "png_path": "generated/flickr-ffhq-40693.png",
+  "preview_path": "previews/flickr-ffhq-40693.jpg",
+  "png_sha256": "ba6399123b4eb0b97d9c629f2ff2ff9ab7ef9051f8a00156c1619f79fe33267f",
+  "preview_sha256": "99b6af60843628e42df7961bca5c18a6c07c1725b3ff9655f48c377597f74f4f",
+  "png_bytes": 1630885,
+  "preview_bytes": 315173,
+  "pixel_std": 65.51507874240197,
+  "created_at": "2026-10-08T08:50:42.139698+00:00"
+}

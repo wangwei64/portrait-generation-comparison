@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-14777",
+  "candidate_index": 95,
+  "ffhq_id": 14777,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-14777.jpg",
+  "source_sha256": "b55e5fe69b771c6f8af0992dd6b46478bac51d943f125ccac596400189b4754e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    4288,
+    2848
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/chernichko/8892680425/",
+    "photo_title": "IMGP2919",
+    "author": "Anna Chernichko",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-05-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/chernichko/8892680425/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "01203706336e95a71fafec90239704e2",
+  "current_decoded_pixel_md5": "288e18b750e724185b6d4740c36ec0d1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13500047165856113,
+  "fetched_at": 1791365367.356274,
+  "visual_review": "pending"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-26075",
+  "prompt": "A vertical portrait of a man with short dark brown hair and light stubble, looking directly at the camera with a slight closed-mouth smile. He wears a dark gray crew-neck sweater with evenly spaced thin white horizontal stripes. Frame his head and upper torso with his shoulders nearly square to the lens. A pale rough stone wall fills the softly receding background, under diffuse natural light with gentle shadows on his face.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-301-306.jpg",
+  "reviewed_source_sha256": "e7c530e57eeab6c099d1cda12e186370d89d816f32a00957beac22e51572b8b2",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

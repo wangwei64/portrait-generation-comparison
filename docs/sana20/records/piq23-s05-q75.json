@@ -1,0 +1,37 @@
+{
+  "index": 6,
+  "image_id": "piq23-s05-q75",
+  "prompt": "A young man with swept-up brown hair, a short mustache and a small goatee faces the camera with a slight smile. He wears a burgundy crew-neck T-shirt. His head and shoulders fill the right side of a horizontal close portrait. A black telescoping pole runs diagonally from the lower left toward a clamp near his right shoulder. A dense spherical green plant in a salmon-colored pot occupies the left foreground beside his face. A pale wall and indistinct furniture appear behind him.",
+  "prompt_sha256": "25c6380df1c57e1f0cba483dd9f096410fee0cc446b6253af03d0ba225e06040",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/63/6312755f7aa88ce2f273f1aa04dca9c8876037f65728c5d73e3080e808d2a431.png",
+  "original_sha256": "6312755f7aa88ce2f273f1aa04dca9c8876037f65728c5d73e3080e808d2a431",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9c/9c00626b00b525d3a6d1c64fe305baf369f6f1b6c3eed978563ec1cd89760d35.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 306,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9396302923560143,
+  "png_path": "generated/piq23-s05-q75.png",
+  "preview_path": "previews/piq23-s05-q75.jpg",
+  "png_sha256": "85e57290b062cb16e9da7ee8091613e63fda74caf5305b8cc9a63c2b89d29d05",
+  "preview_sha256": "2f62b8c955825534eb051e50fad4e521b91bf0e102d0c3c22a6b69068b0fc563",
+  "png_bytes": 1586769,
+  "preview_bytes": 284219,
+  "pixel_std": 74.78258174324677,
+  "created_at": "2026-10-08T08:45:48.202340+00:00"
+}

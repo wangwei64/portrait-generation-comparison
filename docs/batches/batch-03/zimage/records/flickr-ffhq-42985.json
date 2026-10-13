@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42985",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait of a smiling woman with very long wavy hair, reddish brown at the top and blonde at the ends. She wears a black blazer over a blue-and-navy striped top and looks directly at the camera. Frame her head and upper torso with the long curls filling both sides of her chest. Behind her are a low hedge, green lawn, tree trunks and a light-colored building in soft outdoor daylight.",
+  "prompt_sha256": "629d91700ca9cc23b2a5f7b7790f21f8cdef0b336f83e20cc7d6ae6a3423a033",
+  "seed": 42,
+  "token_count": 95,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 41.63176965340972,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.672953128814697,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 139,
+  "pixel_std": 65.8909087770707,
+  "generated_at": "2026-10-07T10:23:09.569727+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-42985.png",
+  "sha256": "fd81b116e9af187b9470da9f10604bb9ffe2a0b22bba3845918df84658f5937a",
+  "bytes": 1937436
+}

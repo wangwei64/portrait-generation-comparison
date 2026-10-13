@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-24461",
+  "prompt": "A horizontal close portrait of a young man with short tousled light brown hair and faint stubble, turning his face toward the right while glancing sideways toward the camera with slightly pursed lips. He wears a black textured high-collared sweater. Frame his head and shoulders at an outdoor cafe, with teal-painted doors, a striped awning, tables and seated people softly blurred behind him in warm daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-253-258.jpg",
+  "reviewed_source_sha256": "1f5c0fe37400f65e905b9e69ca5785883426c2ce1ab61cd9968d5212c231ea58",
+  "framing": "closeup",
+  "environment": "outdoor",
+  "tags": [
+    "closeup",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

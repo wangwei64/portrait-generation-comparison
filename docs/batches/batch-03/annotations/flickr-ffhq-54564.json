@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-54564",
+  "prompt": "A vertical close studio portrait of a woman with light brown hair arranged in loose curls and a voluminous pinned updo. Bright green eyeshadow and fine black eyeliner emphasize her eyes. She faces the camera with a serious closed-mouth expression, wearing a plain black sleeveless scoop-neck top. Frame her head, neck and shoulders against a clean pale gray background with soft even illumination and subtle facial shadows.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-139-144.jpg",
+  "reviewed_source_sha256": "a08932aefba815a2407591c0fba37f144fef487e672def3359e90ed73f4b4d3b",
+  "framing": "closeup",
+  "environment": "studio",
+  "tags": [
+    "closeup",
+    "studio"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

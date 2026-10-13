@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-38647",
+  "candidate_index": 260,
+  "ffhq_id": 38647,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-38647.jpg",
+  "source_sha256": "a10d6b2f63199bf4f356b28b6afdba4211a00b8792901701179c6931d2d1667f",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1362
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/retesolidale/31762421054/",
+    "photo_title": "DSC_0351",
+    "author": "Rete Solidale",
+    "country": "",
+    "license": "Public Domain Mark",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "date_uploaded": "2017-01-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 10,
+  "photo_url": "https://www.flickr.com/photos/retesolidale/31762421054/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "66b0df423cc43bde844657c516a78980",
+  "current_decoded_pixel_md5": "792ba17d40ed4f3ed2a0107f14d7a62d",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.2525709219858156,
+  "fetched_at": 1791367312.6386242,
+  "visual_review": "pending"
+}

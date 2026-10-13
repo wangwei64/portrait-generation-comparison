@@ -1,0 +1,37 @@
+{
+  "index": 264,
+  "image_id": "flickr-ffhq-30475",
+  "prompt": "A horizontal flash portrait of a man with short dark hair graying at the temples, rectangular black glasses and a subtle closed-mouth smile. He faces the camera wearing an open-neck black collared shirt. Frame his head and upper chest against a muted gray interior with a tiled wall panel, a small pale square decoration and indistinct objects. Direct frontal light brightens his face while the background remains subdued.",
+  "prompt_sha256": "c22b0452557f6745cd521e19bbe6d8614a2996d631bb756c0d842036ba836af8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/08/08d32b9439a706f4863f6ca315bcbaecdfa3e4f2c4533a857393ae9290b42960.png",
+  "original_sha256": "08d32b9439a706f4863f6ca315bcbaecdfa3e4f2c4533a857393ae9290b42960",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/fa/fabfa48cafd4edc06fe42549dfff33a7259e8bf64e66065e6b4e8b63f08a0d1a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.94095379114151,
+  "png_path": "generated/flickr-ffhq-30475.png",
+  "preview_path": "previews/flickr-ffhq-30475.jpg",
+  "png_sha256": "037455deb629a4467d2254355111537a1dce9d1a068247166e69e9276ef627e1",
+  "preview_sha256": "e6ffd4c2b2794394fb1de08ab7dd41c6523b76960a11e9c2b446cd885a6f7196",
+  "png_bytes": 1686504,
+  "preview_bytes": 280369,
+  "pixel_std": 55.405913956283236,
+  "created_at": "2026-10-08T08:51:34.659309+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 247,
+  "image_id": "flickr-ffhq-36896",
+  "prompt": "A horizontal close portrait of a woman with a short dark brown bob and wispy bangs. She faces the camera with a relaxed closed-mouth expression and slightly narrowed eyes. She wears tiny stud earrings, a fine chain necklace and a red top decorated with small pale spiral and circular details near the shoulders. Frame her head and shoulders against a softly blurred street or walkway with pale walls and dark vertical fixtures in gentle daylight.",
+  "prompt_sha256": "88e68fc68d30aa4f6f05b0f7da24e538ddc1001afe2d4b712b2e78ad216d27e0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/84/8476522340694138d5a034522acc0e5999045f6ea065ab2668621f802a7cabbf.png",
+  "original_sha256": "8476522340694138d5a034522acc0e5999045f6ea065ab2668621f802a7cabbf",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/29/29087c1bfaf30599fbcaf6ca666ba249661540b8fa47a689707dacdc888876b0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9398626238107681,
+  "png_path": "generated/flickr-ffhq-36896.png",
+  "preview_path": "previews/flickr-ffhq-36896.jpg",
+  "png_sha256": "4c2c123b37536397774dbc3234b35dcba5d3140a9b87f4c36c86709d2246dab3",
+  "preview_sha256": "f4adf9cd4cb752d8df96640fffe9873956c173bc66a33eaa445df7cdbed651a0",
+  "png_bytes": 1610019,
+  "preview_bytes": 259820,
+  "pixel_std": 69.23343927407598,
+  "created_at": "2026-10-08T08:51:11.402938+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-28558",
+  "prompt": "A horizontal candid photograph of a woman with reddish brown hair pulled back, sitting sideways at a pavement cafe and turning toward the camera with pursed lips. She wears large turquoise earrings and a thin-strapped turquoise patterned top. Frame her head and upper torso, including a bare shoulder. Metal cafe chairs, drinks on tables, pale umbrellas, pedestrians and warm-colored shopfronts fill the lively daylight background, with a slight camera tilt.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-385-390.jpg",
+  "reviewed_source_sha256": "0f560948be989449f77f9c98ddb78dcee7dd1987ef6322b29bbc0531830bc306",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

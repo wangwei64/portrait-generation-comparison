@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s41-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A dark-skinned man with short textured black hair stands facing the camera with a small smile. He wears a blue-gray winter parka zipped to the neck, with a wide pale tan faux-fur trim framing the back of his hood. The horizontal portrait shows his head, shoulders and upper chest. Behind him, a dark gray tiled wall covers the left and center, while a narrow strip of orange-red brickwork occupies the right. His face is positioned just right of center, and the coat has large dark buttons and flap details.",
+  "prompt_sha256": "3c3885dc4ae97633c3fccebcf307f1a32f9fa3dc71f4246f18a1affdc370c1bd",
+  "seed": 42,
+  "token_count": 315,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6979411989450455,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 57.43275919817768,
+  "generated_at": "2026-10-07T09:29:14.796560+00:00",
+  "image_path": "sana/generated/piq23-s41-q75.png",
+  "sha256": "499c20a7cce9fb1b109cdfb4e99deb3da9d35686d48485f05cbf5a6831e9a9ab",
+  "bytes": 1128403
+}

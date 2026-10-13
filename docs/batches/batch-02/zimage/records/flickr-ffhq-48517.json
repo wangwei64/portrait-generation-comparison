@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-48517",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal seated portrait of a man with short black hair, oval metal-framed glasses and a gentle closed-mouth smile. He wears a red short-sleeved polo shirt with the collar open, leaning slightly toward the camera. Show his head and upper torso against a wall made of horizontal honey-colored wooden planks with visible grain and knots. Soft light from the left creates mild shadows across his face and shirt.",
+  "prompt_sha256": "876b4bdf55b71f97c1d821cbcef5d6178281cd5f02777940bfadda9f046c387d",
+  "seed": 42,
+  "token_count": 90,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.220254108309746,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854173183441162,
+  "peak_reserved_gib": 26.60546875,
+  "nvidia_smi_peak_gib": 27.1142578125,
+  "nvidia_smi_sample_count": 87,
+  "pixel_std": 65.10261541518466,
+  "generated_at": "2026-10-07T09:53:33.813425+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791365711351163816",
+  "image_path": "zimage/generated/flickr-ffhq-48517.png",
+  "sha256": "96faa72d8b6be6b5bcef2a9f8c68b918e111337e06b07a82aab47290b1ddd0f8",
+  "bytes": 807923
+}

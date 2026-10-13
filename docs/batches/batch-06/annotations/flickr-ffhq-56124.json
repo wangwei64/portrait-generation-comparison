@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-56124",
+  "prompt": "A horizontal night portrait of a boy with short dark hair, smiling gently at the camera with teeth visible. He wears a dark shirt with a red collar. Frame his head and shoulders close to the lens, slightly left of center. Behind him is a parking lot with illuminated storefronts, a white vehicle and four very tall narrow smokestacks lit red-orange against a black sky, with the foreground face more softly illuminated.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-385-390.jpg",
+  "reviewed_source_sha256": "9a3db9472b3add3dcb7b33b747b739797091fd9c8f979bf1b9f797891fb9e252",
+  "framing": "closeup",
+  "environment": "night",
+  "tags": [
+    "closeup",
+    "night"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

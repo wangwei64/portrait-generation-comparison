@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-17156",
+  "candidate_index": 97,
+  "ffhq_id": 17156,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-17156.jpg",
+  "source_sha256": "68366037e0f235e21d087200ecf6b0770fabf032f38c0d1993150ffd26711b43",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3744,
+    5616
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/eddie-lawrance/5951568663/",
+    "photo_title": "IMG_2304",
+    "author": "Eddie Lawrance",
+    "country": "United Kingdom",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2011-07-18",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/eddie-lawrance/5951568663/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "b5e372ccfb6a38a0d1f94b4bc3899531",
+  "current_decoded_pixel_md5": "b5e372ccfb6a38a0d1f94b4bc3899531",
+  "current_pixels_match_ffhq": true,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.10502045437942874,
+  "fetched_at": 1791365382.9925632,
+  "visual_review": "pending"
+}

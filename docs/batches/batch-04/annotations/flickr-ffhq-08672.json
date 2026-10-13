@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-08672",
+  "prompt": "A vertical portrait looking down at a woman with dark brown hair gathered into a large loose updo. She lowers her eyes toward the right with a calm expression, showing long eyelashes and pink lips. She wears a pale blue camisole with delicate lace along the neckline and thin straps. Frame her head, shoulders and upper chest. Cream shoes and folded yellow fabric rest on a chair behind her, softly out of focus.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-181-186.jpg",
+  "reviewed_source_sha256": "f033dd8444324e005a87ad29fb2f8ab331fb96fc3c43784734ed591277dd13d3",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

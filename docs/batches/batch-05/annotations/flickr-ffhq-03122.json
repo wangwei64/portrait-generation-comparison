@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-03122",
+  "prompt": "A vertical photograph of a man with short brown hair and a close beard, speaking with his mouth open while looking toward the audience. He wears a white double-breasted chef jacket beneath a dark purple apron and a small headset microphone curving toward his cheek. Frame his head and torso in warm indoor light. A pale angular object partly covers the lower right foreground, with a softly blurred gray wall and vertical cable behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-217-222.jpg",
+  "reviewed_source_sha256": "bd6f0efc24e285d4e21d088344cf735454b919afa1fd9c8931f8f4c403560c0e",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-50175",
+  "candidate_index": 293,
+  "ffhq_id": 50175,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-50175.jpg",
+  "source_sha256": "69e4f91c290461ad6c37d17cb64fc8ac7a3989ca4b720f963f0ac5631e1fb548",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1362,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/jameskhoo/2852737296/",
+    "photo_title": "DSC_0041",
+    "author": "Chen Shiang Khoo",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-09-13",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/jameskhoo/2852737296/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "74e300df39c05445d994ad583dad9b49",
+  "current_decoded_pixel_md5": "8fc9cfc7df63ef6e2dc35c7aeebd8ee7",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.14776208012114536,
+  "fetched_at": 1791365572.0766454,
+  "visual_review": "pending"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 214,
+  "image_id": "flickr-ffhq-20671",
+  "prompt": "A horizontal close photograph of a woman with short layered wavy blonde hair, resting her chin on a loosely closed hand and smiling slightly at the camera. She wears a white collared shirt beneath a pale textured sweater and a rectangular watch on a dark strap. Direct flash lights her face and hand. Drinking glasses, colored straws and a narrow menu stand occupy the lower left, while the restaurant background remains dark.",
+  "prompt_sha256": "859c00a135e87fc30168d699eb52bfe27476a97c1365681c3817b77539dadbee",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "lowlight",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    896
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/28/289cfc1b7062e67fe563a44b43f94fa777017c5d66aa79010e37a4cbd61d32ff.png",
+  "original_sha256": "289cfc1b7062e67fe563a44b43f94fa777017c5d66aa79010e37a4cbd61d32ff",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/96/962722aeea9e798d63e8244e6b23ccfb3ad9bf7115ac9aebab3152da3afe525c.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 287,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940355084836483,
+  "png_path": "generated/flickr-ffhq-20671.png",
+  "preview_path": "previews/flickr-ffhq-20671.jpg",
+  "png_sha256": "8ee7fadb90a5d1c2031188269aa89e920631b90bb416023662ed8495441d3dcf",
+  "preview_sha256": "9281411b7e23c2bfd9e1c073b3119d4625f9b71f5ff02883de0c1ddf0736e34e",
+  "png_bytes": 1565542,
+  "preview_bytes": 290811,
+  "pixel_std": 68.5066177370811,
+  "created_at": "2026-10-08T08:50:27.139874+00:00"
+}

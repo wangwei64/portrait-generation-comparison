@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s16-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A short-haired bearded man in a light gray hoodie sits facing the camera at the far end of a dining table. His forearms rest on the tabletop with his hands near each other behind a round plate. The vertical view includes a large amount of foreground table. A tall translucent red bottle stands on the left and a gold-colored stemmed cup on the right. Two small lit tealights sit on a dark geometric placemat between them, with cutlery and additional place settings farther back. A black shelving unit with two round potted plants and white glazed double doors stand against a pale wall behind the man.",
+  "prompt_sha256": "a84e24caff1fe719d1be202997e2a1a38eadee62e683e337fc4537b46fe0890c",
+  "seed": 42,
+  "token_count": 327,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7068281695246696,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 67.38689075493195,
+  "generated_at": "2026-10-07T09:28:24.706123+00:00",
+  "image_path": "sana/generated/piq23-s16-q75.png",
+  "sha256": "75155ea4af3760f5f872e2f81433504bcc3c2a4bdae282a037c7bdd401fd796b",
+  "bytes": 997171
+}

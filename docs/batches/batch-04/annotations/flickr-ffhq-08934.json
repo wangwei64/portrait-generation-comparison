@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-08934",
+  "prompt": "A horizontal close portrait of a man with short curly reddish brown hair and a short pointed beard, looking intently off to the left. His lips are closed and his face is turned in three-quarter profile. He wears a dark navy jacket over a light shirt, with part of one hand visible along the bottom edge. A green indoor background contains large blurred white oval lights and indistinct people, with shallow depth of field.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-187-192.jpg",
+  "reviewed_source_sha256": "a68b8eb040a85d116d0d27b49e5ea5ebf2350897c0fb23b898c4d260bc716b5d",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

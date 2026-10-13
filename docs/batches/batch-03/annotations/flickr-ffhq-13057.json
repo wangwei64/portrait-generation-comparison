@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-13057",
+  "prompt": "A horizontal photograph of a man with short dark hair, light stubble and black rectangular glasses. He wears a muted burgundy crew-neck sweater and a long dark blue scarf, turning slightly to the right with a faint smile. Frame his head and upper torso under direct frontal light. An intricate arrangement of curved silver-gray metal ribs and railings fills the dim interior behind him, with small warm lights in the distance.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-157-162.jpg",
+  "reviewed_source_sha256": "4a385f227fe23e0fd4ce388f98340fe5902895e0ef569e0fd0444533dbb9a802",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

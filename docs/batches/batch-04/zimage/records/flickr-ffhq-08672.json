@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-08672",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait looking down at a woman with dark brown hair gathered into a large loose updo. She lowers her eyes toward the right with a calm expression, showing long eyelashes and pink lips. She wears a pale blue camisole with delicate lace along the neckline and thin straps. Frame her head, shoulders and upper chest. Cream shoes and folded yellow fabric rest on a chair behind her, softly out of focus.",
+  "prompt_sha256": "d7aabb788805ad32a3ea2b61d5aff825822794723d8914d7a58cf8089c29466f",
+  "seed": 42,
+  "token_count": 93,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.095687203109264,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.854187488555908,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 86,
+  "pixel_std": 61.5760236669323,
+  "generated_at": "2026-10-07T10:57:53.749187+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-08672.png",
+  "sha256": "747acc1ed0a660c19c44eab16abca4c31374339b09d198debbca1dc710e2fca1",
+  "bytes": 846271
+}

@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-55790",
+  "candidate_index": 369,
+  "ffhq_id": 55790,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-55790.jpg",
+  "source_sha256": "2c3a92b660acfd5ac7a75efdf0787acde4e5017c244d09708d66d5adbe8ad531",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/oecd/28584540788/",
+    "photo_title": "OECD Forum 2018 -  The Faces of Trade",
+    "author": "OECD Organisation for Economic Co-operation and Development",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2018-05-30",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/oecd/28584540788/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "1fc7aa6f428851787b5751bc133c2e1d",
+  "current_decoded_pixel_md5": "58c5d956a184b41a5f520689bb58778a",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.05335295475530932,
+  "fetched_at": 1791367598.3026235,
+  "visual_review": "pending"
+}

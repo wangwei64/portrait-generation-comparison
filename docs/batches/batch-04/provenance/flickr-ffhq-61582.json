@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-61582",
+  "candidate_index": 282,
+  "ffhq_id": 61582,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-61582.jpg",
+  "source_sha256": "0d83fd9908c451f07dea67b3e8d696b881c9c6183d895a92323fa427ab356d9e",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3000,
+    2000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/122964553@N02/13919151120/",
+    "photo_title": "IMG_5964.jpg",
+    "author": "Vänsterpartiet Malmö",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2014-05-04",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/122964553@N02/13919151120/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "81ac861d03310ff2763bc0bcb1b3cbe9",
+  "current_decoded_pixel_md5": "1b4661f128281ac34b00d137e942083b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13261066666666665,
+  "fetched_at": 1791365569.3892126,
+  "visual_review": "pending"
+}

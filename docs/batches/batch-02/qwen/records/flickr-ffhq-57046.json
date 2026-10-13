@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-57046",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGBA",
+  "prompt": "A horizontal indoor snapshot of a smiling man with short dark hair and a neatly trimmed goatee. He wears a light gray sweatshirt and raises one arm over his head, holding a stemmed glass of dark red liquid directly above his hair. Frame his upper body with the hand partly cut by the top edge. Frontal flash brightens the face against a dim warm room with pictures, plants and ceiling lights.",
+  "prompt_sha256": "0e16b3d260d88e1177368c218caf916b1094563d709b4f95a7ed2af8cf1caab8",
+  "seed": 42,
+  "token_count": 103,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.340240724384785,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59513235092163,
+  "peak_reserved_gib": 37.44140625,
+  "nvidia_smi_peak_gib": 37.9521484375,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 67.74065875942931,
+  "generated_at": "2026-10-07T10:02:35.548933+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    253,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-57046.png",
+  "sha256": "d03bdc9f6be0d4dca3247a43d46f6b2293ed01b6128e0b28fdc8d79114addd52",
+  "bytes": 1056883
+}

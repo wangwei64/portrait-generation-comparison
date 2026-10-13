@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-20967",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical portrait of a woman with straight shoulder-length blonde hair and black rectangular glasses, looking at the camera with a restrained smile. She wears a black button-front collared jacket, framed from the head to the chest. Even outdoor light reveals small facial lines. A large red inflatable arch with indistinct white lettering spans the blurred background above gray pavement, greenery and a red-and-white traffic marker.",
+  "prompt_sha256": "89dcdb7d83e238b70f18af33c7b639f0120aca96a0e163f7f47a99c5fa1ab76b",
+  "seed": 42,
+  "token_count": 289,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.675844106823206,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 11.705078125,
+  "nvidia_smi_peak_gib": 12.2216796875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 81.19407831201757,
+  "generated_at": "2026-10-07T12:09:25.713578+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374907685698557",
+  "image_path": "sana/generated/flickr-ffhq-20967.png",
+  "sha256": "74f5d3dcfe336d1750ec1d42527df248fe0be247bae1bd6c3da58d9c94b8ab93",
+  "bytes": 879751
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-61906",
+  "prompt": "A horizontal indoor portrait of a man with thinning brown hair, rectangular dark glasses and a full salt-and-pepper beard. He wears a charcoal polo shirt over a pale undershirt and leans back slightly, looking at the camera with his mouth partly open. Frame his head and chest at a slight diagonal. Warm amber light and wood-paneled walls, with a small strip of red near the ceiling, give the room a golden cast.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-127-132.jpg",
+  "reviewed_source_sha256": "dd58e979b3f3f4b2b57c301c420ae7a0dfbb5253673741d79c6c791990bc2ec0",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

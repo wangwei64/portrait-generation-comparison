@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-57620",
+  "candidate_index": 288,
+  "ffhq_id": 57620,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-57620.jpg",
+  "source_sha256": "d9733a36fd76c472859bc3e131947dbd1e0b8dcafb367d45df70095ca60f0959",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1536
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/dplee/2693539635/",
+    "photo_title": "DSC00055",
+    "author": "dplee",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2008-07-22",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/dplee/2693539635/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "069bf410c043114de01f4ec441df2fab",
+  "current_decoded_pixel_md5": "889632d7a45c874b6bfa4d6ed511b4d5",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1617572925708912,
+  "fetched_at": 1791367380.891173,
+  "visual_review": "pending"
+}

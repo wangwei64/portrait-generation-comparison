@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-20424",
+  "candidate_index": 48,
+  "ffhq_id": 20424,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-20424.jpg",
+  "source_sha256": "cc755dec4746bb44d84dcbf0243c2b84a218f90437d1cab59ed32d345798e9b8",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3500,
+    2334
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/142675453@N02/29762555252/",
+    "photo_title": "PRESS CONFERENCE 2016-09-23",
+    "author": "EU2016 SK",
+    "country": "",
+    "license": "Public Domain Dedication (CC0)",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "date_uploaded": "2016-09-23",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 9,
+  "photo_url": "https://www.flickr.com/photos/142675453@N02/29762555252/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "374d5b7b0828dc421111014bb9362ac6",
+  "current_decoded_pixel_md5": "6e816ecea1cd128b6c54e79a1e381ede",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.046904149834741095,
+  "fetched_at": 1791365074.892513,
+  "visual_review": "pending"
+}

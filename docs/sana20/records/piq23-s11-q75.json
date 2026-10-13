@@ -1,0 +1,37 @@
+{
+  "index": 12,
+  "image_id": "piq23-s11-q75",
+  "prompt": "A dark-skinned man with short upright black hair sits sideways at a white desk wearing a light gray T-shirt and matching pale trousers. His body faces right, while he turns his head toward the camera with a slight smile. His bent forearms and hands rest near each other on the desk. The horizontal frame includes his head, torso and lap. The desk holds a small lamp, a framed picture, multicolored cards and upright bright plastic cups. A color chart and patterned test boards lean against the wall, with tiny potted plants on a shelf above and an open doorway on the left.",
+  "prompt_sha256": "96a2bc9febb84f2bce2d14794170ae236089e202312d2be597c56a0fa22556c4",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/bf/bfa204f4a58b14d88f9d93908e0c60a420ecf2a10f28884cb432793144df05b0.png",
+  "original_sha256": "bfa204f4a58b14d88f9d93908e0c60a420ecf2a10f28884cb432793144df05b0",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/68/68909b98ab0992c50a00f50fb8dcd33601568ad108ab3684bc27aaeb06d0d75a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 325,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416722320020199,
+  "png_path": "generated/piq23-s11-q75.png",
+  "preview_path": "previews/piq23-s11-q75.jpg",
+  "png_sha256": "be610f743a73e730ab5788afa6bfe814fce89ae6b37efacee9152a3bcf6c5346",
+  "preview_sha256": "9b88f7a8ea5b63b836de8f48ec43f3d1255e159717a3c6874bd39b13f7768ecc",
+  "png_bytes": 1549201,
+  "preview_bytes": 322009,
+  "pixel_std": 72.30680736696121,
+  "created_at": "2026-10-08T08:45:56.173190+00:00"
+}

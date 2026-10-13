@@ -1,0 +1,37 @@
+{
+  "index": 68,
+  "image_id": "flickr-ffhq-19725",
+  "prompt": "A horizontal candid photograph of an older man with neatly combed white hair and thin rectangular glasses, seated at a table. He wears a dark navy jacket, a striped shirt and a green lanyard. Looking slightly sideways with a serious expression, he gestures with both open hands. Glasses and tableware cross the lower foreground. Other seated people and tables appear softly blurred behind him in a bright indoor gathering.",
+  "prompt_sha256": "11bb64826ea66c7abe5c83acb53f85437b1ecc9ba05fa30d9a0b285e7cc464b3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/cf/cf09ee4becf59eda014817a8d22abf66585b65b73fd2e57a9997afa05bb73315.png",
+  "original_sha256": "cf09ee4becf59eda014817a8d22abf66585b65b73fd2e57a9997afa05bb73315",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/70/70e02ebc45c6d93fa4d89fffe3afd1dcc8f47d0711c61f7c7f9f871e57700418.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 284,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.940124049782753,
+  "png_path": "generated/flickr-ffhq-19725.png",
+  "preview_path": "previews/flickr-ffhq-19725.jpg",
+  "png_sha256": "c75d07eeb0236f45258538ea5be3dfaa20ceb53936fa0e179378897be19279b1",
+  "preview_sha256": "378581c7ef1ff4b2c66fd9b241ff118d32185aee108d96ebef27f0d16cbf1a5e",
+  "png_bytes": 1651487,
+  "preview_bytes": 281730,
+  "pixel_std": 73.06605394843395,
+  "created_at": "2026-10-08T08:47:09.999600+00:00"
+}

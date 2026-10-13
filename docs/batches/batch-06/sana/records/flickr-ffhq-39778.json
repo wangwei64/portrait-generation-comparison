@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-39778",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close portrait of a young child with short light blonde hair, smiling broadly at the camera with teeth and dimples visible. The child wears a thick cream cable-knit zip sweater with a raised collar. Frame the head and shoulders against a dark softly blurred background of green and brown foliage. Low natural light highlights one side of the face and sweater, with gentle shadows across the other cheek.",
+  "prompt_sha256": "a1361baecaeeaa8a910704d040c1f29d2389d1fe44714aaafac70addb86d47c3",
+  "seed": 42,
+  "token_count": 286,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6532794795930386,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 68.38344133677235,
+  "generated_at": "2026-10-07T12:49:31.612178+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-39778.png",
+  "sha256": "d52ef0cff1837ab952e0c0cb44ef01a750587d1e42112e4a6eb6b9ff2de5c1b8",
+  "bytes": 760207
+}

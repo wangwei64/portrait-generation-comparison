@@ -1,0 +1,37 @@
+{
+  "index": 127,
+  "image_id": "flickr-ffhq-61906",
+  "prompt": "A horizontal indoor portrait of a man with thinning brown hair, rectangular dark glasses and a full salt-and-pepper beard. He wears a charcoal polo shirt over a pale undershirt and leans back slightly, looking at the camera with his mouth partly open. Frame his head and chest at a slight diagonal. Warm amber light and wood-paneled walls, with a small strip of red near the ceiling, give the room a golden cast.",
+  "prompt_sha256": "842d0b6cd8252d401b91675b21649ce01aaa6e5dd5e55a31f7d1eda17f640ea8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/60/6049a28816b6b97ccaffa6b9a10009eec3c8103bc8cf000d5676136f1768e279.png",
+  "original_sha256": "6049a28816b6b97ccaffa6b9a10009eec3c8103bc8cf000d5676136f1768e279",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e3/e33cd9ac756e0a8166445f74da12e3069755bdbf9f7f6725b1036bdb128ee178.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 295,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399324469268322,
+  "png_path": "generated/flickr-ffhq-61906.png",
+  "preview_path": "previews/flickr-ffhq-61906.jpg",
+  "png_sha256": "be7b54c4ac00706a9ba0a3d582354298e38e011a82090db6ff016e86dc87ad6a",
+  "preview_sha256": "55985d50d7b0253f71798c7baa0ce14e269ca847a1a6e2520acda21cd9fa6b65",
+  "png_bytes": 1593386,
+  "preview_bytes": 279355,
+  "pixel_std": 48.135929001442236,
+  "created_at": "2026-10-08T08:48:29.383036+00:00"
+}

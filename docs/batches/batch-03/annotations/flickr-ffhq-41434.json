@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-41434",
+  "prompt": "A vertical close portrait of a man with thick wavy salt-and-pepper hair, wearing a dark navy suit, white shirt and diagonally striped navy and gray tie. He looks toward the camera with a serious expression and his mouth partly open. Frame his head and upper chest tightly. A soft gray-white indoor background is heavily blurred, with a small dark microphone edge near the bottom. Use diffuse light and visible natural facial lines.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-163-168.jpg",
+  "reviewed_source_sha256": "aef49a7a8ebec83186b882b17f454649fb0fbe600de8e78d77fe6bf4d37f5e79",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-64749",
+  "candidate_index": 131,
+  "ffhq_id": 64749,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-64749.jpg",
+  "source_sha256": "6daf2dfc1fa6c88fab58febc288ea02e0be9ffcc02c1dac966ee5d56d1f58ad2",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3008,
+    2000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/scoutcaph/38852760650/",
+    "photo_title": "Acampada de Kraal - 2011",
+    "author": "Grupo Scout Caph MSC",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2018-03-07",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/scoutcaph/38852760650/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "5431b059a24d9661dc341e7cbdcef28c",
+  "current_decoded_pixel_md5": "86fcc1a2abdd39be4dafa78e9325d041",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06369015957446808,
+  "fetched_at": 1791365439.755235,
+  "visual_review": "pending"
+}

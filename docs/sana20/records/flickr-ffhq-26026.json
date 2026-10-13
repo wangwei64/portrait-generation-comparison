@@ -1,0 +1,37 @@
+{
+  "index": 235,
+  "image_id": "flickr-ffhq-26026",
+  "prompt": "A horizontal outdoor portrait of a smiling child with a closely shaved head, looking directly at the camera. The child raises one bent arm beside the head with a clenched fist, while the other hand pulls back the sleeve of a dark T-shirt to reveal the upper arm. Frame the head and torso against a vivid green grassy slope and a bright pale sky. Warm daylight gives the scene a candid playful feeling.",
+  "prompt_sha256": "acbcd8d05766bfa96854a99175b5e1b96ad6626e7012d14230759d4ff5ce86eb",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ab/abd882a40425333e87de1c5662d332df8e430ca8f4fdcf5ba1f91b901864b118.png",
+  "original_sha256": "abd882a40425333e87de1c5662d332df8e430ca8f4fdcf5ba1f91b901864b118",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/74/7452647877062dc94e9f0fa635c1d5196f13b26dcfb127e0a3430a3dbd069864.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400389231741428,
+  "png_path": "generated/flickr-ffhq-26026.png",
+  "preview_path": "previews/flickr-ffhq-26026.jpg",
+  "png_sha256": "c7f59c15d625d80b6990e3f980d8f84c1c7427b6ec9d34081f4bf6cc19f92c0d",
+  "preview_sha256": "2ccab20547d9d78f6ab7f695d0eaedf76356885cd7ad50307eced2102e450423",
+  "png_bytes": 1273042,
+  "preview_bytes": 230520,
+  "pixel_std": 91.13318528839412,
+  "created_at": "2026-10-08T08:50:55.583848+00:00"
+}

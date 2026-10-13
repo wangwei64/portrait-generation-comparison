@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-41449",
+  "prompt": "A nearly square outdoor portrait of a woman with short gray-streaked dark hair and large brown sunglasses, laughing with her mouth open. She wears a black sleeveless top with white horizontal stripes and a black diagonal shoulder strap. Frame her head and upper torso in bright sunlight. Behind her is a broad green lawn with tiny distant visitors, a large upright stone near the right edge and a blue sky scattered with white clouds.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-319-324.jpg",
+  "reviewed_source_sha256": "57b163af4f62c78ebee7a5795eb1219ae0a98264c45a23795e8bcbbfd1933e80",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

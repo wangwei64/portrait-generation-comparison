@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-09764",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal flash photograph of a young child with shoulder-length dark brown curls and a pale gray shirt. The child looks straight at the camera with the mouth slightly open; strong red-eye reflections from the flash are visible. Frame the head and upper chest closely. Dark polished wooden panels and a thick lighter wood post form the home interior behind, with direct frontal illumination and a casual snapshot composition.",
+  "prompt_sha256": "ee1738aec311cc121a72543c5be878faab9ba9ca9a6453173db225c343f67476",
+  "seed": 42,
+  "token_count": 85,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.273229256272316,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077446460723877,
+  "peak_reserved_gib": 25.6953125,
+  "nvidia_smi_peak_gib": 26.2041015625,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 81.66290194174769,
+  "generated_at": "2026-10-07T10:37:07.883759+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791368042022753526",
+  "image_path": "zimage/generated/flickr-ffhq-09764.png",
+  "sha256": "40118f34594d5d071819dbdaedcdb33d2554fdeb758bf912d5e0efcd39d07a22",
+  "bytes": 1137793
+}

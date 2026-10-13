@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-58425",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical hiking selfie of a man with light stubble and rectangular dark glasses, squinting slightly in strong sunlight. He wears a black knitted hat with red and white stripes, a pompom and a large orange-and-white emblem, plus a black zip-neck sweater and backpack straps. His head and shoulders occupy the right foreground. Behind him stretches a rocky mountain valley with sparse vegetation under a blue sky streaked with white clouds.",
+  "prompt_sha256": "8eab6fba9f8c5e8c2652941f4e27648b4ec34f1e8248859f7e0572da4c0708e4",
+  "seed": 42,
+  "token_count": 109,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.649079401046038,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.21019506454468,
+  "peak_reserved_gib": 41.59375,
+  "nvidia_smi_peak_gib": 42.1044921875,
+  "nvidia_smi_sample_count": 45,
+  "pixel_std": 66.48541841935902,
+  "generated_at": "2026-10-07T10:08:17.375019+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367180307868989",
+  "alpha_extrema": [
+    247,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-58425.png",
+  "sha256": "d1d7d3e8e6ee7719bf04d26e126fd679e76d08b54f718244865dbfbebaa33628",
+  "bytes": 1719929
+}

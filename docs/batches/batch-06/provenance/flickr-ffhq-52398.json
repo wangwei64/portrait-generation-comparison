@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-52398",
+  "candidate_index": 318,
+  "ffhq_id": 52398,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-52398.jpg",
+  "source_sha256": "1597d0c2ffcc51fd610835af3efe7eefe556ab3de466d77505d3366e6dff1193",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1365,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/jadis1958/5421695374/",
+    "photo_title": "China Zhenfeng - portrait woman",
+    "author": "Anja Disseldorp",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-10-02",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/jadis1958/5421695374/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "8d54aa2234c2bef56913201c7265d443",
+  "current_decoded_pixel_md5": "2953f8b336cbce49820001badc3e79cb",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791367453.8402917,
+  "visual_review": "pending"
+}

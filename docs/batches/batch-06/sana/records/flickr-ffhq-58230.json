@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-58230",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal close photograph of a smiling baby with very fine short brown hair, seated among colorful plastic activity toys. The baby looks directly at the camera and wears a navy fleece garment with small red stitching near the collar. A pale blanket covers the lower body. Bright blue flower-shaped toys and a small transparent rattle stand at the right, with yellow and orange pieces at the left. Direct flash lights the face against a dim domestic background.",
+  "prompt_sha256": "e1c84d36b2fc822c9e78bfccb6d597420b3228f32989a2a257915614fff16cc2",
+  "seed": 42,
+  "token_count": 294,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6163471154868603,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0205078125,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 79.15862452055386,
+  "generated_at": "2026-10-07T12:49:54.374604+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-58230.png",
+  "sha256": "f9a8eeb50a78c01961b8553f208e031cac96c546d4f7aac94e6a4a5d7134ca22",
+  "bytes": 815500
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-16107",
+  "prompt": "A vertical indoor snapshot of a man with shoulder-length straight blonde hair and a light reddish beard, resting his chin on his stacked hands. He wears a colorful patterned shirt, a metal wristwatch and a crumpled shiny foil party hat. His head tilts slightly as he looks toward the camera. Warm yellow walls, exposed brick, bookshelves and a glowing wall lamp surround him, with direct flash illuminating the face and fingers.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-091-096.jpg",
+  "reviewed_source_sha256": "8189194d00b75f7e901106f8d5e84e818971773a6366fda7e78d275da467d303",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

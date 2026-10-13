@@ -1,0 +1,37 @@
+{
+  "index": 133,
+  "image_id": "flickr-ffhq-51714",
+  "prompt": "A horizontal photograph of a young child with very short tightly curled black hair, seated against a dark earthen bank threaded with pale dry grass roots. The child wears a worn brown short-sleeved top over a muted rust-colored shirt, with knees drawn up and one hand resting near them. Looking off to the right with parted lips, the child is lit by soft daylight. Keep the soil and vegetation visible around the upper body.",
+  "prompt_sha256": "6b82685d75c92c31c838e83c93fadd30af4201d22b346c29f4b0e19bb8ec5474",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9b/9b37a79d376f46902893c1ee14f79b15fd064aa5d8e8470c7482ed8f4757eb0e.png",
+  "original_sha256": "9b37a79d376f46902893c1ee14f79b15fd064aa5d8e8470c7482ed8f4757eb0e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/9f/9f01a2c891f0625b2245808c221065403cd6988edb6572ebca45a296a6246175.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9422844350337982,
+  "png_path": "generated/flickr-ffhq-51714.png",
+  "preview_path": "previews/flickr-ffhq-51714.jpg",
+  "png_sha256": "0c6141747ade75a4ed8690a9bcffdb3c46db19602dcc45b5980d9ae87244dd47",
+  "preview_sha256": "16545d962411fd8940b490b8728eb95fc4da80b8defa44405bb6cc837c78cd29",
+  "png_bytes": 1727505,
+  "preview_bytes": 344458,
+  "pixel_std": 43.770692879456,
+  "created_at": "2026-10-08T08:48:37.353714+00:00"
+}

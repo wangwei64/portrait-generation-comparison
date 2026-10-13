@@ -1,0 +1,37 @@
+{
+  "index": 63,
+  "image_id": "flickr-ffhq-24964",
+  "prompt": "A vertical indoor photograph of an older woman with short gray hair and wispy bangs. She wears rectangular glasses on a decorative chain, pink lipstick and a multicolored orange, green and brown patterned top. One hand rests beside her neck. Long necklaces and pale branching decorative strands lie across her chest, with a small name badge on the garment. Frame her upper body against a dark interior with patterned fabric, using direct frontal light.",
+  "prompt_sha256": "af0a7cb86f906b5ed412db9804d4eba81dd0e1ac69ef31dfc6b77a02ef9e4480",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/08/081ab6f0e41777e11f16c6fea23d9609f384004f5039f6d6e7de21302c61e32e.png",
+  "original_sha256": "081ab6f0e41777e11f16c6fea23d9609f384004f5039f6d6e7de21302c61e32e",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/41/418de28ece3302dde9e2c78e9d0bc49424832ccd580ba03be2ff82f4abf3053d.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9416046477854252,
+  "png_path": "generated/flickr-ffhq-24964.png",
+  "preview_path": "previews/flickr-ffhq-24964.jpg",
+  "png_sha256": "3ff3cae50fb53502cfbc3550ca50feb97ce82ec0e1e5b1fe0e9600688d2fb71f",
+  "preview_sha256": "c438554cdb92ed7e6d41a5b992be576314f3617a85c743ad5ca187fdc7478812",
+  "png_bytes": 1811912,
+  "preview_bytes": 450786,
+  "pixel_std": 63.22295715946987,
+  "created_at": "2026-10-08T08:47:03.148252+00:00"
+}

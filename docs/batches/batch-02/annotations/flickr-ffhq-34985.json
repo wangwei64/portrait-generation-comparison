@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-34985",
+  "prompt": "A candid horizontal photograph of a young child with short light brown curly hair, wearing a gray knitted cardigan with tan buttons. The child looks off to the right with an open mouth, holding a black remote on one upturned hand while the other hand is raised. Frame the head and torso in a home interior with pale walls, wooden trim and a red hanging cloth behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-001-006.jpg",
+  "reviewed_source_sha256": "6297c3fb8648348459f2be53bd7e5ae1256d1d3a7b5632e07fb115ea6a1fd9ad",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

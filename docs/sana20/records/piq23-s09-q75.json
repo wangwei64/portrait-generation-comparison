@@ -1,0 +1,37 @@
+{
+  "index": 10,
+  "image_id": "piq23-s09-q75",
+  "prompt": "A stocky bearded man with short brown hair and glasses sits on a wooden bench in a cafe-like seating area. He wears a white graphic T-shirt, black trousers, a black lanyard and a wristwatch. Facing the camera, he clasps his hands in his lap with his knees apart. The horizontal composition includes his head, torso and upper legs. Empty tables, chairs and a long blue upholstered bench recede along the left wall beneath framed prints and large woven pendant lamps. Broad windows fill the right background, with a dark piano near them.",
+  "prompt_sha256": "a60d412cbb5d82a0d35add51506a8e1aee3712ee03ff7e867014526971a83861",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "indoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/75/75c015f5d69ef4502e3bbbaf47d2a2ac9e1adf61451c7ef07ec54f50b1411c34.png",
+  "original_sha256": "75c015f5d69ef4502e3bbbaf47d2a2ac9e1adf61451c7ef07ec54f50b1411c34",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/92/9279b0aaabc33a76262a4e907094a8f9746571750c601c7f2e65238f131e00a1.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 319,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404819197952747,
+  "png_path": "generated/piq23-s09-q75.png",
+  "preview_path": "previews/piq23-s09-q75.jpg",
+  "png_sha256": "b0c9ca9bc676785aacd1632336122ad55ec0e5d9eead5409adff2185691c184c",
+  "preview_sha256": "e940dcd2f12eda14a9ce55138ecca229ea6fd4ff2493e471b5c706ca918181c9",
+  "png_bytes": 1448793,
+  "preview_bytes": 340336,
+  "pixel_std": 83.42918021274436,
+  "created_at": "2026-10-08T08:45:53.543503+00:00"
+}

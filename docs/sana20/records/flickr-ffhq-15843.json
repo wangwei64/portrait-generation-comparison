@@ -1,0 +1,37 @@
+{
+  "index": 164,
+  "image_id": "flickr-ffhq-15843",
+  "prompt": "A horizontal indoor photograph of a baby sitting inside a pale unfinished wooden crib or playpen. The baby looks directly at the camera with wide eyes and a serious expression, wearing a fluffy pale pink hat, a white long-sleeved shirt and a turquoise embroidered sleeveless outfit. Wooden rails cross the foreground, with dark letters on the nearest rail. A glossy dark brown upright piano and its pale keyboard fill the softly focused background.",
+  "prompt_sha256": "0f08f9bea6a52859b6b871a8aca2a429f7f887d557e914fc6e3d85f3b3aea8d8",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/24/24eb8159e586ab6a6fdd158b00888ac678aac792f20b14142602e062785417f2.png",
+  "original_sha256": "24eb8159e586ab6a6fdd158b00888ac678aac792f20b14142602e062785417f2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/cb/cb9f3a6753d2e5fd0e4750c9e97232bb7c09727cb769a76b833aa0bf06945f69.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 291,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399679787456989,
+  "png_path": "generated/flickr-ffhq-15843.png",
+  "preview_path": "previews/flickr-ffhq-15843.jpg",
+  "png_sha256": "52b3129a66717ad1005f8e6a387f91194d4ba13e855327dc06b7993fbd1fd3c9",
+  "preview_sha256": "1f7bab3c054a9ed89d39e77504c8d7b856fa4bcb0dcee16796255fd9afc7e50a",
+  "png_bytes": 1193018,
+  "preview_bytes": 207297,
+  "pixel_std": 75.21748530060641,
+  "created_at": "2026-10-08T08:49:19.215673+00:00"
+}

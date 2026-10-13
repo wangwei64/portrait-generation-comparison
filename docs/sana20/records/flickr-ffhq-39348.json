@@ -1,0 +1,37 @@
+{
+  "index": 222,
+  "image_id": "flickr-ffhq-39348",
+  "prompt": "A horizontal outdoor photograph of a woman with shoulder-length dark hair held back by a pale blue fabric headband. She wears oversized black sunglasses and a black zip sports jacket with white stripes on the shoulders, its collar raised around her neck. She turns slightly toward the camera with a closed-mouth expression. Frame her head and shoulders on the right against softly blurred blue water and a distant shoreline in strong sunshine.",
+  "prompt_sha256": "859f2f6e55e49f441c2b3b3e3adaf01ca16b8869dd59ffe14aa87da76de89874",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b1/b1ed591a3f334bdf68d60b82e1d5a22956532264229b63fd183c07a2768a5ae0.png",
+  "original_sha256": "b1ed591a3f334bdf68d60b82e1d5a22956532264229b63fd183c07a2768a5ae0",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/75/754a9143f96906d1adc9c4a2904b9849a2dcda27f7994c6c33d54b1864b28a6a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9408753030002117,
+  "png_path": "generated/flickr-ffhq-39348.png",
+  "preview_path": "previews/flickr-ffhq-39348.jpg",
+  "png_sha256": "543b179639849243837b241873941090d9e61cba98ff14def42075dc0fa8057c",
+  "preview_sha256": "de8a3908be67673f394769d9d3abb132350b51358d3ce5904656e3c2b3fd043f",
+  "png_bytes": 1620763,
+  "preview_bytes": 257756,
+  "pixel_std": 85.09628755678982,
+  "created_at": "2026-10-08T08:50:38.127137+00:00"
+}

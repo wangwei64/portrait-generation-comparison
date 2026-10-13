@@ -1,0 +1,37 @@
+{
+  "index": 236,
+  "image_id": "flickr-ffhq-62771",
+  "prompt": "A vertical portrait of a man with short thick curly dark brown hair, smiling broadly at the camera. He wears a black suit jacket, a white collared shirt and a pale pink, gray and white diagonally striped tie. Frame his head and upper torso in bright sunshine, with small curly hair shadows across his forehead. Behind him is a wooden-framed outdoor information board displaying a green and blue landscape map, with foliage near the edges.",
+  "prompt_sha256": "a3f25999cc7bce5753337b55ed50ac23ebc58955f9bc23a6df61417a6a443a8d",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/8e/8e00dfe320e320f9ab8246a268fcdf0b2c16287e70a781ec7ceaea44c2873ba7.png",
+  "original_sha256": "8e00dfe320e320f9ab8246a268fcdf0b2c16287e70a781ec7ceaea44c2873ba7",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e9/e9a83f9d4ba7c81ad1b51c028864ee6d757bd9a6992ccb87991023c88aeb70cc.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403950273990631,
+  "png_path": "generated/flickr-ffhq-62771.png",
+  "preview_path": "previews/flickr-ffhq-62771.jpg",
+  "png_sha256": "4a68a74b67c81ff0790f28f41076543623e9b447c736bf2a5bd76165caacf267",
+  "preview_sha256": "11caf5d6c2a4e47ccb548af20a691f84a2f2cddd9ffa6dd00db52443dbf4a934",
+  "png_bytes": 1876211,
+  "preview_bytes": 419736,
+  "pixel_std": 78.01289417791443,
+  "created_at": "2026-10-08T08:50:56.901906+00:00"
+}

@@ -1,0 +1,37 @@
+{
+  "index": 191,
+  "image_id": "flickr-ffhq-61582",
+  "prompt": "A horizontal chest-up portrait of a man with short tightly cropped dark hair and a full dark beard. He wears a light gray suit jacket, white shirt, dark dotted tie and a small red star pin on the lapel. Facing the camera, he has a calm serious expression. Strong daylight illuminates one side of his face, while a crowd, red flags, trees and a pale building blur into the outdoor background.",
+  "prompt_sha256": "be688d724e5afa2078850386765c3e2b61a3fbeeba268b8013337e5f85a6f502",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/97/976ee3b37dcf2e1b4bba3c804a8a2ab30dac7abc41fc2f354bd0b40bbd30728c.png",
+  "original_sha256": "976ee3b37dcf2e1b4bba3c804a8a2ab30dac7abc41fc2f354bd0b40bbd30728c",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f0/f0ef128feb862f9e84629638ac3bb70c6dd1e68aec4ddc0573ed06ff808c78f7.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404585137963295,
+  "png_path": "generated/flickr-ffhq-61582.png",
+  "preview_path": "previews/flickr-ffhq-61582.jpg",
+  "png_sha256": "faefc18ed795e69ef31f05ef53f83a4920ca3b57a694f6998b3834ea87585c11",
+  "preview_sha256": "bc77f636268c5cf48ea3a62bcf83159ed684c085df0525dd7a05e91c455058f3",
+  "png_bytes": 1811252,
+  "preview_bytes": 322314,
+  "pixel_std": 85.90009512620156,
+  "created_at": "2026-10-08T08:49:55.719991+00:00"
+}

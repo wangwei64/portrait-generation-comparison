@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s01-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A woman with long brown hair stands facing the camera in an office hallway. She wears a light gray sweatshirt with sleeves pushed up, blue jeans and white sneakers with blue accents. Her right hand is raised beside her head with the palm forward, while her left arm hangs down. Her full body is visible near the center of a wide horizontal frame. A teal accent wall and open glass door are on the left, with a white corner wall immediately behind her and a carpeted corridor receding on the right beneath rectangular ceiling lights.",
+  "prompt_sha256": "6a7747a9a4a4e24f3ef544f2d3961a39141e7c94e48ec4c1761cd3d5129cc8ff",
+  "seed": 42,
+  "token_count": 311,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.7176205329596996,
+  "baseline_allocated_gib": 6.565794944763184,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 9.296875,
+  "nvidia_smi_peak_gib": 9.8134765625,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 61.828999644678795,
+  "generated_at": "2026-10-07T09:27:53.022158+00:00",
+  "image_path": "sana/generated/piq23-s01-q75.png",
+  "sha256": "f3eb57d39d90d79c39e037fc2667b60d78950c55ad72342f47f3599d7852ecc2",
+  "bytes": 935221
+}

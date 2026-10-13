@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-68837",
+  "candidate_index": 330,
+  "ffhq_id": 68837,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-68837.jpg",
+  "source_sha256": "6b7b66550775233afb941600c34a7a86255d2c26a26485d76e5ea752082af183",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/rsmiller/3252452022/",
+    "photo_title": "All Dressed Up with Nowhere to Go",
+    "author": "Ryan & Sarah Miller",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2009-02-04",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/rsmiller/3252452022/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "d35826b4e9946cd28750ebcdd031e444",
+  "current_decoded_pixel_md5": "603ba724ddbc59074d77e5d6f23da8cc",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.15790593405476808,
+  "fetched_at": 1791367490.4053535,
+  "visual_review": "pending"
+}

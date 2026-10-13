@@ -1,0 +1,47 @@
+{
+  "started_at": "2026-10-08T01:46:05.474919+00:00",
+  "metrics": [
+    "musiq",
+    "niqe",
+    "community_forensics",
+    "brisque",
+    "dinov2",
+    "longclip",
+    "hpsv21",
+    "omniaid_robust",
+    "pickscore",
+    "forensic_chat",
+    "hpsv3",
+    "clipiqa",
+    "maniqa"
+  ],
+  "completed": [
+    "musiq",
+    "niqe",
+    "community_forensics",
+    "brisque",
+    "dinov2",
+    "longclip",
+    "hpsv21",
+    "omniaid_robust",
+    "pickscore",
+    "forensic_chat",
+    "hpsv3",
+    "clipiqa",
+    "maniqa"
+  ],
+  "pending": [],
+  "attempts": {
+    "maniqa": 1,
+    "hpsv21": 1,
+    "omniaid_robust": 1,
+    "pickscore": 1,
+    "clipiqa": 1,
+    "forensic_chat": 1,
+    "hpsv3": 1
+  },
+  "updated_at": "2026-10-08T04:17:26.188891+00:00",
+  "state": "complete",
+  "current": "hpsv3",
+  "last_exit_code": 0
+}

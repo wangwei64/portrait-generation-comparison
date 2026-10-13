@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-03962",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal candid photograph of a young woman with brown hair loosely pulled back, wearing a thick black scarf. She looks toward the camera with a slight smile while gloved hands enter from the top and right, moving hair aside and holding a small white rectangular handheld instrument near her ear. Frame her head and shoulders against bright windows and horizontal ceiling beams. Strong backlight leaves her face partly in shadow.",
+  "prompt_sha256": "dc96c96bb37e4e0c67786df81f6f6e66164f484561ec9bc6af0e2ba961b7794f",
+  "seed": 42,
+  "token_count": 285,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6950225718319416,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.79080867767334,
+  "peak_reserved_gib": 10.501953125,
+  "nvidia_smi_peak_gib": 11.0185546875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 100.01681336151249,
+  "generated_at": "2026-10-07T12:48:53.057900+00:00",
+  "plan_sha256": "5827fdc747efa7bf8f8d99616c22deee1b8b01719b5828bd15ee864a17a76f29",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791377268634032836",
+  "image_path": "sana/generated/flickr-ffhq-03962.png",
+  "sha256": "33a1428ff12595999f0e0713506b8fa438478355e513da5db9db9fd26da28159",
+  "bytes": 929866
+}

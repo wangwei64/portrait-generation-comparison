@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-53148",
+  "candidate_index": 286,
+  "ffhq_id": 53148,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-53148.jpg",
+  "source_sha256": "dcfd80ae48f829f0b92bdccdd62b9f5645e6862879f2963efe9a24ab6f03f975",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1536,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/artifishall/4562764553/",
+    "photo_title": "",
+    "author": "Zach Chisholm",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2010-04-29",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/artifishall/4562764553/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "0a30108ccd25f5a10e8aba788c988a70",
+  "current_decoded_pixel_md5": "7165209f06c71b866b5d2670e4818090",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13102340698242188,
+  "fetched_at": 1791365570.3179016,
+  "visual_review": "pending"
+}

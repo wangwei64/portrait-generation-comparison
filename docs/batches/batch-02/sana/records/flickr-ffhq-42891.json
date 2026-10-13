@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-42891",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    1024,
+    672
+  ],
+  "mode": "RGB",
+  "prompt": "A horizontal conference photograph of a man with thinning brown hair, a gray beard and rimless glasses, wearing a black single-ear headset. He sits in a dark suit, white shirt, patterned blue tie and light blue lanyard, resting fingertips beside his cheek while looking ahead seriously. Water bottles, a drinking glass, a tablet, microphones and a white printed desk sign fill the table in front. The background is plain pale gray.",
+  "prompt_sha256": "716946404b2fbef7a50d346e1e7478a074df17b0314b072514a0d08910ae9cf3",
+  "seed": 42,
+  "token_count": 293,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 1.6565662398934364,
+  "baseline_allocated_gib": 6.56577205657959,
+  "peak_allocated_gib": 7.63822078704834,
+  "peak_reserved_gib": 10.970703125,
+  "nvidia_smi_peak_gib": 11.4873046875,
+  "nvidia_smi_sample_count": 6,
+  "pixel_std": 75.48732886459898,
+  "generated_at": "2026-10-07T10:13:14.941451+00:00",
+  "plan_sha256": "460fc630aabe54e1953181eeba7ee4c1b1c540752a9ab31fedff6cf5392d5c1a",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791367911923696744",
+  "image_path": "sana/generated/flickr-ffhq-42891.png",
+  "sha256": "3f38a4d489c53e0b076c11e367c4b8b063090bd9b49000adda94083100bed9a3",
+  "bytes": 788167
+}

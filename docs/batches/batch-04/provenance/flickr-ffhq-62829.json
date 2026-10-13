@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-62829",
+  "candidate_index": 214,
+  "ffhq_id": 62829,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-62829.jpg",
+  "source_sha256": "4ab04f3284c81d872811475770a52aecb251ea58435966155034012927ca092c",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/elliottdotorg/18618739289/",
+    "photo_title": "BU8O3000",
+    "author": "Christopher Elliott",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2015-06-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/elliottdotorg/18618739289/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "a2039bb6a387f6e5068e3b330026f8cb",
+  "current_decoded_pixel_md5": "555968277169e8ca39fa2dfe0376c3d8",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12292184642203932,
+  "fetched_at": 1791367194.8980515,
+  "visual_review": "pending"
+}

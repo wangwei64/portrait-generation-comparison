@@ -1,0 +1,37 @@
+{
+  "index": 155,
+  "image_id": "flickr-ffhq-35647",
+  "prompt": "A vertical poolside photograph of a smiling young boy with short wet dark hair and water droplets on his skin. He wears blue-and-white patterned swim shorts, with one arm extended beyond the right edge. Frame him from head to waist as he looks slightly upward at the camera. Strong sunlight creates a diagonal shadow across his bare torso. Behind are wet concrete, adults' cropped lower legs and bright blue swimming-pool water.",
+  "prompt_sha256": "6bb05ceb93d590a9806feb0717a7b06d53e1861d2da1b5eb5657c5d33c3b90b0",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e2/e2c8fc5738b762baf04b7f591ef747ced298cac3f8e874d844084c8af6529b15.png",
+  "original_sha256": "e2c8fc5738b762baf04b7f591ef747ced298cac3f8e874d844084c8af6529b15",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/cc/cc69bb0ae424beca9a7befddbc9ddf887055b12d78d8a088bba0ca07a5317275.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 293,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941550713032484,
+  "png_path": "generated/flickr-ffhq-35647.png",
+  "preview_path": "previews/flickr-ffhq-35647.jpg",
+  "png_sha256": "a842106eda876a4a24d14a68b60544a4219119b680637a1803eac656d9b4e0b3",
+  "preview_sha256": "b3d2a78e07be005fc018b399163512a17e9de760bd7b7f332dd1c81977c8ece9",
+  "png_bytes": 1685541,
+  "preview_bytes": 333644,
+  "pixel_std": 76.63495712824817,
+  "created_at": "2026-10-08T08:49:06.865321+00:00"
+}

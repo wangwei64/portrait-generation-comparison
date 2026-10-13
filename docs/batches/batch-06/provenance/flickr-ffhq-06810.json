@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-06810",
+  "candidate_index": 343,
+  "ffhq_id": 6810,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-06810.jpg",
+  "source_sha256": "4b77553ea25fcbf748e210df8db4b1075cbf0813cc44855f2894d2d0bc04caa7",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1575,
+    2048
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/153170974@N08/37669057326/",
+    "photo_title": "DSC_0174",
+    "author": "Jessie Carter",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2017-10-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/153170974@N08/37669057326/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "239cfee4da28cb51b0c8aa9aebe73847",
+  "current_decoded_pixel_md5": "ef923477b9d827967174ed22ed6a0a19",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1508463284689495,
+  "fetched_at": 1791367527.591619,
+  "visual_review": "pending"
+}

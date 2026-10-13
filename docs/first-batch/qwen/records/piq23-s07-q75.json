@@ -1,0 +1,30 @@
+{
+  "image_id": "piq23-s07-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGBA",
+  "prompt": "A man with short brown hair and a trimmed beard stands indoors wearing a burgundy hoodie. His body is angled toward the right, and he lowers his gaze toward an open dark-covered book held in both hands around waist height. He occupies the left-center of a horizontal waist-up composition. A pale wooden grid bookshelf spans the background, containing upright and leaning books, a small green plant and a woven basket. The open shelving reveals another room with windows, tables and a pale ceiling. The hands and open pages are visible in front of his torso.",
+  "prompt_sha256": "d2f54e04ed6b066c353ab48593432bdecdaea56ee4e2e0a3e71d9926d59b0be9",
+  "seed": 42,
+  "token_count": 133,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.804512370377779,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.22209692001343,
+  "peak_reserved_gib": 36.71484375,
+  "nvidia_smi_peak_gib": 37.2255859375,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 58.86090047789432,
+  "generated_at": "2026-10-07T09:17:36.396765+00:00",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/piq23-s07-q75.png",
+  "sha256": "6d0ea0081f8578d6491df24b935d4c87621f8100b4c86a8998b32dc78d6b5d6f",
+  "bytes": 1189574
+}

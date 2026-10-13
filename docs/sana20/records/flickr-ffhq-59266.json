@@ -1,0 +1,37 @@
+{
+  "index": 128,
+  "image_id": "flickr-ffhq-59266",
+  "prompt": "A horizontal outdoor photograph of a girl with blonde hair pulled back, wearing a large handmade metallic-green headpiece shaped like pointed ears with dark circular centers. Green straps cross her black printed T-shirt. She looks ahead with her mouth open as if singing. Frame her head and upper torso, with other similarly costumed children partially visible at both sides. Strong sunshine highlights the shiny headpiece and loose hair.",
+  "prompt_sha256": "b61ba66a6798c55e1b181a32d93c011b767ce1bc5fc9cf4bad374b7f4934ce5e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/09/099fd7ae728c0640412b1de0a6025a5e37181a358b91ce2cdefbe190ad8c654d.png",
+  "original_sha256": "099fd7ae728c0640412b1de0a6025a5e37181a358b91ce2cdefbe190ad8c654d",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1a/1a611159fdd124f6e8ff98ee7aa65c34b7c6584c6b5b80356495f7b11c48b3e4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941290695220232,
+  "png_path": "generated/flickr-ffhq-59266.png",
+  "preview_path": "previews/flickr-ffhq-59266.jpg",
+  "png_sha256": "b501e1a3ba08b071995d0ba6897d833e9b5b662f1e9224437ba02ccb1593d9bd",
+  "preview_sha256": "27a105fdbf1f9a20e46e93fccae6c772dd550203eecb25b87dbc50d85940750b",
+  "png_bytes": 1819506,
+  "preview_bytes": 354606,
+  "pixel_std": 93.06202488959343,
+  "created_at": "2026-10-08T08:48:30.720485+00:00"
+}

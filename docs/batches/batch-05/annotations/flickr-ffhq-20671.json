@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-20671",
+  "prompt": "A horizontal close photograph of a woman with short layered wavy blonde hair, resting her chin on a loosely closed hand and smiling slightly at the camera. She wears a white collared shirt beneath a pale textured sweater and a rectangular watch on a dark strap. Direct flash lights her face and hand. Drinking glasses, colored straws and a narrow menu stand occupy the lower left, while the restaurant background remains dark.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-235-240.jpg",
+  "reviewed_source_sha256": "92558542765488f599712654892b4a648e2863bf05ef2275329787f14218890d",
+  "framing": "closeup",
+  "environment": "lowlight",
+  "tags": [
+    "closeup",
+    "lowlight"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-61141",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical flash photograph of a man wearing an oversized novelty hat shaped like a hot dog in a bun, with reddish sausage and green and red condiment details. He looks toward the camera with slightly parted lips, resting two fingers against his temple. He wears an olive-gray jacket over a pale shirt. Frame his head and torso against a dim social interior, with a partially obscured seated person behind one shoulder.",
+  "prompt_sha256": "347d6c0ebacb33856180e0bced32b5d92fec123ff82a295d4e749992bacad743",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 13.82167449593544,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.20771551132202,
+  "peak_reserved_gib": 41.033203125,
+  "nvidia_smi_peak_gib": 41.5439453125,
+  "nvidia_smi_sample_count": 46,
+  "pixel_std": 62.981045623326736,
+  "generated_at": "2026-10-07T12:03:41.236567+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-61141.png",
+  "sha256": "e05d822c4f1f7169b7ff870ac73c5cf40811884ad1cfe07f2559ad906867b9e1",
+  "bytes": 1166577
+}

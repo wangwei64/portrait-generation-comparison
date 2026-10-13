@@ -1,0 +1,37 @@
+{
+  "index": 112,
+  "image_id": "flickr-ffhq-18529",
+  "prompt": "A horizontal portrait of a smiling man with short salt-and-pepper hair, light beard stubble and thin rectangular glasses. He wears a dark gray shirt with a small white rectangular collar insert and a textured gray zip-front jacket. Center his head and upper torso, leaving some space above and to both sides. Pale blue vertically folded curtains fill the background. Soft even indoor light reveals natural skin texture without harsh shadows.",
+  "prompt_sha256": "363ef6b6eac76826fe6c77950b6dc4449dbed8b9c9de77468202e0e46248aa56",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/5f/5f8d4137c947d61d903f70bee231c75a19c8ffba326e065486b4ba1995a06144.png",
+  "original_sha256": "5f8d4137c947d61d903f70bee231c75a19c8ffba326e065486b4ba1995a06144",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/30/30f4f03ee188f6bcc646a1d84d4829eb1983b2bc806e5ad25a80e83b2cb40903.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9404028281569481,
+  "png_path": "generated/flickr-ffhq-18529.png",
+  "preview_path": "previews/flickr-ffhq-18529.jpg",
+  "png_sha256": "9a24e716f7d60e9a9afd03240927073e65532e0b8143de5344f5ba1b0663833f",
+  "preview_sha256": "29dd08d132f569cdbe5e796db1a150b58f3424d770d2c865eff54d3b9d21e43e",
+  "png_bytes": 1728114,
+  "preview_bytes": 300532,
+  "pixel_std": 52.17467938168859,
+  "created_at": "2026-10-08T08:48:09.208171+00:00"
+}

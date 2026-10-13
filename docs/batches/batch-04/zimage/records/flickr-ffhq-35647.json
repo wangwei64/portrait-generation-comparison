@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-35647",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical poolside photograph of a smiling young boy with short wet dark hair and water droplets on his skin. He wears blue-and-white patterned swim shorts, with one arm extended beyond the right edge. Frame him from head to waist as he looks slightly upward at the camera. Strong sunlight creates a diagonal shadow across his bare torso. Behind are wet concrete, adults' cropped lower legs and bright blue swimming-pool water.",
+  "prompt_sha256": "6bb05ceb93d590a9806feb0717a7b06d53e1861d2da1b5eb5657c5d33c3b90b0",
+  "seed": 42,
+  "token_count": 94,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 26.141645163297653,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 20.85419225692749,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 88,
+  "pixel_std": 62.312503886711745,
+  "generated_at": "2026-10-07T10:56:34.376168+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-35647.png",
+  "sha256": "4c95c8032fcf39bd13605b89f7a3b25178ed2f3db0c6aeb526d9a912c6bf84aa",
+  "bytes": 949217
+}

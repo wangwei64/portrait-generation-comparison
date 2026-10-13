@@ -1,0 +1,37 @@
+{
+  "index": 255,
+  "image_id": "flickr-ffhq-35020",
+  "prompt": "A horizontal close portrait of a boy with short tightly curled reddish brown hair, facing the camera with a serious neutral expression and closed lips. He wears a teal collared shirt, visible only near the bottom edge. Warm direct light reveals small natural skin blemishes. The back of another person's brown hair partly obscures the right foreground, while dark foliage or a shaded interior fills the background.",
+  "prompt_sha256": "36b76a97a457b9a5dbc9b075454d905123f3b06759ab846a4ecc67139e91c53a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/88/88aefc592d35e8e4949da90f6e3983cb515a467ed07aa3286077de910cffe559.png",
+  "original_sha256": "88aefc592d35e8e4949da90f6e3983cb515a467ed07aa3286077de910cffe559",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/ad/addf452e57e1743204fac8ee67e9d3786a1d82b2dc1f852dcd67d767bc9008b0.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9402251876890659,
+  "png_path": "generated/flickr-ffhq-35020.png",
+  "preview_path": "previews/flickr-ffhq-35020.jpg",
+  "png_sha256": "6c81f6e55c75a469cb040064f37639e95c4c48a92ca4ad00ce2c4df59e2b2a7f",
+  "preview_sha256": "178ab988d4079dc4ba0ba2f3bd44d0cac55d5ed3ec8ef69cb12a132a20283dc6",
+  "png_bytes": 1543012,
+  "preview_bytes": 288779,
+  "pixel_std": 45.22760000389208,
+  "created_at": "2026-10-08T08:51:22.359536+00:00"
+}

@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-59017",
+  "prompt": "A vertical portrait of a woman with short spiky bright red hair and thin rectangular glasses. She faces the camera with a composed closed-mouth expression, wearing a plain white crew-neck T-shirt and a fine necklace. Frame her head and upper chest against dark softly blurred green foliage. Warm natural light illuminates the face and vivid hair, with gentle shadows beneath the glasses and around the neck.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-319-324.jpg",
+  "reviewed_source_sha256": "0757347027ddf2724bc12bc6188a929ab2f3df0911c00bc3247a9cff111bbdb6",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

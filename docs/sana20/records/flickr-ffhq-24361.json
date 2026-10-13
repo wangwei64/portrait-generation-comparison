@@ -1,0 +1,37 @@
+{
+  "index": 284,
+  "image_id": "flickr-ffhq-24361",
+  "prompt": "A horizontal candid portrait of a bald man wearing a dark button-front shirt with thin pale blue vertical stripes. He raises one arm and rests his hand behind his head, looking directly at the camera with a neutral expression and deep horizontal forehead lines. Frame his head, chest and bent elbow. Bright daylight filters through closely spaced horizontal window blinds behind him, leaving his face and shirt softly shaded.",
+  "prompt_sha256": "d40071f64d47a036f08847ed2cf442da633ee0ceecfd7d794fabc906af50330f",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    736
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/54/54f17d66d17a3c62e58db34d28082c5083d6138c4a277d5ca20fc5fa9451f825.png",
+  "original_sha256": "54f17d66d17a3c62e58db34d28082c5083d6138c4a277d5ca20fc5fa9451f825",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/98/98f363afb4cabbc30c16dfb973fda30d9d34103fa53ed5111a5c60b737e52fcf.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 285,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9401727952063084,
+  "png_path": "generated/flickr-ffhq-24361.png",
+  "preview_path": "previews/flickr-ffhq-24361.jpg",
+  "png_sha256": "ace48fda91a32c60495c246c745e4121351e6bddc98069e29335f2263bc559ec",
+  "preview_sha256": "d0b3aecbde33157fae8bb52d9b16d3f8b02f1ed4674efd7ac86159c9142cb62c",
+  "png_bytes": 1583352,
+  "preview_bytes": 300113,
+  "pixel_std": 97.3138077963403,
+  "created_at": "2026-10-08T08:52:01.614064+00:00"
+}

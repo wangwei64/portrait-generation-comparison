@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-11421",
+  "prompt": "A vertical chest-up photograph of a man with short brown hair and a serious expression, looking off to the left. He wears a dark suit jacket, pale blue shirt and a loosely patterned brown tie, with a dark shoulder strap crossing near one shoulder. The outdoor light is soft and even. Keep his face in focus against a blurred backdrop of leafy green trees and a pale overcast sky.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-067-072.jpg",
+  "reviewed_source_sha256": "9948159ac283bdf98986883c34da14181c582a87f0dc3e2357f801cc7637fe01",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T09:34:09.473479+00:00"
+}

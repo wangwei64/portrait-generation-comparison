@@ -1,0 +1,37 @@
+{
+  "index": 106,
+  "image_id": "flickr-ffhq-30410",
+  "prompt": "A horizontal candid portrait of a man with short receding brown hair and a small gray-brown goatee. He wears a faded navy T-shirt and looks toward the camera with a raised eyebrow and pursed lips. Frame his head and upper chest at an outdoor table. A wooden railing, red brick wall, green trees and soft white and red flowers appear behind him in natural daylight with a shallow depth of field.",
+  "prompt_sha256": "63c0fd247cafc544b3aead49c4a3a3d25daf9db1416fb59047b136906fea1b5a",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/79/79b299e00560312863f4c15bc3ab590e68171560156f21a40bc44f9d7acb7b4b.png",
+  "original_sha256": "79b299e00560312863f4c15bc3ab590e68171560156f21a40bc44f9d7acb7b4b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/39/39dbb174ce861f1e413be817a1e1ef8b8e3f4201d620c38570ff5d458ab7c327.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399082735180855,
+  "png_path": "generated/flickr-ffhq-30410.png",
+  "preview_path": "previews/flickr-ffhq-30410.jpg",
+  "png_sha256": "ef60cae98b667f6c20af20163c2f64eeb6e5f3050d8e2594cd396ef727a7b061",
+  "preview_sha256": "34f4b76934390508ed1837b74af7cee1b59d085faaab4c05156b054112f08b57",
+  "png_bytes": 1777484,
+  "preview_bytes": 348183,
+  "pixel_std": 60.3237074113209,
+  "created_at": "2026-10-08T08:48:01.142986+00:00"
+}

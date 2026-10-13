@@ -1,0 +1,37 @@
+{
+  "index": 259,
+  "image_id": "flickr-ffhq-01409",
+  "prompt": "A horizontal portrait of a woman with short light brown and gray hair, with a pair of glasses resting on top of her head. She looks slightly to the right of the camera with a quiet closed-mouth expression. She wears a white textured scoop-neck top and a pale shoulder strap with a metal buckle. Warm wooden panels and a window frame fill the background; backlighting leaves her face softly shaded.",
+  "prompt_sha256": "83a5792bdecac19b090a098e75024b70e5f766c85b8b7cd4640165618368f30e",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    832
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6f/6f35a6609f1ae41b1814cf9b5eaeba572385cd4d70adcde6659fd32702773067.png",
+  "original_sha256": "6f35a6609f1ae41b1814cf9b5eaeba572385cd4d70adcde6659fd32702773067",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/45/45c0f5274be2e5c61e0bcb301a1941fba5c145c35597fca50aca9e4df10c71c4.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 288,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9399323165416718,
+  "png_path": "generated/flickr-ffhq-01409.png",
+  "preview_path": "previews/flickr-ffhq-01409.jpg",
+  "png_sha256": "b1e16ba69c53fa13dde453c15cd704cf77811c3a011ee33426436f1689f94ace",
+  "preview_sha256": "6560b2f6c7b5f02585749adb2bf5c479357154579a52fe78f3a7dcb174d4ce28",
+  "png_bytes": 1696540,
+  "preview_bytes": 283167,
+  "pixel_std": 69.45566676150213,
+  "created_at": "2026-10-08T08:51:27.749885+00:00"
+}

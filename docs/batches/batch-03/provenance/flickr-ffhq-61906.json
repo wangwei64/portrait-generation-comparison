@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-61906",
+  "candidate_index": 128,
+  "ffhq_id": 61906,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-61906.jpg",
+  "source_sha256": "dd58e979b3f3f4b2b57c301c420ae7a0dfbb5253673741d79c6c791990bc2ec0",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    3456,
+    2304
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/danbricklin/8679928444/",
+    "photo_title": "IMG_7584",
+    "author": "Dan Bricklin",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-04-25",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/danbricklin/8679928444/",
+  "public_size_key": "o",
+  "original_size_publicly_available": true,
+  "ffhq_reference_pixel_md5": "f97f422f217d1b9b1e1639affcd98898",
+  "current_decoded_pixel_md5": "d336874b3037f9d1415c9454ec24dd6d",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1437842600630144,
+  "fetched_at": 1791365443.783572,
+  "visual_review": "pending"
+}

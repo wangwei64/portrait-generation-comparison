@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-46627",
+  "prompt": "A vertical selfie-style outdoor portrait of a woman with long blonde hair braided over one shoulder and loose windblown strands rising above her forehead. She smiles at the camera with teeth visible. A gray hooded layer and a dark patterned outer garment are open at the neckline. Frame her head and upper torso from close range against a pale cloudy sky, a large green tree and distant rooftops in soft daylight.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-331-336.jpg",
+  "reviewed_source_sha256": "1018b89521e5ed2bdcf9bd8b8a067687952752dab98a7f2cf9af8988436d8436",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

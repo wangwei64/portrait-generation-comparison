@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-46068",
+  "candidate_index": 356,
+  "ffhq_id": 46068,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-46068.jpg",
+  "source_sha256": "20615df53058419372bf5e7991239f3ec7310cbe4755a76c0c4e8fe69a897ac9",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1360
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/70118259@N00/8699866650/",
+    "photo_title": "NEFFA 2013",
+    "author": "Jeffrey Bary",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2013-05-01",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/70118259@N00/8699866650/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "6a5e2265f995debb96b1eb6a4f5fe9b3",
+  "current_decoded_pixel_md5": "c4478e4a4426a15ca92ef0b5e99e75e1",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.06500699626865672,
+  "fetched_at": 1791367557.0500555,
+  "visual_review": "pending"
+}

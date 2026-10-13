@@ -1,0 +1,37 @@
+{
+  "index": 49,
+  "image_id": "piq23-s48-q75",
+  "prompt": "A person with light-brown hair pulled back stands on a curving brick-paved walkway between modern buildings, one foot slightly ahead of the other. They wear a long dark coat, a bulky dark scarf, dark slim trousers and dark shoes, with their arms down by their sides. Their full body is visible near the center of a vertical frame. The face and clothing are shadowed against a bright sky and pale buildings. Shrubs and a low white wall line the left side, while large windows run down the building on the right beside a curved red paving strip.",
+  "prompt_sha256": "76f34167a961e9b61f9e0a7982c231c946be1c8a218c1f4c9b2c2bc75a257b14",
+  "seed": 42,
+  "cohort": "PIQ23",
+  "environment": "outdoor",
+  "framing": "unspecified",
+  "original_dimensions": [
+    768,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/82/82e1e3ab041cdf05e1cfb8af244c516de339ed587963a918afbd98c9691d457b.png",
+  "original_sha256": "82e1e3ab041cdf05e1cfb8af244c516de339ed587963a918afbd98c9691d457b",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/33/33715965b605fe5e92443911b4d31d73fde3c5ead21447d6575f02ce69b7e31a.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 319,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.941179595887661,
+  "png_path": "generated/piq23-s48-q75.png",
+  "preview_path": "previews/piq23-s48-q75.jpg",
+  "png_sha256": "228915edb8bf8d4807f7e092f54a482bdc3396a895a014dcf25c3b416c634d06",
+  "preview_sha256": "1af9c54cc646db4a4db6c4b3a5fe3b7571ced0788d9a856e748c6682b8eed997",
+  "png_bytes": 1807156,
+  "preview_bytes": 452316,
+  "pixel_std": 82.47483052672091,
+  "created_at": "2026-10-08T08:46:44.840494+00:00"
+}

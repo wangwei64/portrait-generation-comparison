@@ -1,0 +1,37 @@
+{
+  "index": 286,
+  "image_id": "flickr-ffhq-39778",
+  "prompt": "A horizontal close portrait of a young child with short light blonde hair, smiling broadly at the camera with teeth and dimples visible. The child wears a thick cream cable-knit zip sweater with a raised collar. Frame the head and shoulders against a dark softly blurred background of green and brown foliage. Low natural light highlights one side of the face and sweater, with gentle shadows across the other cheek.",
+  "prompt_sha256": "a1361baecaeeaa8a910704d040c1f29d2389d1fe44714aaafac70addb86d47c3",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    672
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/d5/d52ef0cff1837ab952e0c0cb44ef01a750587d1e42112e4a6eb6b9ff2de5c1b8.png",
+  "original_sha256": "d52ef0cff1837ab952e0c0cb44ef01a750587d1e42112e4a6eb6b9ff2de5c1b8",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/47/4746a28b46c40b3cb438d902e4bf85ae071329b888d649d2ed7f657a46e80213.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 286,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9403620325028896,
+  "png_path": "generated/flickr-ffhq-39778.png",
+  "preview_path": "previews/flickr-ffhq-39778.jpg",
+  "png_sha256": "1d4f5b5d5138f46e863a51a328a718bb215e573aa0e25e3cbd09f5b3c1bc49a8",
+  "preview_sha256": "1c5656aa2fc3d82b83717ab588e821f9cc413f082f48d68e6b70e0e136a4947e",
+  "png_bytes": 1601139,
+  "preview_bytes": 276269,
+  "pixel_std": 75.48219693488436,
+  "created_at": "2026-10-08T08:52:04.327361+00:00"
+}

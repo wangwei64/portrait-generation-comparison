@@ -1,0 +1,37 @@
+{
+  "index": 101,
+  "image_id": "flickr-ffhq-40970",
+  "prompt": "A vertical night street portrait of a woman with a short straight black bob and bangs, turning her face toward the camera with raised eyebrows and a slight smile. She wears a royal-blue long-sleeved shirt with a large white striped graphic and carries a brown checkered shoulder bag. Frame her head and torso with a dark storefront, glowing green signage and warm yellow and red lights softly blurred behind. Direct flash lights her face.",
+  "prompt_sha256": "37fbf7bd75cd55a49eb5603e003b6d060f1f5fe77cd8503998b1e6c42448eb88",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "outdoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/6c/6c299269d49e54bd6c022d066a7ba58d883a6d95d25dd06a1741ba6085ca0cb7.png",
+  "original_sha256": "6c299269d49e54bd6c022d066a7ba58d883a6d95d25dd06a1741ba6085ca0cb7",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/62/62ec6b67b45261823eee89dc71d2bdcc185c4cbda662d0dbad1ae68d7c9bea74.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9394194856286049,
+  "png_path": "generated/flickr-ffhq-40970.png",
+  "preview_path": "previews/flickr-ffhq-40970.jpg",
+  "png_sha256": "e5bfc3b868ace9222a493cec742a9fad96dbb7690451fc0765ea684cbd2daceb",
+  "preview_sha256": "406091d1091ce473a1ef6a44266849fe64940e811be56a62a2fbf6f813aa7bee",
+  "png_bytes": 1556633,
+  "preview_bytes": 305348,
+  "pixel_std": 64.14013192375904,
+  "created_at": "2026-10-08T08:47:54.366545+00:00"
+}

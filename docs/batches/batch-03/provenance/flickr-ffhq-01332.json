@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-01332",
+  "candidate_index": 116,
+  "ffhq_id": 1332,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-01332.jpg",
+  "source_sha256": "17bb72e5619312cd002ef37edb42bf9a700705e63e83e97a553dba64ea13f038",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2039,
+    3050
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/mwf2005/27252102347/",
+    "photo_title": "Exmoor Morris 20 year party",
+    "author": "muffinn",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2018-05-15",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/mwf2005/27252102347/",
+  "public_size_key": "3k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "ec10ac178080467ee6f326750b22ba08",
+  "current_decoded_pixel_md5": "e8a9415bd762cc376703155af157a36b",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.08853005732478955,
+  "fetched_at": 1791365415.0246131,
+  "visual_review": "pending"
+}

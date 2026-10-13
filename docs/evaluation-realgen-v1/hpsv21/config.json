@@ -1,0 +1,17 @@
+{
+  "metric": "hpsv21",
+  "native_preprocessing": true,
+  "weights": {
+    "HPS_v2.1_compressed.pt [6f229cdea8]": {
+      "sha256": "c57a38fb4a2f7e7c15bf00da2ea377cdf165448b4dd1052a484c215a998c9837",
+      "bytes": 1972490005
+    }
+  },
+  "semantics": "HPSv2.1 normalized image/text dot × 100; human preference, not real probability. Native 77-token tokenizer.",
+  "input_manifest_sha256": "b57f1fbe0f91b1e0e363069bf7f3454418b030ac16e55a1b9f34fe7c1bfa0686",
+  "runner_sha256": "3eb61d77eb590f5cbb0a4ea1196a0debc5823775cf46fe0b88a8776b13135915",
+  "started_at": "2026-10-08T02:04:39.190156+00:00",
+  "torch": "2.12.0+cu130",
+  "device": "NVIDIA GB10",
+  "limit": 0
+}

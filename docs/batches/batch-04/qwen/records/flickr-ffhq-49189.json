@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-49189",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical party portrait of a smiling woman with long straight blonde hair, wearing a black top and layered silver necklaces. She holds a thin wooden stick topped with a red paper hat prop above her head, while her other hand is raised in an open wave with rings visible. Her head tilts playfully toward the camera. Direct flash casts a distinct shadow on a plain warm gray wall behind.",
+  "prompt_sha256": "3b8d2452ed6d76263ff11a50a8d3635dd2796149bab7e9b410708b73ca81ccfe",
+  "seed": 42,
+  "token_count": 101,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.247900482267141,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59414052963257,
+  "peak_reserved_gib": 45.25390625,
+  "nvidia_smi_peak_gib": 45.7646484375,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 54.93474782341051,
+  "generated_at": "2026-10-07T11:29:17.950887+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791371871203523541",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-49189.png",
+  "sha256": "9a1256e7b497e352d6798ed311a7b7d458c67a11e358b736c7c4517d9f6cf88f",
+  "bytes": 955173
+}

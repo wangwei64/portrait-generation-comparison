@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s41-q75",
+  "source_sha256": "deca1cf19b22bb927767f435134ca28f16878229deb09e09052c6fb9ae569972",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "chest_up",
+    "fur_hood",
+    "outdoor"
+  ],
+  "prompt": "A dark-skinned man with short textured black hair stands facing the camera with a small smile. He wears a blue-gray winter parka zipped to the neck, with a wide pale tan faux-fur trim framing the back of his hood. The horizontal portrait shows his head, shoulders and upper chest. Behind him, a dark gray tiled wall covers the left and center, while a narrow strip of orange-red brickwork occupies the right. His face is positioned just right of center, and the coat has large dark buttons and flap details.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

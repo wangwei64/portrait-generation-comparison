@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s01-q75",
+  "source_sha256": "9d64cefa92d2f379efe9213ac9cd70d3b1051a6dfc3bda5b8cb0adf363587add",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "raised_hand",
+    "full_body",
+    "indoor"
+  ],
+  "prompt": "A woman with long brown hair stands facing the camera in an office hallway. She wears a light gray sweatshirt with sleeves pushed up, blue jeans and white sneakers with blue accents. Her right hand is raised beside her head with the palm forward, while her left arm hangs down. Her full body is visible near the center of a wide horizontal frame. A teal accent wall and open glass door are on the left, with a white corner wall immediately behind her and a carpeted corridor receding on the right beneath rectangular ceiling lights.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

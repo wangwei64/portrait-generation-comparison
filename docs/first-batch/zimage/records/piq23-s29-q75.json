@@ -1,0 +1,26 @@
+{
+  "image_id": "piq23-s29-q75",
+  "cohort": "PIQ23",
+  "dimensions": [
+    1024,
+    768
+  ],
+  "mode": "RGB",
+  "prompt": "A person with short light-brown hair stands facing the camera in front of a large weathered dark green wooden gate at night. They wear an olive hooded jacket, black trousers and pale sneakers, with both hands in the jacket pockets and feet slightly apart. Their full body occupies the right-center of a wide horizontal frame. A brick pier and pale plaster wall border the gate on the right, with a rectangular wall lamp glowing overhead. Curved roof tiles line the top of the gate, a circular pale object is attached on the left, and irregular paving stones cover the ground.",
+  "prompt_sha256": "a9a4c146d0009fdbcbf0e852fcd521dd2d72677a63a45d7b102ca6bc164994b5",
+  "seed": 42,
+  "token_count": 124,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.312482114881277,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077632427215576,
+  "peak_reserved_gib": 23.958984375,
+  "nvidia_smi_peak_gib": 24.4677734375,
+  "nvidia_smi_sample_count": 97,
+  "pixel_std": 66.4503422182799,
+  "generated_at": "2026-10-07T09:04:49.733070+00:00",
+  "image_path": "zimage/generated/piq23-s29-q75.png",
+  "sha256": "90ab52413374b1b9da4b52c75778b45aa70ae9568fee355e202f035320cf1acc",
+  "bytes": 1245584
+}

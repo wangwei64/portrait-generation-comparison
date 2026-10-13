@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-49755",
+  "prompt": "A horizontal candid photograph of a man with receding short dark hair and stubble, speaking with his mouth slightly open while looking toward the right. He wears a dark suit, a white shirt and a diagonally striped gold and blue tie. Frame his head and upper chest under warm indoor lighting. The back of another man's head and dark-framed glasses partly obscure the left foreground, while blurred notices and signs hang on the wall behind.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-205-210.jpg",
+  "reviewed_source_sha256": "957e0ec723e2d037819a56ab6d5511a675b6acf446b67e5994325c8490524457",
+  "framing": "closeup",
+  "environment": "indoor",
+  "tags": [
+    "closeup",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T10:00:44.689697+00:00"
+}

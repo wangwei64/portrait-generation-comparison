@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-47727",
+  "candidate_index": 314,
+  "ffhq_id": 47727,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-47727.jpg",
+  "source_sha256": "041eb4b9bc9966eca51599e18ae34b9f6a99a72ca1fef406d63a4a82d4824643",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/tylerrayphotography/4211363185/",
+    "photo_title": "2009_04_16_IMG_1937",
+    "author": "Tyler Johnson",
+    "country": "",
+    "license": "Attribution License",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "date_uploaded": "2009-12-24",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 4,
+  "photo_url": "https://www.flickr.com/photos/tylerrayphotography/4211363185/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "537ea6e1f84f22930bc264c6a028c790",
+  "current_decoded_pixel_md5": "68353e56195736116e6eea6c033a8589",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1577406004489338,
+  "fetched_at": 1791367444.9249585,
+  "visual_review": "pending"
+}

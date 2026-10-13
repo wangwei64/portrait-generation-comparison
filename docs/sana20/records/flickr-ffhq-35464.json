@@ -1,0 +1,37 @@
+{
+  "index": 153,
+  "image_id": "flickr-ffhq-35464",
+  "prompt": "A vertical head-and-shoulders portrait of a woman with short swept-back blonde hair and small hoop earrings. She looks straight into the camera with a quiet closed-mouth expression. She wears a dark gray crew-neck shirt and two thin black cords, one bearing a small amber-colored pendant. Soft balanced studio lighting reveals freckles and natural skin texture. Center her face against a plain muted gray background.",
+  "prompt_sha256": "846755689feffe8047283669eb4a1c5817c27a11482816612c31f42126d68113",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "studio",
+  "framing": "closeup",
+  "original_dimensions": [
+    736,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/23/23c3894deb642b0020b2f6cac89c73720c673bfd6ef7690df465752a1c37149f.png",
+  "original_sha256": "23c3894deb642b0020b2f6cac89c73720c673bfd6ef7690df465752a1c37149f",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/1f/1f2eb3e40a7c5def95313cf7bdfc4faa61543862c305207093b917f7f9e5dc77.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 290,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9409122541546822,
+  "png_path": "generated/flickr-ffhq-35464.png",
+  "preview_path": "previews/flickr-ffhq-35464.jpg",
+  "png_sha256": "9f1c8f90f84991704df6bf3623eeebe846e2a3a0dbfbaa5813bb66e4e1bb90d9",
+  "preview_sha256": "898759dacd84ab872f0d42b495ecc808510fcb46ea4736750e3375440db10b77",
+  "png_bytes": 1565963,
+  "preview_bytes": 223190,
+  "pixel_std": 37.85295121646502,
+  "created_at": "2026-10-08T08:49:04.180956+00:00"
+}

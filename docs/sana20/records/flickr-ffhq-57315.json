@@ -1,0 +1,37 @@
+{
+  "index": 54,
+  "image_id": "flickr-ffhq-57315",
+  "prompt": "A horizontal arm-length portrait of a man with very short brown hair, a receding hairline and light facial stubble. He looks directly into the camera with a faint closed-mouth smile. He wears a dark navy V-neck sweater over an olive undershirt, with his arms extending toward the lower corners. Frame his head and shoulders against a plain off-white wall and a vertical wooden panel at the left, in soft indoor daylight.",
+  "prompt_sha256": "bca25a5b10e8ac5bbe8d86c51f900c3be3924594afffc8f14340e9b67d063d24",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "closeup",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/f3/f35531aa25ff36e132fb22b739580c3d698a689f31c15003109398af4ae9eab6.png",
+  "original_sha256": "f35531aa25ff36e132fb22b739580c3d698a689f31c15003109398af4ae9eab6",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/b0/b0b7d35169ef498d41518057cdbce3e8169b73315587c7006d4b98c255179281.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 294,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9400841034948826,
+  "png_path": "generated/flickr-ffhq-57315.png",
+  "preview_path": "previews/flickr-ffhq-57315.jpg",
+  "png_sha256": "33be31a77559d5a7079a137bdde9f1ba33bcfcfdf70750369773a38ccd52fa77",
+  "preview_sha256": "dd70ba452199ecab37d1445c90d9059bf81b3df0ab389986f7d64f6cdc1791c3",
+  "png_bytes": 1502069,
+  "preview_bytes": 217692,
+  "pixel_std": 89.7926174353593,
+  "created_at": "2026-10-08T08:46:51.265872+00:00"
+}

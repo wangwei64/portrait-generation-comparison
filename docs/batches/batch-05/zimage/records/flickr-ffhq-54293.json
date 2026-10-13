@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-54293",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    768,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical candid photograph of a blonde child laughing exuberantly on a swing, eyes nearly shut and mouth wide open. Loose hair blows across one cheek. The child wears a white short-sleeved shirt with a colorful heart and flower design; an orange curved swing edge is cropped at the bottom. Dark ropes rise on either side of the head, with bare earth, green fields and leafless trees behind in bright daylight.",
+  "prompt_sha256": "fbdb673f3d308f7eb3e5cee169bc6751bec6d00df04e9187fecdd92f491da126",
+  "seed": 42,
+  "token_count": 93,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 29.413252755999565,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.077484607696533,
+  "peak_reserved_gib": 27.333984375,
+  "nvidia_smi_peak_gib": 27.8427734375,
+  "nvidia_smi_sample_count": 98,
+  "pixel_std": 72.2170412623449,
+  "generated_at": "2026-10-07T11:52:16.616393+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791372731603469464",
+  "image_path": "zimage/generated/flickr-ffhq-54293.png",
+  "sha256": "eeddabb8a7e208c5d10f2c8ec5195b88ebf57d0912d5a07e1775d75fab79750e",
+  "bytes": 1040318
+}

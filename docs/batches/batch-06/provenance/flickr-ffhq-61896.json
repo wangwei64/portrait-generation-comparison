@@ -1,0 +1,36 @@
+{
+  "image_id": "flickr-ffhq-61896",
+  "candidate_index": 339,
+  "ffhq_id": 61896,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-61896.jpg",
+  "source_sha256": "1dc4a86e6442c34fb9325a319cb83bd1bf4410bf1edff36d6c52fe1fe8f74570",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2048,
+    1365
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/nyer82/2460058005/",
+    "photo_title": "IMG_7548-1",
+    "author": "Drew XXX",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2008-05-03",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/nyer82/2460058005/",
+  "public_size_key": "k",
+  "original_size_publicly_available": true,
+  "downloaded_original_size": false,
+  "rendition_policy": "Prefer largest publicly listed non-original rendition up to 2048 pixels; otherwise largest listed size",
+  "ffhq_reference_pixel_md5": "e025bcfd6cca21064390b1570d363a78",
+  "current_decoded_pixel_md5": "8fc0a65a6914ce5599f3c5286fdd170c",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.13550609140260067,
+  "fetched_at": 1791367518.6417103,
+  "visual_review": "pending"
+}

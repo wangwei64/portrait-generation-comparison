@@ -1,0 +1,37 @@
+{
+  "index": 201,
+  "image_id": "flickr-ffhq-03122",
+  "prompt": "A vertical photograph of a man with short brown hair and a close beard, speaking with his mouth open while looking toward the audience. He wears a white double-breasted chef jacket beneath a dark purple apron and a small headset microphone curving toward his cheek. Frame his head and torso in warm indoor light. A pale angular object partly covers the lower right foreground, with a softly blurred gray wall and vertical cable behind.",
+  "prompt_sha256": "3d7d8aca759b8ce6e3b7db5bd47ed5184962c9baf43c92627c051c52204ed6dc",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    672,
+    1024
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/97/97940dda2c5cfbbeb7dc80eff80edf65b9764a2d5e6b06fec92abe5080415815.png",
+  "original_sha256": "97940dda2c5cfbbeb7dc80eff80edf65b9764a2d5e6b06fec92abe5080415815",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/89/89ce6b586c95c26c391727b459fbdd95a9a75f89a6a767fc6266d79528db7f79.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 289,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9415659829974174,
+  "png_path": "generated/flickr-ffhq-03122.png",
+  "preview_path": "previews/flickr-ffhq-03122.jpg",
+  "png_sha256": "6b9f71ceb80c260cdf2eb3c95dc785086e95be71f55aff3c0bbfb251fe3607da",
+  "preview_sha256": "7eeba17c05d9376d0079f6ae939de966b348bd8e6999ef80230be1bf23c98043",
+  "png_bytes": 1582569,
+  "preview_bytes": 251029,
+  "pixel_std": 57.68719482639009,
+  "created_at": "2026-10-08T08:50:09.316972+00:00"
+}

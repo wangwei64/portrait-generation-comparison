@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-19558",
+  "prompt": "A horizontal candid photograph of a smiling woman with short side-parted brown hair held by a thin headband. She wears pink circular earrings, a black cardigan and a red top, seated sideways while turning toward the camera. Frame her head and upper torso in a meeting room. A white-covered table with a blue water bottle and papers, blue upholstered chairs and partially cropped people are visible behind, with a blurred head in the lower foreground.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-169-174.jpg",
+  "reviewed_source_sha256": "fff4a370caaf6d0bee0c15bd257997567efcfec983c87161859fb97697887886",
+  "framing": "upper_body",
+  "environment": "indoor",
+  "tags": [
+    "upper_body",
+    "indoor"
+  ],
+  "created_at": "2026-10-07T09:41:48.958098+00:00"
+}

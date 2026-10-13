@@ -1,0 +1,18 @@
+{
+  "image_id": "piq23-s19-q75",
+  "source_sha256": "89beaa14e043029b45d42fa1ab17e6cbd6cfc6a6d1a0808d3ecd02c6f9cbc3a6",
+  "language": "en",
+  "method": "Direct GPT visual annotation by the current Codex assistant",
+  "annotation_model": "current-session GPT; no external VLM or API captioning call",
+  "human_review": false,
+  "existing_vlm_caption_reused": false,
+  "visual_evidence": "reviewed source preview in labeled contact sheet",
+  "tags": [
+    "closeup",
+    "tablet",
+    "lowlight"
+  ],
+  "prompt": "A young man with reddish-brown hair pulled back and a faint goatee sits facing the camera in a patterned gray knitted sweater. A tablet in a bronze-colored case is visible across the lower foreground, and cool light from below illuminates his face and neck. The horizontal view shows his head and upper chest. Behind him on the left, white open shelves hold stacked books, small green plants, a clear jug, a blue cup and a woven container. Warm room light colors the shelves and wall in contrast with the cool light across his face.",
+  "scope": "Visible person, action, clothing, objects, composition and environment; no beauty or quality enhancement terms; no identity claim",
+  "identity_matching_expected": false
+}

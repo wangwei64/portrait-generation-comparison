@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-07194",
+  "prompt": "A vertical candid photograph of a blonde toddler seated outdoors, looking toward the camera with a serious expression and the tip of the tongue showing. The child wears an olive-green zip jacket with gray fleece lining over a yellow patterned shirt. One hand holds a large irregular pale cereal-like snack while the other rests on a wooden surface. Frame the head and torso against softly blurred bare ground, scattered leaves and a distant bench.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-373-378.jpg",
+  "reviewed_source_sha256": "524ac96179b351eddcd1747092a413ef92a32c62d6f73e008ef171db04db693e",
+  "framing": "upper_body",
+  "environment": "outdoor",
+  "tags": [
+    "upper_body",
+    "outdoor"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

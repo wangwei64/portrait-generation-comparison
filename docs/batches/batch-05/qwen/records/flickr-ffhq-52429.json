@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-52429",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    800,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical portrait of a bald man with a short neatly trimmed beard along his jaw, smiling widely at the camera with teeth visible. He wears a vivid royal blue V-neck scrub-style shirt. Frame his head and upper torso against a simple warm orange wall, with a slight turn of the shoulders. Soft bright light falls from the left, preserving gentle facial contours and natural skin texture.",
+  "prompt_sha256": "3949a505b6664d4d6e50941bc97b71db35f359c3cadd3800cbb25e7a5b1643ac",
+  "seed": 42,
+  "token_count": 98,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 14.384226337075233,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 35.41328573226929,
+  "peak_reserved_gib": 41.033203125,
+  "nvidia_smi_peak_gib": 41.5439453125,
+  "nvidia_smi_sample_count": 48,
+  "pixel_std": 71.71410182738109,
+  "generated_at": "2026-10-07T12:03:00.075721+00:00",
+  "plan_sha256": "95f541f8153e66c52e84b288e97a1217ae15fac8d415ed81aa41db158f3faf51",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791374181724908990",
+  "alpha_extrema": [
+    251,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-52429.png",
+  "sha256": "9ff334017765f01a16400f0d215d57b75fc4bfca7adf5cfd940b3d02e17b5e75",
+  "bytes": 1136260
+}

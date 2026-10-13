@@ -1,0 +1,29 @@
+{
+  "image_id": "flickr-ffhq-07577",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    736,
+    1024
+  ],
+  "mode": "RGB",
+  "prompt": "A vertical photograph from above of a smiling young child with shoulder-length blonde hair and a small yellow flower clip. The child looks up directly toward the camera with bright eyes and a toothy smile, standing with arms at the sides. A knitted sleeveless top has black, brown and cream sections above yellow trousers with ruffled hems. Include the figure down to the feet against white wooden paneling and a pale shaggy rug in gentle indoor light.",
+  "prompt_sha256": "8930c09f235d6fb8ec2c4c3e9c9da33a7f2dd85f94dd4d4fe49f2747671f1eb8",
+  "seed": 42,
+  "token_count": 100,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 28.41260017082095,
+  "baseline_allocated_gib": 19.28867197036743,
+  "peak_allocated_gib": 21.003085613250732,
+  "peak_reserved_gib": 24.703125,
+  "nvidia_smi_peak_gib": 25.2119140625,
+  "nvidia_smi_sample_count": 95,
+  "pixel_std": 56.148497306285996,
+  "generated_at": "2026-10-07T10:58:22.443334+00:00",
+  "plan_sha256": "a7401957d98398de6ad747740c616f06b709738fa93e2b3370eb6aab6af62be2",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791370406177823042",
+  "image_path": "zimage/generated/flickr-ffhq-07577.png",
+  "sha256": "2486290544da1e24fa63d4ff0fd2357b7a1e692bc1a27872c75453029806eae2",
+  "bytes": 888741
+}

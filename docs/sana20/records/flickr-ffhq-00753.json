@@ -1,0 +1,37 @@
+{
+  "index": 198,
+  "image_id": "flickr-ffhq-00753",
+  "prompt": "A horizontal snapshot of a smiling boy with very short tightly curled dark hair, wearing a red-and-white plaid button-front shirt. He looks directly at the camera with his head slightly tilted and teeth visible. Frame his head and upper torso against a worn gray wall, a small wood-framed window and a ledge covered with newspaper and stacked books. Direct frontal light brightens his face and catches reflections in the eyes.",
+  "prompt_sha256": "1a0b12e84edf5f91e3e46e53b6fa3328000e0fee5c0f6264daab21452634d464",
+  "seed": 42,
+  "cohort": "Flickr",
+  "environment": "indoor",
+  "framing": "upper_body",
+  "original_dimensions": [
+    1024,
+    768
+  ],
+  "original_source_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/db/dbe47ea0b0a485362b9bbffc01079780eab11a7c0c4b092ead3127d8c85287b2.png",
+  "original_sha256": "dbe47ea0b0a485362b9bbffc01079780eab11a7c0c4b092ead3127d8c85287b2",
+  "reference_path": "https://raw.githubusercontent.com/wangwei64/portrait-generation-comparison/main/media/e8/e81f891e67397c126d6bed0f1b4eabdb407a497f170f9bb3c287b5c506c800b9.png",
+  "plan_sha256": "41faffd2e38bb11673de851a942d1170f96ffff3bebd8e1821fa9d72104113fb",
+  "dimensions": [
+    1024,
+    1024
+  ],
+  "num_inference_steps": 20,
+  "actual_scheduler_timesteps": 20,
+  "guidance_scale": 4.5,
+  "token_count": 292,
+  "token_budget": 506,
+  "prompt_truncated": false,
+  "sampling_seconds": 0.9414256103336811,
+  "png_path": "generated/flickr-ffhq-00753.png",
+  "preview_path": "previews/flickr-ffhq-00753.jpg",
+  "png_sha256": "e3f831cd4c4eaa3b565a1becd764d659b7854101974ddb9669a47643f8769f24",
+  "preview_sha256": "eb2b3b51d85b64fac1729abd453766c8a791435efeaa8a0973eb25776f4442d9",
+  "png_bytes": 1676324,
+  "preview_bytes": 305138,
+  "pixel_std": 64.12658379556132,
+  "created_at": "2026-10-08T08:50:05.158041+00:00"
+}

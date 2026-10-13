@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-25875",
+  "candidate_index": 278,
+  "ffhq_id": 25875,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-25875.jpg",
+  "source_sha256": "32d0fcde13735e1291e55b82e47a38278516ebf5170da655b89a6c363a1a5975",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    2000,
+    2000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/renewouters/8690824130/",
+    "photo_title": "The making of meelshoot-65",
+    "author": "René Wouters",
+    "country": "",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-04-28",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/renewouters/8690824130/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "f0ee29e72bf5c4f3b0dda0274e5b1ed9",
+  "current_decoded_pixel_md5": "0e2e21885c6b5aab75f2c0429f5ae928",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "close",
+  "face_area_fraction": 0.1484175,
+  "fetched_at": 1791365567.8169203,
+  "visual_review": "pending"
+}

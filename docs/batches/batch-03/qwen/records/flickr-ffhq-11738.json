@@ -1,0 +1,33 @@
+{
+  "image_id": "flickr-ffhq-11738",
+  "cohort": "Flickr-FFHQ-source",
+  "dimensions": [
+    672,
+    1024
+  ],
+  "mode": "RGBA",
+  "prompt": "A vertical candid photograph of a bald man with short facial stubble speaking in front of a projected presentation. He wears a dark suit jacket, pale lavender shirt and a small white name badge. Both hands are raised at chest level with the fingers spread as he looks to the left. Frame his head and torso, with out-of-focus audience heads across the bottom and a bright projection of large pale lettering behind.",
+  "prompt_sha256": "5f1b1af4f33e77cc305fe77f4d52b63e384f56145f6165a8fa98c5b7c0f56f37",
+  "seed": 42,
+  "token_count": 104,
+  "num_inference_steps": 50,
+  "actual_scheduler_timesteps": 50,
+  "inference_seconds": 12.39067992568016,
+  "baseline_allocated_gib": 30.241496562957764,
+  "peak_allocated_gib": 34.59562826156616,
+  "peak_reserved_gib": 38.763671875,
+  "nvidia_smi_peak_gib": 39.2744140625,
+  "nvidia_smi_sample_count": 41,
+  "pixel_std": 94.63746187972632,
+  "generated_at": "2026-10-07T10:43:56.607711+00:00",
+  "plan_sha256": "5af539bd6f36e9a65e0e57a0960f6a8e834c8a53aa608b16ff007349d9e964f4",
+  "runner_sha256": "1e2a8c66b8d3441fc2cc153647d4600a34cc8f3ef9fa92ba828a631fe98d7bde",
+  "attempt": "1791369534283526427",
+  "alpha_extrema": [
+    252,
+    255
+  ],
+  "image_path": "qwen/generated/flickr-ffhq-11738.png",
+  "sha256": "6c91f4821195810322f49c59194d18c91fa9da25fe7821de0322f1eaacb67457",
+  "bytes": 763323
+}

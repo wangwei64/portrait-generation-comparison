@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-30621",
+  "prompt": "A horizontal portrait of an older woman with a short pale blonde bob and bangs, wearing large delicate metal-framed glasses. She turns slightly toward the camera with a broad warm smile and teeth visible. A dark brown turtleneck, silver chain necklace and small stud earrings frame her face. Place her head and shoulders on the right side of a simple pale gray background, with soft bright studio-style lighting and open space to the left.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-331-336.jpg",
+  "reviewed_source_sha256": "df31fe595cbdc5055cbc191fe38d73e8759f4343aeeeea046507c974aee58dc0",
+  "framing": "closeup",
+  "environment": "studio",
+  "tags": [
+    "closeup",
+    "studio"
+  ],
+  "created_at": "2026-10-07T10:10:19.050494+00:00"
+}

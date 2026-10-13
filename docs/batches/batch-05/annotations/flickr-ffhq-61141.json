@@ -1,0 +1,15 @@
+{
+  "image_id": "flickr-ffhq-61141",
+  "prompt": "A vertical flash photograph of a man wearing an oversized novelty hat shaped like a hot dog in a bun, with reddish sausage and green and red condiment details. He looks toward the camera with slightly parted lips, resting two fingers against his temple. He wears an olive-gray jacket over a pale shirt. Frame his head and torso against a dim social interior, with a partially obscured seated person behind one shoulder.",
+  "prompt_language": "en",
+  "method": "Direct visual annotation by GPT in this Codex conversation; not a VLM API or template-generated caption.",
+  "review_evidence": "review/flickr/candidates-265-270.jpg",
+  "reviewed_source_sha256": "9785c1479dad00ea4ad2648251c1b6cb594d5c2f15992fa205a0da637a5559da",
+  "framing": "upper_body",
+  "environment": "lowlight",
+  "tags": [
+    "upper_body",
+    "lowlight"
+  ],
+  "created_at": "2026-10-07T10:05:42.708543+00:00"
+}

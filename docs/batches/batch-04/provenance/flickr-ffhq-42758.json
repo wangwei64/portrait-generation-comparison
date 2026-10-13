@@ -1,0 +1,34 @@
+{
+  "image_id": "flickr-ffhq-42758",
+  "candidate_index": 216,
+  "ffhq_id": 42758,
+  "cohort": "Flickr-FFHQ-source",
+  "original_path": "sources/flickr/originals/flickr-ffhq-42758.jpg",
+  "source_sha256": "bf09c0698d3490654027b7aaa7e24b39c7d7b172992c4ed71da00ae2c78e3543",
+  "source_format": "JPEG",
+  "source_dimensions": [
+    1600,
+    2000
+  ],
+  "source_metadata": {
+    "photo_url": "https://www.flickr.com/photos/trustypics/8630586862/",
+    "photo_title": "Nick Bruel #43",
+    "author": "Alvin Trusty",
+    "country": "United States",
+    "license": "Attribution-NonCommercial License",
+    "license_url": "https://creativecommons.org/licenses/by-nc/2.0/",
+    "date_uploaded": "2013-04-08",
+    "date_crawled": "2018-10-10"
+  },
+  "current_flickr_license_id": 2,
+  "photo_url": "https://www.flickr.com/photos/trustypics/8630586862/",
+  "public_size_key": "k",
+  "original_size_publicly_available": false,
+  "ffhq_reference_pixel_md5": "9ac56865d7398aeeb089d5791481bdee",
+  "current_decoded_pixel_md5": "0995ea8cd28ae467e2a8b2e122e84699",
+  "current_pixels_match_ffhq": false,
+  "framing_bucket": "upper",
+  "face_area_fraction": 0.12880125,
+  "fetched_at": 1791365552.5085347,
+  "visual_review": "pending"
+}
