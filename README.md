@@ -7,3 +7,5 @@ Real reference photographs, Z-Image, Qwen-Image-2.1 and Sana 600M, with synchron
 The Pages site is in `docs/`. Original, unmodified PNG files are stored in `media/` and loaded lazily from this repository. All image SHA256 hashes are in `docs/publication-manifest.json`. No resizing or lossy compression was applied. Source photographs retain their original licenses and attributions shown in each case; this repository does not relicense them.
 
 Published metadata is a sanitized copy: local/server paths are redacted. Source artifact hashes in research reports refer to the original local artifacts, not redacted JSON copies. Model weights, environment files, server configuration and private logs are excluded.
+
+[Open the Sana 20-step error atlas](https://wangwei64.github.io/portrait-generation-comparison/step-atlas/index.html): 16 prompts, 26 previously reviewed problem images, 118 contact sheets, and lossless full-resolution step images and fixed-region crops. No repair or resampling is performed. Native images are served from `media/step-atlas-v1-20261015/`; downloadable archives are published in the corresponding GitHub Release.

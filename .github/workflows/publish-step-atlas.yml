@@ -1,0 +1,43 @@
+name: Publish step atlas download archives
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'docs/step-atlas/**'
+      - 'media/step-atlas-v1-20261015/**'
+      - 'scripts/package_step_atlas.py'
+      - '.github/workflows/publish-step-atlas.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-step-atlas
+  cancel-in-progress: false
+
+jobs:
+  archives:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          filter: blob:none
+          sparse-checkout: |
+            docs/step-atlas
+            media/step-atlas-v1-20261015
+            scripts
+      - name: Verify images and package archives
+        run: python3 scripts/package_step_atlas.py
+      - name: Publish downloadable archives
+        env:
+          GH_TOKEN: ${{ github.token }}
+          GH_REPO: ${{ github.repository }}
+        run: |
+          if ! gh release view step-atlas-v1-20261015 >/dev/null 2>&1; then
+            gh release create step-atlas-v1-20261015 --target "$GITHUB_SHA" --title "Sana original 20-step atlas: 16 prompts, 26 cases" --notes "Original baseline latent decodes and predicted-clean images. Includes 118 contact sheets, lossless step frames, fixed-region crops, prompts and provenance metadata. No repair or resampling."
+          fi
+          gh release upload step-atlas-v1-20261015 atlas-release/* --clobber

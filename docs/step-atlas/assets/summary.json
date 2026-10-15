@@ -1,0 +1,228 @@
+{
+  "state": "complete",
+  "totals": {
+    "images": 26,
+    "prompts": 16,
+    "regions": 33,
+    "full_frames": 1040,
+    "region_frames": 1320,
+    "sheets": 118
+  },
+  "cases": [
+    {
+      "case_id": "A006",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 999983,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A022",
+      "image_id": "flickr-ffhq-69377",
+      "seed": 104729,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A025",
+      "image_id": "flickr-ffhq-35614",
+      "seed": 65537,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A026",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 42,
+      "full_frames": 40,
+      "region_frames": 80,
+      "sheets": 6
+    },
+    {
+      "case_id": "A029",
+      "image_id": "flickr-ffhq-50758",
+      "seed": 65537,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A030",
+      "image_id": "flickr-ffhq-23505",
+      "seed": 42,
+      "full_frames": 40,
+      "region_frames": 80,
+      "sheets": 6
+    },
+    {
+      "case_id": "A042",
+      "image_id": "flickr-ffhq-43713",
+      "seed": 42,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A043",
+      "image_id": "flickr-ffhq-23465",
+      "seed": 42,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A054",
+      "image_id": "flickr-ffhq-60230",
+      "seed": 42,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A055",
+      "image_id": "flickr-ffhq-56966",
+      "seed": 262147,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "A060",
+      "image_id": "flickr-ffhq-26913",
+      "seed": 1729,
+      "full_frames": 40,
+      "region_frames": 80,
+      "sheets": 6
+    },
+    {
+      "case_id": "E001",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 524287,
+      "full_frames": 40,
+      "region_frames": 80,
+      "sheets": 6
+    },
+    {
+      "case_id": "E002",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 10007,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "E003",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 262147,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "E007",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 104729,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "E008",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 524287,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "E009",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 65537,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "E012",
+      "image_id": "flickr-ffhq-50758",
+      "seed": 104729,
+      "full_frames": 40,
+      "region_frames": 120,
+      "sheets": 8
+    },
+    {
+      "case_id": "E013",
+      "image_id": "flickr-ffhq-23505",
+      "seed": 10007,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "E014",
+      "image_id": "flickr-ffhq-23505",
+      "seed": 999983,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "F003",
+      "image_id": "flickr-ffhq-11738",
+      "seed": 65537,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "F015",
+      "image_id": "piq23-s04-q75",
+      "seed": 1729,
+      "full_frames": 40,
+      "region_frames": 80,
+      "sheets": 6
+    },
+    {
+      "case_id": "F040",
+      "image_id": "flickr-ffhq-07194",
+      "seed": 104729,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "R006",
+      "image_id": "flickr-ffhq-07577",
+      "seed": 524287,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "R009",
+      "image_id": "piq23-s00-q75",
+      "seed": 42,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    },
+    {
+      "case_id": "S021",
+      "image_id": "flickr-ffhq-11738",
+      "seed": 262147,
+      "full_frames": 40,
+      "region_frames": 40,
+      "sheets": 4
+    }
+  ],
+  "elapsed_seconds": 189.34568587690592,
+  "transformer_evaluations": 0,
+  "new_images_generated": 0,
+  "plan_sha256": "ee2fe034522bf0abe3dae2614de87b68359a3c575db3b158578c1ca11d7fd265",
+  "runner_sha256": "4df7bdd1b18548168a95b7212c5b539b4f181fd498d1db9f36e30f48c4d302d0",
+  "gpu": "NVIDIA A800-SXM4-80GB",
+  "validation": "All lossless files pixel-verified after encoding; all final latent decodes equal baseline final RGB; x0 steps 1,10,20 re-decoded and checked for every case."
+}

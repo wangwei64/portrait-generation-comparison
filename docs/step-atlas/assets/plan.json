@@ -1,0 +1,742 @@
+{
+  "name": "Unmodified baseline latent and predicted-clean 20-step atlas",
+  "cases": [
+    {
+      "case_id": "A006",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 999983,
+      "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+      "regions": [
+        {
+          "region_id": "left_hand",
+          "label": "画面左手",
+          "box": [
+            135,
+            30,
+            430,
+            425
+          ],
+          "finding": "画面左侧手掌拇指一侧的额外指状突起",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "张开的画面左侧手掌存在明确的多余指状突起，尤其拇指侧下方的短指形结构及指根连接。面部、肩臂和另一只手未见同等级明确错误；脚未展示。"
+    },
+    {
+      "case_id": "A022",
+      "image_id": "flickr-ffhq-69377",
+      "seed": 104729,
+      "prompt": "A vertical chest-up portrait of an older man with shaggy gray-brown hair and a sandy-gray mustache. He smiles toward the camera, wearing a black button-down shirt and a dark tie with a large pink floral pattern. Bright natural light reveals fine facial lines and slightly flushed cheeks. The background consists of softly blurred sunlit green trees, with the subject centered and both shoulders visible.",
+      "regions": [
+        {
+          "region_id": "forehead_patch",
+          "label": "额头块状渲染边界",
+          "box": [
+            395,
+            180,
+            625,
+            345
+          ],
+          "finding": "皮肤明暗中出现明显的直角块状边界，和连续皮肤纹理不协调。",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "feasibility-v2-20261013/vlm-review/annotations.json"
+      ]
+    },
+    {
+      "case_id": "A025",
+      "image_id": "flickr-ffhq-35614",
+      "seed": 65537,
+      "prompt": "A vertical photograph of a man with short curly brown hair and rectangular metal glasses, speaking into a handheld microphone with a blue band. He wears a dark suit, pale blue shirt, patterned navy tie and a red conference lanyard with a badge. One hand holds the microphone while the other is raised in a small gesture. He looks slightly right, mouth open, against a softly lit cream wall and dark doorway.",
+      "regions": [
+        {
+          "region_id": "gesture_hand",
+          "label": "画面右下手",
+          "box": [
+            620,
+            760,
+            1024,
+            1024
+          ],
+          "finding": "画面右下手掌的指根/短突起糊连",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "卷发男子持麦克风。握麦克风的手可合理解释，但画面右下方另一只手呈几个粗短突起与糊连的掌部，指根和手指连接明显异常；放大检查后记录为手部错误，不按可见突起数推断完整手指数。"
+    },
+    {
+      "case_id": "A026",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 42,
+      "prompt": "A vertical photograph of a crying baby with fine reddish-blonde hair, seated in a bright blue padded seat printed with small colorful animals. The baby wears a pale long-sleeved outfit covered in tiny pink flowers, secured by green straps and a yellow plastic buckle. The mouth is open and eyes are narrowed in distress. Strong natural light casts uneven shadows across the face, with a small section of rough stone behind the seat.",
+      "regions": [
+        {
+          "region_id": "brow",
+          "label": "眉间、眼眉连接",
+          "box": [
+            300,
+            170,
+            720,
+            590
+          ],
+          "finding": "眉间异常叠层与眼眉连接",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "left_hand",
+          "label": "画面左下手",
+          "box": [
+            170,
+            780,
+            410,
+            975
+          ],
+          "finding": "画面左下手的多余指状末端",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "哭泣婴儿坐在蓝色座椅。眉间、鼻梁上方形成密集且不连续的叠层突起，两眼内侧与眉间的连接异常；并非仅因哭泣表情而判错。画面左手放大后可见多余指状末端。安全带中间长条的固定方式不清，另记不确定。"
+    },
+    {
+      "case_id": "A029",
+      "image_id": "flickr-ffhq-50758",
+      "seed": 65537,
+      "prompt": "A horizontal playful portrait of a boy with short spiky light brown hair, facing the camera and sticking out his tongue. He raises both open hands beside his ears with the fingers spread. He wears a white button-down shirt with the cuffs open and a dark red patterned tie. Frame his head, shoulders and bent arms from slightly above, against a simple sunlit green lawn, keeping the face and fingers clearly visible.",
+      "regions": [
+        {
+          "region_id": "right_hand",
+          "label": "画面右手",
+          "box": [
+            670,
+            235,
+            1024,
+            685
+          ],
+          "finding": "画面右侧掌面缺少一根手指",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "男孩吐舌并在耳旁张开双手。画面右侧掌面基本完整，却仅出现三根竖起的手指和一根拇指，掌外侧没有可解释缺少手指的遮挡，构成明显缺指问题。画面左手可见五指。吐舌本身不作为错误。"
+    },
+    {
+      "case_id": "A030",
+      "image_id": "flickr-ffhq-23505",
+      "seed": 42,
+      "prompt": "A horizontal stage photograph of a woman with short silver-gray hair, speaking with both hands lifted and fingers spread. She wears a black long-sleeved top patterned with large red and cream flowers, small earrings and a thin headset microphone along her cheek. Her body faces left and her mouth is open. Frame her head, shoulders and hands against vivid blurred pink and purple illuminated panels, under warm focused stage light.",
+      "regions": [
+        {
+          "region_id": "left_hand",
+          "label": "画面左手",
+          "box": [
+            35,
+            420,
+            295,
+            795
+          ],
+          "finding": "画面左手额外指状突起",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "right_hand",
+          "label": "画面右侧近景手",
+          "box": [
+            725,
+            385,
+            1024,
+            795
+          ],
+          "finding": "前景手的分叉、多余指状突起",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "灰发女子在彩色舞台前举双手。画面左手的并列手指之外又有额外独立突起，指根排列异常；右侧近景手也有混乱的分叉轮廓。前景虚化不单独判错，明确问题来自左手结构。耳边设备和线缆可解释为音频配件。"
+    },
+    {
+      "case_id": "A042",
+      "image_id": "flickr-ffhq-43713",
+      "seed": 42,
+      "prompt": "A horizontal close photograph of a brown-haired child looking directly at the camera with wide eyes and a serious closed-mouth expression. The child wears a bright pink sleeveless top with tied shoulder straps and yellow stitching, and a pink wristband. Both arms are raised, holding a thick silver metal chain above the forehead between vertical posts. Direct flash brightens the face, hands and chain against a dark indoor background, with the upper arms partly cropped.",
+      "regions": [
+        {
+          "region_id": "chain",
+          "label": "头顶链节与握持连接",
+          "box": [
+            250,
+            0,
+            770,
+            285
+          ],
+          "finding": "头顶链节的扁平断端与融合",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "女孩举手握住头顶金属链，眼睛偏大、色彩饱和，风格化本身不作为畸形。可见手指可以由握持与遮挡解释。链条放大后出现断开的扁平末端及不连续的链节轮廓，若干相交处似熔合而非正常套环，记录为物体结构问题。"
+    },
+    {
+      "case_id": "A043",
+      "image_id": "flickr-ffhq-23465",
+      "seed": 42,
+      "prompt": "A horizontal outdoor photograph of a young boy with closely cropped dark hair and dusty marks on his cheeks. He squints toward the camera with a small tight-lipped smile, wearing a gray zip-neck jacket with red stripes and embroidered red letters. Another child's pink sleeveless top and arm are cropped at the right, with a hand near his shoulder. Strong sunlight lights the main face against a softly blurred pale patterned background.",
+      "regions": [
+        {
+          "region_id": "nose",
+          "label": "鼻尖、鼻翼连接",
+          "box": [
+            400,
+            375,
+            600,
+            520
+          ],
+          "finding": "鼻尖鼻翼扁平、鼻孔呈断开的短痕",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "前景男孩面上有红色污迹，另一儿童在画面右侧。污迹不作为生成错误，但前景男孩的鼻部明显扁平化，鼻尖、鼻翼和鼻孔的连续结构被抹掉，只剩不连贯短痕；记录为面部结构错误。"
+    },
+    {
+      "case_id": "A054",
+      "image_id": "flickr-ffhq-60230",
+      "seed": 42,
+      "prompt": "A horizontal sunlit photograph of a young boy with tousled medium-brown hair, smiling with his front teeth visible. He wears a white T-shirt and looks up toward the camera. Frame his head and shoulders beside an adult whose gray-green shirt, torso and hand are cropped along the right edge, with the hand resting near the boy's shoulder. Behind is a grassy sports field with bare trees and a low pale building.",
+      "regions": [
+        {
+          "region_id": "teeth",
+          "label": "牙列",
+          "box": [
+            430,
+            520,
+            650,
+            625
+          ],
+          "finding": "牙齿变成碎片状、不连贯的结构",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "男孩在草地前微笑，画面右侧另一人的手搭在其肩上。牙列内部呈密集交叉碎片状纹理，多个齿形糊连、方向杂乱，不像正常乳牙间隙，记录为面部错误。搭肩手的其余手指可由遮挡解释。"
+    },
+    {
+      "case_id": "A055",
+      "image_id": "flickr-ffhq-56966",
+      "seed": 262147,
+      "prompt": "A vertical photograph of a young girl with dark hair in a high ponytail and loose strands around her face. She wears a pink short-sleeved shirt with bold yellow stripes and holds up a slice of bread topped with corn, peas and carrot pieces using both hands. She looks toward the camera across a bright blue classroom table. A wooden chair, another blue table and pale cupboards fill the softly lit room behind.",
+      "regions": [
+        {
+          "region_id": "left_hand",
+          "label": "画面左下握面包手",
+          "box": [
+            150,
+            680,
+            430,
+            950
+          ],
+          "finding": "画面左下握面包的手指糊连",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "女孩在蓝色桌前握着放有蔬菜的面包。画面左手的手指呈粗长柱状并在下端糊连，指节与掌部边界异常；右手也存在指根粘连感。明确依据是手部形态和连接，而非蔬菜颜色饱和或人物风格化。"
+    },
+    {
+      "case_id": "A060",
+      "image_id": "flickr-ffhq-26913",
+      "seed": 1729,
+      "prompt": "A horizontal close photograph of a man with short black hair and rectangular brown glasses, playing a shiny brass trumpet with his eyes nearly closed. He wears a bright blue collared shirt. Both hands hold the instrument near the valves, while the mouthpiece rests against his lips and the tubing extends into the lower right foreground. Warm sunlight illuminates his face and fingers, with a blurred thatched roof and green stems behind.",
+      "regions": [
+        {
+          "region_id": "instrument",
+          "label": "乐器管路结构",
+          "box": [
+            40,
+            440,
+            1024,
+            845
+          ],
+          "finding": "乐器管路、吹口及按键的连接不合理",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "contact",
+          "label": "手指与金属接触",
+          "box": [
+            260,
+            485,
+            710,
+            790
+          ],
+          "finding": "手指与金属管件交界粘连",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ],
+      "original_visual_review": "戴眼镜男子持金色管乐器。面部可见区域无明确错误。乐器的横管、弯管和按键区出现重复交叉及不连贯的融合轮廓，画面左手上方的指端也与金属管件难以分离；记录物体结构和接触融合问题，完整手指数量因遮挡仍不确定。"
+    },
+    {
+      "case_id": "E001",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 524287,
+      "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+      "regions": [
+        {
+          "region_id": "left_hand",
+          "label": "画面左手",
+          "box": [
+            140,
+            0,
+            480,
+            350
+          ],
+          "finding": "画面左手六指",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "right_hand",
+          "label": "画面右手",
+          "box": [
+            580,
+            0,
+            875,
+            355
+          ],
+          "finding": "短指与掌面圆形结构（待确认）",
+          "status": "uncertain_reference"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E002",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 10007,
+      "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+      "regions": [
+        {
+          "region_id": "left_hand",
+          "label": "画面左手",
+          "box": [
+            70,
+            0,
+            370,
+            390
+          ],
+          "finding": "张开手掌缺少一根长指",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E003",
+      "image_id": "flickr-ffhq-06810",
+      "seed": 262147,
+      "prompt": "A vertical photograph looking slightly down at a young child with brown hair and thick bangs, smiling softly up at the camera. Both hands are raised beside the head, fingers touching the hair near the ears. The child wears a bright lime-green T-shirt with colorful cartoon figures, buttons and decorative lettering. Frame the head and torso against a patchy grassy and earthy ground, with warm natural light and flushed cheeks.",
+      "regions": [
+        {
+          "region_id": "right_hand",
+          "label": "画面右手",
+          "box": [
+            620,
+            0,
+            1024,
+            440
+          ],
+          "finding": "画面右手六指",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E007",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 104729,
+      "prompt": "A vertical photograph of a crying baby with fine reddish-blonde hair, seated in a bright blue padded seat printed with small colorful animals. The baby wears a pale long-sleeved outfit covered in tiny pink flowers, secured by green straps and a yellow plastic buckle. The mouth is open and eyes are narrowed in distress. Strong natural light casts uneven shadows across the face, with a small section of rough stone behind the seat.",
+      "regions": [
+        {
+          "region_id": "brow",
+          "label": "眉间、眼眉连接",
+          "box": [
+            320,
+            110,
+            790,
+            650
+          ],
+          "finding": "眉间指状分叉和眼眉连接异常",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E008",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 524287,
+      "prompt": "A vertical photograph of a crying baby with fine reddish-blonde hair, seated in a bright blue padded seat printed with small colorful animals. The baby wears a pale long-sleeved outfit covered in tiny pink flowers, secured by green straps and a yellow plastic buckle. The mouth is open and eyes are narrowed in distress. Strong natural light casts uneven shadows across the face, with a small section of rough stone behind the seat.",
+      "regions": [
+        {
+          "region_id": "brow",
+          "label": "眉间、眼眉连接",
+          "box": [
+            270,
+            150,
+            740,
+            730
+          ],
+          "finding": "眉间堆叠突起",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E009",
+      "image_id": "flickr-ffhq-53148",
+      "seed": 65537,
+      "prompt": "A vertical photograph of a crying baby with fine reddish-blonde hair, seated in a bright blue padded seat printed with small colorful animals. The baby wears a pale long-sleeved outfit covered in tiny pink flowers, secured by green straps and a yellow plastic buckle. The mouth is open and eyes are narrowed in distress. Strong natural light casts uneven shadows across the face, with a small section of rough stone behind the seat.",
+      "regions": [
+        {
+          "region_id": "brow",
+          "label": "眉间、眼眉连接",
+          "box": [
+            220,
+            130,
+            760,
+            740
+          ],
+          "finding": "眉间突起与眼眉连接异常",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E012",
+      "image_id": "flickr-ffhq-50758",
+      "seed": 104729,
+      "prompt": "A horizontal playful portrait of a boy with short spiky light brown hair, facing the camera and sticking out his tongue. He raises both open hands beside his ears with the fingers spread. He wears a white button-down shirt with the cuffs open and a dark red patterned tie. Frame his head, shoulders and bent arms from slightly above, against a simple sunlit green lawn, keeping the face and fingers clearly visible.",
+      "regions": [
+        {
+          "region_id": "left_hand",
+          "label": "画面左侧近景手",
+          "box": [
+            15,
+            420,
+            355,
+            700
+          ],
+          "finding": "近景左手额外指状分支",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "right_hand",
+          "label": "画面右侧近景手",
+          "box": [
+            675,
+            350,
+            975,
+            700
+          ],
+          "finding": "近景右手掌指连接和指根糊连",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "tongue",
+          "label": "口内舌部",
+          "box": [
+            410,
+            495,
+            600,
+            705
+          ],
+          "finding": "舌部中央沟与长度（待确认）",
+          "status": "uncertain_reference"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E013",
+      "image_id": "flickr-ffhq-23505",
+      "seed": 10007,
+      "prompt": "A horizontal stage photograph of a woman with short silver-gray hair, speaking with both hands lifted and fingers spread. She wears a black long-sleeved top patterned with large red and cream flowers, small earrings and a thin headset microphone along her cheek. Her body faces left and her mouth is open. Frame her head, shoulders and hands against vivid blurred pink and purple illuminated panels, under warm focused stage light.",
+      "regions": [
+        {
+          "region_id": "extra_arm",
+          "label": "第三只手与重复前臂",
+          "box": [
+            340,
+            650,
+            695,
+            975
+          ],
+          "finding": "第三只手与重复前臂",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "E014",
+      "image_id": "flickr-ffhq-23505",
+      "seed": 999983,
+      "prompt": "A horizontal stage photograph of a woman with short silver-gray hair, speaking with both hands lifted and fingers spread. She wears a black long-sleeved top patterned with large red and cream flowers, small earrings and a thin headset microphone along her cheek. Her body faces left and her mouth is open. Frame her head, shoulders and hands against vivid blurred pink and purple illuminated panels, under warm focused stage light.",
+      "regions": [
+        {
+          "region_id": "far_fingers",
+          "label": "画面左侧远手指端",
+          "box": [
+            95,
+            510,
+            295,
+            730
+          ],
+          "finding": "远侧手指末端分叉凸起",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    },
+    {
+      "case_id": "F003",
+      "image_id": "flickr-ffhq-11738",
+      "seed": 65537,
+      "prompt": "A vertical candid photograph of a bald man with short facial stubble speaking in front of a projected presentation. He wears a dark suit jacket, pale lavender shirt and a small white name badge. Both hands are raised at chest level with the fingers spread as he looks to the left. Frame his head and torso, with out-of-focus audience heads across the bottom and a bright projection of large pale lettering behind.",
+      "regions": [
+        {
+          "region_id": "right_hand",
+          "label": "画面右侧举起的手",
+          "box": [
+            680,
+            410,
+            940,
+            775
+          ],
+          "finding": "张开手掌的手指形态及掌指连接不合理。",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "diamond-heldout-v1-20261014/plan.json"
+      ]
+    },
+    {
+      "case_id": "F015",
+      "image_id": "piq23-s04-q75",
+      "seed": 1729,
+      "prompt": "A curly dark-haired man sits behind a wooden table, facing the camera in a navy blazer and an open-neck white shirt. His right hand is raised beside his face, palm forward with fingers spread, while his left hand rests flat on the table. His upper body occupies the center-right of the horizontal frame. Tall orange and purple glass bottles stand in the left foreground, a pale blue bottle is cut off at the right edge, and green foliage and a string of small lights cross the table. A black metal shelf, an OPEN sign and part of a dartboard appear against the pale wall behind him.",
+      "regions": [
+        {
+          "region_id": "raised_hand",
+          "label": "画面左侧举起的手",
+          "box": [
+            120,
+            195,
+            395,
+            530
+          ],
+          "finding": "抬手的手指数量、分界及指根连接异常。",
+          "status": "reviewed_error"
+        },
+        {
+          "region_id": "table_hand",
+          "label": "桌面上的手",
+          "box": [
+            530,
+            700,
+            750,
+            905
+          ],
+          "finding": "桌面手的指形与指根连接不合理。",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "diamond-heldout-v1-20261014/plan.json"
+      ]
+    },
+    {
+      "case_id": "F040",
+      "image_id": "flickr-ffhq-07194",
+      "seed": 104729,
+      "prompt": "A vertical candid photograph of a blonde toddler seated outdoors, looking toward the camera with a serious expression and the tip of the tongue showing. The child wears an olive-green zip jacket with gray fleece lining over a yellow patterned shirt. One hand holds a large irregular pale cereal-like snack while the other rests on a wooden surface. Frame the head and torso against softly blurred bare ground, scattered leaves and a distant bench.",
+      "regions": [
+        {
+          "region_id": "right_hand",
+          "label": "画面右侧放在木面上的手",
+          "box": [
+            705,
+            780,
+            965,
+            955
+          ],
+          "finding": "放在木面上的手指分界、连接及形态不合理。",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "diamond-heldout-v1-20261014/plan.json"
+      ]
+    },
+    {
+      "case_id": "R006",
+      "image_id": "flickr-ffhq-07577",
+      "seed": 524287,
+      "prompt": "A vertical photograph from above of a smiling young child with shoulder-length blonde hair and a small yellow flower clip. The child looks up directly toward the camera with bright eyes and a toothy smile, standing with arms at the sides. A knitted sleeveless top has black, brown and cream sections above yellow trousers with ruffled hems. Include the figure down to the feet against white wooden paneling and a pale shaggy rug in gentle indoor light.",
+      "regions": [
+        {
+          "region_id": "teeth",
+          "label": "牙齿",
+          "box": [
+            420,
+            345,
+            590,
+            430
+          ],
+          "finding": "牙齿呈不自然的窄条、重复与黏连。",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "random-audit-v1-20261015/plan.json"
+      ]
+    },
+    {
+      "case_id": "R009",
+      "image_id": "piq23-s00-q75",
+      "seed": 42,
+      "prompt": "A man with short brown hair and a beard sits beside a large window in a communal indoor seating area. He wears a loose gray-blue coat over dark clothing and raises his right hand toward the left side of the horizontal frame, palm outward. His other arm hangs down beside his leg. Pale wooden tables, high chairs and a small round potted plant fill the left background. The window runs down the right side, revealing trees and a tall modern building. The wide composition includes the seated man, part of his legs and much of the room.",
+      "regions": [
+        {
+          "region_id": "raised_hand",
+          "label": "画面左侧抬起的手",
+          "box": [
+            300,
+            455,
+            450,
+            650
+          ],
+          "finding": "抬手的掌指比例、手指连接不自然。",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "random-audit-v1-20261015/plan.json"
+      ]
+    },
+    {
+      "case_id": "S021",
+      "image_id": "flickr-ffhq-11738",
+      "seed": 262147,
+      "prompt": "A vertical candid photograph of a bald man with short facial stubble speaking in front of a projected presentation. He wears a dark suit jacket, pale lavender shirt and a small white name badge. Both hands are raised at chest level with the fingers spread as he looks to the left. Frame his head and torso, with out-of-focus audience heads across the bottom and a bright projection of large pale lettering behind.",
+      "regions": [
+        {
+          "region_id": "extra_arm",
+          "label": "胸前多余手与前臂",
+          "box": [
+            395,
+            650,
+            835,
+            985
+          ],
+          "finding": "胸前多余手与前臂",
+          "status": "reviewed_error"
+        }
+      ],
+      "sources": [
+        "semantic-adaptive-v2-20261014/regions.json"
+      ]
+    }
+  ],
+  "case_count": 26,
+  "prompt_count": 16,
+  "region_count": 33,
+  "reviewed_error_regions": 31,
+  "steps": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "resolution": 1024,
+  "model": "Sana-0.6B",
+  "cfg": 4.5,
+  "source": "Original frozen 300 x 8 baseline only; no repaired trajectories.",
+  "scope": "All known problem cases in the prior 20-case semantic review, 11-error initial visual review, three heldout repair cases and two random-audit repair targets; not every detector-flagged image in all 2400 trajectories.",
+  "generation": false,
+  "repair": false,
+  "training": false,
+  "latent_definition": "Panel s is VAE(xt_s), the latent AFTER s completed solver updates.",
+  "prediction_definition": "Panel s is VAE(x0_s), predicted clean latent from model evaluation s, computed using xt_(s-1). It is a current estimate, not a rollout to step 20.",
+  "pairing_note": "The two panels share the one-based solver update index but depict post-update state versus that update's predicted-clean estimate. At step 20 they coincide in this stored scheduler.",
+  "crop_definition": "Fixed 1024px-coordinate rectangles from prior visual error review, reused unchanged at all 20 steps. Not an online detector mask or a tracked anatomical region.",
+  "appearance": "Identical native VAE scaling/postprocessing at all steps; no per-frame contrast normalization, denoising, sharpening or repair.",
+  "source_sha256": {
+    "semantic-adaptive-v2-20261014/regions.json": "98c6de86007ee1b825a4c0a0b6d70548bf65f3a86e0368b30b2f48c888b48c9a",
+    "feasibility-v2-20261013/vlm-review/annotations.json": "aaacb82e9389124bf97ae6868a70aec58c03b5105fbacaec198c3d14ad29c544",
+    "diamond-heldout-v1-20261014/plan.json": "29ba96da2f88e41d260bf3d28f6e1da936b9b51ec6e349f539a69d6f68da0a43",
+    "random-audit-v1-20261015/plan.json": "9e028003ea9ad9272cb5522d00a71b1d3d4fc28dcf8dec3ad654f9e3248b1bc8"
+  }
+}
